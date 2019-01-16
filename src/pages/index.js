@@ -1,8 +1,17 @@
 import React from 'react'
 import Layout from '../components/Layout'
 import { Fragment } from 'react';
+import { GoogleApiWrapper, Marker } from 'google-maps-react';
 
-export default class IndexPage extends React.Component {
+import CurrentLocation from '../components/Maps';
+class IndexPage extends React.Component {
+
+  state = {
+    showingInfoWindow: false,
+    activeMarker: {},
+    selectedPlace: {}
+  };
+
   render() {
 
     return (
@@ -92,17 +101,21 @@ export default class IndexPage extends React.Component {
                     </div>
                   </div>
                 </div>
-
-                <h1 className="has-text-weight-bold is-size-2">
-                  Latest Stories</h1>
-
               </div>
-              Random text
+            </div>
+            <div>
+              <CurrentLocation centerAroundCurrentLocation google={this.props.google}>
+                <Marker name={'Kenyatta International Convention Centre'} />
 
-              </div>
+              </CurrentLocation>
+            </div>
           </section>
         </Layout>
       </Fragment>
     )
   }
 }
+
+export default GoogleApiWrapper({
+  apiKey: 'AIzaSyDqsni7qoN4OksOUGRW0eZtDgLx6qwOYKI'
+})(IndexPage);
