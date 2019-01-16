@@ -29,8 +29,8 @@ export class CurrentLocation extends React.Component {
                 navigator.geolocation.getCurrentPosition(pos => {
                     this.setState({
                         currentLocation: {
-                            lat: '59.336539',
-                            lng: '18.066126'
+                            lat: this.state.currentLocation.lat,
+                            lng: this.state.currentLocation.lng
                         }
                     });
                 });
@@ -60,8 +60,8 @@ export class CurrentLocation extends React.Component {
             const node = ReactDOM.findDOMNode(mapRef);
 
             // const { lat, lng } = this.state.currentLocation;
-            const lat = '59.336539';
-            const lng = '18.066126';
+            const lat = this.state.currentLocation.lat;
+            const lng = this.state.currentLocation.lng;
             const center = new maps.LatLng(lat, lng);
             const mapConfig = Object.assign(
                 {},
@@ -121,8 +121,8 @@ export default CurrentLocation;
 CurrentLocation.defaultProps = {
     zoom: 14,
     initialCenter: {
-        lat: -1.2884,
-        lng: 36.8233
+        lat: 59.336539,
+        lng: 18.066126
     },
     centerAroundCurrentLocation: false,
     visible: true

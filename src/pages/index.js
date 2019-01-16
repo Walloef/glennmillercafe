@@ -16,13 +16,12 @@ class IndexPage extends React.Component {
 
     return (
       <Fragment>
-        <p>hejsan</p>
         <Layout>
           <section className="section section--gradient">
 
             <div className="container">
 
-              <div className="section">
+              <div className="section" style={{ paddingBottom: 0 }}>
                 <div className="columns">
                   <div className="column is-10 is-offset-1">
                     <div className="content">
@@ -95,7 +94,8 @@ class IndexPage extends React.Component {
                         backgroundImage: 'url(https://via.placeholder.com/450)',
                         backgroundSize: 'cover',
                         backgroundPosition: 'center center',
-                        backgroundAttachment: 'fixed'
+                        backgroundAttachment: 'fixed',
+                        marginBottom: 0
                       }}>
                       </div>
                     </div>
