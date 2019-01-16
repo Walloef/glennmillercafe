@@ -1,79 +1,108 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import { Fragment } from 'react';
 
 export default class IndexPage extends React.Component {
   render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <Layout>
-        <section className="section">
-          <div className="container">
-            <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-            </div>
-            {posts
-              .map(({ node: post }) => (
-                <div
-                  className="content"
-                  style={{ border: '1px solid #333', padding: '2em 4em' }}
-                  key={post.id}
-                >
-                  <p>
-                    <Link className="has-text-primary" to={post.fields.slug}>
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <small>{post.frontmatter.date}</small>
-                  </p>
-                  <p>
-                    {post.excerpt}
-                    <br />
-                    <br />
-                    <Link className="button is-small" to={post.fields.slug}>
-                      Keep Reading →
-                    </Link>
-                  </p>
+      <Fragment>
+        <p>hejsan</p>
+        <Layout>
+          <section className="section section--gradient">
+
+            <div className="container">
+
+              <div className="section">
+                <div className="columns">
+                  <div className="column is-10 is-offset-1">
+                    <div className="content">
+                      <div className="full-width-image-container margin-top-0" style={{
+                        backgroundImage: 'url(https://via.placeholder.com/450)',
+                        backgroundSize: 'cover',
+                        backgroundPosition: 'center center'
+                      }}>
+                        <h2 className="has-text-weight-bold is-size-1" >Glenn Miller Café</h2></div>
+                    </div>
+                    <div className="columns">
+                      <div className="column is-7">
+                        <h3 className="has-text-weight-semibold is-size-2">Hejsan</h3>
+                        <p>lorem sadlasdöasdlök asöldk saöldk aöllorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                        lorem sadlasdöasdlök asöldk saöldk aöl
+                      </p>
+                      </div>
+
+                      <div className="column is-7"
+                        style={{
+                          backgroundImage: 'url(https://via.placeholder.com/450)',
+                          backgroundSize: 'cover',
+                          backgroundPosition: 'center'
+                        }}
+                      >
+
+                      </div>
+
+                    </div>
+                    <div className="columns" style={{ padding: '60px 0 30px 0' }}>
+                      <div className="message"
+                        style={{
+                          width: '500px',
+                          margin: '0 auto',
+                          textAlign: 'center'
+                        }}
+                      >
+                        <div className="message-body"
+                          style={{
+                            borderWidth: '4px'
+                          }}>
+                          <h3 className="has-text-weight-semibold is-size-2">
+                            Info i korthet
+                        </h3>
+                          <b>
+                            Fredagar
+                          </b>
+                          <p>16.30-18.00</p>
+                          <b>Onsdag-söndag</b>
+                          <p>18.00-01.00</p>
+                          <b>Bordsbokning</b>
+                          <p>0768824549/08-100322</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="content">
+                      <div className="full-width-image-container margin-top-0" style={{
+                        backgroundImage: 'url(https://via.placeholder.com/450)',
+                        backgroundSize: 'cover',
+                        backgroundPosition: 'center center',
+                        backgroundAttachment: 'fixed'
+                      }}>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-              ))}
-          </div>
-        </section>
-      </Layout>
+
+                <h1 className="has-text-weight-bold is-size-2">
+                  Latest Stories</h1>
+
+              </div>
+              Random text
+
+              </div>
+          </section>
+        </Layout>
+      </Fragment>
     )
   }
 }
-
-IndexPage.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  }),
-}
-
-export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
-    ) {
-      edges {
-        node {
-          excerpt(pruneLength: 400)
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            templateKey
-            date(formatString: "MMMM DD, YYYY")
-          }
-        }
-      }
-    }
-  }
-`
