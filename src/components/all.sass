@@ -9,6 +9,7 @@ $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 
+
 .navbar .navbar-menu
   box-shadow:none !important
 
@@ -45,3 +46,22 @@ $body-color: #333
   margin-top: 0 !important
 
 @import "~bulma"
+
+
+.column.is-11 .content
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: space-between 
+  p
+    width: 40%
+    @media (max-width: 750px)
+      display: none
+  table
+    width: calc(50% - 12px)
+    text-align: left
+    @media (max-width: 750px)
+      width: 100%
+    thead
+      background: red
+    

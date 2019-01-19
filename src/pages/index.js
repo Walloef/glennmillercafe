@@ -20,7 +20,10 @@ class IndexPage extends React.Component {
     return (
       <Fragment>
         <Layout>
-          <section className="section section--gradient">
+          <section className="section section--gradient"
+            style={{
+              padding: '0 1.5rem'
+            }}>
 
             <div className="container">
 
@@ -92,7 +95,9 @@ class IndexPage extends React.Component {
                     </div>
                     <div className="columns"
                       style={{
-                        padding: '80px 0'
+                        padding: '80px 0',
+                        display: 'flex',
+                        alignItems: 'center'
                       }}>
                       <div className="column is-7">
                         <p>
@@ -105,7 +110,8 @@ class IndexPage extends React.Component {
                         style={{
                           backgroundImage: `url(${sax})`,
                           backgroundSize: 'cover',
-                          backgroundPosition: 'center'
+                          backgroundPosition: 'center',
+                          minHeight: '400px'
                         }}
                       >
 

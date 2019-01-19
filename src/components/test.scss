@@ -1,0 +1,25 @@
+tbody tr {
+    &:nth-child(odd) {
+        background: #f8f6f6;
+    }
+
+}
+
+tbody {
+    strong {
+        display: block
+    }
+    img {
+        display: none;
+    }
+}
+
+th {
+    font-size: 2rem;
+}
+
+.lunch {
+    h2, p {
+        width: 100% !important;
+    }
+}
