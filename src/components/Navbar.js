@@ -52,9 +52,19 @@ const Navbar = class extends React.Component {
         </Link>
               <Link
                 activeStyle={{ fontWeight: 'bold' }}
+                className="navbar-item" to="/lunchmeny">
+                Lunchmeny
+        </Link>
+              <Link
+                activeStyle={{ fontWeight: 'bold' }}
+                className="navbar-item" to="/konsert">
+                Konserter
+        </Link>
+              {/* <Link
+                activeStyle={{ fontWeight: 'bold' }}
                 className="navbar-item" to="/about">
                 Om Glenn Miller Café
-        </Link>
+        </Link> */}
 
 
             </div>

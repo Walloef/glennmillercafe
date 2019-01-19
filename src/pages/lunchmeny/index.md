@@ -1,6 +1,6 @@
 ---
-templateKey: meny-page
-title: Meny
+templateKey: lunchmeny-page
+title: Lunch Meny
 ---
 | Desert                        |
 | ------------------------------------ | ------ |
