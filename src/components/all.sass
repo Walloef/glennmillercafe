@@ -10,9 +10,15 @@ $primary-invert: $kaldi-red-invert
 $body-color: #333
 
 
+.title,
+strong,
+h2
+  color: white !important
+
 body,
 html
   background-color: #171734 !important
+  color: white !important
 
 .is-size-4 
   margin-top: 12px
@@ -33,11 +39,24 @@ a.navbar-item
 .navbar .navbar-menu
   box-shadow:none !important
   &.is-active
-    @media screen and (max-width: 1087px)
-      display: block
+    @media screen and (max-width: 1088px)
+      background: #171535
+      display: flex
       position: absolute
-      width: 100%
+      width: calc(100% + 24px)
+      box-shadow: 2px 2px 2px black !important
+      left: 0
 
+      .navbar-start
+        display: flex
+        flex-direction: column
+
+.navbar-item:hover
+  background: none !important
+  color: rgba(white, .8) !important
+
+.navbar-burger
+  color: white !important
 
 .content .taglist
   list-style: none

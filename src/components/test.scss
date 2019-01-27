@@ -1,6 +1,7 @@
 tbody tr {
     &:nth-child(odd) {
-        background: #f8f6f6;
+        background: #232143;
+        box-shadow: 0 0 5px black;
     }
 
 }
@@ -16,6 +17,10 @@ tbody {
 
 th {
     font-size: 2rem;
+}
+
+td {
+    padding: 6px 12px;
 }
 
 .lunch {
