@@ -1,0 +1,106 @@
+.link-block {
+    position: relative;
+    width: 250px;
+    height: 300px;
+    margin: 0px 12px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+
+    &__wrapper {
+        display: flex;
+        justify-content: center;
+
+        @media screen and (max-width: 620px) {
+            display: none;
+        }
+    }
+
+    h2 {
+        position: absolute;
+        bottom: 8px;
+        left: 12px;
+        padding: 0 10px;
+        color: white;
+        font-family: 'Marck Script', cursive;
+        font-weight: bold;
+        font-size: 50px;
+        text-shadow: 0 0 3px rgba(0, 0, 0, .3);
+
+        @media screen and (max-width: 800px) {
+            font-size: 35px;
+        }
+    }
+}
+
+  
+.scroll {
+width: 100%;
+white-space: nowrap;
+overflow-x: auto;
+-webkit-overflow-scrolling: touch;
+-ms-overflow-style: -ms-autohiding-scrollbar;
+
+    &::-webkit-scrollbar {
+        display: none; 
+    }
+}
+
+
+.nav-item,
+.vertical-align-middle,
+.mobile-slide-item{
+    vertical-align: middle;
+    margin-bottom: 60px;
+    display: none;
+
+        @media screen and (max-width: 620px) {
+            display: inline-block;
+        }
+        
+}
+
+.mobile-slide-item {
+    position: relative;
+    width: 250px;
+    height: 300px;
+    margin: 0 30px;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    @media screen and (max-width: 415px) {
+        width: 66%;
+        margin: 0 10px;
+    }
+
+    h2 {
+        position: absolute;
+        bottom: 8px;
+        left: 12px;
+        padding: 0 10px;
+        color: white;
+        font-family: 'Marck Script', cursive;
+        font-weight: bold;
+        font-size: 35px;
+        text-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+        @media screen and (max-width: 350px) {
+            font-size: 30px;
+        }
+    }
+
+    &:first-child {
+        margin-left: 60px;
+        @media screen and (max-width: 415px) {
+            margin-left: 10px;
+        }
+    }
+
+    &:last-child {
+        margin-right: 60px;
+        @media screen and (max-width: 415px) {
+            margin-left: 10px;
+        }
+    }
+}
+  

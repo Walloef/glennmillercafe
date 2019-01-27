@@ -34,13 +34,14 @@
             transform: translate(50%, -6px);
             width: 80%;
             border-right: 1px solid #363272;
+            padding: 0;
         }
         @media screen and (max-width: 500px) {
             right: 0;
             width: 100%;
             border-left: none;
             border-right: none;
-            transform: translateY(-6px);
+            transform: translateY(-6px); 
         }
         h2 {
             font-weight: bold;

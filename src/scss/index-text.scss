@@ -4,13 +4,31 @@
     max-width: 800px;
     align-items: center;
     margin: 0 auto 40px;
+    
+    @media screen and (max-width: 830px) {
+        flex-direction: column;
+    }
 
     p {
-        padding-right: 30px; 
+        padding-right: 30px;
+        @media screen and (max-width: 830px) {
+            order: 2;
+            padding-left: 30px;
+            max-width: 600px;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center; 
+        }
     }
 
     img {
         box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
         max-width: 400px;
+        width: 100%;
+
+        @media screen and (max-width: 830px) {
+            order: 1;
+            margin-bottom: 35px;
+        }
     }
 }
