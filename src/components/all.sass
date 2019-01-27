@@ -10,8 +10,34 @@ $primary-invert: $kaldi-red-invert
 $body-color: #333
 
 
+body,
+html
+  background-color: #171734 !important
+
+.is-size-4 
+  margin-top: 12px
+
+a.navbar-item
+  cursor: pointer
+  color: white
+
+.navbar
+  max-width: calc(100% - 24px)
+  background-color: transparent !important
+
+.navbar-start
+  width: 100%
+  display: flex
+  justify-content: flex-end
+
 .navbar .navbar-menu
   box-shadow:none !important
+  &.is-active
+    @media screen and (max-width: 1087px)
+      display: block
+      position: absolute
+      width: 100%
+
 
 .content .taglist
   list-style: none

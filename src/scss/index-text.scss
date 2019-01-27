@@ -1,0 +1,16 @@
+.index-text__wrapper {
+    display: flex;
+    color: white;
+    max-width: 800px;
+    align-items: center;
+    margin: 0 auto 40px;
+
+    p {
+        padding-right: 30px; 
+    }
+
+    img {
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+        max-width: 400px;
+    }
+}
