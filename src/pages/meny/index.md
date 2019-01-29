@@ -8,6 +8,12 @@ title: Meny
 | **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
 | **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
 
+| Förrätter/Starters                                                          |       |
+| --------------------------------------------------------------------------- | ----- |
+| **Kantarellsoppa** med portvin, grädde, parmesan & krutonger                | 125:- |
+| **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
+| **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
+
 ![](/img/received_774925762861507.jpeg)
 
 | Varmrätter/Mains                                                                                              |       |
@@ -42,3 +48,5 @@ title: Meny
 | **Kaffe**                                                       | 25:-    |
 | **Espresso**                                                    | 30/40:- |
 | **Till desserten** Sauternes                                    | 24:- cl |
+
+Vid hög belastning kan maten bli fördröjd
