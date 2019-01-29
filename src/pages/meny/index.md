@@ -41,7 +41,7 @@ title: Meny
 | **Belgisk Chokladtårta** med pastismarinerade körsbär & grädde| 85:- |
 | **Kaffe** | 25:- |
 | **Espresso** | 30/40:-  |
-| **Till desserten ** Sauternes  | 24:- cl |
+| **Till desserten** Sauternes  | 24:- cl |
 
 
 
