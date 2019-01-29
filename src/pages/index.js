@@ -38,21 +38,30 @@ class IndexPage extends React.Component {
             </div>
           </div>
           <div className="quick-info">
-            <h3>Bordsbokning</h3>
-            <b>Ring</b>
-            <p>0768824549 eller 08-100322</p>
-            <hr />
-            <h3>Öppettider</h3>
-            <b>onsdag-söndag</b>
-            <p>18-01</p>
-            <p className="small">Stängt måndag - tisdag</p>
-            <hr />
-            <h3>Address</h3>
-            <p>Brunnsgatan 21A  11138 Stockholm</p>
-            <hr />
-            <h3>Lunchöppet</h3>
-            <b>onsdag-fredag</b>
-            <p>11–14</p>
+            <div>
+              <h3>Bordsbokning</h3>
+              <b>Ring</b>
+              <p>0768824549</p>
+              <p>08-100322</p>
+            </div>
+            {/* <hr /> */}
+            <div>
+              <h3>Öppettider</h3>
+              <b>onsdag-söndag</b>
+              <p>18-01</p>
+              <p className="small">Stängt måndag - tisdag</p>
+            </div>
+            {/* <hr /> */}
+            <div>
+              <h3>Address</h3>
+              <p>Brunnsgatan 21A  11138 Stockholm</p>
+            </div>
+            {/* <hr /> */}
+            <div>
+              <h3>Lunchöppet</h3>
+              <b>onsdag-fredag</b>
+              <p>11–14</p>
+            </div>
           </div>
           <div className="index-text__wrapper">
             <p>Glenn Miller Café är en världskänd lite jazzclub och restaurant i hjärtat av Stockholm. Vi har livejazzkonserter alla kvällar vi har öppet, onsdag-söndag. Restauranten öppnar kl 18 och konserterna börjar kl 20/ kl 20.30 på fredag och lördag. Menyn är franskinspirerad med musslor som vår specialitet. Här spelar de stora musikerna på den lilla scenen - och du sitter alldeles där!</p>
