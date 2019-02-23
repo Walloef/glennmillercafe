@@ -27,8 +27,28 @@ class IndexPage extends React.Component {
 
     return (
       <Fragment>
-        <Layout>
-          <div className="hero__wrapper">
+        <div style={{
+          textAlign: 'center'
+        }}>
+          <h1 style={{
+            fontSize: '2rem',
+            maxWidth: '500px',
+            margin: '0 auto'
+          }}
+          >Glenn Miller Cafés nya sida är under uppbyggnad</h1>
+          <p>Besök
+            <a href="http://www.glennmillerprogram.se/"
+              style={{
+                color: '#fdea4e',
+                textDecoration: 'underline',
+                marginLeft: '5px'
+              }}>
+              glennmillerprogram
+            </a> för information om Glenn Miller Café
+          </p>
+        </div>
+        {/* <Layout> */}
+        {/* <div className="hero__wrapper">
             <div className="hero__image">
               <img src={heroImage} alt="Glenn Miller Café Resturang" />
               <div className="hero__text">
@@ -44,19 +64,16 @@ class IndexPage extends React.Component {
               <p>0768824549</p>
               <p>08-100322</p>
             </div>
-            {/* <hr /> */}
             <div>
               <h3>Öppettider</h3>
               <b>onsdag-söndag</b>
               <p>18-01</p>
               <p className="small">Stängt måndag - tisdag</p>
             </div>
-            {/* <hr /> */}
             <div>
               <h3>Address</h3>
               <p>Brunnsgatan 21A  11138 Stockholm</p>
             </div>
-            {/* <hr /> */}
             <div>
               <h3>Lunchöppet</h3>
               <b>onsdag-fredag</b>
@@ -68,7 +85,6 @@ class IndexPage extends React.Component {
             <img src={`${sax}`} alt="saxofon" />
           </div>
           <div className="link-block__wrapper">
-            {/* <Link to="/" className="navbar-item" title="Logo"> */}
             <Link to="/lunchmeny" className="link-block"
               style={{ background: `url(${lunch})` }}>
 
@@ -98,16 +114,16 @@ class IndexPage extends React.Component {
             </Link>
 
 
-          </div>
-          {/* 
+          </div> */}
+        {/* 
               GOOGLE MAPS DONT REMOVE!!
               <CurrentLocation centerAroundCurrentLocation google={this.props.google}>
                 <Marker name={'Kenyatta International Convention Centre'} />
 
               </CurrentLocation> */}
-          {/* </div>
+        {/* </div>
           </section> */}
-        </Layout>
+        {/* </Layout> */}
       </Fragment >
     )
   }
