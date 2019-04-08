@@ -2,13 +2,17 @@
 templateKey: konsert-page
 title: Konserter
 ---
+
+
+
+
 | Konserter i februari                      |Datum|
 | ------------------------------------ | ------ |
 |Mikael Augustsson bandoneon, Johan Graden p, Kasper Agnas g, Christopher Cantillo dr                      | Fr 01 |
 | Filip Ekestibbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                        | Sön 03 |
 | Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson Werre dr                        | On 06 |
 | To be announced                   | To 07 |
-| Mikael Jansson voc, Jenne Betnlöv trp/flh, Daniel Lantz p,                          | Fr 08 |
+| Mikael Jansson voc, Jonne Betnlöv trp/flh, Daniel Lantz p,                          | Fr 08 |
 | Jonny Wartel sax, Mattias Windemo g, Georgia Wartel b, Andreas Wartel dr                           | Lö 09 |
 | Ernryd-Lindskog kvartett: Bengt Ernryd trp/flh, Ola Bengtsson g, Hans Larsson,b/voc, Hans Lindskog dr                         | Sö 10 |                                          | Pastor Ellman kornett, Lasse Olofsson trb, Lars Örback p, Ivar Lindell b, Mats Jadin dr                           | On 13 |
 | ”Tess & Beths” duets: Tessan Milveden voc, Berit Andersson voc, Stefan Isaksson sax, Göran Strandberg p,    Ivar Lindell b, Bo Söderberg dr                          | To 14 |
