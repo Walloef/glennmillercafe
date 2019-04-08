@@ -12,7 +12,7 @@ title: Meny
 
 | Förrätter/Starters                                                          |       |
 | --------------------------------------------------------------------------- | ----- |
-| **Kantarellsoppa** med portvin, grädde, parmesan & krutonger                | 125:- |
+| **Dagens soppa**                                                            | 85:-  |
 | **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
 | **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
 
@@ -22,7 +22,8 @@ title: Meny
 | ------------------------------------------------------------------------------------------------------------- | ----- |
 | **Confit de Canard** Confiterat anklår med inkokt fänkål, päron, potatis med Roquefort sås..                  | 245:- |
 | **GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille....                                      | 235:- |
-| **Lapin aux olives et prunes** Kanin med oliver & plommon serveras med pommes fondantes                       | 255:- |
+| **Entrecôte med frites, dijon,**  bbq-sås, smör toppad med persillade...                                   | 329:- |
+| **Lammracks med grillad rotselleri**  serveras med rostade tomater, chèvrecréme, tomatpesto...              | 310:- |
 | **Ugnstekta grönsaker med tomat & chèvre**  Aubergine, potatis, zucchini, fänkål, kikärtor & vitlök mm        | 215:- |
 | **Choucroute Garnie** Surkål från Alsace kokt i vin o ankfett, Morteau, Frankfurter, rökt sidfläsk o Dijon... | 235:- |
 | **Salade Campagne (Veg/bacon)**  sallad, potatis, tomat, rödlök, paprika, ägg, chèvre                         | 195:- |
