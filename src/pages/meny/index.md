@@ -29,17 +29,17 @@ title: Meny
 | **Salade Campagne (Veg/bacon)**  sallad, potatis, tomat, rödlök, paprika, ägg, chèvre                         | 195:- |
 | **Salade Campagne (Vegan)** sallad, potatis, tomat, rödlök, paprika, sparris, bönor..                         | 195:- |
 
-| Les Moules Frites                                                                                                               |       |
-| ------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| _Alla musslor serveras med frites (alt sallad) och aioli_                                                                       |       |
-| **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                                     | 225:- |
-| **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon..                                            | 235:- |
-| **À la Belge** Ångade blåmusslor i öl, échalôte, vitlök, silverlök, lagerblad, selleri, tabasco..                               | 245:- |
-| **Aiguillon** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon, persilja,bacon, dijon..                               | 245:- |
-| **Chili (hot)** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, chorizo, tomat, paprika, chili, portvin, grädde..       | 255:- |
-| **Roquefort** Ångade blåmusslor i vitt vin, échalôte, grädde, vitlök, rosmarin, lime, roquefort..                               | 245:- |
-| **Moules Chèvre** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, grädde, chèvre...                                     | 235:- |
-| **Moules Pastis flambé** Ångade blåmusslor i vitt vin, échalôte, lagerblad, vitlök, fänkål, grädde, tomat, selleri och pastis.. | 245:- |
+| Les Moules Frites                                                                                                         |       |
+| ------------------------------------------------------------------------------------------------------------------------- | ----- |
+| _Alla musslor serveras med frites (alt sallad) och aioli_                                                                 |       |
+| **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:- |
+| **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon..                                      | 235:- |
+| **À la Belge** Ångade blåmusslor i öl, échalôte, vitlök, silverlök, lagerblad, selleri, tabasco..                         | 245:- |
+| **Aiguillon** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon, persilja,bacon, dijon..                         | 245:- |
+| **Chili (hot)** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, chorizo, tomat, paprika, chili, portvin, grädde.. | 255:- |
+| **Roquefort** Ångade blåmusslor i vitt vin, échalôte, grädde, vitlök, rosmarin, lime, roquefort..                         | 245:- |
+| **Moules Chèvre** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, grädde, chèvre...                               | 235:- |
+|                                                                                                                           |       |
 
 | Desserter/Desserts                                              |         |
 | --------------------------------------------------------------- | ------- |
