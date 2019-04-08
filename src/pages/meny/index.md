@@ -2,19 +2,19 @@
 templateKey: meny-page
 title: Meny
 ---
-| Före maten?!                                                                 |        |
-| --------------------------------------------------------------------------- |----- |
-| **Pastis**                                                                   | 125:-  |
-| **Dry martini**                                                              | 115:-  |
-| **GT**                                                                       | 115:-  |
-| **Champagne flaska 75cl**                                                    | 585:-  |
-| _eller se drinklista_                                                          |        |
+| Före maten?!              |       |
+| ------------------------- | ----- |
+| **Pastis**                | 125:- |
+| **Dry martini**           | 335:- |
+| **GT**                    | 115:- |
+| **Champagne flaska 75cl** | 585:- |
+| _eller se drinklista_     |       |
 
-| Förrätter/Starters                                                           |       |
-| ------------------------------------------------------------------- | ----- |
-| **Kantarellsoppa** med portvin, grädde, parmesan & krutonger                 | 125:-  |
-| **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter  | 115:-  |
-| **Assiette charcuterie** Husets rillette, charkuterier, cornichons..         | 155:-  |
+| Förrätter/Starters                                                          |       |
+| --------------------------------------------------------------------------- | ----- |
+| **Kantarellsoppa** med portvin, grädde, parmesan & krutonger                | 125:- |
+| **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
+| **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
 
 ![](/img/received_774925762861507.jpeg)
 
