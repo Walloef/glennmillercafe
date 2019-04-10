@@ -24,4 +24,4 @@ title: Konserter
 |Thomas Backman reeds, Daniel Ögren g, Emanuel Lundgren elektronik, Josefin Runsteen dr                          | Lö 27 |
 | Nils Berg sax, Lisen Rylander Löve sax, Susana Santos Silva trp, Josef Kallerdahl b                        | Sö 28 |
 | Konserrter i Maj                          | |
-| Brad Henkel trp, John Holmström p, Alfred Lorinius b, Martin Perret dr                           | To 28 |
+|                   | |
