@@ -6,15 +6,15 @@ title: Konserter
 
 
 
-| Konserter i februari                      |Datum|
+| Konserter i april                     |Datum|
 | ------------------------------------ | ------ |
-|Mikael Augustsson bandoneon, Johan Graden p, Kasper Agnas g, Christopher Cantillo dr                      | Fr 01 |
-| Filip Ekestibbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                        | Sön 03 |
-| Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson Werre dr                        | On 06 |
-| To be announced                   | To 07 |
-| Mikael Jansson voc, Jonne Betnlöv trp/flh, Daniel Lantz p,                          | Fr 08 |
-| Jonny Wartel sax, Mattias Windemo g, Georgia Wartel b, Andreas Wartel dr                           | Lö 09 |
-| Ernryd-Lindskog kvartett: Bengt Ernryd trp/flh, Ola Bengtsson g, Hans Larsson,b/voc, Hans Lindskog dr                         | Sö 10 |                                          | Pastor Ellman kornett, Lasse Olofsson trb, Lars Örback p, Ivar Lindell b, Mats Jadin dr                           | On 13 |
+|Adrien Sanchez(F) sax, Gustav Lundgren g, Édouard Pennes(F) b, Moussa Fadera dr                       | On 10 |
+| Christian Herluf Pedersen sax, Fredrik Hermansson p, Pär-Ola Landin b, Chris Montgomery dr   	                       | To 11 |
+|Paul Jarret (F) g, Alexandre Perrot(F) b, Ariel Tessier (F) dr                        | Fr 12 |
+| Per Thornberg Quartet: Per Thornberg sax, Daniel Tilling p, Filip Augustson b, Bengt Stark dr                   | Lö 13 |
+|Staffan Bråsjö p	, Mauritz Agnas b, Andreas Pettersson dr                         | Sö 14 |
+| Stina Agustsdottir voc, Carl Mörner Ringström g, Samuel Löfdahl b, Jonathan Lundberg dr                          | On 17 |
+| Per ”Texas” Johansson sax/cl, Alexander Zethson p, Johan Berthling b, Johan Holmegard dr                         | To 18 |                                        |Petter Wettre Trio: Petter Wettre(N) sax, Niklas Ferenqvist b, Karl-Henrik Ousbäck dr                           | Fr 19 |
 | ”Tess & Beths” duets: Tessan Milveden voc, Berit Andersson voc, Stefan Isaksson sax, Göran Strandberg p,    Ivar Lindell b, Bo Söderberg dr                          | To 14 |
 | Johan Berke Upstairs Five: Örjan Hultén sax, Erik Söderlind g, Johan Berke g, Robert Erlandsson b,    Fredrik Rundqvist dr                           | Fr 15 |
 | South of the border: Fredrik Olsson g, Leo Lindberg  (F Rhodes), Lars Ekman b, Bosse Söderberg dr                          | Lö 16 |
