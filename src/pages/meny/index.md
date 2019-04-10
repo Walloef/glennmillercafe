@@ -5,7 +5,7 @@ title: Meny
 | Före maten?!              |       |
 | ------------------------- | ----- |
 | **Pastis**                | 125:- |
-| **Dry martini**           | 335:- |
+| **Dry martini**           | 115:- |
 | **GT**                    | 115:- |
 | **Champagne flaska 75cl** | 585:- |
 | _eller se drinklista_     |       |
