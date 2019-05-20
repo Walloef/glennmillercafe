@@ -10,6 +10,11 @@ export const MenyPageTemplate = ({ title, content, contentComponent }) => {
     return (
         <section className="section section--gradient">
             <div className="container">
+                <div className="background-depending-on-page">
+                    <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
+                        {title}
+                    </h2>
+                </div>
                 <div className="columns">
                     <div className="column is-12">
 
@@ -18,9 +23,7 @@ export const MenyPageTemplate = ({ title, content, contentComponent }) => {
 
                             <div className="columns">
                                 <div className="column is-11">
-                                    <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                                        {title}
-                                    </h2>
+
                                     <PageContent className="content" content={content} />
                                 </div>
 

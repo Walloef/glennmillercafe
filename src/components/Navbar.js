@@ -1,8 +1,15 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { Fragment } from 'react';
 import './../scss/menu.scss'
-const Navbar = class extends React.Component {
+import IssueReport from './IssueReport';
 
+const Navbar = class extends React.Component {
+  constructor(props) {
+    super(props);
+    this.setLang = this.setLang.bind(this);
+
+  }
   componentDidMount() {
     // Get all "navbar-burger" elements
     const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
@@ -24,54 +31,83 @@ const Navbar = class extends React.Component {
         });
       });
     }
+    const body = document.querySelector('body');
+
+    function removeClass() {
+      body.classList.forEach(activeClass => {
+        body.classList.remove(activeClass);
+      })
+    }
+    removeClass();
+    console.log(window.location.pathname === '/lunchmeny')
+    switch (window.location.pathname) {
+      case '/konsert':
+        removeClass()
+        body.classList.add('sv-konsert');
+        break;
+      case '/lunchmeny':
+        removeClass()
+        body.classList.add('sv-lunch');
+        break;
+      case '/meny':
+        removeClass()
+        body.classList.add('sv-meny');
+        break;
+      default:
+        removeClass();
+        break;
+
+    }
+  }
+
+  setLang(lang) {
+    localStorage.setItem('gmLang', lang);
+    window.location.replace('/')
   }
 
   render() {
+    const menu = localStorage.getItem('gmLang') === 'en' ? <Fragment>
+      <Link activeStyle={{ fontWeight: 'bold' }}
+        className="navbar-item navbar-item--last" to="/meny">
+        Information </Link>
+
+      <div className="lang-link" onClick={() => { this.setLang('sv') }}>Svenska</div>
+    </Fragment> : <Fragment>
+        <Link activeStyle={{ fontWeight: 'bold' }}
+          className="navbar-item" to="/meny">
+          Meny </Link>
+        <Link activeStyle={{ fontWeight: 'bold' }}
+          className="navbar-item" to="/lunchmeny">
+          Lunchmeny </Link>
+        <Link activeStyle={{ fontWeight: 'bold' }}
+
+          className="navbar-item navbar-item--last" to="/konsert">
+          Konserter </Link>
+        <div className="lang-link" onClick={() => { this.setLang('en') }}>English</div>
+      </Fragment>;
     return (
-
-      <nav className="navbar is-transparent" role="navigation" aria-label="main-navigation">
-        <div className="container">
-          <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <p className="menu-title">Glenn Miller Café</p>
-            </Link>
-            {/* Hamburger menu */}
-            <div className="navbar-burger burger" data-target="navMenu">
-              <span></span>
-              <span></span>
-              <span></span>
+      <Fragment>
+        <IssueReport enIssue="A issue in english" svIssue="någonting har hänt" />
+        <nav className="navbar is-transparent" role="navigation" aria-label="main-navigation">
+          <div className="container">
+            <div className="navbar-brand">
+              <Link to="/" className="navbar-item" title="Logo">
+                <p className="menu-title">Glenn Miller Café</p>
+              </Link>
+              <div className="navbar-burger burger" data-target="navMenu">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div id="navMenu" className="navbar-menu">
+              <div className="navbar-start has-text-centered">
+                {menu}
+              </div>
             </div>
           </div>
-          <div id="navMenu" className="navbar-menu">
-            <div className="navbar-start has-text-centered">
-              <Link
-                activeStyle={{ fontWeight: 'bold' }}
-                className="navbar-item" to="/meny">
-                Meny
-        </Link>
-              <Link
-                activeStyle={{ fontWeight: 'bold' }}
-                className="navbar-item" to="/lunchmeny">
-                Lunchmeny
-        </Link>
-              <Link
-                activeStyle={{ fontWeight: 'bold' }}
-                className="navbar-item" to="/konsert">
-                Konserter
-        </Link>
-              {/* <Link
-                activeStyle={{ fontWeight: 'bold' }}
-                className="navbar-item" to="/about">
-                Om Glenn Miller Café
-        </Link> */}
-
-
-            </div>
-            <div className="navbar-end has-text-centered">
-            </div>
-          </div>
-        </div>
-      </nav>
+        </nav>
+      </Fragment>
     )
   }
 }

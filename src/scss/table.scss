@@ -1,5 +1,6 @@
 .column.is-10.is-offset-1 {
     .section {
+        padding: 12px;
         .content {
             display: flex;
             flex-direction: row;
@@ -12,6 +13,10 @@
 
             table {
                 width: 50%;
+
+                &:first-child:last-child {
+                    width: 100%;
+                }
             }
         }
     }
