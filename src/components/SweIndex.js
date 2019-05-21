@@ -52,7 +52,7 @@ class SweIndex extends React.Component {
                     </div>
                 </div>
                 <div class="iframe__wrapper">
-                    <iframe src="./../../../iframe.html"
+                    <iframe src="./iframe.html"
                         style={{
                             height: '369px',
                             width: '320px',
