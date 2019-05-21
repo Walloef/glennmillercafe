@@ -11,13 +11,18 @@ import './../scss/link-block.scss';
 class IndexPage extends React.Component {
 
   componentWillMount() {
-    if (window.localStorage.getItem('gmLang') === 'en') {
-      document.querySelector('html').classList.add('eng')
+    if (typeof window !== `undefined`) {
+      if (window.localStorage.getItem('gmLang') === 'en') {
+        document.querySelector('html').classList.add('eng')
+      }
     }
   }
 
   render() {
-    const currentLang = window.localStorage.getItem('gmLang') === 'en' ? <EngIndex /> : <SweIndex />;
+    let currentLang = null;
+    if (typeof window !== `undefined`) {
+      currentLang = window.localStorage.getItem('gmLang') === 'en' ? <EngIndex /> : <SweIndex />;
+    }
     return (
       <Fragment>
 

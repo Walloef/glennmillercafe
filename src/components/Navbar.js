@@ -39,51 +39,60 @@ const Navbar = class extends React.Component {
       })
     }
     removeClass();
-    switch (window.location.pathname) {
-      case '/konsert':
-        removeClass()
-        body.classList.add('sv-konsert');
-        break;
-      case '/lunchmeny':
-        removeClass()
-        body.classList.add('sv-lunch');
-        break;
-      case '/meny':
-        removeClass()
-        body.classList.add('sv-meny');
-        break;
-      default:
-        removeClass();
-        break;
+    if (typeof window !== `undefined`) {
+      switch (window.location.pathname) {
+        case '/konsert':
+          removeClass()
+          body.classList.add('sv-konsert');
+          break;
+        case '/lunchmeny':
+          removeClass()
+          body.classList.add('sv-lunch');
+          break;
+        case '/meny':
+          removeClass()
+          body.classList.add('sv-meny');
+          break;
+        default:
+          removeClass();
+          break;
 
+      }
     }
   }
 
   setLang(lang) {
-    window.localStorage.setItem('gmLang', lang);
-    window.location.replace('/')
+    if (typeof window !== `undefined`) {
+      window.localStorage.setItem('gmLang', lang);
+      window.location.replace('/')
+    }
   }
 
   render() {
-    const menu = window.localStorage.getItem('gmLang') === 'en' ? <Fragment>
-      <Link activeStyle={{ fontWeight: 'bold' }}
-        className="navbar-item navbar-item--last" to="/meny">
-        Information </Link>
+    let menu;
+    if (typeof window !== `undefined`) {
+      menu = window.localStorage.getItem('gmLang') === 'en' ? <Fragment>
+        <Link activeStyle={{ fontWeight: 'bold' }}
+          className="navbar-item navbar-item--last" to="/meny">
+          Information </Link>
 
-      <div className="lang-link" onClick={() => { this.setLang('sv') }}>Svenska</div>
-    </Fragment> : <Fragment>
-        <Link activeStyle={{ fontWeight: 'bold' }}
-          className="navbar-item" to="/meny">
-          Meny </Link>
-        <Link activeStyle={{ fontWeight: 'bold' }}
-          className="navbar-item" to="/lunchmeny">
-          Lunchmeny </Link>
-        <Link activeStyle={{ fontWeight: 'bold' }}
+        <div className="lang-link" onClick={() => { this.setLang('sv') }}>Svenska</div>
+      </Fragment> : <Fragment>
+          <Link activeStyle={{ fontWeight: 'bold' }}
+            className="navbar-item" to="/meny">
+            Meny </Link>
+          <Link activeStyle={{ fontWeight: 'bold' }}
+            className="navbar-item" to="/lunchmeny">
+            Lunchmeny </Link>
+          <Link activeStyle={{ fontWeight: 'bold' }}
 
-          className="navbar-item navbar-item--last" to="/konsert">
-          Konserter </Link>
-        <div className="lang-link" onClick={() => { this.setLang('en') }}>English</div>
-      </Fragment>;
+            className="navbar-item navbar-item--last" to="/konsert">
+            Konserter </Link>
+          <div className="lang-link" onClick={() => { this.setLang('en') }}>English</div>
+        </Fragment>;
+    } else {
+      menu = null
+    }
     return (
       <Fragment>
         <IssueReport enIssue="A issue in english" svIssue="någonting har hänt" />
