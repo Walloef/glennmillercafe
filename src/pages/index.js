@@ -1,22 +1,21 @@
-import React from 'react'
-import Layout from '../components/Layout'
-import { Link } from 'gatsby'
-import { Fragment } from 'react';
-import { GoogleApiWrapper, Marker } from 'google-maps-react';
-import heroImage from './../../static/img/hero.jpg';
-import parallax from './../../static/img/dsc_8420.jpg'
-import sax from './../../static/img/sax.jpg';
-import lunch from './../../static/img/lunch.jpg';
-import music from './../../static/img/music.jpg';
-import dinner from './../../static/img/dinner.jpg';
-import './../scss/index.scss';
-import './../scss/hero.scss';
-import './../scss/quickInfo.scss';
-import './../scss/index-text.scss';
-import './../scss/link-block.scss';
-import CurrentLocation from '../components/Maps';
+import React from "react";
+import Layout from "../components/Layout";
+import { Link } from "gatsby";
+import { Fragment } from "react";
+import { GoogleApiWrapper, Marker } from "google-maps-react";
+import heroImage from "./../../static/img/hero.jpg";
+import parallax from "./../../static/img/dsc_8420.jpg";
+import sax from "./../../static/img/sax.jpg";
+import lunch from "./../../static/img/lunch.jpg";
+import music from "./../../static/img/music.jpg";
+import dinner from "./../../static/img/dinner.jpg";
+import "./../scss/index.scss";
+import "./../scss/hero.scss";
+import "./../scss/quickInfo.scss";
+import "./../scss/index-text.scss";
+import "./../scss/link-block.scss";
+import CurrentLocation from "../components/Maps";
 class IndexPage extends React.Component {
-
   state = {
     showingInfoWindow: false,
     activeMarker: {},
@@ -24,27 +23,37 @@ class IndexPage extends React.Component {
   };
 
   render() {
-
     return (
       <Fragment>
-        <div style={{
-          textAlign: 'center'
-        }}>
-          <h1 style={{
-            fontSize: '2rem',
-            maxWidth: '500px',
-            margin: '0 auto'
+        <div
+          style={{
+            textAlign: "center",
+            height: "100vh",
+            border: "1px solid white"
           }}
-          >Glenn Miller Cafés nya sida är under uppbyggnad</h1>
-          <p>Besök
-            <a href="http://www.glennmillerprogram.se/"
+        >
+          <h1
+            style={{
+              fontSize: "2rem",
+              maxWidth: "500px",
+              margin: "0 auto"
+            }}
+          >
+            Glenn Miller Cafés nya sida är under uppbyggnad
+          </h1>
+          <p>
+            Besök
+            <a
+              href="http://www.glennmillerprogram.se/"
               style={{
-                color: '#fdea4e',
-                textDecoration: 'underline',
-                marginLeft: '5px'
-              }}>
+                color: "#fdea4e",
+                textDecoration: "underline",
+                marginLeft: "5px"
+              }}
+            >
               glennmillerprogram
-            </a> för information om Glenn Miller Café
+            </a>{" "}
+            för information om Glenn Miller Café
           </p>
         </div>
         {/* <Layout> */}
@@ -124,8 +133,8 @@ class IndexPage extends React.Component {
         {/* </div>
           </section> */}
         {/* </Layout> */}
-      </Fragment >
-    )
+      </Fragment>
+    );
   }
 }
 
