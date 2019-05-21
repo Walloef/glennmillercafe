@@ -24,24 +24,24 @@ class IndexPage extends React.Component {
 
         <Layout>
 
-          {/* {currentLang}
+          {currentLang}
 
 
           <a target="_blank" rel="noopener noreferrer" href="http://www.hitta.se/kartan/partner?mc=59.336751,18.070739">
             <img src="https://api.hitta.se/image/v2/0_2x/17?width=980&height=500&zoom.to=location&location=%7B%22id%22%3A%221010178402%22%7D?markers=%7B%22marker%22:1%7D" />
-          </a> */}
+          </a>
 
 
 
 
           <div style={{
             textAlign: 'center',
-            position: 'absolute',
+            position: 'fixed',
             width: '100%',
             top: '0',
             zIndex: '999',
             background: '#171834',
-            height: '70vh'
+            height: '100vh'
           }}>
             <h1 style={{
               fontSize: '2rem',
