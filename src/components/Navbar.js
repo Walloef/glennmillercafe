@@ -39,7 +39,6 @@ const Navbar = class extends React.Component {
       })
     }
     removeClass();
-    console.log(window.location.pathname === '/lunchmeny')
     switch (window.location.pathname) {
       case '/konsert':
         removeClass()
@@ -61,12 +60,12 @@ const Navbar = class extends React.Component {
   }
 
   setLang(lang) {
-    localStorage.setItem('gmLang', lang);
+    window.localStorage.setItem('gmLang', lang);
     window.location.replace('/')
   }
 
   render() {
-    const menu = localStorage.getItem('gmLang') === 'en' ? <Fragment>
+    const menu = window.localStorage.getItem('gmLang') === 'en' ? <Fragment>
       <Link activeStyle={{ fontWeight: 'bold' }}
         className="navbar-item navbar-item--last" to="/meny">
         Information </Link>
