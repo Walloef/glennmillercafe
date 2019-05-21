@@ -10,20 +10,20 @@ import './../scss/index-text.scss';
 import './../scss/link-block.scss';
 class IndexPage extends React.Component {
 
-  componentDidMount() {
-    if (localStorage.getItem('gmLang') === 'en') {
+  componentWillMount() {
+    if (window.localStorage.getItem('gmLang') === 'en') {
       document.querySelector('html').classList.add('eng')
     }
   }
 
   render() {
-    //const currentLang = window.localStorage.getItem('gmLang') === 'en' ? <EngIndex /> : <SweIndex />;
+    const currentLang = window.localStorage.getItem('gmLang') === 'en' ? <EngIndex /> : <SweIndex />;
     return (
       <Fragment>
 
         <Layout>
 
-          <SweIndex />
+          {currentLang}
 
 
           <a target="_blank" rel="noopener noreferrer" href="http://www.hitta.se/kartan/partner?mc=59.336751,18.070739">
