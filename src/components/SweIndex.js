@@ -5,8 +5,8 @@ import heroImage from './../../static/img/hero.jpg';
 import klarinett from './../../static/img/klarinett.jpg';
 import ingresstext from './../../static/img/ingresstext.jpg';
 import lunch from './../../static/img/lunch.jpg';
-import music from './../../static/img/music.jpg';
-import dinner from './../../static/img/dinner.jpg';
+import music from './../../static/img/konsert-button.jpg';
+import dinner from './../../static/img/dinner-button.jpg';
 import './../scss/index.scss';
 import './../scss/hero.scss';
 import './../scss/quickInfo.scss';
@@ -49,10 +49,12 @@ class SweIndex extends React.Component {
                         <h3>Lunchöppet</h3>
                         <b>onsdag-fredag</b>
                         <p>11–14</p>
+                        <p className="small">Lunchstängt 12/5 - 23/8</p>
                     </div>
                 </div>
                 <div class="iframe__wrapper">
                     <iframe src="./iframe.html"
+                        title="book a table"
                         style={{
                             height: '369px',
                             width: '320px',
@@ -104,7 +106,15 @@ class SweIndex extends React.Component {
                 <div className="link-block__wrapper">
                     <Link to="/lunchmeny" className="link-block"
                         style={{ background: `url(${lunch})` }}>
-
+                        <span
+                            style={{
+                                background: '#ffffffbd',
+                                color: 'black',
+                                padding: '3px 8px',
+                                fontSize: '12px',
+                                fontWeight: 'bold'
+                            }}
+                        >Lunchstängt 12/5 - 23/8</span>
                         <h2>Lunchmeny</h2>
                     </Link>
                     <Link to="/meny" className="link-block"

@@ -44,6 +44,7 @@ class EngIndex extends React.Component {
                         <h3>Lunch opening</h3>
                         <b>Wednesday-Friday</b>
                         <p>11–14</p>
+                        <p className="small">Closed 12/5 - 23/8</p>
                     </div>
                 </div>
                 <div class="iframe__wrapper">

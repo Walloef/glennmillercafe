@@ -73,7 +73,7 @@ const Navbar = class extends React.Component {
     if (typeof window !== `undefined`) {
       menu = window.localStorage.getItem('gmLang') === 'en' ? <Fragment>
         <Link activeStyle={{ fontWeight: 'bold' }}
-          className="navbar-item navbar-item--last" to="/meny">
+          className="navbar-item navbar-item--last" to="/information">
           Information </Link>
 
         <div className="lang-link" onClick={() => { this.setLang('sv') }}>Svenska</div>
@@ -95,7 +95,7 @@ const Navbar = class extends React.Component {
     }
     return (
       <Fragment>
-        <IssueReport enIssue="A issue in english" svIssue="någonting har hänt" />
+        {/* <IssueReport enIssue="A issue in english" svIssue="någonting har hänt" /> */}
         <nav className="navbar is-transparent" role="navigation" aria-label="main-navigation">
           <div className="container">
             <div className="navbar-brand">
