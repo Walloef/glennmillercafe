@@ -26,7 +26,15 @@ class EngIndex extends React.Component {
                 <div className="quick-info">
                     <div>
                         <h3>Reservations</h3>
-                        <b>Call</b>
+                        <p>
+                            <b><a
+                                style={{
+                                    color: 'white',
+                                    borderBottom: '1px solid white'
+                                }}
+                                href="#bookTable">Online</a></b>
+                        </p>
+                        <b>Phone</b>
                         <p>0768824549</p>
                         <p>08-100322</p>
                     </div>
@@ -44,11 +52,12 @@ class EngIndex extends React.Component {
                         <h3>Lunch opening</h3>
                         <b>Wednesday-Friday</b>
                         <p>11–14</p>
-                        <p className="small">Closed 12/5 - 23/8</p>
+                        <p className="small">Sommarstängt till 23/8</p>
                     </div>
                 </div>
-                <div class="iframe__wrapper">
+                <div className="iframe__wrapper">
                     <iframe src="./../../../iframe.html"
+                        id="bookTable"
                         style={{
                             height: '369px',
                             width: '320px',

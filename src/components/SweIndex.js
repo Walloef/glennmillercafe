@@ -31,7 +31,15 @@ class SweIndex extends React.Component {
                 <div className="quick-info">
                     <div>
                         <h3>Bordsbokning</h3>
-                        <b>Ring</b>
+                        <p>
+                            <b><a
+                                style={{
+                                    color: 'white',
+                                    borderBottom: '1px solid white'
+                                }}
+                                href="#bookTable">Online</a></b>
+                        </p>
+                        <b>Telefon</b>
                         <p>0768824549</p>
                         <p>08-100322</p>
                     </div>
@@ -49,11 +57,12 @@ class SweIndex extends React.Component {
                         <h3>Lunchöppet</h3>
                         <b>onsdag-fredag</b>
                         <p>11–14</p>
-                        <p className="small">Lunchstängt 12/5 - 23/8</p>
+                        <p className="small">Sommarstängt till 23/8</p>
                     </div>
                 </div>
-                <div class="iframe__wrapper">
+                <div className="iframe__wrapper">
                     <iframe src="./iframe.html"
+                        id="bookTable"
                         title="book a table"
                         style={{
                             height: '369px',
@@ -114,7 +123,7 @@ class SweIndex extends React.Component {
                                 fontSize: '12px',
                                 fontWeight: 'bold'
                             }}
-                        >Lunchstängt 12/5 - 23/8</span>
+                        >Sommarstängt till 23/8</span>
                         <h2>Lunchmeny</h2>
                     </Link>
                     <Link to="/meny" className="link-block"
