@@ -47,12 +47,13 @@ class EngIndex extends React.Component {
                     <div>
                         <h3>Address</h3>
                         <p>Brunnsgatan 21A  11138 Stockholm</p>
+                        <p class="small">Subway Hötorget or Östermalmstorg</p>
                     </div>
                     <div>
-                        <h3>Lunch opening</h3>
+                        <h3>Lunch</h3>
                         <b>Wednesday-Friday</b>
                         <p>11–14</p>
-                        <p className="small">Sommarstängt till 23/8</p>
+                        <p className="small">Closed until August 23</p>
                     </div>
                 </div>
                 <div className="iframe__wrapper">
@@ -68,6 +69,20 @@ class EngIndex extends React.Component {
                     <p>Glenn Miller Café is both the biggest and the smallest jazz club. We take great pride and are very thankful to be able to offer you an inreasurable quality and variety of jazz and jazz musicians. There is always a live jazz concert when we are open, Wednesday through Sunday.</p>
                     <p>The cuisine is French with dishes such as Confit de Canard, Bouillabaisse, seven different variations of Moules Frites, Creme Brulée, and more. If you want to have dinner, it is good to reserve a table. If not, you are welcome to come by and enjoy the concert with something nice in the bar. But no matter if you’re drinking or eating, note that we are, first and mainly a jazz club.  To respect the music and the musicians we ask you to save your conversations to the pauses in between the sets.</p>
                 </div>
+                <p style={{
+                    textAlign: 'center'
+                }}
+                    class="gm-text">Like us on <a
+                        style={{
+                            color: 'white',
+                            textDecoration: 'underline'
+                        }}
+                        href="https://facebook.com/glennmillercafe/">Facebook</a> and <a
+                            style={{
+                                color: 'white',
+                                textDecoration: 'underline'
+                            }}
+                            href="https://www.instagram.com/glennmillercafe/">Instagram</a></p>
                 <div className="index-text__wrapper">
                     <div>
 
@@ -99,6 +114,9 @@ class EngIndex extends React.Component {
                                 <p>Reservations are for dining guests</p>
                                 <p>Dining guests may keep their table all night</p>
                                 <p>For parties bigger than 10 persons, please contact the restaurant to make your reservation. 0768824549 or 08100322</p>
+                            </li>
+                            <li>
+                                <p>Car park opposite the restaurent available</p>
                             </li>
                         </ul>
                         <p>Most welcome to Glenn Miller Café, we look forward to seeing you!</p>

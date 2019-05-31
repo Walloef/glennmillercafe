@@ -52,6 +52,7 @@ class SweIndex extends React.Component {
                     <div>
                         <h3>Adress</h3>
                         <p>Brunnsgatan 21A  11138 Stockholm</p>
+                        <p class="small">T-bana Hötorget eller Östermalmstorg</p>
                     </div>
                     <div>
                         <h3>Lunchöppet</h3>
@@ -72,8 +73,22 @@ class SweIndex extends React.Component {
                 </div>
                 <div className="gm-text">
                     <p>Glenn Miller Café är både den största och minsta jazzklubben. Vi är stolta och tacksamma att kunna erbjuda dig en hög kvalitet och stor variation jazz och jazzmusiker. Det är alltid en live jazz konsert när vi har öppet, Onsdag till söndag.</p>
-                    <p>Köket är franskt med rätter som Confit de Canard, Bouillabaisse, sju olika variationer of Moules Frites, Creme Brulée, and more. Om du vill äta middag är det bra att boka bord. Annars är du välkommen förbi för att ta del av konserten och någonting gott från baren. Oavsett om du kommer för ett glas eller middag, notera att vi först och främst är en jazzklubb. För att respektera musiken och musikerna ber vi dig att spara dina konversationer till pauserna under spelningarna.</p>
+                    <p>Köket är franskt med rätter som Confit de Canard, Bouillabaisse, sju olika variationer of Moules Frites, Creme Brulée mm. Om du vill äta middag är det bra att boka bord. Annars är du välkommen förbi för att ta del av konserten och någonting gott från baren. Oavsett om du kommer för ett glas eller middag, notera att vi först och främst är en jazzklubb. För att respektera musiken och musikerna ber vi dig att spara dina konversationer till pauserna under spelningarna.</p>
                 </div>
+                <p style={{
+                    textAlign: 'center'
+                }}
+                    class="gm-text">Gilla oss på <a
+                        style={{
+                            color: 'white',
+                            textDecoration: 'underline'
+                        }}
+                        href="https://sv-se.facebook.com/glennmillercafe/">Facebook</a> och <a
+                            style={{
+                                color: 'white',
+                                textDecoration: 'underline'
+                            }}
+                            href="https://www.instagram.com/glennmillercafe/">Instagram</a></p>
                 <div className="index-text__wrapper">
                     <div>
 
@@ -105,6 +120,9 @@ class SweIndex extends React.Component {
                                 <p>Bokningar är för middagsgäster</p>
                                 <p>Middagsgäster har bordet hela kvällen</p>
                                 <p>För sällskap större än 10 personer, vänligen kontakta restaurangen för att göra din bokning. Eller 08 10 03 22 / 076-882 45 49</p>
+                            </li>
+                            <li>
+                                <p>Parkeringshus finns mitt emot Glenn Miller Café</p>
                             </li>
                         </ul>
                         <p>Välkommen till Glenn Miller Café, vi ser fram emot att träffa dig!</p>

@@ -72,9 +72,9 @@ const Navbar = class extends React.Component {
     let menu;
     if (typeof window !== `undefined`) {
       menu = window.localStorage.getItem('gmLang') === 'en' ? <Fragment>
-        <Link activeStyle={{ fontWeight: 'bold' }}
+        {/* <Link activeStyle={{ fontWeight: 'bold' }}
           className="navbar-item navbar-item--last" to="/information">
-          Information </Link>
+          Information </Link> */}
 
         <div className="lang-link" onClick={() => { this.setLang('sv') }}>Svenska</div>
       </Fragment> : <Fragment>
