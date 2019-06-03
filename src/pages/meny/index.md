@@ -12,8 +12,9 @@ title: Meny
 
 | Förrätter/Starters                                                          |       |
 | --------------------------------------------------------------------------- | ----- |
-| **Dagens soppa**                                                            | 85:-  |
+|                                                                             |       |
 | **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
+**Escargots** 6 st sniglar med vitlökssmör|115:-|
 | **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
 
 ![](/img/received_774925762861507.jpeg)
@@ -25,7 +26,6 @@ title: Meny
 | **Entrecôte med frites, dijon,**  bbq-sås, smör toppad med persillade...                                   | 329:- |
 | **Lammracks med grillad rotselleri**  serveras med rostade tomater, chèvrecréme, tomatpesto...              | 310:- |
 | **Ugnstekta grönsaker med tomat & chèvre**  Aubergine, potatis, zucchini, fänkål, kikärtor & vitlök mm        | 215:- |
-| **Choucroute Garnie** Surkål från Alsace kokt i vin o ankfett, Morteau, Frankfurter, rökt sidfläsk o Dijon... | 235:- |
 | **Salade Campagne (Veg/bacon)**  sallad, potatis, tomat, rödlök, paprika, ägg, chèvre                         | 195:- |
 | **Salade Campagne (Vegan)** sallad, potatis, tomat, rödlök, paprika, sparris, bönor..                         | 195:- |
 
