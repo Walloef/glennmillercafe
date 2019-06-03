@@ -45,7 +45,7 @@ title: Meny
 | **Assiette fromages** två dagens ostar, fikon & aprikosmarmelad | 95:-    |
 | **Chokladfondant med vaniljglass**                              | 105:-   |
 | **Crème Brulée**                                                | 95:-    |
-| **Glass & Sorbet per kula**                                     | 25:-    |
+| **Glass & Sorbet per kula**                                     | 30:-    |
 | **Belgisk Chokladtårta** med pastismarinerade körsbär & grädde  | 85:-    |
 | **Kaffe**                                                       | 25:-    |
 | **Espresso**                                                    | 30/40:- |
