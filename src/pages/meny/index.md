@@ -26,7 +26,6 @@ title: Meny
 | **Entrecôte med frites, dijon,**  bbq-sås, smör toppad med persillade...                                   | 329:- |
 | **Lammracks med grillad rotselleri**  serveras med rostade tomater, chèvrecréme, tomatpesto...              | 310:- |
 | **Ugnstekta grönsaker med tomat & chèvre**  Aubergine, potatis, zucchini, fänkål, kikärtor & vitlök mm        | 215:- |
-
 | **Salade Campagne (Veg/bacon)**  sallad, potatis, tomat, rödlök, paprika, ägg, chèvre                         | 195:- |
 | **Salade Campagne (Vegan)** sallad, potatis, tomat, rödlök, paprika, sparris, bönor..                         | 195:- |
 
