@@ -21,6 +21,6 @@ title: Konserter
 
 | Trevlig midsommar vi öppnar igen den 3 juli |
 | ------------------------------------------- |
-| **Konserter i juli**                    |
+|             
 
 - - -
