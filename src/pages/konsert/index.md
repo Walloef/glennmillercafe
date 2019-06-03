@@ -6,9 +6,9 @@ title: Konserter
 | ---------------- |
 
 | Datum                                                                                                                 |       |
-| --------------------------------------------------------------------------------------------------------------------- | ----- |
-| Viva Black Feat Mattias Risberg: Eva Lindal viol, Mattias Risberg p, Filip Augustson b, Christopher Cantillo dr       | Lö 01 |
-| Orakel: Per ”Texas Johansson” sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr                                          | Sö 02 |
+| --------------------------------------------------------------------------------------------------------------------- | --
+
+                                      
 | Fredrik Nordström Vintage Quartet: Fredrik Nordström sax, Daniel Karlsson p, Filip Augustson b, Fredrik Rundqvist dr  | On 05 |
 | Peter Asplund trp, Martin Sjöstedt p, Niklas Fernqvist b, Matt Skelton dr                                                      | To 06 |
 | Alberto Pinton sax/cl, Vilhelm Bromander b, Konrad Agnas dr                                                           | Fr 07 |
