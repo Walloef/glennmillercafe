@@ -24,16 +24,5 @@ title: Konserter
 |Konserter i Juli |  |
 |------------------------|----|
 | Johan Graden p, Vilhelm Bromander b, Devin Gray dr  
-	Fr   05	Johan Berke Upstairs Five-Special Edition: Alberto Pinton sax, Claes von Heijne p, Johan Berke g, Yasuhito Mori b,  		 		Fredrik Rundqvist dr|05 juli|
-	Fr   05	Johan Berke Upstairs Five-Special Edition: Alberto Pinton sax, Claes von Heijne p, Johan Berke g, Yasuhito Mori b,  		 		Fredrik Rundqvist dr		
 	
-
-	Fr   05	Johan Berke Upstairs Five-Special Edition: Alberto Pinton sax, Claes von Heijne p, Johan Berke g, Yasuhito Mori b,  		 		Fredrik Rundqvist dr		
-	
-05		
-	
- On 03 |Johan Graden p, Vilhelm Bromander b, Devin Gray dr + SPECIAL GUEST	04|	Johan Berke Upstairs Five-Special Edition: Alberto Pinton sax, Claes von Heijne p, Johan Berke g, Yasuhito Mori b,  Fredrik Rundqvist dr		
-	
-
-
 
