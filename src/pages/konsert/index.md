@@ -21,6 +21,6 @@ title: Konserter
 | Magnus Broo trp, Vilhelm Bromander b, Christopher Cantillo dr                                                         | Sö 16 |
 
 | Trevlig midsommar vi öppnar igen den 3 juli |
-| ------------------------------------------- |
+| ------------------------------------------- |Konserter i juli
 
 - - -
