@@ -2,7 +2,7 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| # Konserter i Juni |
+| Konserter i Juni |
 | ------------------ |
 
 | Datum |     |
