@@ -24,4 +24,4 @@ title: Konserter
 |Konserter i Juli |  |
 |------------------------|----|
 | Johan Graden p, Vilhelm Bromander b, Devin Gray dr|03|
-Johan Graden p, Vilhelm Bromander b, Devin Gray dr + SPECIAL GUEST|04|
+|Johan Graden p, Vilhelm Bromander b, Devin Gray dr + SPECIAL GUEST|04|
