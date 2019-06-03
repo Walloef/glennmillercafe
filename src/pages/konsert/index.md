@@ -5,10 +5,9 @@ title: Konserter
 | Konserter i Juni |
 | ------------------ |
 
-| Datum |     |
-| ----- | --- |
+| Datum |    
 
-\| Fredrik Nordström Vintage Quartet: Fredrik Nordström sax, Daniel Karlsson p, Filip Augustson b, Fredrik Rundqvist dr  | On 05 |
+| Fredrik Nordström Vintage Quartet: Fredrik Nordström sax, Daniel Karlsson p, Filip Augustson b, Fredrik Rundqvist dr  | On 05 |
 | Peter Asplund trp, Martin Sjöstedt p, Niklas Fernqvist b, Matt Skelton dr                                                      | To 06 |
 | Alberto Pinton sax/cl, Vilhelm Bromander b, Konrad Agnas dr                                                           | Fr 07 |
 | Dee Byrne (UK) sax, Maria Kvist p, Tove Brandt b, Isak Andersson dr                                                   | Lö 08 |
