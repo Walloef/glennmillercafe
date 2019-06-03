@@ -6,7 +6,7 @@ title: Konserter
 | ------------------ |
 
 | Datum |    
-
+| ------------------ |
 | Fredrik Nordström Vintage Quartet: Fredrik Nordström sax, Daniel Karlsson p, Filip Augustson b, Fredrik Rundqvist dr  | On 05 |
 | Peter Asplund trp, Martin Sjöstedt p, Niklas Fernqvist b, Matt Skelton dr                                                      | To 06 |
 | Alberto Pinton sax/cl, Vilhelm Bromander b, Konrad Agnas dr                                                           | Fr 07 |
