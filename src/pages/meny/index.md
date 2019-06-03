@@ -10,9 +10,8 @@ title: Meny
 | **Champagne flaska 75cl** | 585:- |
 | _eller se drinklista_     |       |
 
-| Förrätter/Starters                                                          |       |
-| --------------------------------------------------------------------------- | ----- |
-|                                                                             |       |
+| Förrätter/Starters|       |
+| ------------------------------------------- | ----- |
 | **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
 **Escargots** 6 st sniglar med vitlökssmör|115:-|
 | **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
