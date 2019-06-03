@@ -136,3 +136,18 @@ td {
         }
     }
 }
+
+.sv-konsert {
+    .column.is-10.is-offset-1 .section .content {
+        flex-direction: column;
+
+        table {
+            width: 100%;
+        }
+
+        hr {
+            background: white;
+            height: 1px;
+        }
+    }
+}
