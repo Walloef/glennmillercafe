@@ -8,7 +8,7 @@ title: Meny
 | **Dry martini**           | 115:- |
 | **GT**                    | 115:- |
 | **Champagne flaska 75cl** | 585:- |
-| _eller se drinklista_     |       |
+
 
 | Förrätter/Starters                                                          |       |
 | --------------------------------------------------------------------------- | ----- |
