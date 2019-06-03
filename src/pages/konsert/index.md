@@ -2,8 +2,8 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Konserter i Juni |
-| ---------------- |
+| # Konserter i Juni |
+| ------------------ |
 
 | Datum |     |
 | ----- | --- |
@@ -21,6 +21,6 @@ title: Konserter
 
 | Trevlig midsommar vi öppnar igen den 3 juli |
 | ------------------------------------------- |
-| \*\*Konserter i juli\*\*                    |
+| **Konserter i juli**                    |
 
 - - -
