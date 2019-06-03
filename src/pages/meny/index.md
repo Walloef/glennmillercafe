@@ -12,8 +12,9 @@ title: Meny
 
 | Förrätter/Starters                                                          |       |
 | --------------------------------------------------------------------------- | ----- |
-| **Dagens soppa**                                                            | 85:-  |
+|                                                                             |       |
 | **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
+**Escargots** med vitlökssnör|115:-|
 | **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
 
 ![](/img/received_774925762861507.jpeg)
