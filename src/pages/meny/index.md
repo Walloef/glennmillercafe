@@ -14,7 +14,7 @@ title: Meny
 | --------------------------------------------------------------------------- | ----- |
 |                                                                             |       |
 | **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
-**Escargots** med vitlökssnör|115:-|
+**Escargots** 6 st sniglar med vitlökssmör|115:-|
 | **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
 
 ![](/img/received_774925762861507.jpeg)
