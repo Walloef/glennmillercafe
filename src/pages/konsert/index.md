@@ -37,4 +37,10 @@ title: Konserter
 |Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr|To 18|
 |Chi Westfelt Quintet: Chi Westfelt voc, Hannes Bennich sax, Oskar Lindström p, Arvid Jullander b,  Karl-Henrik Ouisbäck dr|Fr 19|
 |Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agnas b, Arild Wahl dr|Lö 20|
-|
+|Nils Jansson trp, Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr|Sö 21|
+|Oilly Wallace sax, Felix Tani p, Kenji Rabson b, Malte Arndal dr|On 24|
+|Skivinspelning med Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr|To 25|
+|Skivinspelning med Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr|Fr 26|
+|Shop-Söderlind/Hellkvist organproject: Andreas Hellkvist org, Erik Söderlind g, Ali Djeridi dr|Lö 27|
+|Jonatan Guzman p, Tom-Eddye Nordén b, Ivars Arutyunyan dr + hemlig gäst|Sö 28|
+|Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|On 31|	
