@@ -30,3 +30,11 @@ title: Konserter
 |Shop-Söderlind/Hellkvist organproject: Andreas Hellkvist org, Erik Söderlind g, Ali Djeridi dr|Sö 07|
 |Kasper Agnas g/mandolin, Bjorn Marius Hegge b, Andreas Winther dr|On 10|  	
  |Kasper Agnas g/mandolin, Johan Graden p, Bjorn Marius Hegge b, Andreas Winther dr|To 11|  
+|  Nils Berg träblås, Johan Graden key, Mauritz Agnas b, Moussa Fadera dr|  Fr 12|
+|Nils Berg träblås, Edvin Nahlin key, Mauritz Agnas b, Moussa Fadera dr|Lö 13|
+|Krister Andersson sax, Leo Lindberg p, Jess Gerzenkorn b/voc, Jonas Bäckman dr|Sö 14|
+|Sigurdur Flosason sax, Anna Greta Sigurdardottir p, Christian Spering b, Sebastian Voegler dr|On 17|
+|Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr|To 18|
+|Chi Westfelt Quintet: Chi Westfelt voc, Hannes Bennich sax, Oskar Lindström p, Arvid Jullander b,  Karl-Henrik Ouisbäck dr|Fr 19|
+|Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agnas b, Arild Wahl dr|Lö 20|
+|
