@@ -29,4 +29,4 @@ title: Konserter
 |Klas Toresson sax, Leo Lindberg p, Kenji Rabson b, Moussa Fadera dr|06|
 |Shop-Söderlind/Hellkvist organproject: Andreas Hellkvist org, Erik Söderlind g, Ali Djeridi dr|07|
 |Kasper Agnas g/mandolin, Bjorn Marius Hegge b, Andreas Winther dr|10|  	
-|Kasper Agnas g/mandolin, Johan Graden p, Bjorn Marius Hegge b, Andreas Winther dr  
+|Kasper Agnas g/mandolin, Johan Graden p, Bjorn Marius Hegge b, Andreas Winther dr|11|  
