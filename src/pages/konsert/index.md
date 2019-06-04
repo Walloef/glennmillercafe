@@ -27,4 +27,6 @@ title: Konserter
 |Johan Graden p, Vilhelm Bromander b, Devin Gray dr + SPECIAL GUEST|04|
 |Johan Berke Upstairs Five-Special Edition: Alberto Pinton sax, Claes von Heijne p, Johan Berke g, Yasuhito Mori b,  		 		Fredrik Rundqvist dr|05|
 |Klas Toresson sax, Leo Lindberg p, Kenji Rabson b, Moussa Fadera dr|06|
-|Shop-Söderlind/Hellkvist organproject: Andreas Hellkvist org, Erik Söderlind g, Ali Djeridi dr|07|	
+|Shop-Söderlind/Hellkvist organproject: Andreas Hellkvist org, Erik Söderlind g, Ali Djeridi dr|07|
+|Kasper Agnas g/mandolin, Bjorn Marius Hegge b, Andreas Winther dr|10|  	
+|Kasper Agnas g/mandolin, Johan Graden p, Bjorn Marius Hegge b, Andreas Winther dr  
