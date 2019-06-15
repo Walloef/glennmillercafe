@@ -11,7 +11,6 @@ title: Meny
 
 | Förrätter/Starters                                                          |       |
 | --------------------------------------------------------------------------- | ----- |
-|                                                                             |       |
 | **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
 | **Escargots** 6 st sniglar med vitlökssmör                                  | 115:- |
 | **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
@@ -38,7 +37,7 @@ title: Meny
 | **Chili (hot)** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, chorizo, tomat, paprika, chili, portvin, grädde.. | 255:- |
 | **Roquefort** Ångade blåmusslor i vitt vin, échalôte, grädde, vitlök, rosmarin, lime, roquefort..                         | 245:- |
 | **Moules Chèvre** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, grädde, chèvre...                               | 235:- |
-|                                                                                                                           |       |
+
 
 | Desserter/Desserts                                              |         |
 | --------------------------------------------------------------- | ------- |
