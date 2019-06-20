@@ -36,6 +36,7 @@ title: Konserter
 |Sigurdur Flosason sax, Anna Greta Sigurdardottir p, Christian Spering b, Sebastian Voegler dr|On 17|
 |Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr|To 18|
 |Chi Westfelt Quintet: Chi Westfelt voc, Hannes Bennich sax, Oskar Lindström p, Arvid Jullander b,  Karl-Henrik Ouisbäck dr|Fr 19|
+Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agnas b, Arild Wahl dr|Lö 20|
 |Nils Jansson trp, Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr|Sö 21|
 |Oilly Wallace sax, Felix Tani p, Kenji Rabson b, Malte Arndal dr|On 24|
 |Skivinspelning med Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr|To 25|
