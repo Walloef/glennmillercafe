@@ -8,8 +8,8 @@ title: Konserter
 
 |Konserter i Juli |  |
 |------------------------|----|
-| Johan Graden p, Vilhelm Bromander b, Devin Gray dr|On 03|
-|Johan Graden p, Vilhelm Bromander b, Devin Gray dr + SPECIAL GUEST|To 04|
+| Devin Gray´s Infotainment Trio: Johan Graden p, Vilhelm Bromander b, Devin Gray dr|On 03|
+|Devin Gray´s Infotainment Trio with Jonas Kullhammar:Jonas Kullhammar sax, Johan Graden p, Vilhelm Bromander b, Devin Gray dr |To 04|
 |Johan Berke Upstairs Five-Special Edition: Alberto Pinton sax, Claes von Heijne p, Johan Berke g, Yasuhito Mori b,  		 		Fredrik Rundqvist dr|Fr 05|
 |Klas Toresson sax, Leo Lindberg p, Kenji Rabson b, Moussa Fadera dr|Lö 06|
 |Shop-Söderlind/Hellkvist organproject: Andreas Hellkvist org, Erik Söderlind g, Ali Djeridi dr|Sö 07|
