@@ -26,6 +26,6 @@ Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agn
 |Oilly Wallace sax, Felix Tani p, Kenji Rabson b, Malte Arndal dr|On 24|
 |Skivinspelning med Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr|To 25|
 |Skivinspelning med Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr|Fr 26|
-|Shop-Söderlind/Hellkvist organproject: Andreas Hellkvist org, Erik Söderlind g, Ali Djeridi dr|Lö 27|
+|Krister Andersson sax,Leo Lindberg org, Ali Djeridi dr|Lö 27|
 |Jonatan Guzman p, Tom-Eddye Nordén b, Ivars Arutyunyan dr + hemlig gäst|Sö 28|
 |Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|On 31|	
