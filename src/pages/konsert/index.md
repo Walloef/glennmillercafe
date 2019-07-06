@@ -31,7 +31,18 @@ Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agn
 |Konserter i Aug|  |
 |------------------------|----|
 |Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr|To 01|
-|In a Swedish Mood: Jan Allan trp, Mattias Nilsson p, Daniel Svensson p, Jan Adefelt b|Fr 02|          
+|In a Swedish Mood: Jan Allan trp, Mattias Nilsson p, Daniel Svensson p, Jan Adefelt b|Fr 02| 
+|Bernt Rosengren sax, Leo Lindberg org, Ali Djeridi dr|Lö 03|
+|Magnus Broo trp, Max Agnas p, Mauritz Agnas b, Konrad Agnas dr|Sö 04|
+|NU Quartet: Alberto Pinton träblås/komposition, Johan Berke g, Vilhelm Bromander b, Fredrik Rundqvist dr|On 07|
+|Caroline Mayer voc, Jonathan Soucasse p (F), Rickard Malmsten b, Bengt Stark dr|Fr 09|
+|Håkan Broström sax, Britta Virves p, Tomas Sjödell b, Karl Henrik Ousbäck dr|Lö 10|
+| Klas Toresson sax, Daniel Tilling p, Jess Gerzenkorn b|Sö 11|
+| Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr|On 14|
+| Leo Lindbeerg p, Niklas Fernqvist b,  Karl-Henrik Ousbäck dr|To 15|
+|      
+
+         
 
 
 |Konserterna börjar kl 20.00 på sön,ons,tor|
