@@ -30,7 +30,8 @@ Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agn
 
 |Konserter i Aug|  |
 |------------------------|----|
-|Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr|To 01|          
+|Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr|To 01|
+|In a Swedish Mood: Jan Allan trp, Mattias Nilsson p, Daniel Svensson p, Jan Adefelt b|Fr 02|          
 
 
 |Konserterna börjar kl 20.00 på sön,ons,tor|
