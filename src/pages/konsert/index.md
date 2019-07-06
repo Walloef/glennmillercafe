@@ -45,6 +45,6 @@ Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agn
 |           
 
 
-|Konserterna börjar kl 20.00 på sön,ons,tor|
-                     |20.30 på fred o lö| 
+|Konserterna börjar kl 20.00 på sön,ons,tor,
+                     20.30 på fred o lö 
                    |I samarbete med SENSUS|	
