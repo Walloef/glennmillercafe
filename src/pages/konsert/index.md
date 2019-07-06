@@ -27,6 +27,11 @@ Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agn
 |Krister Andersson sax,Leo Lindberg org, Ali Djeridi dr|Lö 27|
 |Jonatan Guzman p, Tom-Eddye Nordén b, Ivars Arutyunyan dr + hemlig gäst|Sö 28|
 |Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|On 31|
-          |Konserterna börjar kl 20.00 på sön,ons,tor|
+
+|Konserter i Aug|  |
+|------------------------|----|          
+
+
+|Konserterna börjar kl 20.00 på sön,ons,tor|
                      |20.30 på fred o lö| 
                    |I samarbete med SENSUS|	
