@@ -29,7 +29,8 @@ Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agn
 |Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|On 31|
 
 |Konserter i Aug|  |
-|------------------------|----|          
+|------------------------|----|
+|Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr|To 01|          
 
 
 |Konserterna börjar kl 20.00 på sön,ons,tor|
