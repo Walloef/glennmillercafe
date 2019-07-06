@@ -45,7 +45,7 @@ Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agn
 |Örjan Hultén Orion: Örjan Hultén sax, Torbjörn Gulz p, Filip Augustson b, Peter Danemo dr|Sö 18|
 |Ernryd-Lindskog kvartett: Bengt Ernryd trp/flh, Daniel Agurén key, Per Fjällström b, Hasse Lindskog dr|On 21|
 |Oskar Lindström p, Pär-Ola Landin b, Filip Olofsson dr|To22|
-|Forest chorus: Sebastián Sáens trp, Caleb Veazey g(US), Miller Wrenn b(US), Joonas Leppänen dr(Fi)|Fr 23|
+|Forest chorus: Sebastián Sáens trp(Arg), Caleb Veazey g(US), Miller Wrenn b(US), Joonas Leppänen dr(Fi)|Fr 23|
 |Anders Ekholm sax, Pelle Karlström p, Magnus”Mankan”Marcks b, Bosse Söderberg dr|Lö 24|
 |Johan Hörlén sax, Gustav Lundgren g, Leo Lindberg org, Bengt Stark dr|Sö 25|
 |Robert Malmberg p, Hans Backenroth b|On 28|
