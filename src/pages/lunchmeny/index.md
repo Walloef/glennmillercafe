@@ -1,6 +1,6 @@
 ---
 templateKey: lunchmeny-page
-title: Lunch Meny
+title: Stockholm Jazz Festival på Glenn Miller Café
 ---
 ## Vecka 5
 
