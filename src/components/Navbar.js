@@ -83,7 +83,7 @@ const Navbar = class extends React.Component {
             Meny </Link>
           <Link activeStyle={{ fontWeight: 'bold' }}
             className="navbar-item" to="/lunchmeny">
-            Lunchmeny </Link>
+            Festival </Link>
           <Link activeStyle={{ fontWeight: 'bold' }}
 
             className="navbar-item navbar-item--last" to="/konsert">
