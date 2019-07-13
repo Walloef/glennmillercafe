@@ -3,49 +3,58 @@ templateKey: konsert-page
 title: Konserter
 ---
 
-| Konserter i Maj  | Datum |
-|---|---|
-| Klaus Ellerhusen Holm cl/sax, Kim Johannesen g, Kalle Moberg accordeon, Ola Høyer b, Erik Nylander dr Gästsolist: Mattias Ståhl vib |  On 01 |
-| Klaus Ellerhusen Holm cl/sax, Kim Johannesen g, Kalle Moberg accordeon, Ola Høyer b, Erik Nylander dr Gästsolist:Niklas Barnö | To 02 |
-| Lisa Grotherus cl/voc, Alexander Zethson p, Lisa Långbacka accordeon, Oskar Schönning b | Fr 03 |
-| Ingrid Malmén voc, Alexander Dellerhagen sax, Christian Cuadra sax, Alice Hernqvist p, Georgia Wartel Collins b, Anton Jonsson dr | Lö 04 |
-| Iréne Lundberg voc, Håkan Broström sax, Mattias Lindberg p, Svante Söderqvist b, Sebastian Voegler dr | Sö 05 |
-| Emil Strandberg trp, Nils Berg sax/cl, Josef Kallerdahl b, Konrad Agnas dr | On 08 |
-| Sara Möller voc/p, Karl Olandersson trp, Lauri Antila b, Mats Persson dr | To 09 |
-| Fabian Kallerdahl p, Josef Kallerdahl b, Konrad Agnas dr | Fr 10 |
-| Max Zenger sax, Pål Nyberg g, Mattias Lindberg p, Björn Lundén b, Jonas Bäckman dr | Lö 11 |
-| Daniel Svensson g, Leo Lindberg org, Chris Montgomery dr | Sö 12 |
-| Stefan Isaksson sax, Fredrik Olsson g, Carl Orrje p, Lars Ekman b, Mattias Puttonen dr | On 15 |
-| Johan Leijonhufvud g, Max Schultz g, Johnny Åhman b, Sebastian Ågren dr | To 16 |
-| Mathias Landaeus p, Johan Leijonhufvud g, Johnny Åhman b, Sebastian Ågren dr | Fr 17 |
-| Linda Kallerdahl voc, John Holmström p, Elsa Bergman b, Anna Lund dr | Lö 18 |
-| Örjan Hultén Trio feat Stina Hellberg: Örjan Hultén sax, Stina Hellberg harpa, Filip Augustson b, Fredrik Rundqvist dr | Sö 19 |
-| Tommy Berndtsson wurlitzer, Mats Eriksson git, Tomas Sjödell bas, Sebastian Ågren dr | On 22 |
-| Patrick Westin sax, Erik Tengholm trp, Daniel Tilling p, Fredrik Olsson g, Hampus Westin b, Ali Djeridi dr | To 23 |
-| Selma Pinton voc, max Agnas p, Jon Henriksson b, Nils Agnas dr | Fr 24 |
-| Cajsa Zerhouni voc, Mattias Lindberg p, Arvid Jullander b, Sebastian Voegler dr | Lö 25 |
-| Raf Ferrari Quartet (I): Raf Ferrari p, Vito Stano cello, Andrea Colella b, Claudio Sbrolli dr | Sö 26 |
-| Martin Küchen sax, Mattias Ståhl vib, Patric Thorman b, Magnus Vikberg dr | On 29 |
-| Sharon Dyall voc, Tommy Berndtsson p, Lars Ericsson b | To 30 |
-| Sharon Dyall voc, Tommy Berndtsson p, Lars Ericsson b | Fr 31 |
 
-*****
+|Konserter i Juli |  |
+|------------------------|----|
+| Devin Gray´s Infotainment Trio: Johan Graden p, Vilhelm Bromander b, Devin Gray dr|On 03|
+|Devin Gray´s Infotainment Trio with Jonas Kullhammar:Jonas Kullhammar sax, Johan Graden p, Vilhelm Bromander b, Devin Gray dr |To 04|
+|Johan Berke Upstairs Five-Special Edition: Alberto Pinton sax, Claes von Heijne p, Johan Berke g, Yasuhito Mori b,  		 		Fredrik Rundqvist dr|Fr 05|
+|Klas Toresson sax, Leo Lindberg p, Kenji Rabson b, Moussa Fadera dr|Lö 06|
+|Shop-Söderlind/Hellkvist organproject: Andreas Hellkvist org, Erik Söderlind g, Ali Djeridi dr|Sö 07|
+|Kasper Agnas g/mandolin, Bjorn Marius Hegge b, Andreas Winther dr|On 10|  	
+ |Kasper Agnas g/mandolin, Johan Graden p, Bjorn Marius Hegge b, Andreas Winther dr|To 11|  
+|  Nils Berg träblås, Johan Graden key, Mauritz Agnas b, Moussa Fadera dr|  Fr 12|
+|Nils Berg träblås, Edvin Nahlin key, Mauritz Agnas b, Moussa Fadera dr|Lö 13|
+|Krister Andersson sax, Leo Lindberg p, Jess Gerzenkorn b/voc, Jonas Bäckman dr|Sö 14|
+|Sigurdur Flosason sax, Anna Greta Sigurdardottir p, Christian Spering b, Sebastian Voegler dr|On 17|
+|Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr|To 18|
+|Chi Westfelt Quintet: Chi Westfelt voc, Hannes Bennich sax, Oskar Lindström p, Arvid Jullander b,  Karl-Henrik Ouisbäck dr|Fr 19|
+Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agnas b, Arild Wahl dr|Lö 20|
+|Nils Jansson trp, Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr|Sö 21|
+|Oilly Wallace sax, Felix Tani p, Kenji Rabson b, Malte Arndal dr|On 24|
+|Skivinspelning med Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr|To 25|
+|Skivinspelning med Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr|Fr 26|
+|Krister Andersson sax,Leo Lindberg org, Ali Djeridi dr|Lö 27|
+|Jonatan Guzman p, Tom-Eddye Nordén b, Ivars Arutyunyan dr + hemlig gäst|Sö 28|
+|Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|On 31|
 
-| Konserter i Juni  | Datum |
-|---|---|
-| Viva Black Feat Mattias Risberg: Eva Lindal viol, Mattias Risberg p, Filip Augustson b, Christopher Cantillo dr | Lö 01 |
-| Orakel: Per ”Texas Johansson” sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr | Sö 02 |
-| Fredrik Nordström Vintage Quartet: Fredrik Nordström sax, Daniel Karlsson p, Filip Augustson b, Fredrik Rundqvist dr | On 05 |
-| Peter Asplund trp, Martin Sjöstedt b, Matt Skelton dr, piano TBA | To 06 |
-| Alberto Pinton sax/cl, Vilhelm Bromander b, Konrad Agnas dr | Fr 07 |
-| Dee Byrne (UK) sax, Maria Kvist p, Tove Brandt b, Isak Andersson dr | Lö 08 |
-| MUSICMUSICMUSIC + Tsai Wen-Hui (Taiwan): Tsai Wen-Hui voc, Fabian Kallerdahl p, Josef Kallerdahl b, Michael Edlund dr | Sö 09 |
-| Lisa Björänge voc, John Holmström p, Josef Kallerdahl b, Jon-Erik Björänge dr | On 12 |
-| Lisa Björänge voc, Klas Toresson sax, Fabian Kallerdahl p, Pär-Ola Landin b, Jon Fält dr | To 13 |
-| Martin Küchen sax, Mattias Risberg klv, Ricard Österstam dr | Fr 14 |
-| Nils-Emil Svanängen voc/p/org, Emanuel Lundgren synth, Anton Sundell elektronik | Lö 15 |
-| Magnus Broo trp, Vilhelm Bromander b, Christopher Cantillo dr | Sö 16 |
+|Konserter i Aug|  |
+|------------------------|----|
+|Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr|To 01|
+|In a Swedish Mood: Jan Allan trp, Mattias Nilsson p, Daniel Svensson p, Jan Adefelt b|Fr 02| 
+|Bernt Rosengren sax, Leo Lindberg org, Ali Djeridi dr|Lö 03|
+|Magnus Broo trp, Max Agnas p, Mauritz Agnas b, Konrad Agnas dr|Sö 04|
+|NU Quartet: Alberto Pinton träblås/komposition, Johan Berke g, Vilhelm Bromander b, Fredrik Rundqvist dr|On 07|
+|Caroline Mayer voc, Jonathan Soucasse p (F), Rickard Malmsten b, Bengt Stark dr|Fr 09|
+|Håkan Broström sax, Britta Virves p, Tomas Sjödell b, Karl Henrik Ousbäck dr|Lö 10|
+|Klas Toresson sax, Daniel Tilling p, Jess Gerzenkorn b|Sö 11|
+|Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr|On 14|
+|Leo Lindbeerg p, Niklas Fernqvist b,  Karl-Henrik Ousbäck dr|To 15|
+|Nils Jansson trp, Magnus Broo trp, Carl Bagge p, Kenji Rabson b, Moussa Fadera dr|Fr 16|
+|Lina Nyberg Band: Lina Nyberg voc, Cecilia Persson p, David Stackenäs g, Mauritz Agnas b, Peter Danemo dr|Lö 17|
+|Örjan Hultén Orion: Örjan Hultén sax, Torbjörn Gulz p, Filip Augustson b, Peter Danemo dr|Sö 18|
+|Ernryd-Lindskog kvartett: Bengt Ernryd trp/flh, Daniel Agurén key, Per Fjällström b, Hasse Lindskog dr|On 21|
+|Oskar Lindström p, Pär-Ola Landin b, Filip Olofsson dr|To22|
+|Forest chorus: Sebastián Sáens trp(Arg), Caleb Veazey g(US), Miller Wrenn b(US), Joonas Leppänen dr(Fi)|Fr 23|
+|Anders Ekholm sax, Pelle Karlström p, Magnus”Mankan”Marcks b, Bosse Söderberg dr|Lö 24|
+|Johan Hörlén sax, Gustav Lundgren g, Leo Lindberg org, Bengt Stark dr|Sö 25|
+|Robert Malmberg p, Hans Backenroth b|On 28|
+|Trinity: Karl Olandersson trp, Andreas Hellkvist hammond B3, Ali Djeridi dr|To 29|
+|Bengt Ernryd trp/flh, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén p,  Thomas Dawidovsky b, Rolf Fredriksson dr|Fr 30|
+|Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson-Werre dr| Lö 31|
+   
 
-| Trevlig midsommar vi öppnar igen den 3 juli |
-|---------------------------------------------|
-*****
+
+Konserterna börjar kl 20.00 på sön,ons,tor,
+                     20.30 på fred o lö 
+                   I samarbete med SENSUS	
