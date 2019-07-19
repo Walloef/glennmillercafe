@@ -53,7 +53,7 @@ Daniel Gahrton träblås, Susanna Risberg g, Jesper Söderqvist vib, Mauritz Agn
 |Trinity: Karl Olandersson trp, Andreas Hellkvist hammond B3, Ali Djeridi dr|To 29|
 |Bengt Ernryd trp/flh, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén p,  Thomas Dawidovsky b, Rolf Fredriksson dr|Fr 30|
 |Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson-Werre dr| Lö 31|
-|
+
 
 
 Konserterna börjar kl 20.00 på sön,ons,tor,
