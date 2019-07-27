@@ -8,8 +8,10 @@ title: Konserter
 |------------------------|----|
 |
 |Krister Andersson sax,Leo Lindberg org, Ali Djeridi dr|Lö 27|
+
 |Jonatan Guzman p, Tom-Eddye Nordén b, Ivars Arutyunyan dr + hemlig gäst|Sö 28|
-|Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|On 31|
+|
+Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|On 31|
 
 |Konserter i Aug|  |
 |------------------------|----|
