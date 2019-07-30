@@ -1,8 +1,8 @@
 ---
 templateKey: lunchmeny-page
-title: Stockholm Jazz Festival på Glenn Miller Café
+title: Stockholm Jazz Festival på Glenn Miller Café 11 - 20 okt
 ---
-11 - 20 oktober
+
 
 |Another Angle: Sharon Dyall voc, 
 Tommy Berndtsson piano, Lars Ericsson bas|fre 11|
