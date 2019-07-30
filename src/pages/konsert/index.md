@@ -4,7 +4,7 @@ title: Konserter
 ---
 
 
-|Konserter i Juli |  |
+|Konserter i Juli|  |
 |------------------------|----|
 |Krister Andersson sax,Leo Lindberg org, Ali Djeridi dr|Lö 27|
 |Jonatan Guzman p, Tom-Eddye Nordén b, Ivars Arutyunyan dr + hemlig gäst|Sö 28|
