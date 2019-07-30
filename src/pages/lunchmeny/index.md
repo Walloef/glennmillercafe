@@ -20,10 +20,6 @@ tyngsta namn inom jazz- och bluesgitarr.
 
 
 Kommer mer!!!!!!!
+|
 
 
-                                        |
-```
-
-| Varmt välkomna! |     |
-| --------------- | --- |
