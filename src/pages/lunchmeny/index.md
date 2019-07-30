@@ -10,6 +10,9 @@ Lars Ericsson b,
 
 Kritikerrosad jazzimprovisation innehållande lagom stökiga groover, som om man förbereder sig för ett snöbollskrig. Nya personliga arrangemang av kompositioner av bland andra Jimi Hendrix, Paul Simon och Prince. Lekfullt, lustfyllt, läckert
 
+**Lö 12 okt:  Anders Chico Lindvall Debut:**
+ AndersBergcrantz trp, Håkan Broström sax, Anders Chico Lindvall g,  Mattias Hjort b, Paul Svanberg dr
+
 Kommer mer!!!!!!!
 
 ```
