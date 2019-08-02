@@ -4,9 +4,7 @@ title: Konserter
 ---
 
 
-|Konserter i Juli|  |
-|------------------------|----|
-|
+
 |Konserter i Aug|  |
 |------------------------|----|
 |Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr|To 01|
