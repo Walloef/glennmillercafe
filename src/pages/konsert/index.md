@@ -6,14 +6,11 @@ title: Konserter
 
 |Konserter i Juli|  |
 |------------------------|----|
-|Krister Andersson sax,Leo Lindberg org, Ali Djeridi dr|Lö 27|
-|Jonatan Guzman p, Tom-Eddye Nordén b, Ivars Arutyunyan dr + hemlig gäst|Sö 28|
-|Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|On 31|
-
+|
 |Konserter i Aug|  |
 |------------------------|----|
 |Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr|To 01|
-|In a Swedish Mood: Jan Allan trp, Mattias Nilsson p, Daniel Svensson p, Jan Adefelt b|Fr 02| 
+|In a Swedish Mood: Jan Allan trp, Mattias Nilsson p, Daniel Svensson g, Jan Adefelt b|Fr 02| 
 |Bernt Rosengren sax, Leo Lindberg org, Ali Djeridi dr|Lö 03|
 |Magnus Broo trp, Max Agnas p, Mauritz Agnas b, Konrad Agnas dr|Sö 04|
 |NU Quartet: Alberto Pinton träblås/komposition, Johan Berke g, Vilhelm Bromander b, Fredrik Rundqvist dr|On 07|
