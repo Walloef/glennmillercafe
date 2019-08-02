@@ -18,8 +18,13 @@ I december tilldelades Anders Chico Lindvall utmärkelsen Guldnålen 2018 för �
 Chico Lindvall är utan tvekan ett av Sveriges 
 tyngsta namn inom jazz- och bluesgitarr.
 
+**Sö 13 okt: I.P.A:**\
+** **Atle Nymo sax, Magnus Broo trp, Mattias Ståhl vib, Ingebrigt Flaten b, 
+Håkon M. Johansen dr
+
+Halve Atomic møter halve Motif! Tungt inspirert av Don Cherry baserer musikken seg på sterke melodier komponert av bandmedlemmene. Musikken er både åpen og fri, men samtidig melodisk og strukturert spilt med en enorm energi og et glitrende samspill mellom fem fantastiske musikere.
+
+
 
 Kommer mer!!!!!!!
 |
-
-
