@@ -42,7 +42,7 @@ Kjetil Mulelids nya och spännande Trio som spelar modern akustisk jazz. Musiken
 
 **To 17 okt:  Helen Salim Kvartett: **
 \
-*Helen Salim voc, Oskar Lindström p,  Tomas Sjödell b,  Jonas Bäckman dr\
+Helen Salim voc, Oskar Lindström p,  Tomas Sjödell b,  Jonas Bäckman dr\
 \
 Stockholmsbaserade sångerskan och kompositören Helen Salim är idag aktuell med sin nya kvartett som tidigare i år mottagits med stor beundran. Bandet består av fyra hyllade, musikaliskt unika identiteter. Med tyngd och samspel finner sig alltid musiken en väg till nya platser. Kompositionerna präglas av en nyfunnen öppenhet, där enkelhetens kraft och Helens berörande rena röst lovas lämna avtryck hos publiken. ”Otrolig bra och ny röst på den svenska jazzscenen. Ni kommer att höra mycket av Helen i framtiden.” - Unity Jazz 
 
