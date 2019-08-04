@@ -35,6 +35,13 @@ Fergus McCreadie p, David Bowden b, Stephen Henderson dr
 
 The Fergus McCreadie Trio is one of Scotland’s most exciting groups.The music of the trio blurs the lines between Jazz and Scottish Music. Tunes feature the improvisation and harmony of Jazz, but it is the introduction of Folk melodies and rhythms that make this music so alluring. Influences from Keith Jarrett, Pat Metheny and Jan Garbarek can be heard, but folk artists such as the Gloaming and Lau also have a strong pull on the sound. 
 
+**On 16 okt: Kjetil Mulelid Trio:**\
+Kjetil André Mulelid p, Bjørn Marius Hegge b, Andreas Skår Winther dr\
+\
+Kjetil Mulelids nya och spännande Trio som spelar modern akustisk jazz. Musiken är en blandning av kompositioner skriven av Kjetil och rena kollektiva improvisationer. Musiken är både energisk och intim med vackra melodier och komplexa rytmer inspirerade av samtida nordiska jazzgrupper.
+
+
+
 Bordsbokning online "Bookatable" eller 0768824549
 
 Kommer mer!!!!!!!
