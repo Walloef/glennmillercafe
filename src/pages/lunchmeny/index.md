@@ -27,8 +27,7 @@ Halve Atomic møter halve Motif! Tungt inspirert av Don Cherry baserer musikk
 **Må 14 okt: JBu 5 plays Weather Report:**
 Niklas Barnö trp, Fredrik Nordström sax, Alberto Pinton sax/cl, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr
 
-Legendariska låtar i ny kostym: ”Weather Reports arv är en uppsättning låtar som äger spännande möjligheter både melodiskt, rytmiskt och harmoniskt. När skickliga musiker ger sig i kast med materialet kan det bli så här kul och levande utan att man kopierar förebildernas tolkningar. Bara en sådan sak som att låta två barytonsaxar spela Jaco Pastorius basstämma i Birdland är ju smått genialt!”
-
+Legendariska låtar i ny kostym: ”Weather Reports arv är en uppsättning låtar som äger spännande möjligheter både melodiskt, rytmiskt och harmoniskt. När skickliga musiker ger sig i kast med materialet kan det bli så här kul och levande utan att man kopierar förebildernas tolkningar. Bara en sådan sak som att låta två barytonsaxar spela Jaco Pastorius basstämma i Birdland är ju smått genialt!”\
 Rolf Nilsén / LIRA 2019 
 
 
