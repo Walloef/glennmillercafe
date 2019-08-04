@@ -5,8 +5,8 @@ title: 'Stockholm Jazz Festival på Glenn Miller Café '
 | Festival 11 okt - 20 okt |     |
 | ------------------------ | --- |
 
-**Fre 11 okt**: **Another Angle:** Sharon Dyall voc, Tommy Berndtsson p, 
-Lars Ericsson b,                                   
+**Fre 11 okt**: **Another Angle:** \
+Sharon Dyall voc, Tommy Berndtsson p, Lars Ericsson b,                                   
 
 Kritikerrosad jazzimprovisation innehållande lagom stökiga groover, som om man förbereder sig för ett snöbollskrig. Nya personliga arrangemang av kompositioner av bland andra Jimi Hendrix, Paul Simon och Prince. Lekfullt, lustfyllt, läckert
 
@@ -29,6 +29,11 @@ Niklas Barnö trp, Fredrik Nordström sax, Alberto Pinton sax/cl, Johan Be
 
 Legendariska låtar i ny kostym: ”Weather Reports arv är en uppsättning låtar som äger spännande möjligheter både melodiskt, rytmiskt och harmoniskt. När skickliga musiker ger sig i kast med materialet kan det bli så här kul och levande utan att man kopierar förebildernas tolkningar. Bara en sådan sak som att låta två barytonsaxar spela Jaco Pastorius basstämma i Birdland är ju smått genialt!”\
 Rolf Nilsén / LIRA 2019 
+
+**Ti 15 okt: Fergus McCreadie Trio:**\
+Fergus McCreadie p, David Bowden b, Stephen Henderson dr
+
+The Fergus McCreadie Trio is one of Scotland’s most exciting groups.The music of the trio blurs the lines between Jazz and Scottish Music. Tunes feature the improvisation and harmony of Jazz, but it is the introduction of Folk melodies and rhythms that make this music so alluring. Influences from Keith Jarrett, Pat Metheny and Jan Garbarek can be heard, but folk artists such as the Gloaming and Lau also have a strong pull on the sound. 
 
 
 
