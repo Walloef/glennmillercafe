@@ -40,7 +40,7 @@ Kjetil André Mulelid p, Bjørn Marius Hegge b, Andreas Skår Winther dr\
 \
 Kjetil Mulelids nya och spännande Trio som spelar modern akustisk jazz. Musiken är en blandning av kompositioner skriven av Kjetil och rena kollektiva improvisationer. Musiken är både energisk och intim med vackra melodier och komplexa rytmer inspirerade av samtida nordiska jazzgrupper.
 
-**To 17 okt:  Helen Salim Kvartett: **
+To 17 okt:  Helen Salim Kvartett: 
 Helen Salim voc, Oskar Lindström p,  Tomas Sjödell b,  Jonas Bäckman dr\
 \
 Stockholmsbaserade sångerskan och kompositören Helen Salim är idag aktuell med sin nya kvartett som tidigare i år mottagits med stor beundran. Bandet består av fyra hyllade, musikaliskt unika identiteter. Med tyngd och samspel finner sig alltid musiken en väg till nya platser. Kompositionerna präglas av en nyfunnen öppenhet, där enkelhetens kraft och Helens berörande rena röst lovas lämna avtryck hos publiken. ”Otrolig bra och ny röst på den svenska jazzscenen. Ni kommer att höra mycket av Helen i framtiden.” - Unity Jazz 
