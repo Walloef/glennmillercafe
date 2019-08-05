@@ -38,7 +38,7 @@ The Fergus McCreadie Trio is one of Scotland’s most exciting groups.The music 
 **On 16 okt: Kjetil Mulelid Trio:**\
 Kjetil André Mulelid p, Bjørn Marius Hegge b, Andreas Skår Winther dr\
 \
-Kjetil Mulelids nya och spännande Trio som spelar modern akustisk jazz. Musiken är en blandning av kompositioner skriven av Kjetil och rena kollektiva improvisationer. Musiken är både energisk och intim med vackra melodier och komplexa rytmer inspirerade av samtida nordiska jazzgrupper.\
+Kjetil Mulelids nya och spännande Trio som spelar modern akustisk jazz. Musiken är en blandning av kompositioner skriven av Kjetil och rena kollektiva improvisationer. Musiken är både energisk och intim med vackra melodier och komplexa rytmer inspirerade av samtida nordiska jazzgrupper.
 
 To 17 okt: Helen Salim Kvartett: \
 Helen Salim voc, Oskar Lindström p,  Tomas Sjödell b,  Jonas Bäckman dr\
