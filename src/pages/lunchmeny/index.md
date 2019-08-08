@@ -2,8 +2,8 @@
 templateKey: lunchmeny-page
 title: 'Stockholm Jazz Festival på Glenn Miller Café '
 ---
-| Festival 11 okt - 20 okt |     |
-| ------------------------ | --- |
+| \    11 okt - 20 okt |     |
+| -------------------- | --- |
 
 **Fre 11 okt**: **Another Angle:** \
 Sharon Dyall voc, Tommy Berndtsson p, Lars Ericsson b,                                   
@@ -50,8 +50,6 @@ Sven Berggren trb, Anders Bergcrantz trp, Hans Andersson b
 Bengt Stark dr
 
 Redan på 80-talet spelade Sven Berggren och Anders Bergcrantz tillsammans i en grupp i Malmö, WAIL, som gjorde årets ”Jazz i Sverige-skiva” 1985. Efter det har de spelat tillsammans i olika ensembler, dels Radiojazzgruppen och Tolvan Big Band, dels egna projekt som funnits under kortare perioder.Anders Bergcrantz är idag en internationellt välkänd jazzsolist som turnerar runt halva jordklotet. Han har också belönats med utmärkelsen ”Gyllene Skivan” två gånger.Sven Berggren finns representerad på skivor med bl.a. Bernt Rosengren och Norrbotten Big Band men naturligtvis också på skivor med egna projekt som ROOM8.Den ackordinstrumentlösa kvartetten kompletteras med trumslagaren Bengt Stark, känd bland annat för sitt långvariga medlemskap i Bernt Rosengrens kvartett och basisten Hans Andersson, som är ytterligare en musikalisk globetrotter. Framför allt är han känd för jazzpubliken som trumpetaren Peter Asplund och pianisten Jacob Karlzons ständiga följeslagare vid kontrabasen.   
-
-
 
 \
 Bordsbokning online "Bookatable" eller 0768824549
