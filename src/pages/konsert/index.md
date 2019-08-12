@@ -35,7 +35,7 @@ title: Konserter
 |Emil Strandberg trp, Andreas Sjögren sax, Martin Hederos klav, Josef Kallerdahl b, Konrad Agnas dr|Sö 01|
 |David Bennet sax, Oscar Schönning g, Mauritz Agnas b, Andreas Pettersson dr|On 04|
 |Bag  Ladies: Catharina Wiborg sax, Gunnel Samuelsson sax/fl, Ann Blom p/voc, Patrik Boman b, Henrik Wartel dr|Fr 06|
-|Angles 4: Martin Küchen sax, Mattias Ståhl vib,  Alexander Zethson p, Andreas Werliin dr|Lö 08|
+|Angles 4: Martin Küchen sax, Mattias Ståhl vib,  Alexander Zethson p, Andreas Werliin dr|Lö 07|
 |	
 		
 
