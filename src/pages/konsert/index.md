@@ -6,8 +6,6 @@ title: Konserter
 
 |Konserter i Aug|  |
 |------------------------|----|
-
-
 |Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr|To 01|
 |In a Swedish Mood: Jan Allan trp, Mattias Nilsson p, Daniel Svensson g, Jan Adefelt b|Fr 02| 
 |Bernt Rosengren sax, Leo Lindberg org, Ali Djeridi dr|Lö 03|
