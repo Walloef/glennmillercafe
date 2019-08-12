@@ -4,9 +4,10 @@ title: Konserter
 ---
 
 
-
 |Konserter i Aug|  |
 |------------------------|----|
+
+
 |Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr|To 01|
 |In a Swedish Mood: Jan Allan trp, Mattias Nilsson p, Daniel Svensson g, Jan Adefelt b|Fr 02| 
 |Bernt Rosengren sax, Leo Lindberg org, Ali Djeridi dr|Lö 03|
@@ -30,6 +31,11 @@ title: Konserter
 |Trinity: Karl Olandersson trp, Andreas Hellkvist hammond B3, Ali Djeridi dr|To 29|
 |Bengt Ernryd trp/flh, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén p,  Thomas Dawidovsky b, Rolf Fredriksson dr|Fr 30|
 |Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson-Werre dr| Lö 31|
+
+|Konserter i Sept|  |
+|------------------------|----|
+|Emil Strandberg trp, Andreas Sjögren sax, Martin Hederos klav, Josef Kallerdahl b, Konrad Agnas dr|Sö 01|
+
 
 
 
