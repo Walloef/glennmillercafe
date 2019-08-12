@@ -52,6 +52,6 @@ title: Konserter
 |Jens Persson sax, John Holmström p, Alfred Lorinius b, Kristoffer Rostedt dr|Lö 28|
 |John Pål Inderberg (N) sax, Trygve Fiske (N) b, Håkon M Johansen (N) dr|Sö 29|
 				 			 			 			
-	Konserterna börjar kl 20.00 på sön,ons,tor,
+	|Konserterna börjar kl 20.00 på sön,ons,tor,
                     20.30 på fred o lö 
-                  I samarbete med SENSUS	
+                  I samarbete med SENSUS|	
