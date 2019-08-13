@@ -67,7 +67,7 @@ Mike Mainieri och bestod av Michael Brecker, Don Grolnick, Eddie Gomez, Steve Ga
 
  
 
-\
-Bordsbokning online "Bookatable" eller 0768824549
+
+Bordsbokning för att äta middag: gå tillbaka till huvudsidan och boka online eller messa 0768824549
 
 
