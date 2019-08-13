@@ -53,7 +53,7 @@ title: Konserter
 
 | Konserter i Okt                                                                                                         |       |
 | ----------------------------------------------------------------------------------------------------------------------- | ----- |
-|Linus Lindblom sax, Mattias Lindberg p, Arvid Jullander b, Emil Norman dr|02
+|Linus Lindblom sax, Mattias Lindberg p, Arvid Jullander b, Emil Norman dr|On 02|
 |Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr|Lö 05|
 |Birgitta Flick(D) sax, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr|Sö 06|
 |Erik Söderlind Band|On 09V
