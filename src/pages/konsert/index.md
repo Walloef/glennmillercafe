@@ -53,4 +53,6 @@ title: Konserter
 
 | Konserter i Okt                                                                                                         |       |
 | ----------------------------------------------------------------------------------------------------------------------- | ----- |
+|Linus Lindblom sax, Mattias Lindberg p, Arvid Jullander b, Emil Norman dr|02|
+|Birgitta Flick(D) sax, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr|Sö 06|
 | Konserterna börjar kl 20.00 på sön,ons,tor                                                                                                                               20.30 på fred o lör, I samarbete med SENSUS |       |     |     |     |
