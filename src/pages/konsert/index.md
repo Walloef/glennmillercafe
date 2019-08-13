@@ -49,7 +49,7 @@ title: Konserter
 | Lena Swanberg voc, Anders Ekholm sax, Paul Kovacs munspel,	Ann Blom p, Magnus ”Mankan” Marcks b, Jesper Kviberg dr                                                                                                   | To 26 |     |     |     |
 |  Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Lars Ekman b, Mattias Puttonen dr                                                                                                                      | Fr 27 |     |     |     |
 | Jens Persson sax, John Holmström p, Alfred Lorinius b, Kristoffer Rostedt dr                                                                                                                                         | Lö 28 |     |     |     |
-| John Pål Inderberg (N) sax, Trygve Fiske (N) b, Håkon M Johansen (N) dr                                                                                                                                              | Sö 29 |     |     |     |
+| John Pål Inderberg Trio:John Pål Inderberg (N)barsax, Trygve Fiske (N) b, Håkon M Johansen (N) dr                                                                                                                                              | Sö 29 |     |     |     |
 
 | Konserter i Okt                                                                                                         |       |
 | ----------------------------------------------------------------------------------------------------------------------- | ----- |
