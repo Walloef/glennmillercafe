@@ -14,7 +14,7 @@ title: Konserter
 | Håkan Broström sax, Britta Virves p, Tomas Sjödell b, Karl Henrik Ousbäck dr                                            | Lö 10 |
 | Klas Toresson sax, Daniel Tilling p, Jess Gerzenkorn b                                                                  | Sö 11 |
 | Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr                                                                   | On 14 |
-| Leo Lindbeerg p, Niklas Fernqvist b,  Karl-Henrik Ousbäck dr                                                            | To 15 |
+| Leo Lindberg p, Niklas Fernqvist b,  Karl-Henrik Ousbäck dr                                                            | To 15 |
 | Nils Jansson trp, Magnus Broo trp, Carl Bagge p, Kenji Rabson b, Moussa Fadera dr                                       | Fr 16 |
 | Lina Nyberg Band: Lina Nyberg voc, Cecilia Persson p, David Stackenäs g, Mauritz Agnas b, Peter Danemo dr               | Lö 17 |
 | Örjan Hultén Orion: Örjan Hultén sax, Torbjörn Gulz p, Filip Augustson b, Peter Danemo dr                               | Sö 18 |
