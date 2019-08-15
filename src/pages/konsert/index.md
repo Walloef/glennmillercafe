@@ -55,7 +55,7 @@ title: Konserter
 | Konserter i Okt                                                                                                         |       |
 | ----------------------------------------------------------------------------------------------------------------------- | ----- |
 |Linus Lindblom sax, Mattias Lindberg p, Arvid Jullander b, Emil Norman dr|On 02|
-|Per Ödberg g,Jan Eriksson g, Jonas Olofsson b, dr TBA
+|Per Ödberg g,Jan Eriksson g, Jonas Olofsson b, dr TBA|To 03|
 |Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr|Lö 05|
 |Birgitta Flick(D) sax, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr|Sö 06|
 |Erik Söderlind g, Daniel Svensson g|On 09|
