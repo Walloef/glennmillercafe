@@ -60,5 +60,7 @@ title: Konserter
 |Birgitta Flick(D) sax, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr|Sö 06|
 |Erik Söderlind g, Daniel Svensson g|On 09|
 |Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck|To 10|
+| Stockholm Jazz Festival                                                                                                         |       |
+| ----------------------------------------------------------------------------------------------------------------------- | ----- |
 
 Konserterna börjar kl 20.00 på sön,ons,tor                                                                                                                               20.30 på fred o lör, I samarbete med SENSUS     
