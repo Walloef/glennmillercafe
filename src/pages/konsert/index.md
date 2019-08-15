@@ -61,7 +61,7 @@ title: Konserter
 | Erik Söderlind g, Daniel Svensson g                                                            | On 09 |
 | Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck | To 10 |
 
-| Konserter i Okt                                                                                |       |
+|Stockholm Jazz Festival 11 okt - 20 okt                                                                                |       |
 | ---------------------------------------------------------------------------------------------- | ----- |
 
 
