@@ -67,8 +67,8 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 | ---------------------------------------------------------------------------------------------- | ----- |
 |Another Angle: Sharon Dyall voc, Tommy Berndtsson piano, Lars Ericsson bas| Fr 11 |
 |Anders Chico Lindvall Debut:
- AndersBergcrantz trp, Håkan Broström sax, Anders Chico Lindvall g,  Mattias Hjort b, Paul Svanberg dr 
-| Lö 12 |
+AndersBergcrantz trp, Håkan Broström sax, Anders Chico Lindvall g,  Mattias Hjort b, 
+Paul Svanberg dr| Lö 12 |
 
 
 För ytterligare information ang festivalen gå in på "festival" på denna hemsida
