@@ -67,7 +67,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 | ---------------------------------------------------------------------------------------------- | ----- |
 För ytterligare information ang festivalen gå in på "festival" på denna hemsida
 
-|Another Angle: Sharon Dyall voc, Tommy Berndtsson piano, Lars Ericsson bas
+|Another Angle: Sharon Dyall voc, Tommy Berndtsson piano, Lars Ericsson bas|
 | Fr 11 |
 
 Konserterna på festivalen börjar kl 20.30 
