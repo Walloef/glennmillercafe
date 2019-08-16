@@ -61,12 +61,14 @@ title: Konserter
 | Erik Söderlind g, Daniel Svensson g                                                            | On 09 |
 | Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck | To 10 |
 
-|Konserterna börjar kl 20.00 på sön,ons,tor                                                                                                                               20.30 på fred o lör, I samarbete med SENSUS|
+Konserterna börjar kl 20.00 på sön,ons,tor                                                                                                                               20.30 på fred o lör, I samarbete med SENSUS
 
 |Stockholm Jazz Festival 11 okt - 20 okt                                                                                |       |
 | ---------------------------------------------------------------------------------------------- | ----- |
-|För ytterligare information ang festivalen gå in på festival på denna hemsida|
+För ytterligare information ang festivalen gå in på festival på denna hemsida
+
 |Another Angle: Sharon Dyall voc, 
-Tommy Berndtsson piano, Lars Ericsson bas|Fr 11|
+Tommy Berndtsson piano, Lars Ericsson bas
+|Fr 11|
 
 |Konserterna på festivalen börjar kl 20.30| 
