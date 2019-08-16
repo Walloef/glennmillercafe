@@ -65,9 +65,8 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 
 |Stockholm Jazz Festival 11 okt - 20 okt                                                                                |       |
 | ---------------------------------------------------------------------------------------------- | ----- |
-För ytterligare information ang festivalen gå in på "festival" på denna hemsida
-
 |Another Angle: Sharon Dyall voc, Tommy Berndtsson piano, Lars Ericsson bas|
 | Fr 11 |
+För ytterligare information ang festivalen gå in på "festival" på denna hemsida
 
 Konserterna på festivalen börjar kl 20.30 
