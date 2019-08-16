@@ -58,17 +58,16 @@ title: Konserter
 | Per Ödberg g,Jan Eriksson g, Jonas Olofsson b, dr TBA                                          | To 03 |
 | Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                     | Lö 05 |
 | Birgitta Flick(D) sax, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr               | Sö 06 |
-| Erik Söderlind g, Daniel Svensson g                                                            | On 09 |
-| Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck | To 10 |
+|Erik Söderlind g, Daniel Svensson g                                                            | On 09 |
+|Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck | To 10 |
 
 Konserterna börjar kl 20.00 på sön,ons,tor                                                                                                                               20.30 på fred o lör, I samarbete med SENSUS
 
 |Stockholm Jazz Festival 11 okt - 20 okt                                                                                |       |
 | ---------------------------------------------------------------------------------------------- | ----- |
-För ytterligare information ang festivalen gå in på festival på denna hemsida
+För ytterligare information ang festivalen gå in på "festival" på denna hemsida
 
-|Another Angle: Sharon Dyall voc, 
-Tommy Berndtsson piano, Lars Ericsson bas
+|Another Angle: Sharon Dyall voc, Tommy Berndtsson piano, Lars Ericsson bas
 |Fr 11|
 
-|Konserterna på festivalen börjar kl 20.30| 
+Konserterna på festivalen börjar kl 20.30 
