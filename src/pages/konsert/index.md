@@ -70,8 +70,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 | **I.P.A** Atle Nymo sax, Magnus Broo trp, Mattias Ståhl vib, Ingebrigt Flaten b, Håkon M. Johansen dr                                                  | Sö 13 |
 | **JBu 5 plays Weather Report**Niklas Barnö trp, Fredrik Nordström sax, Alberto Pinton sax/cl, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr | Må 14 |
 | **Fergus McCreadie Trio**Fergus McCreadie p, David Bowden b, Stephen Henderson dr| Ti 15 |
- **Kjetil Mulelid Trio**
-Kjetil André Mulelid p, Bjørn Marius Hegge b, Andreas Skår Winther dr|On 16|
+| **Kjetil Mulelid Trio**Kjetil André Mulelid p, Bjørn Marius Hegge b, Andreas Skår Winther dr|On 16|
 
 
 För ytterligare information ang konserterna på festivalen: gå in på "festival" på denna hemsida
