@@ -68,7 +68,8 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 | **Another Angle** Sharon Dyall voc, Tommy Berndtsson piano, Lars Ericsson bas                                                          | Fr 11 |
 | **Anders Chico Lindvall Debut** Anders Bergcrantz trp, Håkan Broström sax, Anders Chico Lindvall g,  Mattias Hjort b, Paul Svanberg dr | Lö 12 |
 | **I.P.A** Atle Nymo sax, Magnus Broo trp, Mattias Ståhl vib, Ingebrigt Flaten b, Håkon M. Johansen dr                                  | Sö 13 |
-| **JBu 5 plays Weather Report**
+
+\|**JBu 5 plays Weather Report**
 Niklas Barnö trp, Fredrik Nordström sax, Alberto Pinton sax/cl, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr|Må 14|
 
 För ytterligare information ang konserterna på festivalen: gå in på "festival" på denna hemsida
