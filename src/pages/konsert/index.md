@@ -73,9 +73,9 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 | **Kjetil Mulelid Trio**Kjetil André Mulelid p, Bjørn Marius Hegge b, Andreas Skår Winther dr                                                           | On 16 |
 | **Helen Salim Kvartett**Helen Salim voc,Oskar Lindström p, Tomas Sjödell b, Jonas Bäckman dr                                                           | To 17 |
 | **Hyllning till Ella Fitzgerald**Sanna Ruohoniemi voc,Anna Gréta Sigurðardóttir p,Lars Ekman b, Mattias Puttonen dr                                    | Fr 18 |
-| **Berggren-Bergcrantz Kvartett**Sven Berggren trb, Anders Bergcrantz trp, Hans Andersson b, Bengt Stark dr| Lö 19 |
-| **Hans Backenroth ” A Tribute to Steps Ahead”**Henrik Westerberg sax, Roger Svedberg vib, Stefan Blomqvist p, Hans Backenroth b, Bengt Stark dr | Sö 20 |
+| **Berggren-Bergcrantz Kvartett**Sven Berggren trb, Anders Bergcrantz trp, Hans Andersson b, Bengt Stark dr                                             | Lö 19 |
+| **Hans Backenroth ” A Tribute to Steps Ahead”**Henrik Westerberg sax, Roger Svedberg vib, Stefan Blomqvist p, Hans Backenroth b, Bengt Stark dr        | Sö 20 |
 
-För ytterligare information ang konserterna på festivalen: gå in på "festival" på denna hemsida
+**För ytterligare information ang konserterna på festivalen: gå in på "festival" på denna hemsida**
 
-Konserterna på festivalen börjar kl 20.30
+**Konserterna på festivalen börjar kl 20.30**
