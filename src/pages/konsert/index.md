@@ -33,7 +33,7 @@ title: Konserter
 | Emil Strandberg trp, Andreas Sjögren sax, Martin Hederos klav, Josef Kallerdahl b, Konrad Agnas dr                                           | Sö 01 |     |     |     |
 | David Bennet sax, Oscar Schönning g, Mauritz Agnas b, Andreas Pettersson dr                                                                  | On 04 |     |     |     |
 | Niklas Barnö trp, David Bennet sax, Vilhelm Bromander b, Andreas Pettersson dr                                                               | To 05 |     |     |     |
-|Hanna Paulsberg sax, Magnus Broo trp, Oscar Grønberg p, Trygve Waldewmar Fiske b, Hans Hullbaekmo dr| Fr 06 |     |     |     |
+| Hanna Paulsberg sax, Magnus Broo trp, Oscar Grønberg p, Trygve Waldewmar Fiske b, Hans Hullbaekmo dr                                         | Fr 06 |     |     |     |
 | Angles 4: Martin Küchen sax, Mattias Ståhl vib,  Alexander Zethson p, Andreas Werliin dr                                                     | Lö 07 |     |     |     |
 | Erik Kjellberg vib, Leo Lindberg p, Ove Gustavsson b, Ali Djeridi dr                                                                         | Sö 08 |     |     |     |
 | Elin Forkelid sax,  Mattias Torell g, Owe Almgren b, Martina Almgren dr                                                                      | On 11 |     |     |     |
@@ -63,8 +63,9 @@ title: Konserter
 
 Konserterna börjar kl 20.00 på sön,ons,tor                                                                                                                               20.30 på fred o lör, I samarbete med SENSUS
 
-| Stockholm Jazz Festival 11 okt - 20 okt                                                                                                                |För ytterligare information gå in på "festival på hemsidan       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| Stockholm Jazz Festival 11 okt - 20 okt                                                                                                                |       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+|För ytterligare information gå in på "Festival"på hemsidan|
 | **Another Angle** Sharon Dyall voc, Tommy Berndtsson piano, Lars Ericsson bas                                                                          | Fr 11 |
 | **Anders Chico Lindvall Debut** Anders Bergcrantz trp, Håkan Broström sax, Anders Chico Lindvall g,  Mattias Hjort b, Paul Svanberg dr                 | Lö 12 |
 | **I.P.A** Atle Nymo sax, Magnus Broo trp, Mattias Ståhl vib, Ingebrigt Flaten b, Håkon M. Johansen dr                                                  | Sö 13 |
