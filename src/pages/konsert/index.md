@@ -63,7 +63,7 @@ title: Konserter
 
 Konserterna börjar kl 20.00 på sön,ons,tor                                                                                                                               20.30 på fred o lör, I samarbete med SENSUS
 
-| Stockholm Jazz Festival 11 okt - 20 okt                                                                                                                |       |
+| Stockholm Jazz Festival 11 okt - 20 okt                                                                                                                |För ytterligare information gå in på "festival på hemsidan       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
 | **Another Angle** Sharon Dyall voc, Tommy Berndtsson piano, Lars Ericsson bas                                                                          | Fr 11 |
 | **Anders Chico Lindvall Debut** Anders Bergcrantz trp, Håkan Broström sax, Anders Chico Lindvall g,  Mattias Hjort b, Paul Svanberg dr                 | Lö 12 |
