@@ -59,19 +59,19 @@ title: Konserter
 | Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                     | Lö 05 |
 | Birgitta Flick(D) sax, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr               | Sö 06 |
 | Erik Söderlind g, Daniel Svensson g                                                            | On 09 |
-| Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck | To 10 |
+| Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck dr | To 10 |
 
 Konserterna börjar kl 20.00 på sön,ons,tor                                                                                                                               20.30 på fred o lör, I samarbete med SENSUS
 
 | Stockholm Jazz Festival 11 okt - 20 okt                                                                                                                |       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 |För ytterligare information gå in på "Festival"på hemsidan|
-| **Another Angle** Sharon Dyall voc, Tommy Berndtsson piano, Lars Ericsson bas                                                                          | Fr 11 |
+| **Another Angle** Sharon Dyall voc, Tommy Berndtsson p, Lars Ericsson b                                                                          | Fr 11 |
 | **Anders Chico Lindvall Debut** Anders Bergcrantz trp, Håkan Broström sax, Anders Chico Lindvall g,  Mattias Hjort b, Paul Svanberg dr                 | Lö 12 |
-| **I.P.A** Atle Nymo sax, Magnus Broo trp, Mattias Ståhl vib, Ingebrigt Flaten b, Håkon M. Johansen dr                                                  | Sö 13 |
+| **I.P.A** Atle Nymo (N)sax, Magnus Broo trp, Mattias Ståhl vib, Ingebrigt Flaten (N) b, Håkon M. Johansen (N) dr                                                  | Sö 13 |
 | **JBu 5 plays Weather Report**Niklas Barnö trp, Fredrik Nordström sax, Alberto Pinton sax/cl, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr | Må 14 |
-| **Fergus McCreadie Trio**Fergus McCreadie p, David Bowden b, Stephen Henderson dr                                                                      | Ti 15 |
-| **Kjetil Mulelid Trio**Kjetil André Mulelid p, Bjørn Marius Hegge b, Andreas Skår Winther dr                                                           | On 16 |
+| **Fergus McCreadie Trio**Fergus McCreadie (GB) p, David Bowden (GB) b, Stephen Henderson (GB ) dr                                                                      | Ti 15 |
+| **Kjetil Mulelid Trio**Kjetil André Mulelid (N) p, Bjørn Marius Hegge (N) b, Andreas Skår Winther (N) dr                                                           | On 16 |
 | **Helen Salim Kvartett**Helen Salim voc,Oskar Lindström p, Tomas Sjödell b, Jonas Bäckman dr                                                           | To 17 |
 | **Hyllning till Ella Fitzgerald**Sanna Ruohoniemi voc,Anna Gréta Sigurðardóttir p,Lars Ekman b, Mattias Puttonen dr                                    | Fr 18 |
 | **Berggren-Bergcrantz Kvartett**Sven Berggren trb, Anders Bergcrantz trp, Hans Andersson b, Bengt Stark dr                                             | Lö 19 |
