@@ -33,7 +33,7 @@ title: Konserter
 | Emil Strandberg trp, Andreas Sjögren sax, Martin Hederos klav, Josef Kallerdahl b, Konrad Agnas dr                                           | Sö 01 |     |     |     |
 | David Bennet sax, Oscar Schönning g, Mauritz Agnas b, Andreas Pettersson dr                                                                  | On 04 |     |     |     |
 | Niklas Barnö trp, David Bennet sax, Vilhelm Bromander b, Andreas Pettersson dr                                                               | To 05 |     |     |     |
-| Hanna Paulsberg sax, Magnus Broo trp, Oscar Grønberg p, Trygve Waldewmar Fiske b, Hans Hullbaekmo dr                                         | Fr 06 |     |     |     |
+| Hanna Paulsberg (N) sax, Magnus Broo trp, Oscar Grønberg (N) p, Trygve Waldemar Fiske (N) b, Hans Hullbaekmo (N) dr                                         | Fr 06 |     |     |     |
 | Angles 4: Martin Küchen sax, Mattias Ståhl vib,  Alexander Zethson p, Elsa Bergman b, Andreas Werliin dr                                                     | Lö 07 |     |     |     |
 | Erik Kjellberg vib, Leo Lindberg p, Ove Gustavsson b, Ali Djeridi dr                                                                         | Sö 08 |     |     |     |
 | Elin Forkelid sax,  Mattias Torell g, Owe Almgren b, Martina Almgren dr                                                                      | On 11 |     |     |     |
