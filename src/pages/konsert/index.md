@@ -34,7 +34,7 @@ title: Konserter
 | David Bennet sax, Oscar Schönning g, Mauritz Agnas b, Andreas Pettersson dr                                                                  | On 04 |     |     |     |
 | Niklas Barnö trp, David Bennet sax, Vilhelm Bromander b, Andreas Pettersson dr                                                               | To 05 |     |     |     |
 | Hanna Paulsberg sax, Magnus Broo trp, Oscar Grønberg p, Trygve Waldewmar Fiske b, Hans Hullbaekmo dr                                         | Fr 06 |     |     |     |
-| Angles 4: Martin Küchen sax, Mattias Ståhl vib,  Alexander Zethson p, Andreas Werliin dr, Elsa Bergman b                                                     | Lö 07 |     |     |     |
+| Angles 4: Martin Küchen sax, Mattias Ståhl vib,  Alexander Zethson p, Elsa Bergman b, Andreas Werliin dr                                                     | Lö 07 |     |     |     |
 | Erik Kjellberg vib, Leo Lindberg p, Ove Gustavsson b, Ali Djeridi dr                                                                         | Sö 08 |     |     |     |
 | Elin Forkelid sax,  Mattias Torell g, Owe Almgren b, Martina Almgren dr                                                                      | On 11 |     |     |     |
 | Skivinspelning med Najponk Scandinavian Trio:  Najponk (CZ) p, Hans Backenroth b, Chris Montgomery dr 		(Med stöd av Tjeckiska ambassaden)   | To 12 |     |     |     |
