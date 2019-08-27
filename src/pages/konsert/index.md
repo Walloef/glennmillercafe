@@ -34,7 +34,7 @@ title: Konserter
 | David Bennet sax, Oscar Schönning g, Mauritz Agnas b, Andreas Pettersson dr                                                                  | On 04 |     |     |     |
 | Niklas Barnö trp, David Bennet sax, Vilhelm Bromander b, Andreas Pettersson dr                                                               | To 05 |     |     |     |
 | Hanna Paulsberg sax, Magnus Broo trp, Oscar Grønberg p, Trygve Waldewmar Fiske b, Hans Hullbaekmo dr                                         | Fr 06 |     |     |     |
-| Angles 4: Martin Küchen sax, Mattias Ståhl vib,  Alexander Zethson p, Andreas Werliin dr                                                     | Lö 07 |     |     |     |
+| Angles 4: Martin Küchen sax, Mattias Ståhl vib,  Alexander Zethson p, Andreas Werliin dr, Elsa Bergman b                                                     | Lö 07 |     |     |     |
 | Erik Kjellberg vib, Leo Lindberg p, Ove Gustavsson b, Ali Djeridi dr                                                                         | Sö 08 |     |     |     |
 | Elin Forkelid sax,  Mattias Torell g, Owe Almgren b, Martina Almgren dr                                                                      | On 11 |     |     |     |
 | Skivinspelning med Najponk Scandinavian Trio:  Najponk (CZ) p, Hans Backenroth b, Chris Montgomery dr 		(Med stöd av Tjeckiska ambassaden)   | To 12 |     |     |     |
@@ -55,7 +55,7 @@ title: Konserter
 | Konserter i Okt                                                                                |       |
 | ---------------------------------------------------------------------------------------------- | ----- |
 | Linus Lindblom sax, Mattias Lindberg p, Arvid Jullander b, Emil Norman dr                      | On 02 |
-| Per Ödberg g,Jan Eriksson g, Jonas Olofsson b, dr TBA                                          | To 03 |
+| Per Ödberg g, Jan Eriksson g, Jonas Olofsson b, Jonas Lidholm dr                                          | To 03 |
 | Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                     | Lö 05 |
 | Birgitta Flick(D) sax, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr               | Sö 06 |
 | Erik Söderlind g, Daniel Svensson g                                                            | On 09 |
