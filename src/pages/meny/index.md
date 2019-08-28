@@ -28,7 +28,7 @@ title: Meny
 
 | Les Moules Frites                                                                                                         |       |
 | ------------------------------------------------------------------------------------------------------------------------- | ----- |
-| _Alla musslor serveras med frites (alt sallad) och aioli, pris nummer 2 är moules Bouchot (franska)                                                                |       |
+| Alla musslor serveras med frites (alt sallad) och aioli, pris nummer 2 är moules Bouchot (franska)                                                                |       |
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:-/245:- |
 | **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon..                                      | 235:-/255:- |
 | **À la Belge** Ångade blåmusslor i öl, échalôte, vitlök, silverlök, lagerblad, selleri, tabasco..                         | 245:-/265:- |
