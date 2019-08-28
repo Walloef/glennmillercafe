@@ -15,7 +15,7 @@ import './../scss/link-block.scss';
 class SweIndex extends React.Component {
 
 
-    render() {
+    render () {
         return (
             <Fragment>
 
@@ -41,7 +41,6 @@ class SweIndex extends React.Component {
                         </p>
                         <b>Telefon</b>
                         <p>0768824549</p>
-                        <p>08-100322</p>
                     </div>
                     <div>
                         <h3>Öppettider</h3>
@@ -54,12 +53,7 @@ class SweIndex extends React.Component {
                         <p>Brunnsgatan 21A  11138 Stockholm</p>
                         <p class="small">T-bana Hötorget eller Östermalmstorg</p>
                     </div>
-                    <div>
-                        <h3>Lunchöppet</h3>
-                        <b>onsdag-fredag</b>
-                        <p>11–14</p>
-                        <p className="small">Sommarstängt till 23/8</p>
-                    </div>
+
                 </div>
                 <div className="iframe__wrapper">
                     <iframe src="./iframe.html"
@@ -131,19 +125,7 @@ class SweIndex extends React.Component {
                     <img src={`${klarinett}`} alt="klarinett" />
                 </div>
                 <div className="link-block__wrapper">
-                    <Link to="/lunchmeny" className="link-block"
-                        style={{ background: `url(${lunch})` }}>
-                        <span
-                            style={{
-                                background: '#ffffffbd',
-                                color: 'black',
-                                padding: '3px 8px',
-                                fontSize: '12px',
-                                fontWeight: 'bold'
-                            }}
-                        >Sommarstängt till 23/8</span>
-                        <h2>Lunchmeny</h2>
-                    </Link>
+
                     <Link to="/meny" className="link-block"
                         style={{ background: `url(${dinner})` }}>
                         <h2>Meny</h2>
@@ -154,10 +136,7 @@ class SweIndex extends React.Component {
                     </Link>
                 </div>
                 <div className='vertical-align-middle scroll link-block__mobile'>
-                    <Link to="/lunchmeny" className='mobile-slide-item'
-                        style={{ backgroundImage: `url(${lunch})` }}>
-                        <h2>Lunchmeny</h2>
-                    </Link>
+
                     <Link to="/meny" className='mobile-slide-item'
                         style={{ backgroundImage: `url(${dinner})` }}>
                         <h2>Meny</h2>

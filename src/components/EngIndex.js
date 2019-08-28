@@ -10,7 +10,7 @@ import './../scss/index-text.scss';
 import './../scss/link-block.scss';
 class EngIndex extends React.Component {
 
-    render() {
+    render () {
         return (
             <Fragment>
 
@@ -36,7 +36,6 @@ class EngIndex extends React.Component {
                         </p>
                         <b>Phone</b>
                         <p>0768824549</p>
-                        <p>08-100322</p>
                     </div>
                     <div>
                         <h3>Opening hours</h3>
@@ -49,12 +48,7 @@ class EngIndex extends React.Component {
                         <p>Brunnsgatan 21A  11138 Stockholm</p>
                         <p class="small">Subway Hötorget or Östermalmstorg</p>
                     </div>
-                    <div>
-                        <h3>Lunch</h3>
-                        <b>Wednesday-Friday</b>
-                        <p>11–14</p>
-                        <p className="small">Closed until August 23</p>
-                    </div>
+
                 </div>
                 <div className="iframe__wrapper">
                     <iframe src="./../../../iframe.html"
