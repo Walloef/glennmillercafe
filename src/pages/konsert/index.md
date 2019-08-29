@@ -2,7 +2,7 @@
 templateKey: konsert-page
 title: Konserter
 ---
-|                                                                                           | Konserter i Aug |     |
+|                                                                                           Konserter i Aug |     |
 | ----------------------------------------------------------------------------------------------------------------------- | --------------- | --- |
 | Alexander Ivarsson cl, Joel Hulander b, Filip Olofsson dr                                                               | To 01           |     |
 | In a Swedish Mood: Jan Allan trp, Mattias Nilsson p, Daniel Svensson g, Jan Adefelt b                                   | Fr 02           |     |
