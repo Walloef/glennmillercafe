@@ -58,7 +58,7 @@ title: Konserter
 | Per Ödberg g, Jan Eriksson g, Jonas Olofsson b, Jonas Lidholm dr                                  | To 03 |
 |Elise Einarsdotter p, Olle Steinholtz b + gäster|04|
 | Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                        | Lö 05 |
-| Birgitta Flick(D) sax, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr                  | Sö 06 |
+| Birgitta Flick(D) sax, Eva Lindal vi, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr                  | Sö 06 |
 | Erik Söderlind g, Daniel Svensson g                                                               | On 09 |
 | Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck dr | To 10 |
 
