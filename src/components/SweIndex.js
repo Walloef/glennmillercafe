@@ -44,8 +44,10 @@ class SweIndex extends React.Component {
                     </div>
                     <div>
                         <h3>Öppettider</h3>
-                        <b>onsdag-söndag</b>
-                        <p>18:00 - 00:00 eller 01:00</p>
+                        <b>Onsdag - Fredag</b>
+                        <p>17.00 - 01.00</p>
+                        <b>Lördag - Söndag</b>
+                        <p>18.00 - 01.00</p>
                         <p className="small">Stängt måndag - tisdag</p>
                     </div>
                     <div>

@@ -39,8 +39,10 @@ class EngIndex extends React.Component {
                     </div>
                     <div>
                         <h3>Opening hours</h3>
-                        <b>Wednesday-Sunday</b>
-                        <p>18:00 - 00:00 eller 01:00</p>
+                        <b>Wednesday - Friday</b>
+                        <p>17.00 - 01.00</p>
+                        <b>Saturday - Sunday</b>
+                        <p>18.00 - 01.00</p>
                         <p className="small">Closed Monday - Tuesday</p>
                     </div>
                     <div>
