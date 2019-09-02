@@ -2,8 +2,6 @@
 templateKey: konsert-page
 title: Konserter
 ---
-
-
 | Konserter i Sept                                                                                                                             |       |     |     |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- | --- | --- |
 | Emil Strandberg trp, Andreas Sjögren sax, Martin Hederos klav, Josef Kallerdahl b, Konrad Agnas dr                                           | Sö 01 |     |     |     |
@@ -32,9 +30,9 @@ title: Konserter
 | ------------------------------------------------------------------------------------------------- | ----- |
 | Linus Lindblom sax, Mattias Lindberg p, Arvid Jullander b, Emil Norman dr                         | On 02 |
 | Per Ödberg g, Jan Eriksson g, Jonas Olofsson b, Jonas Lidholm dr                                  | To 03 |
-|Elise Einarsdotter p, Olle Steinholtz b + gäster|04|
+| Elise Einarsdotter p, Olle Steinholtz b + gäster                                                  | 04    |
 | Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                        | Lö 05 |
-| Birgitta Flick(D) sax, Eva Lindal vi, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr                  | Sö 06 |
+| Birgitta Flick(D) sax, Eva Lindal vi, Antje Rößeler(D) p, Mauritz Agnas b, Sebastian Voegler dr   | Sö 06 |
 | Erik Söderlind g, Daniel Svensson g                                                               | On 09 |
 | Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck dr | To 10 |
 
