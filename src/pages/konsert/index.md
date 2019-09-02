@@ -2,7 +2,7 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Konserter i Sept                                                                                                                             |       |     |     |     |
+| Konserter i Sept  |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- | --- | --- |
 | Emil Strandberg trp, Andreas Sjögren sax, Martin Hederos klav, Josef Kallerdahl b, Konrad Agnas dr                                           | Sö 01 |     |     |     |
 | David Bennet sax, Oscar Schönning g, Mauritz Agnas b, Andreas Pettersson dr                                                                  | On 04 |     |     |     |
