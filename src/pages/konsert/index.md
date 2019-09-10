@@ -2,8 +2,8 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Konserter i Sept  |
-  | ------------------------------------------------------------ -------------------------------------------------------------------------------- | ----- | --- | --- | --- |
+| Konserter i Sept                                                                                                                             |       |     |     |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- | --- | --- |
 | Emil Strandberg trp, Andreas Sjögren sax, Martin Hederos klav, Josef Kallerdahl b, Konrad Agnas dr                                           | Sö 01 |     |     |     |
 | David Bennet sax, Oscar Schönning g, Mauritz Agnas b, Andreas Pettersson dr                                                                  | On 04 |     |     |     |
 | Niklas Barnö trp, David Bennet sax, Vilhelm Bromander b, Andreas Pettersson dr                                                               | To 05 |     |     |     |
@@ -24,7 +24,7 @@ title: Konserter
 | Lena Swanberg voc, Anders Ekholm sax, Paul Kovacs munspel,	Ann Blom p, Magnus ”Mankan” Marcks b, Jesper Kviberg dr                           | To 26 |     |     |     |
 |  Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Lars Ekman b, Mattias Puttonen dr                                              | Fr 27 |     |     |     |
 | Jens Persson sax, John Holmström p, Alfred Lorinius b, Kristoffer Rostedt dr                                                                 | Lö 28 |     |     |     |
-| John Pål Inderberg Trio:John Pål Inderberg (N)barsax, Trygve Fiske (N) b, Håkon M Johansen (N) dr                                            | Sö 29 |     |     |      
+| John Pål Inderberg Trio:John Pål Inderberg (N)barsax, Trygve Fiske (N) b, Håkon M Johansen (N) dr                                            | Sö 29 |     |     |     |
 
 | Konserter i Okt                                                                                   |       |
 | ------------------------------------------------------------------------------------------------- | ----- |
@@ -56,5 +56,4 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 
 **Konserterna på festivalen börjar kl 20.30**
 
-| **Hilde Louise Asbjørnsen (N)voc, Anders Aarum (N)p, Svein Erik Martinsen (N) g, Jens Fossum (N) b, Magnus Eide (N) dr  
-| On 23 |
+|Hilde Louise Asbjørnsen (N)voc, Anders Aarum (N)p, Svein Erik Martinsen (N) g, Jens Fossum (N) b, Magnus Eide (N) dr  On 23 
