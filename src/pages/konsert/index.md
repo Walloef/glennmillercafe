@@ -38,25 +38,26 @@ title: Konserter
 
 Konserterna börjar kl 20.00 på sön,ons,tor                                                                                                                               20.30 på fred o lör, I samarbete med SENSUS
 
-| Stockholm Jazz Festival 11 okt - 20 okt                                                                                                                |       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
-| För ytterligare information gå in på "Festival"på hemsidan                                                                                             |       |
-| **Another Angle** Sharon Dyall voc, Tommy Berndtsson p, Lars Ericsson b                                                                                | Fr 11 |
-| **Anders Chico Lindvall Debut** Anders Bergcrantz trp, Håkan Broström sax, Anders Chico Lindvall g,  Mattias Hjort b, Paul Svanberg dr                 | Lö 12 |
-| **I.P.A** Atle Nymo (N)sax, Magnus Broo trp, Mattias Ståhl vib, Ingebrigt Flaten (N) b, Håkon M. Johansen (N) dr                                       | Sö 13 |
-| **JBu 5 plays Weather Report**Niklas Barnö trp, Fredrik Nordström sax, Alberto Pinton sax/cl, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr | Må 14 |
-| **Fergus McCreadie Trio**Fergus McCreadie (GB) p, David Bowden (GB) b, Stephen Henderson (GB ) dr                                                      | Ti 15 |
-| **Kjetil Mulelid Trio**Kjetil André Mulelid (N) p, Bjørn Marius Hegge (N) b, Andreas Skår Winther (N) dr                                               | On 16 |
-| **Helen Salim Kvartett**Helen Salim voc,Oskar Lindström p, Tomas Sjödell b, Jonas Bäckman dr                                                           | To 17 |
-| **Hyllning till Ella Fitzgerald**Sanna Ruohoniemi voc,Anna Gréta Sigurðardóttir p,Lars Ekman b, Mattias Puttonen dr                                    | Fr 18 |
-| **Berggren-Bergcrantz Kvartett**Sven Berggren trb, Anders Bergcrantz trp, Hans Andersson b, Bengt Stark dr                                             | Lö 19 |
-| **Hans Backenroth ” A Tribute to Steps Ahead”**Henrik Westerberg sax, Roger Svedberg vib, Stefan Blomqvist p, Hans Backenroth b, Bengt Stark dr        | Sö 20 |
+| Stockholm Jazz Festival 11 okt - 20 okt                                                                                                                |                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |
+| För ytterligare information gå in på "Festival"på hemsidan|                                                                                             
+| Konserterna på festivalen börjar kl 20.30 |
+| **Another Angle** Sharon Dyall voc, Tommy Berndtsson p, Lars Ericsson b                                                                                | Fr 11                                     |
+| **Anders Chico Lindvall Debut** Anders Bergcrantz trp, Håkan Broström sax, Anders Chico Lindvall g,  Mattias Hjort b, Paul Svanberg dr                 | Lö 12                                     |
+| **I.P.A** Atle Nymo (N)sax, Magnus Broo trp, Mattias Ståhl vib, Ingebrigt Flaten (N) b, Håkon M. Johansen (N) dr                                       | Sö 13                                     |
+| **JBu 5 plays Weather Report**Niklas Barnö trp, Fredrik Nordström sax, Alberto Pinton sax/cl, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr | Må 14                                     |
+| **Fergus McCreadie Trio**Fergus McCreadie (GB) p, David Bowden (GB) b, Stephen Henderson (GB ) dr                                                      | Ti 15                                     |
+| **Kjetil Mulelid Trio**Kjetil André Mulelid (N) p, Bjørn Marius Hegge (N) b, Andreas Skår Winther (N) dr                                               | On 16                                     |
+| **Helen Salim Kvartett**Helen Salim voc,Oskar Lindström p, Tomas Sjödell b, Jonas Bäckman dr                                                           | To 17                                     |
+| **Hyllning till Ella Fitzgerald**Sanna Ruohoniemi voc,Anna Gréta Sigurðardóttir p,Lars Ekman b, Mattias Puttonen dr                                    | Fr 18                                     |
+| **Berggren-Bergcrantz Kvartett**Sven Berggren trb, Anders Bergcrantz trp, Hans Andersson b, Bengt Stark dr                                             | Lö 19                                     |
+| **Hans Backenroth ” A Tribute to Steps Ahead”**Henrik Westerberg sax, Roger Svedberg vib, Stefan Blomqvist p, Hans Backenroth b, Bengt Stark dr        | Sö 20                                     |
 
 **För ytterligare information ang konserterna på festivalen: gå in på "festival" på denna hemsida**
 
 **Konserterna på festivalen börjar kl 20.30**
 
-|Hilde Louise Asbjørnsen (N)voc, Anders Aarum (N)p, Svein Erik Martinsen (N) g, Jens Fossum (N) b, Magnus Eide (N) dr  
+\|Hilde Louise Asbjørnsen (N)voc, Anders Aarum (N)p, Svein Erik Martinsen (N) g, Jens Fossum (N) b, Magnus Eide (N) dr\
 |On 23|
 
-|Rasmus Borg p, Viktor Skokic b, Christopher Cantillo dr      |Fr 25| 
+\|Rasmus Borg p, Viktor Skokic b, Christopher Cantillo dr      |Fr 25|
