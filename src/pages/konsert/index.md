@@ -56,5 +56,5 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 
 **Konserterna på festivalen börjar kl 20.30**
 
-|Hilde Louise Asbjørnsen (N)voc, Anders Aarum (N)p, Svein Erik Martinsen (N) g, Jens Fossum (N) b, 
-Magnus Eide (N) dr   |On 23|
+| **Hilde Louise Asbjørnsen (N)voc, Anders Aarum (N)p, Svein Erik Martinsen (N) g, Jens Fossum (N) b, Magnus Eide (N) dr  
+| On 23 |
