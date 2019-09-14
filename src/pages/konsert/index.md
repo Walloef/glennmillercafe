@@ -13,7 +13,7 @@ title: Konserter
 | Elin Forkelid sax,  Mattias Torell g, Owe Almgren b, Martina Almgren dr                                                                      | On 11 |     |     |     |
 | Skivinspelning med Najponk Scandinavian Trio:  Najponk (CZ) p, Hans Backenroth b, Chris Montgomery dr 		(Med stöd av Tjeckiska ambassaden)   | To 12 |     |     |     |
 | Skivinspelning med Najponk Scandinavian Trio:  Najponk (CZ)p, Hans Backenroth b, Chris Montgomery dr 		(Med stöd av Tjeckiska ambassaden)    | Fr 13 |     |     |     |
-| Erik Palmberg trp, Julia Strzalek sax, Oskar Schönning b Sebastian Voegler dr                                                                | Lö 14 |     |     |     |
+| Erik Palmberg trp, Oskar Schönning b Sebastian Voegler dr                                                                | Lö 14 |     |     |     |
 | Vilhelm Bromanders initiativ: Magnus Broo trp, Marthe Lea sax, Lisa Ullén p, Vilhelm Bromander b, 		Christopher Cantillo dr                  | Sö 15 |     |     |     |
 | SOL SOL: Elin Forkelid sax, David Stackenäs g, Mauritz Agnas b, Anna Lund dr                                                                 | On 18 |     |     |     |
 | Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Lars Ekman b, Mattias Puttonen dr                                               | To 19 |     |     |     |
