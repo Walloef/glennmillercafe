@@ -21,7 +21,7 @@ title: Konserter
 | Bernt Rosengren/Knut Riisnaes Quintet: Bernt Rosengren sax, Knut Riisnaes (N) sax, Ben Besiakov (DK) p, Hans Backenroth b, Tom Olstad (N) dr | Lö 21 |     |     |     |
 | Axel Mårdsjö asax, Eric Liftig tsax, Pål Nyberg g, Olli Rantala b, Lars ”Lade” Källfelt dr                                                   | Sö 22 |     |     |     |
 | Alexander Lövmark voc, Carl Bagge p, Viktor Skokic b,Daniel Fredriksson dr                                                                   | On 25 |     |     |     |
-| Lena Swanberg voc, Anders Ekholm sax, Paul Kovacs munspel,	Ann Blom p, Magnus ”Mankan” Marcks b, Jesper Kviberg dr                           | To 26 |     |     |     |
+| Lena Swanberg voc, Paul Kovacs munspel, Ann Blom p, Magnus ”Mankan” Marcks b, Jesper Kviberg dr                           | To 26 |     |     |     |
 |  Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Lars Ekman b, Mattias Puttonen dr                                              | Fr 27 |     |     |     |
 | Jens Persson sax, John Holmström p, Alfred Lorinius b, Kristoffer Rostedt dr                                                                 | Lö 28 |     |     |     |
 | John Pål Inderberg Trio:John Pål Inderberg (N)barsax, Trygve Fiske (N) b, Håkon M Johansen (N) dr                                            | Sö 29 |     |     |     |
