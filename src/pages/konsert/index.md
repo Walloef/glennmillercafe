@@ -68,7 +68,15 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Per ”Texas” Johansson sax/cl, Alexander Zethson p, Johan Berthling b, Johan Holmegard dr|To 07|
 |Calle Stenman trp, Martin Wirén sax, Anton Dromberg p, Johan Tengholm b, Filip Olofsson dr |Fr 08 |
 |Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck dr|Lö 09|
-| Linnéa Jonsson Trp, Abel Haile sax, Alexander Zethson p, Elsa Bergman b, Juan Romero perc, Gustav Nahlin dr|Sö 10|
+| Linnéa Jonsson Trp, Abel Haile sax, Alexander Zethson p, Elsa Bergman b, Juan Romero perc, Gustav Nahlin dr|Sö 10
+|Westlin Tontin: Pelle Westlin sax, Gustav Davidsson trb, Boel Mogensen b, Anton Jonsson dr| To 14|
+|Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr|Fr 15|
+|Martin Svanström asax, Magnus Dölerud tsax, Torbjörn Gulz p, Lars Ekman b, Bengt Stark dr|Lö 16|
+|ANNA HÖGBERG ATTACK: Anna Högberg asax, Elin Forkelid tsax, Niklas Barnö trp, Lisa Ullén p, Elsa Bergman b, Anna Lund dr|Sö 17|	  
+  
+
+
+
 
 
                                                                                  
