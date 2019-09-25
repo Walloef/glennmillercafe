@@ -72,7 +72,11 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Westlin Tontin: Pelle Westlin sax, Gustav Davidsson trb, Boel Mogensen b, Anton Jonsson dr| To 14|
 |Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr|Fr 15|
 |Martin Svanström asax, Magnus Dölerud tsax, Torbjörn Gulz p, Lars Ekman b, Bengt Stark dr|Lö 16|
-|ANNA HÖGBERG ATTACK: Anna Högberg asax, Elin Forkelid tsax, Niklas Barnö trp, Lisa Ullén p, Elsa Bergman b, Anna Lund dr|Sö 17|	  
+|ANNA HÖGBERG ATTACK: Anna Högberg asax, Elin Forkelid tsax, Niklas Barnö trp, Lisa Ullén p, Elsa Bergman b, Anna Lund dr|Sö 17|
+|Bernt Rosengren sax, Stefan Gustafson p, Hans Backenroth b, Bengt Stark dr|Lö 23|
+|Fredrik Lindborg sax, Erik Söderlind g, Leo Lindberg org, Mattias Puttonen dr|Sö 24|
+|Fredrik Nordström sax, Andrea Rea p (ITA), Ilaria Capalbo b (ITA), Fredrik Rundqvist dr|On 27|
+|Per Thornberg Organ Trio: Per Thornberg sax, Leo Lindberg org, Ali Djeridi dr|Lö 30|	  
   
 
 
