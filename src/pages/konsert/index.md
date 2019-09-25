@@ -59,6 +59,9 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Don qui 5: Adrian Åsling Sellius asax, Lea Sittler tsax, Henrik Büller barsax, Jonas Nilsson b/comp, Axel Larsson dr |Sö 27|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr| On 30|
 |Terese Lien Evenstad violin, Anna Greta Sigurdardottir p, Arvid Kullander b, Peter Danemo dr|To 31|
-| Konserter i Nov                                                                                   |       |
-| ------------------------------------------------------------------------------------------------- | ----- |
 
+| Konserter i Okt                                                                                   |       |
+| ------------------------------------------------------------------------------------------------- | ----- |
+|Anna-Lena Brundin voc, Erik Tengholm trp, Jan Sigurd p, Chico Lindvall g, Lasse Lundström b |Lö 02 |
+
+                                                                                 
