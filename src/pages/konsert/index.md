@@ -63,5 +63,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 | Konserter i Okt                                                                                   |       |
 | ------------------------------------------------------------------------------------------------- | ----- |
 |Anna-Lena Brundin voc, Erik Tengholm trp, Jan Sigurd p, Chico Lindvall g, Lasse Lundström b |Lö 02 |
+|Alberto Pinton sax/cl, Niklas Barnö trp, Vilhelm Bromander b, Erik Carlsson dr|Sö 03|
+|
 
                                                                                  
