@@ -64,8 +64,9 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 | ------------------------------------------------------------------------------------------------- | ----- |
 |Anna-Lena Brundin voc, Erik Tengholm trp, Jan Sigurd p, Chico Lindvall g, Lasse Lundström b |Lö 02 |
 |Alberto Pinton sax/cl, Niklas Barnö trp, Vilhelm Bromander b, Erik Carlsson dr|Sö 03|
-|GEIST: Tommy Berndtsson wurlitzer, Mats Eriksson g, 
-Lars Ericsson b, Chris Montgomery dr  |On 06 |
+|GEIST: Tommy Berndtsson wurlitzer, Mats Eriksson g, Lars Ericsson b, Chris Montgomery dr|On 06|
 |Per ”Texas” Johansson sax/cl, Alexander Zethson p, Johan Berthling b, Johan Holmegard dr|To 07|
+|Calle Stenman trp, Martin Wirén sax, Anton Dromberg p, Johan Tengholm b, Filip Olofsson dr |Fr 08 |
+|Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck dr|Lö 09|
 
                                                                                  
