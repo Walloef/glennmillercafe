@@ -60,10 +60,11 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr| On 30|
 |Terese Lien Evenstad violin, Anna Greta Sigurdardottir p, Arvid Kullander b, Peter Danemo dr|To 31|
 
-| Konserter i Okt                                                                                   |       |
+| Konserter i Nov                                                                                   |       |
 | ------------------------------------------------------------------------------------------------- | ----- |
 |Anna-Lena Brundin voc, Erik Tengholm trp, Jan Sigurd p, Chico Lindvall g, Lasse Lundström b |Lö 02 |
 |Alberto Pinton sax/cl, Niklas Barnö trp, Vilhelm Bromander b, Erik Carlsson dr|Sö 03|
-|
+|GEIST: Tommy Berndtsson wurlitzer, Mats Eriksson g, 
+Lars Ericsson b, Chris Montgomery dr  |On 06 |
 
                                                                                  
