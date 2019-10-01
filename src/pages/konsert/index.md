@@ -38,7 +38,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Terese Lien Evenstad violin, Anna Greta Sigurdardottir p, Arvid Kullander b, Peter Danemo dr|To 31|
 
 | Konserter i Nov                                                                                   |       |
-| ------------------------------------------------------------------------------------------------- | ----- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |------------------------------------- | ----- |    
 |Anna-Lena Brundin voc, Erik Tengholm trp, Jan Sigurd p, Chico Lindvall g, Lasse Lundström b |Lö 02 |
 |Alberto Pinton sax/cl, Niklas Barnö trp, Vilhelm Bromander b, Erik Carlsson dr|Sö 03|
 |GEIST: Tommy Berndtsson wurlitzer, Mats Eriksson g, Lars Ericsson b, Chris Montgomery dr|On 06|
@@ -50,6 +50,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr|Fr 15|
 |Martin Svanström asax, Magnus Dölerud tsax, Torbjörn Gulz p, Lars Ekman b, Bengt Stark dr|Lö 16|
 |ANNA HÖGBERG ATTACK: Anna Högberg asax, Elin Forkelid tsax, Niklas Barnö trp, Lisa Ullén p, Elsa Bergman b, Anna Lund dr|Sö 17|
+|Fredrik Lundin sax, Ilaria Capalbo b, Peter Danemo dr|Tor 23|
 |Bernt Rosengren sax, Stefan Gustafson p, Hans Backenroth b, Bengt Stark dr|Lö 23|
 |Fredrik Lindborg sax, Erik Söderlind g, Leo Lindberg org, Mattias Puttonen dr|Sö 24|
 |Fredrik Nordström sax, Andrea Rea p (ITA), Ilaria Capalbo b (ITA), Fredrik Rundqvist dr|On 27|
