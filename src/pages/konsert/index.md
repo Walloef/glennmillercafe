@@ -7,7 +7,7 @@ title: Konserter
 | ------------------------------------------------------------------------------------------------- | ----- |
 | Linus Lindblom sax, Mattias Lindberg p, Arvid Jullander b, Emil Norman dr                         | On 02 |
 | Per Ödberg g, Jan Eriksson g, Jonas Olofsson b, Jonas Lidholm dr                                  | To 03 |
-| Elise Einarsdotter p, Olle Steinholtz b + gäster                                                  | Fr 04    |
+| Elise Einarsdotter p, Olle Steinholtz b, Gäster: Sofia Lärkfors Ågren voc, Axel Jonsson Stridbeck g                                                   | Fr 04    |
 | Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                        | Lö 05 |
 | Birgitta Flick(D) sax, Eva Lindal vi, Antje Rößeler(D) p, Oskar Schönning b, Sebastian Voegler dr   | Sö 06 |
 | Erik Söderlind g, Daniel Svensson g                                                               | On 09 |
