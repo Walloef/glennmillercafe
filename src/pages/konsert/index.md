@@ -38,7 +38,8 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Terese Lien Evenstad violin, Anna Greta Sigurdardottir p, Arvid Kullander b, Peter Danemo dr|To 31|
 
 | Konserter i Nov                                                                                   |       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |------------------------------------- | ----- |    
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |------------------------------------- | ----- |
+|Magnus Broo trp, Alexander Zethson p, Torbjörn Zetterberg b, Christoffer Cantillo dr|Fr 01|    
 |Anna-Lena Brundin voc, Erik Tengholm trp, Jan Sigurd p, Chico Lindvall g, Lasse Lundström b |Lö 02 |
 |Alberto Pinton sax/cl, Niklas Barnö trp, Vilhelm Bromander b, Erik Carlsson dr|Sö 03|
 |GEIST: Tommy Berndtsson wurlitzer, Mats Eriksson g, Lars Ericsson b, Chris Montgomery dr|On 06|
