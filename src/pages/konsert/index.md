@@ -48,7 +48,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck dr|Lö 09|
 | Linnéa Jonsson Trp, Abel Haile sax, Alexander Zethson p, Elsa Bergman b, Juan Romero perc, Gustav Nahlin dr|Sö 10
 |Westlin Tontin: Pelle Westlin sax, Gustav Davidsson trb, Boel Mogensen b, Anton Jonsson dr| To 14|
-|Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr|Fr 15|
+|Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr| Fr 15|
 |Martin Svanström asax, Magnus Dölerud tsax, Torbjörn Gulz p, Lars Ekman b, Bengt Stark dr|Lö 16|
 |ANNA HÖGBERG ATTACK: Anna Högberg asax, Elin Forkelid tsax, Niklas Barnö trp, Lisa Ullén p, Elsa Bergman b, Anna Lund dr|Sö 17|
 |Lisa Björänge Voc, Klas Toresson sax, Fabian Kallerdahl p, Pär-Ola Landin b, Jon Fält dr|On 20|
