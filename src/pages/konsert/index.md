@@ -57,6 +57,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Fredrik Lindborg sax, Erik Söderlind g, Leo Lindberg org, Mattias Puttonen dr|Sö 24|
 |Fredrik Nordström sax, Andrea Rea p (ITA), Ilaria Capalbo b (ITA), Fredrik Rundqvist dr|On 27|
 |Isabel Sörling voc, Kim Aksnes trp, Otis Sandsjö sax, Alfred Lorinius b, Carl-Johan Groth dr|To 28|
+|Ståhls Trio: Mattias Ståhl vib, Joe Williamsson b, Tomas Sandström dr|Fr 29|
 |Per Thornberg Organ Trio: Per Thornberg sax, Leo Lindberg org, Ali Djeridi dr|Lö 30|	  
   
 
