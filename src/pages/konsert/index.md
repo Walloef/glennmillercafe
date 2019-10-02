@@ -51,11 +51,12 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr|Fr 15|
 |Martin Svanström asax, Magnus Dölerud tsax, Torbjörn Gulz p, Lars Ekman b, Bengt Stark dr|Lö 16|
 |ANNA HÖGBERG ATTACK: Anna Högberg asax, Elin Forkelid tsax, Niklas Barnö trp, Lisa Ullén p, Elsa Bergman b, Anna Lund dr|Sö 17|
-|Lisa Björänge Voc, Klas Toresson sax, Fabian Kallerdahl p, Pär-Ola Landin b, Jon Fält dr|Onn 20|
+|Lisa Björänge Voc, Klas Toresson sax, Fabian Kallerdahl p, Pär-Ola Landin b, Jon Fält dr|On 20|
 |Fredrik Lundin sax, Ilaria Capalbo b, Peter Danemo dr|Tor 21|
 |Bernt Rosengren sax, Stefan Gustafson p, Hans Backenroth b, Bengt Stark dr|Lö 23|
 |Fredrik Lindborg sax, Erik Söderlind g, Leo Lindberg org, Mattias Puttonen dr|Sö 24|
 |Fredrik Nordström sax, Andrea Rea p (ITA), Ilaria Capalbo b (ITA), Fredrik Rundqvist dr|On 27|
+|Isabel Sörling voc, Kim Aksnes trp, Otis Sandsjö sax, Alfred Lorinius b, Carl-Johan Groth dr|To 28|
 |Per Thornberg Organ Trio: Per Thornberg sax, Leo Lindberg org, Ali Djeridi dr|Lö 30|	  
   
 
