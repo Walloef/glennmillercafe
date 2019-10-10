@@ -53,6 +53,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |ANNA HÖGBERG ATTACK: Anna Högberg asax, Elin Forkelid tsax, Niklas Barnö trp, Lisa Ullén p, Elsa Bergman b, Anna Lund dr|Sö 17|
 |Lisa Björänge Voc, Klas Toresson sax, Fabian Kallerdahl p, Pär-Ola Landin b, Jon Fält dr|On 20|
 |Fredrik Lundin sax, Ilaria Capalbo b, Peter Danemo dr|Tor 21|
+|Niklas Barnö trp, Sebastian Bergström p, Alfred Lorinius b, Magnus Vikberg dr|Fr 22|
 |Bernt Rosengren sax, Stefan Gustafson p, Hans Backenroth b, Bengt Stark dr|Lö 23|
 |Fredrik Lindborg sax, Erik Söderlind g, Leo Lindberg org, Mattias Puttonen dr|Sö 24|
 |Fredrik Nordström sax, Andrea Rea p (ITA), Ilaria Capalbo b (ITA), Fredrik Rundqvist dr|On 27|
