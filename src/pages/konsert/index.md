@@ -40,7 +40,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 | Konserter i Nov                                                                                   |       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |------------------------------------- | ----- |
 |Magnus Broo trp, Alexander Zethson p, Torbjörn Zetterberg b, Christoffer Cantillo dr|Fr 01|    
-|Anna-Lena Brundin voc, Erik Tengholm trp, Jan Sigurd p, Chico Lindvall g, Lasse Lundström b |Lö 02 |
+|En Chet Baker-kväll: Anna-Lena Brundin voc, Erik Tengholm trp, Jan Sigurd p, Chico Lindvall g, Lasse Lundström b |Lö 02 |
 |Alberto Pinton sax/cl, Niklas Barnö trp, Vilhelm Bromander b, Erik Carlsson dr|Sö 03|
 |GEIST: Tommy Berndtsson wurlitzer, Mats Eriksson g, Lars Ericsson b, Chris Montgomery dr|On 06|
 |Per ”Texas” Johansson sax/cl, Alexander Zethson p, Johan Berthling b, Johan Holmegard dr|To 07|
