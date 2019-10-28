@@ -80,9 +80,6 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Stina Agustsdottir voc, Max Schultz g, Erik Söderlind g|Fr 20|
 |Gustav Lundgren g, Martin Höper b, Ola Bothzén dr|Lö 21|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 22|
-| Vi på Glenn Miller Café önskar alla våra besökare en riktig God Jul !!!                                                                                   |       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |------------------------------------- | ----- 
-|
 |Liselott Östblom voc, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr|Fr 27|
 |Jonas Kullhammar sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr|Lö 28|
 |Christina Gustavsson voc, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr|Sö 29|
