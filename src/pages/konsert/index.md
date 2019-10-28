@@ -67,6 +67,7 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Signe Emeluth asax (N), Karl Bjorå g (N), Christrian Balvig p (N), Ole Mofjell dr (N)|Sö 01|
 |Hayati Kafe doc, Monica Dominique p/voc, Hans Backenroth  b|On 04|
 |TRINITY: Karl Olandersson trp, Andreas Hellkvist hammond B3, Ali Djeridi dr|To 05|
+|Red Hot Mamas: Sanna Hogman voc, Elina Ryd voc, Hannah Tolf voc, piano asp|Fre 06|
 |Emrock voc, Tommy Berndtsson wurlitzer, Lars Eriksson b, Chris Montgomery dr|Lö 07|
 |Olli Hirvonen g (Fi), Luke Marantz p (US), Marty Kenney b (US), Nathan Ellman-Bell dr (US)|Sö 08|
 |Ståhls trio: Mattias Ståhl vib, Joe Williamson b, Christopher Cantillo dr|On 11|
@@ -79,6 +80,8 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |Stina Agustsdottir voc, Max Schultz g, Erik Söderlind g|Fr 20|
 |Gustav Lundgren g, Martin Höper b, Ola Bothzén dr|Lö 21|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 22|
+| Vi på Glenn Miller Café önskar alla våra besökare en riktig God Jul !!!                                                                                   |       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |------------------------------------- | ----- 
 |Liselott Östblom voc, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr|Fr 27|
 |Jonas Kullhammar sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr|Lö 28|
 |Christina Gustavsson voc, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr|Sö 29|
