@@ -69,7 +69,6 @@ Konserterna börjar kl 20.00 på sön,ons,tor                                   
 |TRINITY: Karl Olandersson trp, Andreas Hellkvist hammond B3, Ali Djeridi dr|To 05|
 |Red Hot Mamas: Sanna Hogman voc, Elina Ryd voc, Hannah Tolf voc, piano asp|Fre 06|
 |Emrock voc, Tommy Berndtsson wurlitzer, Lars Eriksson b, Chris Montgomery dr|Lö 07|
-|Olli Hirvonen g (Fi), Luke Marantz p (US), Marty Kenney b (US), Nathan Ellman-Bell dr (US)|Sö 08|
 |Ståhls trio: Mattias Ståhl vib, Joe Williamson b, Christopher Cantillo dr|On 11|
 |Karl Wallmyr trp, Per Wallmyr sax, Max Agnas p, Mauritz Agnas b|To 12|
 |Christian Gustavsson voc, Sofia Pettersson voc, Maria Kvist p/voc, Tove Brandt b, Martina Almgren dr|Fr 13|
