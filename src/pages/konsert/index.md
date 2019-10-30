@@ -36,7 +36,7 @@ title: Konserter
 | Konserter i Dec                                                                                   |       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |------------------------------------- | ----- |
 |Signe Emeluth asax (DK), Karl Bjorå g (N), Christrian Balvig p (N), Ole Mofjell dr (N)|Sö 01|
-|Hayati Kafe doc, Monica Dominique p/voc, Hans Backenroth  b|On 04|
+|Hayati Kafe doc, Monica Dominique p/voc, Anders Färdal g, Hans Backenroth  b|On 04|
 |TRINITY: Karl Olandersson trp, Andreas Hellkvist hammond B3, Ali Djeridi dr|To 05|
 |Red Hot Mamas: Sanna Hogman voc, Elina Ryd voc, Hannah Tolf voc, piano asp|Fre 06|
 |Emrock voc, Tommy Berndtsson wurlitzer, Lars Eriksson b, Chris Montgomery dr|Lö 07|
