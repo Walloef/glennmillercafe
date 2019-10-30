@@ -5,7 +5,6 @@ title: Konserter
 
 | Konserter i Okt                                                                                   |       |
 | ------------------------------------------------------------------------------------------------- | ----- |
-
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr| On 30|
 |Terese Lien Evenstad violin, Anna Greta Sigurdardottir p, Arvid Kullander b, Peter Danemo dr|To 31|
 
