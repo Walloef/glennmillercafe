@@ -23,7 +23,7 @@ title: Konserter
 |Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr| Fr 15|
 |Martin Svanström asax, Magnus Dölerud tsax, Torbjörn Gulz p, Lars Ekman b, Bengt Stark dr|Lö 16|
 |ANNA HÖGBERG ATTACK: Anna Högberg asax, Elin Forkelid tsax, Niklas Barnö trp, Lisa Ullén p, Elsa Bergman b, Anna Lund dr|Sö 17|
-|Lisa Björänge Voc, Klas Toresson sax, Fabian Kallerdahl p, Pär-Ola Landin b, Jon Fält dr|On 20|
+|Lisa Björänge Voc, Klas Toresson sax, Fabian Kallerdahl p,Severi Pyysalo vib, Pär-Ola Landin b, Jon Fält dr|On 20|
 |Fredrik Lundin(DK) sax, Ilaria Capalbo(ITA) b, Peter Danemo dr|Tor 21|
 |Niklas Barnö trp, Sebastian Bergström p, Alfred Lorinius b, Magnus Vikberg dr|Fr 22|
 |Bernt Rosengren sax, Stefan Gustafson p, Hans Backenroth b, Bengt Stark dr|Lö 23|
