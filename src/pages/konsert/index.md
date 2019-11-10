@@ -3,10 +3,7 @@ templateKey: konsert-page
 title: Konserter
 ---
 
-| Konserter i Okt                                                                                   |       |
-| ------------------------------------------------------------------------------------------------- | ----- |
-|Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr| On 30|
-|Terese Lien Evenstad violin, Anna Greta Sigurdardottir p, Arvid Jullander b, Peter Danemo dr|To 31|
+
 
 | Konserter i Nov                                                                                   |       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |------------------------------------- | ----- |
