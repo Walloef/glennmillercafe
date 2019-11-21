@@ -37,9 +37,9 @@ title: Konserter
 | Red Hot Mamas: Sanna Hogman voc, Elina Ryd voc, Hannah Tolf voc, piano asp                                                                  | Fre 06 |
 | Emrock voc, Tommy Berndtsson wurlitzer, Lars Eriksson b, Chris Montgomery dr                                                                | Lö 07  |
 | Orakel: Per "Texas" Johansson träblås, Torbjörn Zetterberg b, Konrad Agnas dr                                                               | Sö 08  |
-| Ståhls trio: Mattias Ståhl vib, Joe Williamson b, Christopher Cantillo dr                                                                   | On 11  |
+| Ståhls trio: Mattias Ståhl vib, Torbjörn Zetterberg b, Christopher Cantillo dr                                                              | On 11  |
 | Karl Wallmyr trp, Per Wallmyr sax, Max Agnas p, Mauritz Agnas b                                                                             | To 12  |
-| Christian Gustavsson voc, Sofia Pettersson voc, Maria Kvist p/voc, Tove Brandt b, Martina Almgren dr                                        | Fr 13  |
+| Christina Gustavsson voc, Sofia Pettersson voc, Maria Kvist p/voc, Tove Brandt b, Martina Almgren dr                                        | Fr 13  |
 | Chi Westfelt Quartet feat Karin Hammar: Chi Westfelt voc, Karin Hammar trb, Britta Virves p, Niklas Fernqvist b, 	 	Karl-Henrik Ousbäck dr  | Lö 14  |
 | Leo Lindberg p, Erik Söderlind g, Kenji Rabson b, Moussa Fadera dr                                                                          | Sö 15  |
 | ”Tenor Legacy”: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p, Hans Backenroth b, Jocke Ekberg dr                             | On 18  |
@@ -51,4 +51,4 @@ title: Konserter
 | Jonas Kullhammar sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr                                                              | Lö 28  |
 | Christina Gustavsson voc, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr                                                          | Sö 29  |
 | Håkan Broström sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr                                                                | Må 30  |
-|I samarbete med SENSUS|
+| I samarbete med SENSUS                                                                                                                      |        |
