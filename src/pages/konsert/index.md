@@ -22,7 +22,7 @@ title: Konserter
 | Niklas Barnö trp, Sebastian Bergström p, Alfred Lorinius b, Magnus Vikberg dr                                                | Fr 22  |
 | Bernt Rosengren sax, Stefan Gustafson p, Hans Backenroth b, Bengt Stark dr                                                   | Lö 23  |
 | Fredrik Lindborg sax, Erik Söderlind g, Leo Lindberg org, Mattias Puttonen dr                                                | Sö 24  |
-| Fredrik Nordström sax, Andrea Rea p (ITA), Ilaria Capalbo(ITA) b (ITA), Fredrik Rundqvist dr                                 | On 27  |
+| Fredrik Nordström sax, Torbjörn Gultz p (ITA), Ilaria Capalbo(ITA) b (ITA), Fredrik Rundqvist dr                             | On 27  |
 | Isabel Sörling voc, Kim Aksnes trp, Otis Sandsjö sax, Alfred Lorinius b, Carl-Johan Groth dr                                 | To 28  |
 | Ståhls Trio: Mattias Ståhl vib, Joe Williamsson b, Tomas Sandström dr                                                        | Fr 29  |
 | Per Thornberg Organ Trio: Per Thornberg sax, Andreas Hellkvist org, Ali Djeridi dr                                           | Lö 30  |
