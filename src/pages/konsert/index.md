@@ -27,7 +27,7 @@ title: Konserter
 | Ståhls Trio: Mattias Ståhl vib, Joe Williamsson b, Tomas Sandström dr                                                        | Fr 29  |
 | Per Thornberg Organ Trio: Per Thornberg sax, Andreas Hellkvist org, Ali Djeridi dr                                           | Lö 30  |
 
-\|I samarbete med SENSUS|
+I samarbete med SENSUS
 
 | Konserter i Dec                                                                                                                             |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
