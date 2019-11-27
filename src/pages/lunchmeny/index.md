@@ -1,6 +1,6 @@
 ---
 templateKey: lunchmeny-page
-title: 'Stockholm Jazz Festival på Glenn Miller Café '
+title: 'Alltid Jazz Festival på Glenn Miller Café '
 ---
 
 
