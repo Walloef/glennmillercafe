@@ -44,6 +44,7 @@ class EngIndex extends React.Component {
                     <div>
                         <h3>Address</h3>
                         <p>Brunnsgatan 21A  11138 Stockholm</p>
+                        <p>076-882 45 49</p>
                         <p class="small">Subway Hötorget or Östermalmstorg</p>
                     </div>
 

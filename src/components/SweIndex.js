@@ -48,6 +48,7 @@ class SweIndex extends React.Component {
                     <div>
                         <h3>Adress</h3>
                         <p>Brunnsgatan 21A  11138 Stockholm</p>
+                        <p>076-882 45 49</p>
                         <p class="small">T-bana Hötorget eller Östermalmstorg</p>
                     </div>
 
