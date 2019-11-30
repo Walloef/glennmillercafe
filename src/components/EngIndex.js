@@ -34,8 +34,6 @@ class EngIndex extends React.Component {
                                 }}
                                 href="#bookTable">Online</a></b>
                         </p>
-                        <b>Phone</b>
-                        <p>0768824549</p>
                     </div>
                     <div>
                         <h3>Opening hours</h3>
@@ -107,7 +105,7 @@ class EngIndex extends React.Component {
                             <li>
                                 <p>Reservations are for dining guests</p>
                                 <p>Dining guests may keep their table all night</p>
-                                <p>For parties bigger than 10 persons, please contact the restaurant to make your reservation. 0768824549 or 08100322</p>
+                                <p>For parties bigger than 10 persons, please contact the restaurant to make your reservation. 0768824549</p>
                             </li>
                             <li>
                                 <p>Car park opposite the restaurent available</p>

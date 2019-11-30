@@ -38,8 +38,6 @@ class SweIndex extends React.Component {
                                 }}
                                 href="#bookTable">Online</a></b>
                         </p>
-                        <b>Telefon</b>
-                        <p>0768824549</p>
                     </div>
                     <div>
                         <h3>Öppettider</h3>
@@ -112,7 +110,7 @@ class SweIndex extends React.Component {
                             <li>
                                 <p>Bokningar är för middagsgäster</p>
                                 <p>Middagsgäster har bordet hela kvällen</p>
-                                <p>För sällskap större än 10 personer, vänligen kontakta restaurangen för att göra din bokning. Eller 08 10 03 22 / 076-882 45 49</p>
+                                <p>För sällskap större än 10 personer, vänligen kontakta restaurangen för att göra din bokning. 076-882 45 49</p>
                             </li>
                             <li>
                                 <p>Parkeringshus finns mitt emot Glenn Miller Café</p>
