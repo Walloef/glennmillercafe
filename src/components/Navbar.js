@@ -2,7 +2,6 @@ import React from 'react'
 import { Link } from 'gatsby'
 import { Fragment } from 'react';
 import './../scss/menu.scss'
-import IssueReport from './IssueReport';
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -10,7 +9,7 @@ const Navbar = class extends React.Component {
     this.setLang = this.setLang.bind(this);
 
   }
-  componentDidMount() {
+  componentDidMount () {
     // Get all "navbar-burger" elements
     const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
     // Check if there are any navbar burgers
@@ -33,7 +32,7 @@ const Navbar = class extends React.Component {
     }
     const body = document.querySelector('body');
 
-    function removeClass() {
+    function removeClass () {
       body.classList.forEach(activeClass => {
         body.classList.remove(activeClass);
       })
@@ -61,14 +60,14 @@ const Navbar = class extends React.Component {
     }
   }
 
-  setLang(lang) {
+  setLang (lang) {
     if (typeof window !== `undefined`) {
       window.localStorage.setItem('gmLang', lang);
       window.location.replace('/')
     }
   }
 
-  render() {
+  render () {
     let menu;
     if (typeof window !== `undefined`) {
       menu = window.localStorage.getItem('gmLang') === 'en' ? <Fragment>

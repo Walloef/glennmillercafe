@@ -4,7 +4,6 @@ import { Fragment } from 'react';
 import heroImage from './../../static/img/hero.jpg';
 import klarinett from './../../static/img/klarinett.jpg';
 import ingresstext from './../../static/img/ingresstext.jpg';
-import lunch from './../../static/img/lunch.jpg';
 import music from './../../static/img/konsert-button.jpg';
 import dinner from './../../static/img/dinner-button.jpg';
 import './../scss/index.scss';
@@ -82,7 +81,7 @@ class SweIndex extends React.Component {
                                 color: 'white',
                                 textDecoration: 'underline'
                             }}
-                            href="https://www.instagram.com/glennmillercafe/">Instagram</a></p>
+                            href="https://www.instagram.com/cafeglennmiller/">Instagram</a></p>
                 <div className="index-text__wrapper">
                     <div>
 

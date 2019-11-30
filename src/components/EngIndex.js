@@ -51,7 +51,7 @@ class EngIndex extends React.Component {
 
                 </div>
                 <div className="iframe__wrapper">
-                    <iframe src="./../../../iframe.html"
+                    <iframe title="book a table" src="./../../../iframe.html"
                         id="bookTable"
                         style={{
                             height: '369px',
@@ -76,7 +76,7 @@ class EngIndex extends React.Component {
                                 color: 'white',
                                 textDecoration: 'underline'
                             }}
-                            href="https://www.instagram.com/glennmillercafe/">Instagram</a></p>
+                            href="https://www.instagram.com/cafeglennmiller/">Instagram</a></p>
                 <div className="index-text__wrapper">
                     <div>
 
