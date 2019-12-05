@@ -2,32 +2,6 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Konserter i Nov                                                                                                              |        |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Magnus Broo trp, Alexander Zethson p, Torbjörn Zetterberg b, Christoffer Cantillo dr                                         | Fr 01  |
-| En Chet Baker-kväll: Anna-Lena Brundin voc, Erik Tengholm trp, Jan Sigurd p, Chico Lindvall g, Lasse Lundström b             | Lö 02  |
-| Alberto Pinton sax/cl, Niklas Barnö trp, Vilhelm Bromander b, Erik Carlsson dr                                               | Sö 03  |
-| GEIST: Tommy Berndtsson wurlitzer, Mats Eriksson g, Lars Ericsson b, Chris Montgomery dr                                     | On 06  |
-| Per ”Texas” Johansson sax/cl, Alexander Zethson p, Johan Berthling b, Johan Holmegard dr                                     | To 07  |
-| Calle Stenman trp, Martin Wirén sax, Anton Dromberg p, Johan Tengholm b, Filip Olofsson dr                                   | Fr 08  |
-| Peter Asplund trp, Håkan Broström sax, Adam Forkelid p, Martin Sjöstedt b, Karl Henrik Ousbäck dr                            | Lö 09  |
-| Linnéa Jonsson trp, Abel Haile sax, Alexander Zethson p, Elsa Bergman b, Juan Romero perc, Gustav Nahlin dr                  | Sö 10  |
-| MING FAMILY plays music of Charles Mingus: Joakim Milder sax, Fredrik Nordström sax, Palle Sollinger b, Sebastian Voegler dr | On 13  |
-| Westlin Tontin: Pelle Westlin sax, Gustav Davidsson trb, Boel Mogensen b, Anton Jonsson dr                                   | To 14  |
-| Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr                                                                | Fr 15  |
-| Martin Svanström asax, Magnus Dölerud tsax, Torbjörn Gulz p, Lars Ekman b, Bengt Stark dr                                    | Lö 16  |
-| ANNA HÖGBERG ATTACK: Anna Högberg asax, Elin Forkelid tsax, Niklas Barnö trp, Lisa Ullén p, Elsa Bergman b, Anna Lund dr     | Sö 17  |
-| Lisa Björänge Voc, Klas Toresson sax, Fabian Kallerdahl p,Severi Pyysalo vib, Pär-Ola Landin b, Jon Fält dr                  | On 20  |
-| Fredrik Lundin(DK) sax, Ilaria Capalbo(ITA) b, Peter Danemo dr                                                               | Tor 21 |
-| Niklas Barnö trp, Sebastian Bergström p, Alfred Lorinius b, Magnus Vikberg dr                                                | Fr 22  |
-| Bernt Rosengren sax, Stefan Gustafson p, Hans Backenroth b, Bengt Stark dr                                                   | Lö 23  |
-| Fredrik Lindborg sax, Erik Söderlind g, Leo Lindberg org, Mattias Puttonen dr                                                | Sö 24  |
-| Fredrik Nordström sax, Torbjörn Gultz p , Ilaria Capalbo b (ITA), Fredrik Rundqvist dr                             | On 27  |
-| Isabel Sörling voc, Kim Aksnes trp, Otis Sandsjö sax, Alfred Lorinius b, Carl-Johan Groth dr                                 | To 28  |
-| Ståhls Trio: Mattias Ståhl vib, Joe Williamsson b, Tomas Sandström dr                                                        | Fr 29  |
-| Per Thornberg Organ Trio: Per Thornberg sax, Andreas Hellkvist org, Ali Djeridi dr                                           | Lö 30  |
-
-I samarbete med SENSUS
 
 | Konserter i Dec                                                                                                                             |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
