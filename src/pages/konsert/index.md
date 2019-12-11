@@ -2,14 +2,13 @@
 templateKey: konsert-page
 title: Konserter
 ---
-
 | Konserter i Dec                                                                                                                             |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Signe Emeluth asax (DK), Karl Bjorå g (N), Christrian Balvig p (N), Ole Mofjell dr (N)                                                      | Sö 01  |
 | Hayati Kafe doc, Monica Dominique p/voc, Anders Färdal g, Hans Backenroth  b                                                                | On 04  |
 | TRINITY: Karl Olandersson trp, Andreas Hellkvist hammond B3, Ali Djeridi dr                                                                 | To 05  |
 | Red Hot Mamas: Sanna Hogman voc, Elina Ryd voc, Hannah Tolf voc, piano asp                                                                  | Fre 06 |
-| Jonas Kullhammar sax, Tommy Berndtsson wurlitzer, Lars Eriksson b, Chris Montgomery dr                                                                | Lö 07  |
+| Jonas Kullhammar sax, Tommy Berndtsson wurlitzer, Lars Eriksson b, Chris Montgomery dr                                                      | Lö 07  |
 | Orakel: Per "Texas" Johansson träblås, Torbjörn Zetterberg b, Konrad Agnas dr                                                               | Sö 08  |
 | Ståhls trio: Mattias Ståhl vib, Torbjörn Zetterberg b, Christopher Cantillo dr                                                              | On 11  |
 | Karl Wallmyr trp, Per Wallmyr sax, Max Agnas p, Mauritz Agnas b                                                                             | To 12  |
@@ -25,6 +24,7 @@ title: Konserter
 | Jonas Kullhammar sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr                                                              | Lö 28  |
 | Christina Gustavsson voc, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr                                                          | Sö 29  |
 | Håkan Broström sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr                                                                | Må 30  |
-| I samarbete med SENSUS 
 
-| Konserter i Januari 2020|
+\| I samarbete med SENSUS 
+
+## \| Konserter i Januari 2020|
