@@ -28,3 +28,4 @@ title: Konserter
 \| I samarbete med SENSUS 
 
 ##  Konserter i Januari 2020
+| ”Den Gyldene Trion”: Jonas Kullhammar sax, Torbjörn Zetterberg b, Daniel Fredriksson dr| Fr 03 |
