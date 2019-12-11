@@ -28,7 +28,7 @@ title: Konserter
 
 | Konserter i Januari 2020                                                                                                                          |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Signe Emeluth asax (DK), Karl Bjorå g (N), Christrian Balvig p (N), Ole Mofjell dr (N)                                                      | Sö 01  |
+| ”Den Gyldene Trion”: Jonas Kullhammar sax, Torbjörn Zetterberg b, Daniel Fredriksson dr                                                      | Fr 03  |
 
 
  I samarbete med SENSUS 
