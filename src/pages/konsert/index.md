@@ -27,4 +27,4 @@ title: Konserter
 
 \| I samarbete med SENSUS 
 
-## \| Konserter i Januari 2020|
+##  Konserter i Januari 2020
