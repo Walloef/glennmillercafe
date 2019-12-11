@@ -27,6 +27,7 @@ title: Konserter
 | Håkan Broström sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr                                                                | Må 30  |
 | I samarbete med SENSUS 
 
+
 | Konserter i Januari 2020
 |        |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |                                                                                                                     
