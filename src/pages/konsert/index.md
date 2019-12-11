@@ -49,12 +49,4 @@ title: Konserter
 | ”Bengt Ernryds Jazz Blues Brothers med Stefan Nilsson voc/g”: Bengt Ernryd trp, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén key, Tomas Dawidowski b, Rolf Fredriksson dr | To 30 |
 
 
-| Konserter i Februari 2020
-|        |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-
-| Alberto Pinton sax/cl/fl, Selma Pinton voc, Niklas Barnö trp, Mats Äleklint trb, Mattias Ståhl vib, Vilhelm Bromander b, Konrad Agnas dr | Lö 01  |
-
- 	
-	 
 I samarbete med SENSUS 
