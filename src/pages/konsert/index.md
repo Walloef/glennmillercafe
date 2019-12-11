@@ -25,7 +25,8 @@ title: Konserter
 | Christina Gustavsson voc, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr                                                          | Sö 29  |
 | Håkan Broström sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr                                                                | Må 30  |
 
-\| I samarbete med SENSUS 
+\
+ I samarbete med SENSUS 
 
 ## _Konserter i Januari 2020_
 
