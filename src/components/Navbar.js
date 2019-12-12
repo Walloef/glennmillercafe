@@ -80,9 +80,9 @@ const Navbar = class extends React.Component {
           <Link activeStyle={{ fontWeight: 'bold' }}
             className="navbar-item" to="/meny">
             Meny </Link>
-          <Link activeStyle={{ fontWeight: 'bold' }}
+          {/* <Link activeStyle={{ fontWeight: 'bold' }}
             className="navbar-item" to="/lunchmeny">
-            Festival </Link>
+            Festival </Link> */}
           <Link activeStyle={{ fontWeight: 'bold' }}
 
             className="navbar-item navbar-item--last" to="/konsert">
