@@ -57,9 +57,9 @@ title: Konserter
 | Lovisa Jennervall voc, Klas Lindquist sax, Manne Skafvenstedt p, Anders Langørgen b, Edvin Fridolfsson dr | Fr 07 |
 | Bag Ladies: Catharina Wiborgh sax, Gunnel Samuelsson sax/fl, Ann Blom p/voc, Patrik Boman b, Henrik Wartel dr | Lö 15 |
 | Waldemar: André Roligheten sax, Håvard Wiik p, Trygve Waldemar Fiske b, Erik Nylander dr | Sö 16 |
-| Bengt Ernryd sextett: Bengt Ernryd trp/flh, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén p, Tomas Dawidowski b Rolf Fredriksson dr | On 19 |
+| Bengt Ernryd sextett: Bengt Ernryd trp/flh, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén p, Tomas Dawidowski b, Rolf Fredriksson dr | On 19 |
 | Hayati Kafe voc, Adam Forkelid p, Svante Söderqvist b, Jonas Bäckman dr | To 20 |
-| Jan Allan trp, Anders Ellman kornett, Daniel Svewnsson g, Niklas Wennström b | Lö 22 |
+| Jan Allan trp, Anders Ellman kornett, Daniel Svensson g, Niklas Wennström b | Lö 22 |
 | SOL SOL: Elin Forkelid sax, David Stackenäs g, Mauritz Agnas b, Nils Agnas dr | On 26 |
 | Ingrid Malmén voc, Simon Skogh trb, Hampus Adami trb, Tobias Johansson p, Ingrid Schyborger b, Magnus Jonasson dr | To 27 |
 | Jonas Knutsson sax, Tassos Spiliotopoulos g, Robert Erlandsson b, Fredrik Rundqvist dr |Fr 28 |
