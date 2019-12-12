@@ -41,6 +41,7 @@ title: Konserter
 | Gunnar "Linkan" Lindgren sax, John Holmström p, Lars Ekman b, Henrik Wartel dr | Fr 17 |
 | Karl-Martin Almqvist sax, Adam Forkelid p, Johnny Åman b, Peter Nilsson dr | Lö 18 |
 | Karl Olandersson trp, Per "Ruskträsk" Johansson sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr | Sö 19 |
+| Katarina Henrysson voc, Svante Henrysson cello | On 22 |
 | Isak Hedtjärn cl, Henning Ullén p, Vilhelm Bromander b, Arild Wahl dr | To 23 |
 | ”Styrelsen”: Leo Lindberg p, Björn Lundén b, Karl-Henrik Ousbäck dr | Fr 24 |
 | Camilla Johnson voc, Leo Lindberg p, Björn Lundén b, Jonas Bäckman dr | Lö 25 |
