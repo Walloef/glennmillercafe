@@ -48,5 +48,8 @@ title: Konserter
 | Klas Lindquist sax/cl, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr | On 29 |
 | ”Bengt Ernryds Jazz Blues Brothers med Stefan Nilsson voc/g”: Bengt Ernryd trp, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén key, Tomas Dawidowski b, Rolf Fredriksson dr | To 30 |
 
+| Konserter i Februari 2020                                                                                                                          |        |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+
 
 I samarbete med SENSUS 
