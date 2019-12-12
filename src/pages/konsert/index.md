@@ -50,6 +50,8 @@ title: Konserter
 
 | Konserter i Februari 2020                                                                                                                          |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Alberto Pinton träblås, Selma Pinton voc, Niklas Barnö trp, Mats Äleklint trb, Mattias Ståhl vib, Vilhelm Bromander b, Konrad Agnas dr | Lö 01 |
+
 
 
 I samarbete med SENSUS 
