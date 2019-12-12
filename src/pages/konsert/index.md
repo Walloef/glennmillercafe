@@ -52,6 +52,12 @@ title: Konserter
 | Konserter i Februari 2020                                                                                                                          |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Alberto Pinton träblås, Selma Pinton voc, Niklas Barnö trp, Mats Äleklint trb, Mattias Ståhl vib, Vilhelm Bromander b, Konrad Agnas dr | Lö 01 |
+|Mathias Landaeus p, Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr | sö 02 |
+|Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr | To 06 |
+|Lovisa Jennervall voc, Klas Lindquist sax, Manne Skafvenstedt p, Anders Langørgen b, Edvin Fridolfsson dr | Fr 07 |
+
+|Bengt Ernryd sextett: Bengt Ernryd trp/flh, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén p, Tomas Dawidowski b Rolf Fredriksson dr | On 19 |
+
 
 
 
