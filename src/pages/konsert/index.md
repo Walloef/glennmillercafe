@@ -56,6 +56,7 @@ title: Konserter
 | Mathias Landaeus p, Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr | sö 02 |
 | Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr | To 06 |
 | Lovisa Jennervall voc, Klas Lindquist sax, Manne Skafvenstedt p, Anders Langørgen b, Edvin Fridolfsson dr | Fr 07 |
+|Piazollakväll med Mikael Augustsson bandoneon, Mattias Ståhl vib, Oskar Schönning b | On 12 |
 | Bag Ladies: Catharina Wiborgh sax, Gunnel Samuelsson sax/fl, Ann Blom p/voc, Patrik Boman b, Henrik Wartel dr | Lö 15 |
 | Waldemar: André Roligheten sax, Håvard Wiik p, Trygve Waldemar Fiske b, Erik Nylander dr | Sö 16 |
 | Bengt Ernryd sextett: Bengt Ernryd trp/flh, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén p, Tomas Dawidowski b, Rolf Fredriksson dr | On 19 |
