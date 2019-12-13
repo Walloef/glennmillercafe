@@ -48,6 +48,7 @@ title: Konserter
 | Sanna Ruohoniemi voc, Thomas Backman sax, Joona Toivanen p, Lars Ekman b, Daniel Olsson dr | Sö 26 |
 | Klas Lindquist sax/cl, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr | On 29 |
 | ”Bengt Ernryds Jazz Blues Brothers med Stefan Nilsson voc/g”: Bengt Ernryd trp, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén key, Tomas Dawidowski b, Rolf Fredriksson dr | To 30 |
+| Per"Texas"Johansson sax/cl, Julia Strzalek sax, Anton Sundell soundscape, Mauritz Agnas b, Konrad Agnas dr | Fr 31 | 
 
 | Konserter i Februari 2020                                                                                                                          |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
