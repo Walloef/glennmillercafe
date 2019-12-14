@@ -29,7 +29,7 @@ title: Konserter
 | Konserter i Januari 2020                                                                                                                          |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | ”Den Gyldene Trion”: Jonas Kullhammar sax, Torbjörn Zetterberg b, Daniel Fredriksson dr                                                      | Fr 03  |
-| ”Den Gyldene Trion”: Jonas Kullhammar sax, Torbjörn Zetterberg b, Daniel Fredriksson dr                                                      | Fr 04 |  
+| ”Den Gyldene Trion”: Jonas Kullhammar sax, Torbjörn Zetterberg b, Daniel Fredriksson dr                                                      | Lö 04 |  
 | Paul Kovacs harmonica, Klas Toresson sax, Ann Blom p, Filip Augustson b, André Borgström dr,  gästartist: Lena Swanberg voc| Sö 05  |
 | Felix Tani p, Kenji Rabson b, Daniel Fredriksson dr| On 08 |
 |”Jazz Flow”: Nina Brodd voc, Linus Kåse sax, Ann Blom p, Mårten Korkman b, Jesper Kviberg dr | To 09 | 
