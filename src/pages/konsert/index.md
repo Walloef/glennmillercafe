@@ -55,7 +55,7 @@ title: Konserter
 | Alberto Pinton träblås, Selma Pinton voc, Niklas Barnö trp, Mats Äleklint trb, Mattias Ståhl vib, Vilhelm Bromander b, Konrad Agnas dr | Lö 01 |
 | Mathias Landaeus p, Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr | sö 02 |
 | Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr | To 06 |
-| Lovisa Jennervall voc, Klas Lindquist sax, Manne Skafvenstedt p, Anders Langørgen b, Edvin Fridolfsson dr | Fr 07 |
+| Ellas Kapell: Lovisa Jennervall voc, Klas Lindquist sax, Manne Skafvenstedt p, Anders Langørgen b, Edvin Fridolfsson dr | Fr 07 |
 |Piazzollakväll med Mikael Augustsson bandoneon, Mattias Ståhl vib, Oskar Schönning b | On 12 |
 | David Skinner p, Arvid Jullander b, Emil Norman dr | Fr 14 |
 | Bag Ladies: Catharina Wiborgh sax, Gunnel Samuelsson sax/fl, Ann Blom p/voc, Patrik Boman b, Henrik Wartel dr | Lö 15 |
