@@ -22,7 +22,7 @@ title: Meny
 | ------------------------------------------------------------------------------------------------------ | ----- |
 | **Confit de Canard** Confiterat anklår med inkokt fänkål, päron, potatis med Roquefort sås..           | 295:- |
 | **GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille....                               | 245:- |
-| **Entrecôte med frites, dijon,**  bbq-sås, smör toppad med persillade...                            | 339:- | 
+| **Entrecôte med frites, dijon,**  bbq-och rödvinssås, smör toppad med persillade...                            | 339:- | 
 |**Choucroute Garnie** Fransk surkål med Frankfurter, Morteau, skinka, dijon..|265:-|
 | **Ugnstekta grönsaker med tomat & chèvre**  Aubergine, potatis, zucchini, fänkål, kikärtor & vitlök mm | 225:- |
 | **Salade Campagne (Veg/bacon)**  sallad, potatis, tomat, rödlök, paprika, ägg, chèvre                  | 210:- |
