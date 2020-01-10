@@ -23,7 +23,7 @@ title: Meny
 | **GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille....                               | 245:- |
 | **Entrecôte med frites, dijon,**  bbq-och rödvinssås, smör toppad med persillade...                            | 339:- | 
 |**Choucroute Garnie** Fransk surkål med Frankfurter, Morteau, skinka, dijon..|265:-|
-| **Ugnstekta grönsaker med tomat & chèvre**  Aubergine, potatis, zucchini, fänkål, bondbönor & vitlök mm | 225:- |
+| **Ugnstekta grönsaker med tomat & chèvre**  Aubergine, potatis, zucchini, fänkål, bondbönor & vitlök mm, veg/vegan | 225:- |
 | **Backenrothsallad**  Mix-sallad, tomat, rödlök, paprika, brödkrutonger, bacon, chèvre serveras med frites & aioli. Finns även i vegetarisk och vegansk version                | 210/200:- |
 
 | Les Moules Frites                                                                                                         |       |
