@@ -42,6 +42,7 @@ title: Konserter
 | Waldemar: André Roligheten sax, Håvard Wiik p, Trygve Waldemar Fiske b, Erik Nylander dr | Sö 16 |
 | Bengt Ernryd sextett: Bengt Ernryd trp/flh, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén p, Tomas Dawidowski b, Rolf Fredriksson dr | On 19 |
 | Hayati Kafe voc, Adam Forkelid p, Svante Söderqvist b, Jonas Bäckman dr | To 20 |
+|Ming Family plays Charles Mingus: Magnus Broo trp, Fredrik Nordström sax, Palle Sollinger b, Chris Montgomery dr | Fr 21 |
 | Jan Allan trp, Anders Ellman kornett, Daniel Svensson g, Niklas Wennström b | Lö 22 |
 | Johan Lindvall p, Adrian Myhr b, Andreas Winther dr | Sö 23 |
 | SOL SOL: Elin Forkelid sax, David Stackenäs g, Mauritz Agnas b, Nils Agnas dr | On 26 |
