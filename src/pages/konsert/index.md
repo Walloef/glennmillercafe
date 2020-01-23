@@ -32,6 +32,7 @@ title: Konserter
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Alberto Pinton träblås, Selma Pinton voc, Niklas Barnö trp, Mats Äleklint trb, Mattias Ståhl vib, Vilhelm Bromander b, Konrad Agnas dr | Lö 01 |
 | Mathias Landaeus p, Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr | sö 02 |
+|Ulf Andersson New Quartet: Ulf Andersson sax, Ewan Svensson g, Hans Backenroth b, Chris Montgomery dr | On 05 |
 | Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr | To 06 |
 | Ellas Kapell: Lovisa Jennervall voc, Klas Lindquist sax, Manne Skafvenstedt p, Anders Langørgen b, Edvin Fridolfsson dr | Fr 07 |
 |Jonas Kullhammar sax, Mathias Landaeus p, Filip Augustson b, Sebastian Voegler dr| Lö 08 |
