@@ -35,7 +35,7 @@ title: Meny
 | **Aiguillon** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon, persilja,bacon, dijon..                         | 245:-/ |
 | **Chili (hot)** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, chorizo, tomat, paprika, chili, portvin, grädde.. | 255:- |
 | **Roquefort** Ångade blåmusslor i vitt vin, échalôte, grädde, vitlök, rosmarin, lime, roquefort..                         | 245:- |
-| ** Chèvre** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, grädde,honung, ruccola, chèvre...                               | 245:- |
+| **Chèvre** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, grädde,honung, ruccola, chèvre...                               | 245:- |
 
 
 | Desserter/Desserts                                              |         |
