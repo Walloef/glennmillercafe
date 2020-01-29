@@ -52,4 +52,10 @@ title: Konserter
 | Jonas Knutsson sax, Tassos Spiliotopoulos g, Robert Erlandsson b, Fredrik Rundqvist dr |Fr 28 |
 | Julia Strzalek sax, Daniel Ögren g, Vilhelm Bromander b, Dennis Egberth dr | Lö 29 |  
 
+| Konserter i Mars 2020                                                                                                                          |        |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Wako: Martin Myhre Olsen sax, Kjetil André Mulelid p, Bárdur Reinert Poulsen b, Simon Olderskog Albertsen dr | Sö 01 |
+| Magnus Dölerud Trio: Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson Werre dr | On 04 |
+
+
 I samarbete med SENSUS 
