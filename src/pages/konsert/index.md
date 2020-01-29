@@ -60,7 +60,7 @@ title: Konserter
 | Skivrelease med Lars Ullberg trb, Hannes Falk Junestav trb/voc, Britta Virves p, Johan Tengholm b, Magnus Jonasson dr  | Lö 07  |
 | Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr | Sö 08 |
 | Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Moussa Fadera dr | On 11  |
-| Vidya Liselott Sundberg voc/p, Isabell Gustavsson synth, Vilhelm Bromander b, Jon Fält dr  | To 12 |
+| Vidya Liselott Sundberg voc/p, Isabell Gustavsson Ny synth, Putte Johander b, Jon Fält dr  | To 12 |
 
 
 I samarbete med SENSUS 
