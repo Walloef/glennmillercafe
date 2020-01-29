@@ -55,7 +55,12 @@ title: Konserter
 | Konserter i Mars 2020                                                                                                                          |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Wako: Martin Myhre Olsen sax, Kjetil André Mulelid p, Bárdur Reinert Poulsen b, Simon Olderskog Albertsen dr | Sö 01 |
-| Magnus Dölerud Trio: Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson Werre dr | On 04 |
+| Magnus Dölerud Trio: Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson Werre dr | On 04 | 
+| Leo Lindberg org, Daniel Svensson g, Moussa Fadera dr | To 05 |
+| Skivrelease med Lars Ullberg trb, Hannes Falk Junestav trb/voc, Britta Virves p, Johan Tengholm b, Magnus Jonasson dr  | Lö 07  |
+| Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr | Sö 08 |
+| Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Moussa Fadera dr | On 11  |
+| Vidya Liselott Sundberg voc/p, Isabell Gustavsson synth, Vilhelm Bromander b, Jon Fält dr  | To 12 |
 
 
 I samarbete med SENSUS 
