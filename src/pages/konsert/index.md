@@ -4,29 +4,6 @@ title: Konserter
 ---
 
 
-| Konserter i Januari 2020                                                                                                                          |        |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ”Den Gyldene Trion”: Jonas Kullhammar sax, Torbjörn Zetterberg b, Daniel Fredriksson dr                                                      | Fr 03  |
-| ”Den Gyldene Trion”: Jonas Kullhammar sax, Torbjörn Zetterberg b, Daniel Fredriksson dr                                                      | Lö 04 |  
-| Paul Kovacs harmonica, Klas Toresson sax, Ann Blom p, Filip Augustson b, André Borgström dr,  gästartist: Lena Swanberg voc| Sö 05  |
-| Felix Tani p, Kenji Rabson b, Daniel Fredriksson dr| On 08 |
-|”Jazz Flow”: Nina Brodd voc, Linus Kåse sax, Ann Blom p, Mårten Korkman b, Jesper Kviberg dr | To 09 | 
-| Pelle Westlin tsax, Isak Hedtjärn cl, Oskar Carls tsax, Gustav Rådström asax, Milton Öhrström p,  Vilhelm Bromander b, Tor Sjödén dr| Fr 10 |
-| Erik Palmberg trp, Anton Dromberg p, Niklas Wennström b, Sebastian Voegler dr | Lö 11 |
-|”Lighthouse”: Malin Wättring sax, Staffan Svensson trp, Magnus Bergström b, Peter Danemo dr | Sö 12 |
-| Karl Olandersson trp, Per "Ruskträsk" Johansson sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr | On 15 |
-| Håkan Broström sax, Hannes Junestav trb, Britta Virves p, Uno Dvärby b, Jonas Bäckman dr | To 16 |
-| Gunnar "Linkan" Lindgren sax, John Holmström p, Lars Ekman b, Henrik Wartel dr | Fr 17 |
-| Karl-Martin Almqvist sax, Adam Forkelid p, Johnny Åman b, Peter Nilsson dr | Lö 18 |
-| Karl Olandersson trp, Per "Ruskträsk" Johansson sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr | Sö 19 |
-| Katarina Henrysson voc, Svante Henrysson cello | On 22 |
-| Isak Hedtjärn cl, Henning Ullén p, Vilhelm Bromander b, Arild Wahl dr | To 23 |
-| ”Styrelsen”: Leo Lindberg p, Björn Lundén b, Karl-Henrik Ousbäck dr | Fr 24 |
-| Camilla Johnson voc, Leo Lindberg p, Björn Lundén b, Jonas Bäckman dr | Lö 25 |
-| Sanna Ruohoniemi voc, Thomas Backman sax, Joona Toivanen p, Lars Ekman b, Daniel Olsson dr | Sö 26 |
-| Klas Lindquist sax/cl, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr | On 29 |
-| ”Bengt Ernryds Jazz Blues Brothers med Stefan Nilsson voc/g”: Bengt Ernryd trp, Lasse Olofsson trb, Ulf Ållebrand sax, Daniel Agurén key, Tomas Dawidowski b, Rolf Fredriksson dr | To 30 |
-| Per"Texas"Johansson sax/cl, Julia Strzalek sax, Anton Sundell soundscape, Mauritz Agnas b, Konrad Agnas dr | Fr 31 | 
 
 | Konserter i Februari 2020                                                                                                                          |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
