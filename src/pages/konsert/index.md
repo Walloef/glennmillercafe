@@ -15,7 +15,7 @@ title: Konserter
 |Jonas Kullhammar sax, Mathias Landaeus p, Filip Augustson b, Sebastian Voegler dr| Lö 08 |
 |Jonas Kullhammar sax, Mathias Landaeus p, Filip Augustson b, Sebastian Voegler dr| Sö 09 |
 |Piazzollakväll med Mikael Augustsson bandoneon, Mattias Ståhl vib, Oskar Schönning b | On 12 |
-|Dwayne Clemons trp, Carl Orrje p, Björn Lundén b, Mattias Puttonen dr| To 13 |
+|Dwayne Clemons trp, Pål Nyberg g, Carl Orrje p, Björn Lundén b, Mattias Puttonen dr| To 13 |
 | David Skinner p, Arvid Jullander b, Emil Norman dr | Fr 14 |
 | Bag Ladies: Catharina Wiborgh sax, Gunnel Samuelsson sax/fl, Ann Blom p/voc, Patrik Boman b, Henrik Wartel dr | Lö 15 |
 | Waldemar: André Roligheten sax, Håvard Wiik p, Trygve Waldemar Fiske b, Erik Nylander dr | Sö 16 |
