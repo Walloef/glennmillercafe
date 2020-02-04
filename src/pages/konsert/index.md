@@ -39,6 +39,20 @@ title: Konserter
 | Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr | Sö 08 |
 | Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Moussa Fadera dr | On 11  |
 | Vidya Liselott Sundberg voc/p, Isabell Gustavsson Ny synth, Putte Johander b, Jon Fält dr  | To 12 |
+|Agnas Bros: Max Agnas p, Kasper Agnas g, Mauritz Agnas b, Konrad Agnas dr	| Lö 14 |
+|Lisa Björänge voc, John Holmström p, Josef Kallerdahl b, Jon-Erik Björänge dr | Sö 15 |
+|Robert Nordmark Quartet: Robert Nordmark sax, Adam Forkelid p, Petter Olofsson b, Sebastian Ågren dr | On 18 |
+|Terese Lien Evenstad violin, Anna Greta Sigurdardóttir p, Svante Söderqvist b, Peter Danemo dr  | To 19  |
+|Tessan Milveden voc, Chatarina Wiborgh sax, Ann Blom p, Jesper Kviberg dr | Fr 20 |
+|Bernt Rosengren sax,  Felix Tani p, Kenji Rabson b, Sebastian Voegler dr | Lö 21 | 
+|Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr | Sö 22 |
+|Krister Andersson sax, Leo Lindberg org, Ali Djeridi dr | On 25 |
+|Stina Hellberg Agback/Jonas Isaksson Quartet: Stina Hellberg Agback harpa, Jonas Isaksson g, Rasmus Diamant b, Daniel Olsson dr |To 26 |
+|Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr| Lö 28 |
+|Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson dr | Sö 29 |
+
+
+			 
 
 
 I samarbete med SENSUS 
