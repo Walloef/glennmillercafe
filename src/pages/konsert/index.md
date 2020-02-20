@@ -36,6 +36,7 @@ title: Konserter
 | Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr                                                                           | Sö 08 |     |
 | Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Moussa Fadera dr                                              | On 11 |     |
 | Vidya Liselott Sundberg voc/p, Isabell Gustavsson Ny synth, Putte Johander b, Jon Fält dr                                       | To 12 |     |
+| Jonathan Stribrny trp, Mats Äleklint trb, Isak Hedtjärn cl, Henning Ullén p, Mauritz Agnas b, Konrad Agnas dr | Fr 13  | 
 | Agnas Bros: Max Agnas p, Kasper Agnas g, Mauritz Agnas b, Konrad Agnas dr                                                       | Lö 14 |     |
 | Lisa Björänge voc, John Holmström p, Josef Kallerdahl b, Jon-Erik Björänge dr                                                   | Sö 15 |     |
 | Robert Nordmark Quartet: Robert Nordmark sax, Adam Forkelid p, Petter Olofsson b, Sebastian Ågren dr                            | On 18 |     |
