@@ -50,4 +50,16 @@ title: Konserter
 | Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr                                                                              | Lö 28 |     |
 | Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson dr                                                  | Sö 29 |     |
 
+| Konserter i April 2020                                                                                                                   |       |           
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+|Mikael Goodée sopsax, Eve Beuvens p, Magnus Bergström b, Johan Birgenius dr | On 01 |
+| Emil Strandberg trp, Kasper Agnas g, Mauritz Agnas b, Christopher Cantillo dr | To 02 |
+|Erik Palmberg trp, Klas Toresson sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   		Thomas Dawidowski b, Mattias Puttonen dr  | Fr 03  |
+|Johan Åström trb, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr | Lö 04 |
+|Nils Jansson trp, Sigurdur Flosason sax, Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr | Sö 05 |
+|Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr | On 08 |
+|	 
+	 
+ 
+
 I samarbete med SENSUS
