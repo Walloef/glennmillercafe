@@ -58,7 +58,25 @@ title: Konserter
 |Johan Åström trb, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr | Lö 04 |
 |Nils Jansson trp, Sigurdur Flosason sax, Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr | Sö 05 |
 |Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr | On 08 |
-|	 
+|Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr | To 09 |
+|Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr|Fr 10|
+|Gianni Gagliardi sax (ES), Odd Albrigtsen g (N), Lars Ekman b, Jesse Simpson dr (US)|Lö 11|
+|Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Mats Dimming b, Mattias Puttonen dr|Sö 12|
+|Chi Westfelt voc, Britta Virves p, Arvid Jullander b, Karl-Henrik Ousbäck dr| On 15|
+|Camilla Isaksson Kvintett: Camilla Isaksson voc, Stefan Isaksson sax, Göran Strandberg p, Patrik Boman b, Bo Söderberg dr|To 16|
+|Hildegunn Øiseth Quartet (N): Hildegunn  Øiseth trp, Espen Berg p, Magne Thormodsaeter b, Per Oddvar Johansen dr|Fr 17|
+|Rob´z: Robert Nordmark sax, Robert Erlandsson b, Robert Ikiz dr|Lö 18|
+|Fredrik Lindborg sax, Anna-Greta Sigurdadottir p, August Eriksson b, Daniel Fredriksson dr|Sö 19|
+|Nils Berg träblås, Mathias Landaeus p, Johnny Åman b, Konrad Agnas dr|To 23|
+|Bag Ladies: Catharina Wiborgh asax, Gunnel Samuelsson tsax/fl, Ann Blom p/voc, Patrik Boman b, Henrik Wartel dr|Fr 24|
+|Stefan Isaksson sax, Erik Söderlind g, Leo Lindberg org, Chris Montgomery dr|Lö 25|
+|Karl Wallmyr trp, Johannes Gammelgaard sax, Isak Hedtjärn cl, Love Meyerson dragspel,  Mauritz Agnas b, Arild Wahl dr|Sö 26|
+|Robert Malmberg p, Hans Backenroth b|On 29|
+|Orakel: Per ”Texas” Johansson sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr|To 30|
+		
+
+		 
+	 	 
 	 
  
 
