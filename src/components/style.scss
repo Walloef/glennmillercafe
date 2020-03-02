@@ -1,0 +1,162 @@
+tbody tr {
+  &:nth-child(odd) {
+    background: #232143;
+    box-shadow: 0 0 5px black;
+  }
+}
+
+tbody {
+  strong {
+    display: block;
+  }
+  img {
+    display: none;
+  }
+}
+
+th {
+  text-align: left;
+  font-size: 2.5rem;
+  font-family: 'Marck Script', cursive;
+}
+
+td {
+  padding: 16px 12px;
+  &:nth-child(2) {
+    text-align: right;
+  }
+}
+
+.lunch {
+  table {
+    width: 100% !important;
+  }
+  h2,
+  p {
+    width: 100% !important;
+  }
+}
+
+.list-info {
+  padding: 12px;
+
+  li {
+    background: #232143;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    margin: 0 auto 25px;
+    padding: 12px;
+    border: 1px solid #302b55;
+  }
+
+  &--heading {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 12px 0 0 12px;
+  }
+}
+
+.gm-text {
+  width: 600px;
+  max-width: calc(100% - 24px);
+  margin: 0 auto 35px;
+}
+
+.lang-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 12px;
+
+  &:last-child {
+    @media (min-width: 1088px) {
+      flex-grow: 1;
+      text-align: right;
+      justify-content: flex-end;
+    }
+  }
+}
+
+.navbar-item--last {
+  flex-grow: 1;
+}
+
+.background-depending-on-page {
+  height: 290px;
+  background-size: cover;
+  background-position: center;
+  padding: 32px;
+  box-shadow: 2px 2px 5px rgba(black, 0.5);
+  background-image: url('../../static/img/konsert.jpg');
+
+  h2 {
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
+  }
+}
+
+.sv-konsert {
+  .background-depending-on-page {
+    background-image: url('../../static/img/konsert.jpg');
+  }
+}
+
+.sv-meny {
+  .background-depending-on-page {
+    background-image: url('../../static/img/musslor-chili.png');
+  }
+}
+
+.sv-lunch {
+  .background-depending-on-page {
+    background-image: url('../../static/img/sallad.jpeg');
+  }
+}
+.booking__text {
+  max-width: 800px;
+  margin: 0 auto 34px;
+  width: 100%;
+  h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 14px;
+  }
+}
+.iframe__wrapper {
+  display: flex;
+  max-width: 800px;
+  margin: 0 auto 34px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+
+  @media (max-width: 700px) {
+    flex-direction: column;
+  }
+
+  img {
+    display: block;
+    width: calc(100% - 340px);
+
+    @media (max-width: 700px) {
+      margin-top: 30px;
+      width: 100%;
+    }
+  }
+}
+
+.sv-konsert {
+  .column.is-10.is-offset-1 .section .content {
+    flex-direction: column;
+
+    table {
+      width: 100%;
+    }
+
+    hr {
+      background: white;
+      height: 1px;
+    }
+  }
+}

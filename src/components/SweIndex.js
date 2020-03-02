@@ -130,6 +130,19 @@ class SweIndex extends React.Component {
             <p class="small">T-bana Hötorget eller Östermalmstorg</p>
           </div>
         </div>
+        <div className="booking__text">
+          <h2>Info ang bordsbokning</h2>
+          <p>
+            Om det inte går att boka via länken är det fullbokat. Om du vill stå
+            på väntelista, skicka ett sms till 076-882 45 49. Du blir kontaktad
+            om vi får bord lediga.
+          </p>
+          <p>
+            Om det är fullt går det ändå alltid bra att komma in och stå i baren
+            och lyssna. Vänligen notera att pengarna till bandet betalas kontant
+            eller då det är svenska musiker, även med swish.
+          </p>
+        </div>
         <div className="iframe__wrapper">
           <iframe
             src="./iframe.html"
