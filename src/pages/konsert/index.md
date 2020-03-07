@@ -43,6 +43,7 @@ title: Konserter
 | Hildegunn Øiseth Quartet (N): Hildegunn  Øiseth trp, Espen Berg p, Magne Thormodsaeter b, Per Oddvar Johansen dr                                 | Fr 17 |
 | Rob´z: Robert Nordmark sax, Robert Erlandsson b, Robert Ikiz dr                                                                                  | Lö 18 |
 | Fredrik Lindborg sax, Anna-Greta Sigurdadottir p, August Eriksson b, Daniel Fredriksson dr                                                       | Sö 19 |
+|Mona Krogstad sax(N),Milton Öhrström p, Oskar Schönning b, Konrad Agnas dr| on 22 |
 | Nils Berg träblås, Mathias Landaeus p, Johnny Åman b, Konrad Agnas dr                                                                            | To 23 |
 | Bag Ladies: Catharina Wiborgh asax, Gunnel Samuelsson tsax/fl, Ann Blom p/voc, Patrik Boman b, Henrik Wartel dr                                  | Fr 24 |
 | Stefan Isaksson sax, Erik Söderlind g, Leo Lindberg org, Chris Montgomery dr                                                                     | Lö 25 |
