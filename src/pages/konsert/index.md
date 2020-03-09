@@ -14,7 +14,7 @@ title: Konserter
 | Vidya Liselott Sundberg voc/p, Isabell Gustavsson Ny synth, Putte Johander b, Jon Fält dr                                                                | To 12 |     |
 | Jonathan Stribrny trp, Mats Äleklint trb, Isak Hedtjärn cl, Henning Ullén p, Mauritz Agnas b, Konrad Agnas dr                                            | Fr 13 |     |
 | Agnas Bros: Max Agnas p, Kasper Agnas g, Mauritz Agnas b, Konrad Agnas dr                                                                                | Lö 14 |     |
-| Lisa Björänge voc, John Holmström p, Josef Kallerdahl b, Jon-Erik Björänge dr                                                                            | Sö 15 |     |
+| Lisa Björänge voc, John Holmström p, Josef Kallerdahl b, Konrad Agnas dr                                                                            | Sö 15 |     |
 | Robert Nordmark Quartet: Robert Nordmark sax, Adam Forkelid p, Petter Olofsson b, Sebastian Ågren dr                                                     | On 18 |     |
 | Terese Lien Evenstad violin, Anna Greta Sigurdardóttir p, Svante Söderqvist b, Peter Danemo dr                                                           | To 19 |     |
 | Tessan Milveden voc, Chatarina Wiborgh sax, Ann Blom p, Jesper Kviberg dr                                                                                | Fr 20 |     |
