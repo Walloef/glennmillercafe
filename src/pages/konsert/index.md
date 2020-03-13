@@ -18,7 +18,7 @@ title: Konserter
 | Robert Nordmark Quartet: Robert Nordmark sax, Adam Forkelid p, Petter Olofsson b, Sebastian Ågren dr                                                     | On 18 |     |
 | Terese Lien Evenstad violin, Anna Greta Sigurdardóttir p, Svante Söderqvist b, Peter Danemo dr                                                           | To 19 |     |
 | Tessan Milveden voc, Chatarina Wiborgh sax, Ann Blom p, Jesper Kviberg dr                                                                                | Fr 20 |     |
-| Bernt Rosengren sax,  Felix Tani p, Kenji Rabson b, Sebastian Voegler dr                                                                                 | Lö 21 |     |
+| Jonas Kullammar sax,  Felix Tani p, Kenji Rabson b, Sebastian Voegler dr                                                                                 | Lö 21 |     |
 | Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr                                                                                   | Sö 22 |     |
 | Krister Andersson sax, Leo Lindberg org, Ali Djeridi dr                                                                                                  | On 25 |     |
 | Stina Hellberg Agback/Jonas Isaksson Quartet: Stina Hellberg Agback harpa, Jonas Isaksson g, Rasmus Diamant b, Daniel Olsson dr                          | To 26 |     |
