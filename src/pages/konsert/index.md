@@ -23,7 +23,7 @@ title: Konserter
 | Krister Andersson sax, Leo Lindberg org, Ali Djeridi dr                                                                                                  | On 25 |     |
 | Stina Hellberg Agback/Jonas Isaksson Quartet: Stina Hellberg Agback harpa, Jonas Isaksson g, Rasmus Diamant b, Daniel Olsson dr                          | To 26 |     |
 | Devin Gray´s infotainment Trio feat Fredrik "Ljunkan" Ljungkvist: Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, Devin Gray dr | Fr 27 |     |
-| Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr                                                                                                       | Lö 28 |     |
+| Fredrik Ljungkvist sax, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr                                                                                                       | Lö 28 |     |
 | Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson dr                                                                           | Sö 29 |     |
 
 | Konserter i April 2020                                                                                                                           |       |
@@ -38,7 +38,7 @@ title: Konserter
 | Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr                                                    | Fr 10 |
 | Gianni Gagliardi sax (ES), Odd Albrigtsen g (N), Lars Ekman b, Jesse Simpson dr (US)                                                             | Lö 11 |
 | Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Mats Dimming b, Mattias Puttonen dr                                                 | Sö 12 |
-| Chi Westfelt voc, Britta Virves p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                     | On 15 |
+| Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                     | On 15 |
 | Camilla Isaksson Kvintett: Camilla Isaksson voc, Stefan Isaksson sax, Göran Strandberg p, Patrik Boman b, Bo Söderberg dr                        | To 16 |
 | Hildegunn Øiseth Quartet (N): Hildegunn  Øiseth trp, Espen Berg p, Magne Thormodsaeter b, Per Oddvar Johansen dr                                 | Fr 17 |
 | Rob´z: Robert Nordmark sax, Robert Erlandsson b, Robert Ikiz dr                                                                                  | Lö 18 |
