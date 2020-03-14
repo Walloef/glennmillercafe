@@ -51,7 +51,7 @@ class EngIndex extends React.Component {
             <p class="small">Subway Hötorget or Östermalmstorg</p>
           </div>
         </div>
-        <div className="booking__text">
+        <div className="gm-text">
           <h2>Info about table booking</h2>
           <p>
             If it’s not possible to make a reservation through our site, it is
@@ -66,6 +66,10 @@ class EngIndex extends React.Component {
           </p>
         </div>
         <div className="iframe__wrapper">
+          <p className="iframe__title">
+            Important! You need to recieve a confirmation of your dinner
+            reservation before it is valid!
+          </p>
           <iframe
             title="book a table"
             src="./../../../iframe.html"

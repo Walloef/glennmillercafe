@@ -130,7 +130,7 @@ class SweIndex extends React.Component {
             <p class="small">T-bana Hötorget eller Östermalmstorg</p>
           </div>
         </div>
-        <div className="booking__text">
+        <div className="gm-text">
           <h2>Info ang bordsbokning</h2>
           <p>
             Om det inte går att boka via länken är det fullbokat. Om du vill stå
@@ -144,6 +144,10 @@ class SweIndex extends React.Component {
           </p>
         </div>
         <div className="iframe__wrapper">
+          <p className="iframe__title">
+            OBS! Först när du/ni fått en bekräftelse och en bokningsreferens
+            gäller din/er bokning!
+          </p>
           <iframe
             src="./iframe.html"
             id="bookTable"
