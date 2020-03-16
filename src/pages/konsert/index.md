@@ -15,6 +15,7 @@ title: Konserter
 | Jonathan Stribrny trp, Mats Äleklint trb, Isak Hedtjärn cl, Henning Ullén p, Mauritz Agnas b, Konrad Agnas dr                                            | Fr 13 |     |
 | Agnas Bros: Max Agnas p, Kasper Agnas g, Mauritz Agnas b, Konrad Agnas dr                                                                                | Lö 14 |     |
 | Lisa Björänge voc, John Holmström p, Josef Kallerdahl b, Konrad Agnas dr                                                                            | Sö 15 |     |
+|Inställt p g a sjukdom, men vi har öppet som vanligt  f o m torsdag|On 18|
 | Terese Lien Evenstad violin, Anna Greta Sigurdardóttir p, Svante Söderqvist b, Peter Danemo dr                                                           | To 19 |     |
 | Tessan Milveden voc, Chatarina Wiborgh sax, Ann Blom p, Jesper Kviberg dr                                                                                | Fr 20 |     |
 | Jonas Kullammar sax,  Felix Tani p, Kenji Rabson b, Sebastian Voegler dr                                                                                 | Lö 21 |     |
