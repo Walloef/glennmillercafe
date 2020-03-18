@@ -17,7 +17,7 @@ title: Konserter
 | Lisa Björänge voc, John Holmström p, Josef Kallerdahl b, Konrad Agnas dr                                                                            | Sö 15 |     |
 |Inställt p g a sjukdom, men vi har öppet som vanligt  f o m torsdag|On 18|
 | Terese Lien Evenstad violin, Anna Greta Sigurdardóttir p, Svante Söderqvist b, Peter Danemo dr                                                           | To 19 |     |
-| Tessan Milveden voc, Chatarina Wiborgh sax, Ann Blom p, Jesper Kviberg dr                                                                                | Fr 20 |     |
+| Fredrik Nordström sax, Gustav Lundgren g, Ilaria Capalbo b, Sebastian Voegler dr                                                                                | Fr 20 |     |
 | Jonas Kullammar sax,  Felix Tani p, Kenji Rabson b, Sebastian Voegler dr                                                                                 | Lö 21 |     |
 | Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr                                                                                   | Sö 22 |     |
 | Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr                                                                                                  | On 25 |     |
