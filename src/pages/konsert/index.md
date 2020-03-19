@@ -19,10 +19,10 @@ title: Konserter
 | Terese Lien Evenstad violin, Anna Greta Sigurdardóttir p, Svante Söderqvist b, Peter Danemo dr                                                           | To 19 |     |
 | Fredrik Nordström sax, Gustav Lundgren g, Ilaria Capalbo b, Sebastian Voegler dr                                                                                | Fr 20 |     |
 | Jonas Kullammar sax,  Felix Tani p, Kenji Rabson b, Sebastian Voegler dr                                                                                 | Lö 21 |     |
-| Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr                                                                                   | Sö 22 |     |
+| Söndag den 22 mars installt p g a musikersjukdom |
 | Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr                                                                                                  | On 25 |     |
 | Stina Hellberg Agback/Jonas Isaksson Quartet: Stina Hellberg Agback harpa, Jonas Isaksson g, Rasmus Diamant b, Daniel Olsson dr                          | To 26 |     |
-| Devin Gray´s infotainment Trio feat Fredrik "Ljunkan" Ljungkvist: Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, Devin Gray dr | Fr 27 |     |
+| Devin Gray´s infotainment Trio feat Fredrik "Ljunkan" Ljungkvist: Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, TBA dr | Fr 27 |     |
 | Fredrik Ljungkvist sax, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr                                                                                                       | Lö 28 |     |
 | Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson dr                                                                           | Sö 29 |     |
 
