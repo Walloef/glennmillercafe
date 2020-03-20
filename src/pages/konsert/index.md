@@ -22,7 +22,7 @@ title: Konserter
 | Söndag den 22 mars installt p g a musikersjukdom |
 | Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr                                                                                                  | On 25 |     |
 | Stina Hellberg Agback/Jonas Isaksson Quartet: Stina Hellberg Agback harpa, Jonas Isaksson g, Rasmus Diamant b, Daniel Olsson dr                          | To 26 |     |
-| Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, TBA dr | Fr 27 |     |
+| Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, Konrad Agnas dr | Fr 27 |     |
 | Fredrik Ljungkvist sax, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr                                                                                                       | Lö 28 |     |
 | Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson dr                                                                           | Sö 29 |     |
 
