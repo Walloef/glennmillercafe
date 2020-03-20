@@ -22,12 +22,13 @@ title: Konserter
 | Söndag den 22 mars installt p g a musikersjukdom |
 | Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr                                                                                                  | On 25 |     |
 | Stina Hellberg Agback/Jonas Isaksson Quartet: Stina Hellberg Agback harpa, Jonas Isaksson g, Rasmus Diamant b, Daniel Olsson dr                          | To 26 |     |
-| Devin Gray´s infotainment Trio feat Fredrik "Ljunkan" Ljungkvist: Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, TBA dr | Fr 27 |     |
+| Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, TBA dr | Fr 27 |     |
 | Fredrik Ljungkvist sax, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr                                                                                                       | Lö 28 |     |
 | Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson dr                                                                           | Sö 29 |     |
 
 | Konserter i April 2020                                                                                                                           |       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |                                            
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| MEQ: Mikael Godée sopsax, Eve Beuvens p, Magnus Bergström b, Johan Birgenius dr                                                                  | On 01 |
 | Emil Strandberg trp, Kasper Agnas g, Mauritz Agnas b, Christopher Cantillo dr                                                                    | To 02 |
 | Erik Palmberg trp, Klas Toresson sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   		Thomas Dawidowski b, Mattias Puttonen dr | Fr 03 |
 | Johan Åström trb, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr                                                                             | Lö 04 |
