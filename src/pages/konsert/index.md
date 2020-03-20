@@ -28,7 +28,6 @@ title: Konserter
 
 | Konserter i April 2020                                                                                                                           |       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
-| MEQ: Mikael Godée sopsax, Eve Beuvens p, Magnus Bergström b, Johan Birgenius dr                                                                  | On 01 |
 | Emil Strandberg trp, Kasper Agnas g, Mauritz Agnas b, Christopher Cantillo dr                                                                    | To 02 |
 | Erik Palmberg trp, Klas Toresson sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   		Thomas Dawidowski b, Mattias Puttonen dr | Fr 03 |
 | Johan Åström trb, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr                                                                             | Lö 04 |
