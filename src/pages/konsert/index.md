@@ -20,7 +20,7 @@ title: Konserter
 | Fredrik Nordström sax, Gustav Lundgren g, Ilaria Capalbo b, Karl Henrik Ousbäck dr                                                                                | Fr 20 |     |
 | Jonas Kullammar sax,  Felix Tani p, Kenji Rabson b, Sebastian Voegler dr                                                                                 | Lö 21 |     |
 | Söndag den 22 mars inställt p g a musikersjukdom |
-| Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr                                                                                                  | On 25 |     |
+|Onsdagen den 25 mars stängt|
 | Stina Hellberg Agback/Jonas Isaksson Quartet: Stina Hellberg Agback harpa, Jonas Isaksson g, Rasmus Diamant b, Daniel Olsson dr                          | To 26 |     |
 | Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, Konrad Agnas dr | Fr 27 |     |
 | Fredrik Ljungkvist sax, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr                                                                                                       | Lö 28 |     |
