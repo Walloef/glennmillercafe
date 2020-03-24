@@ -21,7 +21,7 @@ title: Konserter
 | Jonas Kullammar sax,  Felix Tani p, Kenji Rabson b, Sebastian Voegler dr                                                                                 | Lö 21 |     |
 | Söndag den 22 mars inställt p g a musikersjukdom |
 |Onsdagen den 25 mars stängt|
-| Stina Hellberg Agback/Jonas Isaksson Quartet: Stina Hellberg Agback harpa, Jonas Isaksson g, Rasmus Diamant b, Daniel Olsson dr                          | To 26 |     |
+|Torsdagen den 26 stängt|
 | Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, Konrad Agnas dr | Fr 27 |     |
 | Fredrik Ljungkvist sax, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr                                                                                                       | Lö 28 |     |
 | Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson dr                                                                           | Sö 29 |     |
