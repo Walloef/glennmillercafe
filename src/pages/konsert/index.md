@@ -28,6 +28,7 @@ title: Konserter
 
 | Konserter i April 2020                                                                                                                           |       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+|Gustav Lundgren g, Mats Sandahl b, Karl Henrik Ousbäck dr|On 01|
 | Emil Strandberg trp, Kasper Agnas g, Mauritz Agnas b, Christopher Cantillo dr                                                                    | To 02 |
 | "young and Shy & Handsome": Erik Palmberg trp, Linus Lindblom sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   Thomas Dawidowski b, Mattias Puttonen dr | Fr 03 |
 | Johan Åström trb, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr                                                                             | Lö 04 |
