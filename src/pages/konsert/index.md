@@ -24,7 +24,7 @@ title: Konserter
 |Torsdagen den 26 stängt|
 | Alberto Pinton träblås, Fredrik Ljungkvist träblås, Vilhelm Bromander b, Konrad Agnas dr | Fr 27 |     |
 | Fredrik Ljungkvist sax, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr                                                                                                       | Lö 28 |     |
-| Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson dr                                                                           | Sö 29 |     |
+| Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson Blixt dr                                                                           | Sö 29 |     |
 
 | Konserter i April 2020                                                                                                                           |       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
