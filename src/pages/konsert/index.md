@@ -23,7 +23,7 @@ title: Konserter
 |Onsdagen den 25 mars stängt|
 |Torsdagen den 26 stängt|
 |Fredag den 27 stängt|
-| Emil strandberg trp, Matds Sandahl b, Sebastian Voegler                                                                                                       | Lö 28 |     |
+| Emil strandberg trp, Mats Sandahl b, Sebastian Voegler dr                                                                                                      | Lö 28 |     |
 | Nils Jansson trp, Andreas Hourdakis g, Ingrid Schyborger b, Rasmus Svensson Blixt dr                                                                           | Sö 29 |     |
 
 | Konserter i April 2020                                                                                                                           |       |
