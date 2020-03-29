@@ -55,7 +55,9 @@ title: Konserter
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
 |Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr|Fr 01|
 |JBu5 plays Weather Report i arr av Johan Berke & Fredrik Nordström: Niklas Barnö trp, Alberto Pinton sax/cl, Fredrik Nordström sax, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr| Lö 02 |
-|Daniel Svensson g, Hans Backenroth b|Sö 03|	 
+|Daniel Svensson g, Hans Backenroth b|Sö 03|
+|Charlie Parker 100 years!: Klas Lindquist asax, Leo Lindberg p, Hans Backenroth b, Karl-Henrik Ousbäck dr|On 06|
+|Sture Ericson sax, Mathias Landaeus p, Johannes Nästesjö b, Håkon Berre dr|To 07| 			 
 
 	   
 
