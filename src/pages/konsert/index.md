@@ -39,6 +39,7 @@ title: Konserter
 |Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr|To 14|
 |Stockholm Jazz	Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr|Fr 15|
 |Peter Asplund & Robert Nordmark med Filip Ekestubbe Trio: Peter Asplund trp, Robert Nordmark sax,  Filip Ekestubbe p, Nklas Fernqvist b, Daniel Fredriksson dr|Lö 16|
+|Peter Knudsen p, Tobias Grim g, Rubem Farias b, Deodato Siquir dr/voc|Sö 17|
 |”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr|To 21| 
 |Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b|On 27|
 |Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr|To 28|
