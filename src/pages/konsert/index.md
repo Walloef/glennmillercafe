@@ -60,7 +60,15 @@ title: Konserter
 |Sture Ericson sax, Mathias Landaeus p, Johannes Nästesjö b, Håkon Berre dr|To 07| 	
 |Katarina Jältfors  voc, Daniel Tilling p, Kenji Rabson b, Mattias Puttonen dr|Sö 10|
 |Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr|On 13|
-|Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr|To 14|	 		 
+|Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr|To 14|
+|Stockholm Jazz	Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr|Fr 15|
+|Peter Asplund & Robert Nordmark med Filip Ekestubbe Trio: Peter Asplund trp, Robert Nordmark sax,  Filip Ekestubbe p, Nklas Fernqvist b, Daniel Fredriksson dr|Lö 16|
+|”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr|To 21| 
+|Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b|On 27|
+|Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr|To 28|
+|Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr|Lö 30|
+|Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr |Sö 31|		   	
+	  	 		 
 
 	   
 
