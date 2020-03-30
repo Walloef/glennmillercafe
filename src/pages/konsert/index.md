@@ -50,4 +50,5 @@ title: Konserter
 |Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr|Lö 30|
 |Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr |Sö 31|		   	
 	  	 		 
-                 I samarbete med SENSUS
+                 
+I samarbete med SENSUS
