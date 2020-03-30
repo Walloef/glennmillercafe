@@ -9,7 +9,7 @@ title: Konserter
 | Emil Strandberg trp, Kasper Agnas g, Mauritz Agnas b, Christopher Cantillo dr                                                                    | To 02 |
 | "young and Shy & Handsome": Nils Jansson trp, Linus Lindblom sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   Thomas Dawidowski b, Mattias Puttonen dr | Fr 03 |
 | Johan Åström trb, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr                                                                             | Lö 04 |
-| Nils Jansson trp, Sigurdur Flosason sax, Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr                                                  | Sö 05 |
+| Nils Jansson trp, Hans Olding g, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                  | Sö 05 |
 | Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr                                                                  | On 08 |
 | Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr                                                                                             | To 09 |
 | Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr                                                    | Fr 10 |
