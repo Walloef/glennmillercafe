@@ -9,6 +9,7 @@ title: Konserter
 | Emil Strandberg trp, Pär-Ola Landin b, Christopher Cantillo dr                                                                   | To 02 |
 | "young and Shy & Handsome": Nils Jansson trp, Anders Ramsell sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   Thomas Dawidowski b, Calle Rasmusson dr | Fr 03 |
  | Nils Jansson trp, Hans Olding g, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                  | Lö 04 |
+|Söndag den 05 april stängt|
 | Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr                                                                  | On 08 |
 | Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr                                                                                             | To 09 |
 | Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr                                                    | Fr 10 |
