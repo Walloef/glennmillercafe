@@ -13,7 +13,7 @@ title: Konserter
 | Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr                                                                  | On 08 |
 | Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr                                                                                             | To 09 |
 | Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr                                                    | Fr 10 |
-| Gianni Gagliardi sax (ES), Odd Albrigtsen g (N), Lars Ekman b, Jesse Simpson dr (US)                                                             | Lö 11 |
+| Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                             | Lö 11 |
 | Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Mats Dimming b, Mattias Puttonen dr                                                 | Sö 12 |
 | Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                     | On 15 |
 | Camilla Isaksson Kvintett: Camilla Isaksson voc, Stefan Isaksson sax, Göran Strandberg p, Patrik Boman b, Bo Söderberg dr| To 16 |
