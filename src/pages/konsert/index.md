@@ -15,7 +15,6 @@ title: Konserter
 | Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                             | Lö 11 |
 | Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Mats Dimming b, Mattias Puttonen dr                                                 | Sö 12 |
 | Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                     | On 15 |
-| Camilla Isaksson Kvintett: Camilla Isaksson voc, Stefan Isaksson sax, Göran Strandberg p, Patrik Boman b, Bo Söderberg dr| To 16 |
 | Rob´z: Robert Nordmark sax, Robert Erlandsson b, Robert Ikiz dr                                                                                  | Lö 18 |
 | Fredrik Lindborg sax, Anna-Greta Sigurdadottir p, August Eriksson b, Daniel Fredriksson dr                                                       | Sö 19 |
 |Mona Krogstad sax(N),Milton Öhrström p, Oskar Schönning b, Konrad Agnas dr| on 22 |
