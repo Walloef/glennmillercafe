@@ -6,13 +6,12 @@ title: Konserter
 | Konserter i April 2020                                                                                                                           |       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
 |Gustav Lundgren g, Mats Sandahl b, Karl Henrik Ousbäck dr|On 01|
-| Emil Strandberg trp, Pär-Ola Landin b, Christopher Cantillo dr                                                                   | To 02 |
+|Torsdag den 02 april stängt|
 | "young and Shy & Handsome": Nils Jansson trp, Anders Ramsell sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   Thomas Dawidowski b, Calle Rasmusson dr | Fr 03 |
- | Nils Jansson trp, Hans Olding g, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                  | Lö 04 |
+| Nils Jansson trp, Hans Olding g, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                  | Lö 04 |
 |Söndag den 05 april stängt|
 |Onsdag den 08 april stängt|                                                                 
 | Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr                                                                                             | To 09 |
-| Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr                                                    | Fr 10 |
 | Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                             | Lö 11 |
 | Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Mats Dimming b, Mattias Puttonen dr                                                 | Sö 12 |
 | Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                     | On 15 |
