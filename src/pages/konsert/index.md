@@ -11,7 +11,8 @@ title: Konserter
 | Nils Jansson trp, Hans Olding g, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                  | Lö 04 |
 |Söndag den 05 april stängt|
 |Onsdag den 08 april stängt|                                                                 
-| Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr                                                                                             | To 09 |
+| Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr                                                                                             | To 09|
+|Calle Bagge p, Martin Höper b, Moussa Fadera dr, sax TBA|Fr 10|
 | Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                             | Lö 11 |
 | Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Mats Dimming b, Mattias Puttonen dr                                                 | Sö 12 |
 | Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                     | On 15 |
