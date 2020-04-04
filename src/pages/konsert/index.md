@@ -2,15 +2,26 @@
 templateKey: konsert-page
 title: Konserter
 ---
-
-| Konserter i April 2020                                                                                                                           |       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| Konserter i April 2020                                                                                                                                                                                                                                         |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Nyhet                                                                                                                                                                                                                                                          |     |
+| **Ät din GMC-middag hemma!**                                                                                                                                                                                                                                   |     |
+| På fredag och lördag kan du handla hämtmat på Glenn Miller Café från kl 17.00                                                                                                                                                                                  |     |
+| Skicka sms till 0768824549 och gör din beställning, Du kan komma in från kl 17.00 innan vi öppnar och hämta upp din beställning. Ange om möjligt vilken tid du kommer. Du kan även få den utburen till bilen om du stannar utanför vår port(ring samma nummer) |     |
+\|**Meny:**|
+|Bœuf Bourguignonne, sallad o bröd 175:-|
+|GMC´s Bouillabaisse, saffransaioli,sallad o bröd 175:-|
+|Salade Campagne, även vegetarisk och vegansk 155:-|
+|Färdig fond till musslorna(ej musslorna)|
+|Moules marinière 55 kr|
+|Moules crème     55 kr|
+|Dessert: Chokladmousse  65:-|
 |Gustav Lundgren g, Mats Sandahl b, Karl Henrik Ousbäck dr|On 01|
 |Torsdag den 02 april stängt|
 | "young and Shy & Handsome": Nils Jansson trp, Anders Ramsell sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   Thomas Dawidowski b, Calle Rasmusson dr | Fr 03 |
 | Nils Jansson trp, Hans Olding g, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                  | Lö 04 |
 |Söndag den 05 april stängt|
-|Onsdag den 08 april stängt|                                                                 
+|Onsdag den 08 april stängt|\
 | Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr                                                                                             | To 09|
 |Calle Bagge p, Martin Höper b, Moussa Fadera dr, sax TBA|Fr 10|
 | Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                             | Lö 11 |
@@ -26,28 +37,27 @@ title: Konserter
 | Robert Malmberg p, Hans Backenroth b                                                                                                             | On 29 |
 | Orakel: Per ”Texas” Johansson sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr                                                                     | To 30 |
 
-| Konserter i Maj 2020                                                                                                                           |       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
-|Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr|Fr 01|
-|JBu5 plays Weather Report i arr av Johan Berke & Fredrik Nordström: Niklas Barnö trp, Alberto Pinton sax/cl, Fredrik Nordström sax, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr| Lö 02 |
-|Daniel Svensson g, Hans Backenroth b|Sö 03|
-|Charlie Parker 100 years!: Klas Lindquist asax, Leo Lindberg p, Hans Backenroth b, Karl-Henrik Ousbäck dr|On 06|
-|Sture Ericson sax, Mathias Landaeus p, Johannes Nästesjö b, Håkon Berre dr|To 07| 
-|Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr|Fr 08|	
-|Katarina Jältfors  voc, Daniel Tilling p, Kenji Rabson b, Mattias Puttonen dr|Sö 10|
-|Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr|On 13|
-|Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr|To 14|
-|Stockholm Jazz	Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr|Fr 15|
-|Peter Asplund & Robert Nordmark med Filip Ekestubbe Trio: Peter Asplund trp, Robert Nordmark sax,  Filip Ekestubbe p, Nklas Fernqvist b, Daniel Fredriksson dr|Lö 16|
-|Peter Knudsen p, Tobias Grim g, Rubem Farias b, Deodato Siquir dr/voc|Sö 17|
-|Rui Halvares Andrade Paes p, Mauritz Agnas b, Andreas Pettersson dr|On 20|	
-|”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr|To 21|
-|Anna Greta Sigurdardóttir p, Joel Haag g, Daniel Andersson b, Mario Ochoa dr|Sö 24| 	 	  
-|Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b|On 27|
-|Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr|To 28|
-|Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr|Fr 29|	
-|Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr|Lö 30|
-|Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr |Sö 31|		   	
-	  	 		 
-                 
+| Konserter i Maj 2020                                                                                                                                                                         |       |      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---- |
+| Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr                                                                                                                                           | Fr 01 |      |
+| JBu5 plays Weather Report i arr av Johan Berke & Fredrik Nordström: Niklas Barnö trp, Alberto Pinton sax/cl, Fredrik Nordström sax, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr | Lö 02 |      |
+| Daniel Svensson g, Hans Backenroth b                                                                                                                                                         | Sö 03 |      |
+| Charlie Parker 100 years!: Klas Lindquist asax, Leo Lindberg p, Hans Backenroth b, Karl-Henrik Ousbäck dr                                                                                    | On 06 |      |
+| Sture Ericson sax, Mathias Landaeus p, Johannes Nästesjö b, Håkon Berre dr                                                                                                                   | To 07 |      |
+| Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr                                                                                                | Fr 08 |      |
+| Katarina Jältfors  voc, Daniel Tilling p, Kenji Rabson b, Mattias Puttonen dr                                                                                                                | Sö 10 |      |
+| Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr                                                                                                                                        | On 13 |      |
+| Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr                                                                              | To 14 |      |
+| Stockholm Jazz	Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr                                                                                              | Fr 15 |      |
+| Peter Asplund & Robert Nordmark med Filip Ekestubbe Trio: Peter Asplund trp, Robert Nordmark sax,  Filip Ekestubbe p, Nklas Fernqvist b, Daniel Fredriksson dr                               | Lö 16 |      |
+| Peter Knudsen p, Tobias Grim g, Rubem Farias b, Deodato Siquir dr/voc                                                                                                                        | Sö 17 |      |
+| Rui Halvares Andrade Paes p, Mauritz Agnas b, Andreas Pettersson dr                                                                                                                          | On 20 |      |
+| ”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr                                                                                   | To 21 |      |
+| Anna Greta Sigurdardóttir p, Joel Haag g, Daniel Andersson b, Mario Ochoa dr                                                                                                                 | Sö 24 |  	   |
+| Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b                                                                                                                                   | On 27 |      |
+| Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr                                                                                                                      | To 28 |      |
+| Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |      |
+| Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr                                                                                                              | Lö 30 |      |
+| Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr                                                                                                        | Sö 31 |      |
+
 I samarbete med SENSUS
