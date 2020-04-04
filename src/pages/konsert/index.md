@@ -2,40 +2,41 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Konserter i April 2020                                                                                                                                                                                                                                         |     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Nyhet                                                                                                                                                                                                                                                          |     |
-| **Ät din GMC-middag hemma!**                                                                                                                                                                                                                                   |     |
-| På fredag och lördag kan du handla hämtmat på Glenn Miller Café från kl 17.00                                                                                                                                                                                  |     |
-| Skicka sms till 0768824549 och gör din beställning, Du kan komma in från kl 17.00 innan vi öppnar och hämta upp din beställning. Ange om möjligt vilken tid du kommer. Du kan även få den utburen till bilen om du stannar utanför vår port(ring samma nummer) |     |
-\|**Meny:**|
-|Bœuf Bourguignonne, sallad o bröd 175:-|
-|GMC´s Bouillabaisse, saffransaioli,sallad o bröd 175:-|
-|Salade Campagne, även vegetarisk och vegansk 155:-|
-|Färdig fond till musslorna(ej musslorna)|
-|Moules marinière 55 kr|
-|Moules crème     55 kr|
-|Dessert: Chokladmousse  65:-|
-|Gustav Lundgren g, Mats Sandahl b, Karl Henrik Ousbäck dr|On 01|
-|Torsdag den 02 april stängt|
-| "young and Shy & Handsome": Nils Jansson trp, Anders Ramsell sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   Thomas Dawidowski b, Calle Rasmusson dr | Fr 03 |
-| Nils Jansson trp, Hans Olding g, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                  | Lö 04 |
-|Söndag den 05 april stängt|
-|Onsdag den 08 april stängt|\
-| Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr                                                                                             | To 09|
-|Calle Bagge p, Martin Höper b, Moussa Fadera dr, sax TBA|Fr 10|
-| Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                             | Lö 11 |
-| Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Mats Dimming b, Mattias Puttonen dr                                                 | Sö 12 |
-| Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                     | On 15 |
-| Rob´z: Robert Nordmark sax, Robert Erlandsson b, Robert Ikiz dr                                                                                  | Lö 18 |
-| Fredrik Lindborg sax, Anna-Greta Sigurdadottir p, August Eriksson b, Daniel Fredriksson dr                                                       | Sö 19 |
-|Mona Krogstad sax(N),Milton Öhrström p, Oskar Schönning b, Konrad Agnas dr| on 22 |
-| Nils Berg träblås, Mathias Landaeus p, Johnny Åman b, Konrad Agnas dr                                                                            | To 23 |
-| Bag Ladies: Catharina Wiborgh asax, Gunnel Samuelsson tsax/fl, Ann Blom p/voc, Patrik Boman b, Henrik Wartel dr                                  | Fr 24 |
-| Stefan Isaksson sax, Erik Söderlind g, Leo Lindberg org, Chris Montgomery dr                                                                     | Lö 25 |
-| Karl Wallmyr trp, Johannes Gammelgaard sax, Isak Hedtjärn cl, Love Meyerson dragspel,  Mauritz Agnas b, Arild Wahl dr                            | Sö 26 |
-| Robert Malmberg p, Hans Backenroth b                                                                                                             | On 29 |
-| Orakel: Per ”Texas” Johansson sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr                                                                     | To 30 |
+| Konserter i April 2020                                                                                                                                                                                                                                         |       |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
+| Nyhet Takeway                                                                                                                                                                                                                                                  |       |     |
+| **Ät din GMC-middag hemma!**                                                                                                                                                                                                                                   |       |     |
+| På fredag och lördag kan du handla hämtmat på Glenn Miller Café från kl 17.00                                                                                                                                                                                  |       |     |
+| Skicka sms till 0768824549 och gör din beställning, Du kan komma in från kl 17.00 innan vi öppnar och hämta upp din beställning. Ange om möjligt vilken tid du kommer. Du kan även få den utburen till bilen om du stannar utanför vår port(ring samma nummer) |       |     |
+| \|**Meny:**                                                                                                                                                                                                                                                    |       |     |
+| Bœuf Bourguignonne, sallad o bröd 175:-                                                                                                                                                                                                                        |       |     |
+| GMC´s Bouillabaisse, saffransaioli,sallad o bröd 175:-                                                                                                                                                                                                         |       |     |
+| Salade Campagne, även vegetarisk och vegansk 155:-                                                                                                                                                                                                             |       |     |
+| Färdig fond till musslor(ej musslor)                                                                                                                                                                                                                           |       |     |
+| Moules marinière 55 kr                                                                                                                                                                                                                                         |       |     |
+| Moules crème     55 kr                                                                                                                                                                                                                                         |       |     |
+| Dessert: Chokladmousse  65:-                                                                                                                                                                                                                                   |       |     |
+|  **Konserter**                                                                                                                                                                                                                                                |       |     |
+| Gustav Lundgren g, Mats Sandahl b, Karl Henrik Ousbäck dr                                                                                                                                                                                                      | On 01 |     |
+| Torsdag den 02 april stängt                                                                                                                                                                                                                                    |       |     |
+| "young and Shy & Handsome": Nils Jansson trp, Anders Ramsell sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   Thomas Dawidowski b, Calle Rasmusson dr                                                                                      | Fr 03 |     |
+| Nils Jansson trp, Hans Olding g, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                                                                                                                                     | Lö 04 |     |
+| Söndag den 05 april stängt                                                                                                                                                                                                                                     |       |     |
+| Onsdag den 08 april stängt                                                                                                                                                                                                                                     | \     |     |
+| Johan Graden p, Vilhelm Bromander b, Konrad Agnas dr                                                                                                                                                                                                           | To 09 |     |
+| Calle Bagge p, Martin Höper b, Moussa Fadera dr, sax TBA                                                                                                                                                                                                       | Fr 10 |     |
+| Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                                                                                                                                                                | Lö 11 |     |
+| Stefan Isaksson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Mats Dimming b, Mattias Puttonen dr                                                                                                                                                               | Sö 12 |     |
+| Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                                                                                                                                 | On 15 |     |
+| Rob´z: Robert Nordmark sax, Robert Erlandsson b, Robert Ikiz dr                                                                                                                                                                                                | Lö 18 |     |
+| Fredrik Lindborg sax, Anna-Greta Sigurdadottir p, August Eriksson b, Daniel Fredriksson dr                                                                                                                                                                     | Sö 19 |     |
+| Mona Krogstad sax(N),Milton Öhrström p, Oskar Schönning b, Konrad Agnas dr                                                                                                                                                                                     | on 22 |     |
+| Nils Berg träblås, Mathias Landaeus p, Johnny Åman b, Konrad Agnas dr                                                                                                                                                                                          | To 23 |     |
+| Bag Ladies: Catharina Wiborgh asax, Gunnel Samuelsson tsax/fl, Ann Blom p/voc, Patrik Boman b, Henrik Wartel dr                                                                                                                                                | Fr 24 |     |
+| Stefan Isaksson sax, Erik Söderlind g, Leo Lindberg org, Chris Montgomery dr                                                                                                                                                                                   | Lö 25 |     |
+| Karl Wallmyr trp, Johannes Gammelgaard sax, Isak Hedtjärn cl, Love Meyerson dragspel,  Mauritz Agnas b, Arild Wahl dr                                                                                                                                          | Sö 26 |     |
+| Robert Malmberg p, Hans Backenroth b                                                                                                                                                                                                                           | On 29 |     |
+| Orakel: Per ”Texas” Johansson sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr                                                                                                                                                                                   | To 30 |     |
 
 | Konserter i Maj 2020                                                                                                                                                                         |       |      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---- |
