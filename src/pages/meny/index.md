@@ -19,7 +19,7 @@ title: Meny Tillfällig
 
 | Varmrätter/Mains                                                                                       |       |
 | ------------------------------------------------------------------------------------------------------ | ----- |
-|**Bœuf Bourguignonne** |245:-|
+|**Bœuf à la Bourguignonne** |245:-|
 | **GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille....                               | 245:- |
 |**Salade Campagne**|195:-||Sallad,tomat,paprika,rödlök,chèvre,bacon,ägg,bönor...
 kan fås som vegetarisk eller vegansk|
