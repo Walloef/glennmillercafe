@@ -1,6 +1,6 @@
 ---
 templateKey: meny-page
-title: Meny
+title: Meny Tillfällig
 ---
 | Före maten?!              |       |
 | ------------------------- | ----- |
@@ -19,15 +19,11 @@ title: Meny
 
 | Varmrätter/Mains                                                                                       |       |
 | ------------------------------------------------------------------------------------------------------ | ----- |
-| **Confit de Canard** Confiterat anklår med inkokt fänkål, päron, potatis med Roquefort sås..           | 295:- |
+|**Bœuf à la Bourguignonne** |245:-|
 | **GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille....                               | 245:- |
-| **Entrecôte med frites, dijon,**  bbq-och rödvinssås, smör toppad med persillade...                            | 339:- | 
-|**Choucroute Garnie** Fransk surkål med Frankfurter, Morteau, skinka, dijon..|265:-|
-| **Ugnstekta grönsaker med tomat & chèvre**  Aubergine, potatis, zucchini, fänkål, bondbönor & vitlök mm, veg/vegan | 225:- |
-| **Backenrothsallad**  Mix-sallad, tomat, rödlök, paprika, brödkrutonger, bacon, chèvre serveras med frites & aioli. Finns även i vegetarisk och vegansk version                | 210/200:- |
-
+|**Salade Campagne**|195:-||Sallad,tomat,paprika,rödlök,chèvre,bacon,ägg,bönor...
+kan fås som vegetarisk eller vegansk|
 | Les Moules Frites                                                                                                         |       |
-| ------------------------------------------------------------------------------------------------------------------------- | ----- |
 | Alla musslor serveras med frites (alt sallad) och aioli,                                                                 |       |
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:- |
 | **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon..                                      | 235:- |
