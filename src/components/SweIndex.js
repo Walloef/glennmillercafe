@@ -37,7 +37,7 @@ class SweIndex extends React.Component {
                     class="circ_img"
                     style={{
                       background:
-                        "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center"
+                        "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center",
                     }}
                   >
                     &nbsp;
@@ -75,7 +75,7 @@ class SweIndex extends React.Component {
                 class="circ_img"
                 style={{
                   background:
-                    "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center"
+                    "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center",
                 }}
               >
                 &nbsp;
@@ -103,16 +103,40 @@ class SweIndex extends React.Component {
         <div className="quick-info">
           <div>
             <h3>Bordsbokning</h3>
-            <p>
-              <b>
+            <p
+              style={{
+                display: 'flex',
+                flexDirection: 'column',
+              }}
+            >
+              <b
+                style={{
+                  padding: '12px 0',
+                }}
+              >
                 <a
                   style={{
                     color: 'white',
-                    borderBottom: '1px solid white'
+                    borderBottom: '1px solid white',
                   }}
                   href="#bookTable"
                 >
                   Online
+                </a>
+              </b>
+              <b
+                style={{
+                  padding: '12px 0 24px',
+                }}
+              >
+                <a
+                  style={{
+                    color: 'white',
+                    borderBottom: '1px solid white',
+                  }}
+                  href="#nyhet"
+                >
+                  Avhämtning
                 </a>
               </b>
             </p>
@@ -143,21 +167,82 @@ class SweIndex extends React.Component {
             eller då det är svenska musiker, även med swish.
           </p>
         </div>
-        <div className="iframe__wrapper">
+        <div className="iframe__wrapper" id="bookTable">
           <p className="iframe__title">
             OBS! Först när du/ni fått en bekräftelse och en bokningsreferens
             gäller din/er bokning!
           </p>
           <iframe
             src="./iframe.html"
-            id="bookTable"
             title="book a table"
             style={{
               height: '369px',
-              width: '320px'
+              width: '320px',
             }}
           />
           <img src={ingresstext} alt="restaurant empty" />
+        </div>
+        <div className="gm-text" id="nyhet">
+          <h2>Nyhet</h2>
+          <p>
+            Ät din GMC-middag hemma! För avhämtning på fredag och lördag kan du
+            beställa mat på Glenn Miller Café. Skicka sms till 0768824549 och
+            gör din beställning. Du kan komma in från kl 17.00, innan vi öppnar,
+            och hämta upp din beställning. Ange om möjligt vilken tid du kommer.
+            Du kan även få den utburen till bilen om du stannar utanför vår
+            port. (ring samma nummer)
+            <table>
+              <thead>
+                <tr>
+                  <th>Meny</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Bœuf bourguignon, sallad och bröd</td>
+                  <td>175kr</td>
+                </tr>
+                <tr>
+                  <td>GMC’s Bouillabaisse, saffransaioli, sallad och bröd</td>
+                  <td>175kr</td>
+                </tr>
+                <tr>
+                  <td>Sallad Campagne, även vegetarisk eller vegansk</td>
+                  <td>175kr</td>
+                </tr>
+              </tbody>
+            </table>
+            <table>
+              <thead>
+                <tr>
+                  <th>Färdig blandning till Musslor (ej musslorna)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Moules Marinières</td>
+                  <td>55 kr</td>
+                </tr>
+                <tr>
+                  <td>Moules a la crème</td>
+                  <td>55 kr</td>
+                </tr>
+              </tbody>
+            </table>
+            <table>
+              <thead>
+                <tr>
+                  <th>Dessert</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Chokladmousse</td>
+                  <td>65 kr</td>
+                </tr>
+              </tbody>
+            </table>
+          </p>
         </div>
         <div className="gm-text">
           <p>
@@ -178,7 +263,7 @@ class SweIndex extends React.Component {
         </div>
         <p
           style={{
-            textAlign: 'center'
+            textAlign: 'center',
           }}
           class="gm-text"
         >
@@ -186,7 +271,7 @@ class SweIndex extends React.Component {
           <a
             style={{
               color: 'white',
-              textDecoration: 'underline'
+              textDecoration: 'underline',
             }}
             href="https://sv-se.facebook.com/glennmillercafe/"
           >
@@ -196,7 +281,7 @@ class SweIndex extends React.Component {
           <a
             style={{
               color: 'white',
-              textDecoration: 'underline'
+              textDecoration: 'underline',
             }}
             href="https://www.instagram.com/cafeglennmiller/"
           >

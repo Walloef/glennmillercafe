@@ -29,7 +29,7 @@ class EngIndex extends React.Component {
                 <a
                   style={{
                     color: 'white',
-                    borderBottom: '1px solid white'
+                    borderBottom: '1px solid white',
                   }}
                   href="#bookTable"
                 >
@@ -65,7 +65,7 @@ class EngIndex extends React.Component {
             is payable in cash only. (or swish if the musicians are swedish)
           </p>
         </div>
-        <div className="iframe__wrapper">
+        <div className="iframe__wrapper" id="bookTable">
           <p className="iframe__title">
             Important! You need to recieve a confirmation of your dinner
             reservation before it is valid!
@@ -73,10 +73,9 @@ class EngIndex extends React.Component {
           <iframe
             title="book a table"
             src="./../../../iframe.html"
-            id="bookTable"
             style={{
               height: '369px',
-              width: '320px'
+              width: '320px',
             }}
           />
           <img src={ingresstext} alt="restaurant empty" />
@@ -102,7 +101,7 @@ class EngIndex extends React.Component {
         </div>
         <p
           style={{
-            textAlign: 'center'
+            textAlign: 'center',
           }}
           class="gm-text"
         >
@@ -110,7 +109,7 @@ class EngIndex extends React.Component {
           <a
             style={{
               color: 'white',
-              textDecoration: 'underline'
+              textDecoration: 'underline',
             }}
             href="https://facebook.com/glennmillercafe/"
           >
@@ -120,7 +119,7 @@ class EngIndex extends React.Component {
           <a
             style={{
               color: 'white',
-              textDecoration: 'underline'
+              textDecoration: 'underline',
             }}
             href="https://www.instagram.com/cafeglennmiller/"
           >
