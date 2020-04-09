@@ -32,6 +32,21 @@
   border: none;
 }
 
-.content table td {
+.content table td:last-child {
   width: 93px;
+  text-align: right;
+}
+
+.column.is-11 .content table {
+  width: calc(50% - 12px);
+
+  @media (max-width: 1000px) {
+    width: 100%;
+  }
+}
+
+.column.is-11 {
+  margin: 0 auto;
+  .content table thead tr th {
+  }
 }
