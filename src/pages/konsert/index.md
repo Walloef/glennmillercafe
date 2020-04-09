@@ -2,7 +2,7 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Konserter i April 2020                                                                                                                                                                                                                                         |       |     |
+| Konserter i April 2020                                                                                                                                                                                                                                         |       |
 | ------------------------------------------------------------------------------------------------------------------------|------------ | ----- | --- |
                                                                                                                                                                            |Gustav Lundgren g, Mats Sandahl b, Karl Henrik Ousbäck dr                                                                                                                                                                                                      | On 01 |     
 | Torsdag den 02 april stängt|                                                                                                                                                                                                                                    
@@ -25,7 +25,7 @@ title: Konserter
 | Robert Malmberg p, Hans Backenroth b                                                                                                                                                                                                                           | On 29 |     
 | Orakel: Per ”Texas” Johansson sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr                                                                                                                                                                                   | To 30 |     
 
-| Konserter i Maj 2020                                                                                                                                                                         |       |      |
+| Konserter i Maj 2020                                                                                                                                                                         |       |
 | ------------------------------------------------------------------------------------------------------------------------|------- | ----- | ---- |
 | Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr                                                                                                                                           | Fr 01 |      
 | JBu5 plays Weather Report i arr av Johan Berke & Fredrik Nordström: Niklas Barnö trp, Alberto Pinton sax/cl, Fredrik Nordström sax, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr | Lö 02 |      
@@ -41,11 +41,11 @@ title: Konserter
 | Peter Knudsen p, Tobias Grim g, Rubem Farias b, Deodato Siquir dr/voc                                                                                                                        | Sö 17 |      
 | Rui Halvares Andrade Paes p, Mauritz Agnas b, Andreas Pettersson dr                                                                                                                          | On 20 |      
 | ”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr                                                                                   | To 21 |      
-| Anna Greta Sigurdardóttir p, Joel Haag g, Daniel Andersson b, Mario Ochoa dr                                                                                                                 | Sö 24 |  	   
+| Anna Greta Sigurdardóttir p, Joel Haag g, Daniel Andersson b, Mario Ochoa dr                                                                                                                 | Sö 24 |
 | Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b                                                                                                                                   | On 27 |      
 | Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr                                                                                                                      | To 28 |      
 | Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |      
 | Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr                                                                                                              | Lö 30 |      
-| Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr                                                                                                        | Sö 31 |      
+| Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr                                                                                                       | Sö 31 |
 
 I samarbete med SENSUS
