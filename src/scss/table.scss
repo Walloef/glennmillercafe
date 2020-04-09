@@ -1,23 +1,37 @@
 .column.is-10.is-offset-1 {
-    .section {
-        padding: 12px;
-        .content {
-            display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            justify-content: space-between;
+  .section {
+    padding: 12px;
+    .content {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
 
-            p {
-                width: 40%;
-            }
+      p {
+        width: 40%;
+      }
 
-            table {
-                width: 50%;
+      table {
+        width: 50%;
 
-                &:first-child:last-child {
-                    width: 100%;
-                }
-            }
+        &:first-child:last-child {
+          width: 100%;
         }
+      }
     }
+  }
+}
+
+.content table thead td,
+.content table thead th {
+  color: white !important;
+}
+
+.content table td,
+.content table th {
+  border: none;
+}
+
+.content table td {
+  width: 93px;
 }
