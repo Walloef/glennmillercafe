@@ -154,8 +154,26 @@ class SweIndex extends React.Component {
             <p class="small">T-bana Hötorget eller Östermalmstorg</p>
           </div>
         </div>
-        <div className="gm-text">
-          <h2>Info ang bordsbokning</h2>
+        <div
+          className="gm-text"
+          style={{
+            maxWidth: '500px',
+            width: '85vw',
+          }}
+        >
+          <h2>Kära gäster och vänner av Glenn Miller Café!</h2>
+          <p>
+            Restaurang och kulturlivet blöder. För <b>Glenn Miller Café</b> är
+            det inget undantag. Vi håller öppet men intäkterna är mindre än 1/5
+            än normalt. (Marginalerna var inte stora till att börja med) Har du
+            möjlighet att stötta oss genom krisen med ett bidrag, stort som
+            litet, kan det göra hela skillnaden, och vi klarar oss igenom. Om
+            så, swisha till 1236356364 eller skicka via bg: 405-5158 (Jazzhunden
+            AB) Skriv som meddelande: ”Rädda GMC”
+          </p>
+          <p>Tusen Tack!</p>
+          <p>Kerstin & Ulf</p>
+          {/* <h2>Info ang bordsbokning</h2>
           <p>
             Om det inte går att boka via länken är det fullbokat. Om du vill stå
             på väntelista, skicka ett sms till 076-882 45 49. Du blir kontaktad
@@ -165,7 +183,7 @@ class SweIndex extends React.Component {
             Om det är fullt går det ändå alltid bra att komma in och stå i baren
             och lyssna. Vänligen notera att pengarna till bandet betalas kontant
             eller då det är svenska musiker, även med swish.
-          </p>
+          </p> */}
         </div>
         <div className="iframe__wrapper" id="bookTable">
           <p className="iframe__title">
