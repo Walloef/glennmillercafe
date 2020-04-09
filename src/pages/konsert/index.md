@@ -3,7 +3,7 @@ templateKey: konsert-page
 title: Konserter
 ---
 | Konserter i April 2020                                                                                                                                                                                                                                         |       |
-| ------------------------------------------------------------------------------------------------------------------------|------------ | ----- | --- |
+| ------------------------------------------------------------------------------------------------------------------------|------------ |
                                                                                                                                                                            |Gustav Lundgren g, Mats Sandahl b, Karl Henrik Ousbäck dr                                                                                                                                                                                                      | On 01 |     
 | Torsdag den 02 april stängt|                                                                                                                                                                                                                                    
 | "young and Shy & Handsome": Nils Jansson trp, Anders Ramsell sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   Thomas Dawidowski b, Calle Rasmusson dr                                                                                      | Fr 03 |     
