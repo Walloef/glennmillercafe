@@ -14,7 +14,8 @@ title: Konserter
 | Tobias Wiklund trp, Calle Bagge p, Martin Höper b, Moussa Fadera dr                                                                                                                                                                                                       | Fr 10 |     
 | Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                                                                                                                                                              | Lö 11 | 
 | Söndag den 12 april stängt|    
-                                                                                                                                                  | Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                                                                                                                                 | On 15 |     
+                                                                                                                                                  | Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                                                                                                                                 | On 15 |
+| Filip Ekestubbe p, Niklas Fernqvist b, Sebastian Ågren dr,sax TBA| Fre 17|   
 | Rob´z: Robert Nordmark sax, Robert Erlandsson b, Robert Ikiz dr                                                                                                                                                                                                | Lö 18 |     
 | Fredrik Lindborg sax, Anna-Greta Sigurdadottir p, August Eriksson b, Daniel Fredriksson dr                                                                                                                                                                     | Sö 19 |     
 | Mona Krogstad sax(N),Milton Öhrström p, Oskar Schönning b, Konrad Agnas dr                                                                                                                                                                                     | on 22 |     
@@ -26,7 +27,7 @@ title: Konserter
 | Orakel: Per ”Texas” Johansson sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr                                                                                                                                                                                   | To 30 |     
 
 | Konserter i Maj 2020                                                                                                                                                                         |       |
-| ------------------------------------------------------------------------------------------------------------------------|------------ |
+| ------------------------------------------------------------------------------------------------------------------------|------- | ----- | ---- |
 | Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr                                                                                                                                           | Fr 01 |      
 | JBu5 plays Weather Report i arr av Johan Berke & Fredrik Nordström: Niklas Barnö trp, Alberto Pinton sax/cl, Fredrik Nordström sax, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr | Lö 02 |      
 | Daniel Svensson g, Hans Backenroth b                                                                                                                                                         | Sö 03 |      
