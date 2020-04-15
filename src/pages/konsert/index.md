@@ -14,7 +14,7 @@ title: Konserter
 | Tobias Wiklund trp, Calle Bagge p, Martin Höper b, Moussa Fadera dr                                                                                                       | Fr 10 |
 | Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                                                                           | Lö 11 |
 | Söndag den 12 april stängt|                                                                                                                                                
-| Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b,      Karl-Henrik Ousbäck dr                                                                                                                                                                     | On 15 |
+| Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b,      Karl-Henrik Ousbäck dr | On 15|                                                                                                                                                
 | Klas Toresson sax, Filip Ekestubbe p, Niklas Fernqvist b, Sebastian Ågren dr| Fr 17|
 | Rob´z: Robert Nordmark sax, Robert Erlandsson b, Robert Ikiz dr                                                                                                                                                                                            | Lö 18 |
 Leo Lindberg p, Kenji Rabson b, Moussa Fadera dr                                                                                                                                                                                    | on 22 |Lö 25|
