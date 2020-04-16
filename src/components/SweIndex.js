@@ -37,7 +37,7 @@ class SweIndex extends React.Component {
                     class="circ_img"
                     style={{
                       background:
-                        "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center"
+                        "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center",
                     }}
                   >
                     &nbsp;
@@ -75,7 +75,7 @@ class SweIndex extends React.Component {
                 class="circ_img"
                 style={{
                   background:
-                    "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center"
+                    "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center",
                 }}
               >
                 &nbsp;
@@ -106,18 +106,18 @@ class SweIndex extends React.Component {
             <p
               style={{
                 display: 'flex',
-                flexDirection: 'column'
+                flexDirection: 'column',
               }}
             >
               <b
                 style={{
-                  padding: '12px 0'
+                  padding: '12px 0',
                 }}
               >
                 <a
                   style={{
                     color: 'white',
-                    borderBottom: '1px solid white'
+                    borderBottom: '1px solid white',
                   }}
                   href="#bookTable"
                 >
@@ -126,13 +126,13 @@ class SweIndex extends React.Component {
               </b>
               <b
                 style={{
-                  padding: '12px 0 24px'
+                  padding: '12px 0 24px',
                 }}
               >
                 <a
                   style={{
                     color: 'white',
-                    borderBottom: '1px solid white'
+                    borderBottom: '1px solid white',
                   }}
                   href="#nyhet"
                 >
@@ -144,7 +144,7 @@ class SweIndex extends React.Component {
           <div>
             <h3>Öppettider</h3>
             <b>Onsdag - Söndag</b>
-            <p>18.00 - 01.00</p>
+            <p>19.00 - 01.00</p>
             <p className="small">Stängt måndag - tisdag</p>
           </div>
           <div>
@@ -158,7 +158,7 @@ class SweIndex extends React.Component {
           className="gm-text"
           style={{
             maxWidth: '500px',
-            width: '85vw'
+            width: '85vw',
           }}
         >
           <h2>Kära gäster och vänner av Glenn Miller Café!</h2>
@@ -195,7 +195,7 @@ class SweIndex extends React.Component {
             title="book a table"
             style={{
               height: '369px',
-              width: '320px'
+              width: '320px',
             }}
           />
           <img src={ingresstext} alt="restaurant empty" />
@@ -278,7 +278,7 @@ class SweIndex extends React.Component {
         </div>
         <p
           style={{
-            textAlign: 'center'
+            textAlign: 'center',
           }}
           class="gm-text"
         >
@@ -286,7 +286,7 @@ class SweIndex extends React.Component {
           <a
             style={{
               color: 'white',
-              textDecoration: 'underline'
+              textDecoration: 'underline',
             }}
             href="https://sv-se.facebook.com/glennmillercafe/"
           >
@@ -296,7 +296,7 @@ class SweIndex extends React.Component {
           <a
             style={{
               color: 'white',
-              textDecoration: 'underline'
+              textDecoration: 'underline',
             }}
             href="https://www.instagram.com/cafeglennmiller/"
           >
