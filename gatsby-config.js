@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Glenn Miller Café',
-    description: 'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+    description:
+      'Glenn Miller Café är både den största och minsta jazzklubben. Vi är stolta och tacksamma att kunna erbjuda dig en hög kvalitet och stor variation jazz och jazzmusiker. Det är alltid en live jazz konsert när vi har öppet, Onsdag till söndag.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -53,8 +54,8 @@ module.exports = {
             resolve: 'gatsby-remark-copy-linked-files',
             options: {
               destinationDir: 'static',
-            }
-          }
+            },
+          },
         ],
       },
     },
@@ -67,10 +68,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
-        develop: true,            // Activates purging in npm run develop
+        develop: true, // Activates purging in npm run develop
         purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
-}
+};
