@@ -21,7 +21,7 @@ title: Konserter
 |Kasper Agnas g, Leo Lindberg org, Sebastian Voegler|Fr 24|
 |Leo Lindberg p, Kenji Rabson b, Moussa Fadera dr|Lö 25|
 | Karl Wallmyr trp, Johannes Gammelgaard sax, Isak Hedtjärn cl, Love Meyerson dragspel,  Mauritz Agnas b, Arild Wahl dr                                                                                                                                          | Sö 26 |
-| Robert Malmberg p, Hans Backenroth b                                                                                                                                                                                                                           | On 29 |
+| Johan Hörlén sax, Leo Lindberg p, Hans Backenroth b, Moussa Fadera dr                                                                                                                                                                                                                           | On 29 |
 | Orakel: Per ”Texas” Johansson sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr                                                                                                                                                                                   | To 30 |     
 
 | Konserter i Maj 2020                                                                                                                                                                         |       |
