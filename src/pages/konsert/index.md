@@ -22,13 +22,12 @@ title: Konserter
 |Leo Lindberg p, Kenji Rabson b, Moussa Fadera dr|Lö 25|
 | Karl Wallmyr trp, Johannes Gammelgaard sax, Isak Hedtjärn cl, Love Meyerson dragspel,  Mauritz Agnas b, Arild Wahl dr                                                                                                                                          | Sö 26 |
 | Johan Hörlén sax, Leo Lindberg p, Hans Backenroth b, Moussa Fadera dr                                                                                                                                                                                                                           | On 29 |
-| Orakel: Per ”Texas” Johansson sax/cl, Torbjörn Zetterberg b, Konrad Agnas dr                                                                                                                                                                                   | To 30 |     
+| Nils Berg sax, Emil Strandberg trp, Josef Kallerdahl b, Konrad Agnas dr                                                                                                                                                                                  | To 30 |     
 
 | Konserter i Maj 2020                                                                                                                                                                         |       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | Fredrik Olsson g, Leo Lindberg org, Ali Djeridi dr                                                                                                                                           | Fr 01 |
 | JBu5 plays Weather Report i arr av Johan Berke & Fredrik Nordström: Niklas Barnö trp, Alberto Pinton sax/cl, Fredrik Nordström sax, Johan Berke g, Robert Erlandsson b, Fredrik Rundqvist dr | Lö 02 |
-| Daniel Svensson g, Hans Backenroth b                                                                                                                                                         | Sö 03 |
 | Charlie Parker 100 years!: Klas Lindquist asax, Leo Lindberg p, Hans Backenroth b, Karl-Henrik Ousbäck dr                                                                                    | On 06 |
 | Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr                                                                                                | Fr 08 |
 | Katarina Jältfors  voc, Daniel Tilling p, Kenji Rabson b, Mattias Puttonen dr                                                                                                                | Sö 10 |
