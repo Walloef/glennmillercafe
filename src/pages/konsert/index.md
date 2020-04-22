@@ -26,7 +26,7 @@ title: Konserter
 
 | Konserter i Maj 2020                                                                                                                                                                         |       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| Niklas Barnö band| Lö 02 |
+| Niklas Barnö trp, Mats Äleklint trb, Alexander Zethson p, Vilhelm Bromander b, Magnus Vikberg dr | Lö 02 |
 | Charlie Parker 100 years!: Klas Lindquist asax, Leo Lindberg p, Hans Backenroth b, Karl-Henrik Ousbäck dr                                                                                    | On 06 |
 | Håkan Broström sax, Anders Chico Lindvall g, Maggie Olin key, Johnny Åman b, Paul Svanberg dr                                                                                                | Fr 08 |
 | Katarina Jältfors  voc, Daniel Tilling p, Kenji Rabson b, Mattias Puttonen dr                                                                                                                | Sö 10 |
