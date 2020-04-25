@@ -20,7 +20,7 @@ title: Konserter
 | Reformisterna: Fredrik Lindborg sax, Tobias Wiklund trp, Palle Sollinger b, Daniel Fredriksson dr                                                                                                                                                                                         | To 23 |
 |Kasper Agnas g, Leo Lindberg org, Sebastian Voegler|Fr 24|
 |Leo Lindberg p, Kenji Rabson b, Moussa Fadera dr|Lö 25|
-| Karl Wallmyr trp, Johannes Gammelgaard sax, Isak Hedtjärn cl, Love Meyerson dragspel,  Mauritz Agnas b, Arild Wahl dr                                                                                                                                          | Sö 26 |
+| Karl Wallmyr trp, Johannes Gammelgaard sax, Isak Hedtjärn cl, Love Meyerson dragspel,  Vilhelm Bromander b, Arild Wahl dr                                                                                                                                          | Sö 26 |
 | Johan Hörlén sax, Leo Lindberg p, Hans Backenroth b, Moussa Fadera dr                                                                                                                                                                                                                           | On 29 |
 | Nils Berg sax, Emil Strandberg trp, Josef Kallerdahl b, Konrad Agnas dr                                                                                                                                                                                  | To 30 |     
 
