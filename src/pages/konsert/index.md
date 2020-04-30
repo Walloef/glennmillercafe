@@ -2,27 +2,6 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Konserter i April 2020                                                                                                                                                    |       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| Gustav Lundgren g, Mats Sandahl b, Karl Henrik Ousbäck dr                                                                                                                 | On 01 |
-| Torsdag den 02 april stängt                                                                                                                                               |       |
-| "young and Shy & Handsome": Nils Jansson trp, Anders Ramsell sax, Daniel K Johansson trb, Staffan Findin btrb, Daniel Agurén p,   Thomas Dawidowski b, Calle Rasmusson dr | Fr 03 |
-| Nils Jansson trp, Hans Olding g, Arvid Jullander b, Karl-Henrik Ousbäck dr                                                                                                | Lö 04 |
-| Söndag den 05 april stängt                                                                                                                                                |       |
-| Onsdag den 08 april stängt                                                                                                                                                |       |
-| Johannes Gammelgard sax, Vilhelm Bromander b, Arild Wahl dr                                                                                                               | To 09 |
-| Tobias Wiklund trp, Calle Bagge p, Martin Höper b, Moussa Fadera dr                                                                                                       | Fr 10 |
-| Lars Ekman Trio: Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr                                                                                                           | Lö 11 |
-| Söndag den 12 april stängt|                                                                                                                                                
-| Chi Westfelt voc, Filip Ekestubbe p, Arvid Jullander b,      Karl-Henrik Ousbäck dr | On 15|                                                                                                                                                
-| Klas Toresson sax, Filip Ekestubbe p, Niklas Fernqvist b, Sebastian Ågren dr| Fr 17|
-| Rob´z: Robert Nordmark sax, Robert Erlandsson b, Robert Ikiz dr                                                                                                                                                                                          | Lö 18 |
-| Reformisterna: Fredrik Lindborg sax, Tobias Wiklund trp, Palle Sollinger b, Daniel Fredriksson dr                                                                                                                                                                                         | To 23 |
-|Kasper Agnas g, Leo Lindberg org, Sebastian Voegler|Fr 24|
-|Leo Lindberg p, Kenji Rabson b, Moussa Fadera dr|Lö 25|
-| Karl Wallmyr trp, Johannes Gammelgaard sax, Isak Hedtjärn cl, Love Meyerson dragspel,  Vilhelm Bromander b, Arild Wahl dr                                                                                                                                          | Sö 26 |
-| Johan Hörlén sax, Leo Lindberg p, Hans Backenroth b, Jocke Ekberg dr                                                                                                                                                                                                                           | On 29 |
-| Nils Berg sax, Emil Strandberg trp, Josef Kallerdahl b, Konrad Agnas dr                                                                                                                                                                                  | To 30 |     
 
 | Konserter i Maj 2020                                                                                                                                                                         |       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
