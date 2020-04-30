@@ -39,7 +39,6 @@ title: Konserter
 | Peter Knudsen Trio: Peter Knudsen p, Jenny Kristoffersson b, Daniel Olsson dr                                                                                                                        | Sö 17 |
 | Rui Halvares Andrade Paes p, Mauritz Agnas b, Andreas Pettersson dr                                                                                                                          | On 20 |
 | ”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr                                                                                   | To 21 |
-| Anna Greta Sigurdardóttir p, Joel Haag g, Daniel Andersson b, Mario Ochoa dr                                                                                                                 | Sö 24 |
 | Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b                                                                                                                                   | On 27 |
 | Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr                                                                                                                      | To 28 |
 | Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |
