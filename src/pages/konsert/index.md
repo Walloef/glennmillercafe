@@ -8,8 +8,8 @@ title: Konserter
 |Gustavsberg:Tobias Wiklund cornet, Vladan Wirant p, Palle Sollinger b, Daniel Fredriksson dr|Fr 01|
 | Niklas Barnö trp, Mats Äleklint trb, Alexander Zethson p, Vilhelm Bromander b, Magnus Vikberg dr | Lö 02 |
 | Charlie Parker 100 years!: Klas Lindquist asax, Leo Lindberg p, Hans Backenroth b, Karl-Henrik Ousbäck dr                                                                                    | On 06 |
-                                                                                     | Fr 08 |
-| Niklas Barnö trp, Susanna Risberg g, Björn Lundén b, Rasmus Blix dr|Lö 09|
+|Jazz Flow: Nina Brodd voc, Linus Kåse sax, Ann Blom p, Mårten Korkman b, Jesper Kviberg dr + gäst| fr 08|
+                                                                                     | Niklas Barnö trp, Susanna Risberg g, Björn Lundén b, Rasmus Blix dr|Lö 09|
 | Katarina Jältfors  voc, Daniel Tilling p, Kenji Rabson b, Mattias Puttonen dr                                                                                                                | Sö 10 |
 | Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr                                                                                                                                        | On 13 |
 | Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr                                                                              | To 14 |
