@@ -9,8 +9,7 @@ title: Konserter
 | Niklas Barnö trp, Mats Äleklint trb, Alexander Zethson p, Vilhelm Bromander b, Magnus Vikberg dr | Lö 02 |
 | Charlie Parker 100 years!: Klas Lindquist asax, Leo Lindberg p, Hans Backenroth b, Karl-Henrik Ousbäck dr                                                                                    | On 06 |
 |Jazz Flow: Nina Brodd voc, Linus Kåse sax, Ann Blom p, Mårten Korkman b, Jesper Kviberg dr + gäst| fr 08|
-                                                                                     | Niklas Barnö trp, Susanna Risberg g, Björn Lundén b, Rasmus Blix dr|Lö 09|
-| Katarina Jältfors  voc, Daniel Tilling p, Kenji Rabson b, Mattias Puttonen dr                                                                                                                | Sö 10 |
+                                                                                    | Niklas Barnö trp, Susanna Risberg g, Björn Lundén b, Rasmus Blix dr|Lö 09|
 | Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr                                                                                                                                        | On 13 |
 | Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr                                                                              | To 14 |
 | Stockholm Jazz Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr                                                                                              | Fr 15 |
