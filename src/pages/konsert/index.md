@@ -15,7 +15,9 @@ title: Konserter
 | Stockholm Jazz Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr                                                                                              | Fr 15 |
 | Peter Knudsen Trio: Peter Knudsen p, Jenny Kristoffersson b, Daniel Olsson dr                                                                                                                        | Sö 17 |
 | Rui Halvares Andrade Paes p, Mauritz Agnas b, Andreas Pettersson dr                                                                                                                          | On 20 |
-| ”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr                                                                                   | To 21 |
+| ”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr                                                                                   | To 21|
+|Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr|Fr 22|
+|Max Schultz g, Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr|Lö 23| 
 | Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b                                                                                                                                   | On 27 |
 | Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr                                                                                                                      | To 28 |
 | Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |
