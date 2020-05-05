@@ -20,7 +20,7 @@ title: Konserter
 |Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr|Fr 22|
 |Max Schultz g, Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr|Lö 23| 
 | Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b                                                                                                                                   | On 27 |
-| Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr                                                                                                                      | To 28 |
+|kommer|To 28|
 | Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |
 |Kommer|Lö 30|
 | Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr                                                                                                        | Sö 31 |
