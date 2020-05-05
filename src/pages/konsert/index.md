@@ -21,7 +21,6 @@ title: Konserter
 | Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b                                                                                                                                   | On 27 |
 | Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr                                                                                                                      | To 28 |
 | Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |
-| Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Karl-Henrik Ousbäck dr                                                                                                              | Lö 30 |
 | Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr                                                                                                        | Sö 31 |
 
 I samarbete med SENSUS
