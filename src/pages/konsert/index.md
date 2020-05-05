@@ -13,6 +13,7 @@ title: Konserter
 | Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr                                                                                                                                        | On 13 |
 | Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr                                                                              | To 14 |
 | Stockholm Jazz Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr                                                                                              | Fr 15 |
+|Kommer| Lö 16|
 | Peter Knudsen Trio: Peter Knudsen p, Jenny Kristoffersson b, Daniel Olsson dr                                                                                                                        | Sö 17 |
 | Rui Halvares Andrade Paes p, Mauritz Agnas b, Andreas Pettersson dr                                                                                                                          | On 20 |
 | ”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr                                                                                   | To 21|
@@ -21,6 +22,7 @@ title: Konserter
 | Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b                                                                                                                                   | On 27 |
 | Örjan Hultén sax, Jonny Wartel sax, Filip Augustson b, Moussa Fadera dr                                                                                                                      | To 28 |
 | Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |
+|Kommer|Lö 30|
 | Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr                                                                                                        | Sö 31 |
 
 I samarbete med SENSUS
