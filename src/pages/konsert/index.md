@@ -23,5 +23,6 @@ title: Konserter
 | Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |
 |Filip Ekestubbe p, Erik Söderlind g, Niklas Fernqvist b|Lö 30|
 | Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr                                                                                                        | Sö 31 |
+|De flesta av våra konserter streamas just nu!!!|
 
 I samarbete med SENSUS
