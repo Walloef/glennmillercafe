@@ -13,7 +13,7 @@ title: Konserter
 | Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr                                                                                                                                        | On 13 |
 | Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr                                                                              | To 14 |
 | Stockholm Jazz Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr                                                                                              | Fr 15 |
-|Kommer| Lö 16|
+|Sensationsgruppen ”Backlura”: Tobias ”Kärleken är evig” 			 Wiklund cornet, Palle Sollinger b, Daniel Fredriksson dr  | Lö 16|
 | Rui Halvares Andrade Paes p, Mauritz Agnas b, Andreas Pettersson dr                                                                                                                          | On 20 |
 | ”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr                                                                                   | To 21|
 |Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr|Fr 22|
