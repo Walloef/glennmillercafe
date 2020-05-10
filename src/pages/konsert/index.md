@@ -23,8 +23,9 @@ title: Konserter
 | Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |
 |Filip Ekestubbe p, Erik Söderlind g, Niklas Fernqvist b|Lö 30|
 | Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr                                                                                                        | Sö 31 |
+
 | Konserter i Juni 2020                                                                                                                                                                         |       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- 
 |Fredrik Olsson g, Leo Lindberg org, Jojo Djeridi dr|On 03|
 |IngridxIngrid: Ingrid Malmén  voc, Britta Virves p, Ingrid Schyborger b, Jonas Bäckman dr|To 04|
 |Nils Berg träblås, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Fr 05|
