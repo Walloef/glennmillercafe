@@ -23,6 +23,17 @@ title: Konserter
 | Barnöz: Niklas Barnö trp, Erik Lindeborg p, Vilhelm Bromander b, Dennis Egberth dr                                                                                                           | Fr 29 |
 |Filip Ekestubbe p, Erik Söderlind g, Niklas Fernqvist b|Lö 30|
 | Stark-Nordmark-Augustson Trio: Robert Nordmark sax, Filip Augustson b, Bengt Stark dr                                                                                                        | Sö 31 |
+| Konserter i Juni 2020                                                                                                                                                                         |       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+|Fredrik Olsson g, Leo Lindberg org, Jojo Djeridi dr|On 03|
+|IngridxIngrid: Ingrid Malmén  voc, Britta Virves p, Ingrid Schyborger b, Jonas Bäckman dr|To 04|
+|Nils Berg träblås, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Fr 05|
+|Mining unplugged, skivrelease: Jennie Abrahamsson voc. Fredrik Ljungkvist sax/cl, Mattias Risberg p,  		 		David Stackenäs g, Dan Berglund b, Jon Fält dr|Lö 06|
+|Stockholm Hot Seven: Erik Palmberg trp,  Hampus Adami trb, Axel Mårdsjö bars/altsax, Linus Lindblom sax/cl,  		 Pål Nyberg g,  Arvid Jullander b, Jonas Bäckman dr|Sö 07|
+|Martin Küchen & Landaeus Trio: Martin Küchen sax, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 10|
+|Per Thornberg sax, Adam Forkelid p, Svante Söderqvist b, Chris Montgomery dr|To 11|
+|Cajsa Zerhouni voc, Birgitta Flick sax, Mattias Lindberg p|Fr 12| 	
+|Jonas Liljeberg sax, Henning Ullén p, Björn Lundén b, Jonas Bäckmamn dr|Lö 13|  
 |De flesta av våra konserter streamas just nu!!!|
 
 I samarbete med SENSUS
