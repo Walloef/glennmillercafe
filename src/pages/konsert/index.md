@@ -15,7 +15,7 @@ title: Konserter
 | Stockholm Jazz Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr                                                                                              | Fr 15 |
 |Sensationsgruppen ”Backlura”: Tobias ”Kärleken är evig” 			 Wiklund cornet, Palle Sollinger b, Daniel Fredriksson dr  | Lö 16|
 | Rui Halvares Andrade Paes p, Mauritz Agnas b, Andreas Pettersson dr                                                                                                                          | On 20 |
-| ”Hyllning till Ella”: Sanna Ruohoniemi voc, Anna Greta Sigurdardóttir p, Lars Ekman b, Mattias Puttonen dr                                                                                   | To 21|
+| ”Hyllning till Ella”: Sanna Ruohoniemi voc, Britta Virves p, Lars Ekman b, Jonas Bäckman dr                                                                                   | To 21|
 |Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr|Fr 22|
 |Max Schultz g, Johan Lejonhufvud g, Johnny Åman b, Sebastian Ågren dr|Lö 23| 
 | Thomas Backman träblås, Jonas Östholm p, Oskar Schönning b                                                                                                                                   | On 27 |
