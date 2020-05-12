@@ -34,7 +34,8 @@ title: Konserter
 |Martin Küchen & Landaeus Trio: Martin Küchen sax, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 10|
 |Per Thornberg sax, Adam Forkelid p, Svante Söderqvist b, Chris Montgomery dr|To 11|
 |Cajsa Zerhouni voc, Birgitta Flick sax, Mattias Lindberg p|Fr 12| 	
-|Jonas Liljeberg sax, Henning Ullén p, Björn Lundén b, Jonas Bäckmamn dr|Lö 13|  
+|Jonas Liljeberg sax, Henning Ullén p, Björn Lundén b, Jonas Bäckmamn dr|Lö 13|
+|Leo Lindberg p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|Sö 14|  
 |De flesta av våra konserter streamas just nu!!!|
 
 I samarbete med SENSUS
