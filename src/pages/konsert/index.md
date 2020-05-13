@@ -11,7 +11,7 @@ title: Konserter
 |Jazz Flow: Nina Brodd voc, Linus Kåse sax, Ann Blom p, Mårten Korkman b, Jesper Kviberg dr + gäst| fr 08|
                                                                                     | Niklas Barnö trp, Susanna Risberg g, Björn Lundén b, Rasmus Blix dr|Lö 09|
 | Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr                                                                                                                                        | On 13 |
-| Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Göran Strandberg p,  Hans Backenroth b,  Jocke Ekberg dr                                                                              | To 14 |
+| Tenor Legacy: Robert Nordmark sax, Magnus Dölerud sax, Calle Bagge p,  Hans Backenroth b,  Jocke Ekberg dr                                                                              | To 14 |
 | Stockholm Jazz Quartet: Erik Palmberg trp, Mattias Lindberg p, Jon Henriksson b, Ali Djeridi dr                                                                                              | Fr 15 |
 |Sensationsgruppen ”Backlura”: Tobias ”Kärleken är evig” 			 Wiklund cornet, Palle Sollinger b, Daniel Fredriksson dr  | Lö 16|
 | Rui Halvares Andrade Paes p, Mauritz Agnas b, Andreas Pettersson dr                                                                                                                          | On 20 |
