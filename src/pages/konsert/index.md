@@ -13,7 +13,7 @@ title: Konserter
 | Martin Küchen sax, Alexander Zethson p, Leo Svensson Sander cello, Konrad Agnas dr                                                                                         | On 10 |     |
 | Jonas Knutsson sax, Adam Forkelid p, Svante Söderqvist b/cello, Calle Rasmusson dr                                                                                               | To 11 |     |
 | Cajsa Zerhouni voc, Birgitta Flick sax, Mattias Lindberg p                                                                                                                 | Fr 12 |     |
-| Jonas Liljeberg sax, Henning Ullén p, Björn Lundén b, Jonas Bäckmamn dr                                                                                                    | Lö 13 |     |
+| Jonas Liljeberg sax, Henning Ullén p, Björn Lundén b, Jonas Bäckman dr                                                                                                    | Lö 13 |     |
 | Leo Lindberg p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr                                                                                                                 | Sö 14 |     |
 | ## **De flesta av våra konserter streamas just nu på "facebooksidan": glenn miller cafe**                                                                                  |       |     |
 
