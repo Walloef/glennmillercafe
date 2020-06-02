@@ -5,7 +5,7 @@ title: Konserter
 
 | Konserter i Juni 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
-| Fredrik Olsson g, Leo Lindberg org, Jojo Djeridi dr                                                                                                                        | On 03 |     |
+| Inställt                                                                                                                      | On 03 |     |
 | IngridxIngrid: Ingrid Malmén  voc, Britta Virves p, Ingrid Schyborger b, Jonas Bäckman dr                                                                                  | To 04 |     |
 | Nils Berg träblås, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr                                                                                                    | Fr 05 |     |
 | Mining unplugged, skivrelease: Jennie Abrahamsson voc. Fredrik Ljungkvist sax/cl, Mattias Risberg p, Josefin Runsteen violin, David Stackenäs g, Dan Berglund b, Jon Fält dr | Lö 06 |     |
