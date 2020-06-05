@@ -15,6 +15,18 @@ title: Konserter
 | Cajsa Zerhouni voc, Mattias Lindberg p, Björn Lundén b                                                                                                                 | Fr 12 |     |
 | Jonas Liljeberg sax, Henning Ullén p, Björn Lundén b, Jonas Bäckman dr                                                                                                    | Lö 13 |     |
 | Leo Lindberg p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr                                                                                                                 | Sö 14 |     |
-| ## **De flesta av våra konserter streamas just nu på "facebooksidan": glenn miller cafe**                                                                                  |       |     |
 
-## **I samarbete med SENSUS**
+| Konserter i Juli 2020                                                                                                                                                      |       |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
+|Henrik Westerberg sax, Mikel Ulfberg g, Kristofer Sundström b, Tomas Norberg dr |Fr 03|
+|Micke Augustsson bandoneon, Per ”Texas” Johansson träblås, Johan Graden p + gäst| Sö 05|
+|Daniel Tilling p, Jess Gertzenkorn b,Jonas Bäckman dr|To 09|
+|Kasper Agnas Cirkus: Signe Emmeluth sax, Julia Strzalek sax, Kasper Agnas g, Mauritz Agnas b, 			Karl-Henrik Ousbäck dr|Fr 10|
+|Karl Wallmyr trp, Per Wallmyr sax/cl, Max Agnas p, Mauritz Agnas b|On 15|
+|Alberto Pinton träblås/komposition, Vilhelm Bromander b, Konrad Agnas dr|To 16|  
+|Örjan Hultén sax, Leo Lindberg org, Sebastian Voegler dr|To 17|
+		 
+
+De flesta av våra konserter streamas just nu på "facebooksidan": glenn miller cafe                                                                                  
+
+ **I samarbete med SENSUS**
