@@ -25,6 +25,14 @@ title: Konserter
 |Karl Wallmyr trp, Per Wallmyr sax/cl, Max Agnas p, Mauritz Agnas b|On 15|
 |Alberto Pinton träblås/komposition, Vilhelm Bromander b, Konrad Agnas dr|To 16|  
 |Örjan Hultén sax, Leo Lindberg org, Sebastian Voegler dr|To 17|
+|Signe Emmeluth sax (DK), Elsa Bergman b, Bror Tomas Sandström dr  |On 22|
+|Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b,Anton Jonsson dr|To 23|
+|Max Agnas p, Mauritz Agnas b, Nils Agnas dr |Fr 24|
+|Emil Strandberg trp, Mauritz Agnas b, Sebastian Voegler dr|Lö 25|
+|Julia Strzalek sax, Karoline Wallace voc Niklas Barnö trp, Mats Äleklint trb, Johan Graden p,  			Vilhelm Bromander b, Konrad Agnas dr |On 29|
+|Daniel Marques Band |To 30|
+|Jonas Liljeberg sax, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr|Fr 31|
+
 		 
 
 De flesta av våra konserter streamas just nu på "facebooksidan": glenn miller cafe                                                                                  
