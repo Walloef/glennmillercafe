@@ -12,7 +12,7 @@ title: Konserter
 | Stockholm Hot Seven: Erik Palmberg trp,  Hampus Adami trb, Axel Mårdsjö bars/altsax, Linus Lindblom sax/cl,  		 Pål Nyberg g,  Arvid Jullander b, Jonas Bäckman dr         | Sö 07 |     |
 | Martin Küchen sax, Alexander Zethson p, Leo Svensson Sander cello, Konrad Agnas dr                                                                                         | On 10 |     |
 | Jonas Knutsson sax, Adam Forkelid p, Svante Söderqvist b/cello, Calle Rasmusson dr                                                                                               | To 11 |     |
-| Cajsa Zerhouni voc, Mattias Lindberg p, Björn Lundén b                                                                                                                 | Fr 12 |     |
+| Cajsa Zerhouni voc, Andy Fite g,Mattias Lindberg p, Björn Lundén b                                                                                                                 | Fr 12 |     |
 | Jonas Liljeberg sax, Henning Ullén p, Björn Lundén b, Jonas Bäckman dr                                                                                                    | Lö 13 |     |
 | Leo Lindberg p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr                                                                                                                 | Sö 14 |     |
 
