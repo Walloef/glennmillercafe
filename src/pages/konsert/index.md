@@ -18,6 +18,7 @@ title: Konserter
 
 | Konserter i Juli 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
+|Chi Westfeldt voc, Morgan Hultgren Wärn g, Mats Sandell b, Karl-Henrik Ousbäck dr|On 01|
 |Henrik Westerberg sax, Mikel Ulfberg g, Kristofer Sundström b, Tomas Norberg dr |Fr 03|
 |Micke Augustsson bandoneon, Per ”Texas” Johansson träblås, Johan Graden p + gäst| Sö 05|
 |Daniel Tilling p, Jess Gertzenkorn b,Jonas Bäckman dr|To 09|
