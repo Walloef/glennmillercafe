@@ -27,7 +27,8 @@ title: Konserter
 |Daniel Tilling p, Jess Gertzenkorn b,Jonas Bäckman dr|To 09|
 |Kasper Agnas Cirkus: Signe Emmeluth sax, Julia Strzalek sax, Kasper Agnas g, Mauritz Agnas b, 			Karl-Henrik Ousbäck dr|Fr 10|
 |Nina Brodd´s Jazz Roots: Nina Brodd voc, Thomas Johansson sax, Ann Blom p,  Mårten Korkman b, Jojo Djeridi dr|Lö 11|
-|TBA|Sö 12|  
+|TBA|Sö 12|
+|FRANSKA NATIONALDAGEN: En kväll med  Vendela Duclose som tolkar Édith Pjaf på ett mästerligt sätt|Ti 14|  
 |Karl Wallmyr trp, Per Wallmyr sax/cl, Max Agnas p, Mauritz Agnas b|On 15|
 |Alberto Pinton träblås/komposition, Vilhelm Bromander b, Konrad Agnas dr|To 16|  
 |Örjan Hultén sax, Leo Lindberg org, Sebastian Voegler dr|To 17|
