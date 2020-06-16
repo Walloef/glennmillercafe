@@ -23,7 +23,7 @@ title: Konserter
 |Henrik Westerberg sax, Mikel Ulfberg g, Kristofer Sundström b, Tomas Norberg dr |Fr 03|
 |Adam Forkelid 1st Movement: Adam Forkelid p, Carl Mörner g, Niklas Fernqvist b, Daniel Fredriksson dr|Lö 04|
 |Micke Augustsson bandoneon, Per ”Texas” Johansson träblås, Johan Graden p + gäst| Sö 05|
-|TBA|On 08|
+|Bernie Tomson wurlitzer, Max Schultz g Fred Jonsson b Chris Montgomery dr|On 08|
 |Daniel Tilling p, Jess Gertzenkorn b,Jonas Bäckman dr|To 09|
 |Kasper Agnas Cirkus: Signe Emmeluth sax, Julia Strzalek sax, Kasper Agnas g, Mauritz Agnas b, 			Karl-Henrik Ousbäck dr|Fr 10|
 |Nina Brodd´s Jazz Roots: Nina Brodd voc, Thomas Johansson sax, Ann Blom p,  Mårten Korkman b, Jojo Djeridi dr|Lö 11|
