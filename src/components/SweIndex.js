@@ -129,7 +129,7 @@ class SweIndex extends React.Component {
                   padding: '12px 0 24px',
                 }}
               >
-                <a
+                {/* <a
                   style={{
                     color: 'white',
                     borderBottom: '1px solid white',
@@ -137,7 +137,7 @@ class SweIndex extends React.Component {
                   href="#nyhet"
                 >
                   Take away
-                </a>
+                </a> */}
               </b>
             </p>
           </div>
@@ -200,7 +200,7 @@ class SweIndex extends React.Component {
           />
           <img src={ingresstext} alt="restaurant empty" />
         </div>
-        <div className="gm-text" id="nyhet">
+        {/* <div className="gm-text" id="nyhet">
           <h2>Nyhet - TAKE AWAY</h2>
           <p>
             Ät din GMC-middag hemma! För avhämtning de dagar restaurangen håller
@@ -258,7 +258,7 @@ class SweIndex extends React.Component {
               </tbody>
             </table>
           </p>
-        </div>
+        </div> */}
         <div className="gm-text">
           <p>
             Glenn Miller Café är både den största och minsta jazzklubben. Vi är
