@@ -14,7 +14,7 @@ title: Konserter
 |Micke Augustsson bandoneon, Per ”Texas” Johansson träblås, Johan Graden p + gäst| Sö 05|
 |Bernie Tomson wurlitzer, Max Schultz g Fred Jonsson b Chris Montgomery dr|On 08|
 |Daniel Tilling p, Jess Gertzenkorn b,Jonas Bäckman dr|To 09|
-|Kasper Agnas Cirkus: Signe Emmeluth sax, Julia Strzalek sax, Kasper Agnas g, Mauritz Agnas b, 			Karl-Henrik Ousbäck dr|Fr 10|
+|Kasper Agnas Cirkus: Signe Emmeluth sax, Julia Strzalek sax, Kasper Agnas g, Mauritz Agnas b,  Karl-Henrik Ousbäck dr|Fr 10|
 |Nina Brodd´s Jazz Roots: Nina Brodd voc, Thomas Johansson sax, Ann Blom p,  Mårten Korkman b, Jojo Djeridi dr|Lö 11|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|Sö 12|
 |Karl Wallmyr trp, Per Wallmyr sax/cl, Max Agnas p, Mauritz Agnas b|On 15|
