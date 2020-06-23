@@ -29,7 +29,8 @@ title: Konserter
 |Amanda Sedgwick sax, Alexander Brott g, Kenji Rabson b, Moussa Fadera dr|Sö 26|
 |Julia Strzalek sax, Karoline Wallace voc Niklas Barnö trp, Mats Äleklint trb, Johan Graden p,  			Vilhelm Bromander b, Konrad Agnas dr |On 29|
 |Daniel Marques Trio: Daniel Marques g, Sa Reston b, Ajurina Zwarg dr|To 30|
-|Jonas Liljeberg sax, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr|Fr 31|
+|Jonas Liljeberg sax, Alf Carlsson g, Joel Hulander b, 
+Filip Olofsson dr|Fr 31|
 
 		 
 
