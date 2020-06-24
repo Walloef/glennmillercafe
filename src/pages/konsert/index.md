@@ -17,7 +17,7 @@ title: Konserter
 |Kasper Agnas Cirkus: Signe Emmeluth sax, Julia Strzalek sax, Kasper Agnas g, Mauritz Agnas b,  Karl-Henrik Ousbäck dr |Fr 10|
 |Nina Brodd´s Jazz Roots: Nina Brodd voc, Thomas Johansson sax, Ann Blom p,  Mårten Korkman b, Jojo Djeridi dr|Lö 11|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|Sö 12|
-|Karl Wallmyr trp, Per Wallmyr sax/cl, Max Agnas p, Mauritz Agnas b|On 15|
+|Karl Wallmyr trp, Per Wallmyr sax/cl, Johan Graden p, Mauritz Agnas b|On 15|
 |Alberto Pinton träblås/komposition, Vilhelm Bromander b, Konrad Agnas dr|To 16|  
 |Örjan Hultén sax, Leo Lindberg org, Sebastian Voegler dr|To 17|
 |Fabian Kallerdahl p, Josef Kallerdahl b, Konrad Agnas dr | Lö 18|
