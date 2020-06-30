@@ -8,7 +8,7 @@ title: Konserter
 | Konserter i Juli 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
 |Chi Westfeldt voc, Morgan Hultgren Wärn g, Mats Sandell b, Karl-Henrik Ousbäck dr|On 01|
-|LSD: Fredrik Lindborg sax, Martin Sjöstedt b, Daniel Fredriksson dr|To 02|
+|Reformisterna: Kärleken är evig Wiklund kornet, Fredrik Lindborg sax, Palle Sollinger b, Daniel Fredriksson dr|To 02|
 |Henrik Westerberg sax, Mikel Ulfberg g, Kristofer Sundström b, Tomas Norberg dr |Fr 03|
 |Adam Forkelid 1st Movement: Adam Forkelid p, Carl Mörner g, Niklas Fernqvist b, Daniel Fredriksson dr|Lö 04|
 |Micke Augustsson bandoneon, Per ”Texas” Johansson träblås, Johan Graden p + gäst| Sö 05|
