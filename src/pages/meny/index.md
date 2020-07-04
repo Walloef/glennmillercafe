@@ -23,8 +23,7 @@ title: Meny Tillfällig
 |GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille...| 245:- 
 |Entrecôte med frites, dijon, Rödvin o bbq-sås, dijon, smör toppad med persillade | 339:-
 |Ugnstekta grönsaker med tomat & chèvre, veg/vegan,              Aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..|225:-|
-| Les Moules Frites                                                                                                         |       |
-| Alla musslor serveras med frites (alt sallad) och aioli,                                                                 |       |
+|Backenrothsallad: Mix-sallat, tomat, rödlök, paprika,  brödkrutonger, bacon, chèvre serveras med frites & aioli. Finns även i vegetarisk och vegansk version|195:-| 
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:- |
 | **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon..                                      | 235:- |
 | **À la Belge** Ångade blåmusslor i öl, échalôte, vitlök, silverlök, lagerblad, selleri, tabasco..                         | 245:- |
