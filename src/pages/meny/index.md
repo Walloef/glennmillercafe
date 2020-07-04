@@ -19,10 +19,10 @@ title: Meny Tillfällig
 
 | Varmrätter/Mains                                                                                       |       |
 | ------------------------------------------------------------------------------------------------------ | ----- |
-|**Bœuf à la Bourguignonne** |245:-|
-| **GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille....                               | 245:- |
-|**Salade Campagne**|195:-||Sallad,tomat,paprika,rödlök,chèvre,bacon,ägg,bönor...
-kan fås som vegetarisk eller vegansk|
+|Confit de Canard :Confiterat anklår med inkokt fänkål, päron, potatis med roquefort sås| 295:-|
+|GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille...| 245:- 
+|Entrecôte med frites, dijon, Rödvin o bbq-sås, dijon, smör toppad med persillade | 339:-
+|Ugnstekta grönsaker med tomat & chèvre, veg/vegan              |Aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..|225:-|
 | Les Moules Frites                                                                                                         |       |
 | Alla musslor serveras med frites (alt sallad) och aioli,                                                                 |       |
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:- |
