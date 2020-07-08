@@ -49,6 +49,7 @@ title: Konserter
 |Martina Almgren Peace of Mind: Elin Forkelid sax, Mattias Torell g, Owe Almgren b, Martina Almgren dr|Lö 22|
 |Alf Carlsson g, Anton Dromberg p, Samuel Löfdahl b, Hannes Sigfridsson dr|On 26|	
 |Skivrelease av Pär-Ola Landin: Jonas Östholm p, Pär-Ola Landin b, Jon Fält dr|To 27|
+|Sol Sol: Elin Forkelid sax, David Stackenäs g, Mauritz Agnas b, Anna Lund dr| Fre 28|
 |Paul Kovacs Project: Paul Kovacs mspel, Klas Toresson sax,  Ann Blom p, Filip Augustson b, André Borgström dr|Lö 29|
 |Anna Lundqvist voc, Linus Lindblom sax/cl, Adam Forkelid p, Josef Kallerdahl b, Cecilia Sanchietti dr/perc|Sö 30|
 
