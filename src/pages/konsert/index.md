@@ -46,6 +46,7 @@ title: Konserter
 |”Lovelee Morgan”: Erik Tengholm trp, Klas Lindquist sax, Britta Virves p, Hans Backenroth b, Chris Montgomery dr|Sö 16|
 |Charlie Parker 100 years!: Klas Lindquist asax, Leo Lindberg p, Hans Backenroth b, Karl-Henrik Ousbäck dr |On 19|
 |Johan Hörlén sax, Gustav Lundgren g, Kenji Rabson b, Bengt Stark dr|To 20|
+|Kasper Agnas g, Leo Lindberg org, Sebastian Voegler dr|Fre 21|
 |Martina Almgren Peace of Mind: Elin Forkelid sax, Mattias Torell g, Owe Almgren b, Martina Almgren dr|Lö 22|
 |Alf Carlsson g, Anton Dromberg p, Samuel Löfdahl b, Hannes Sigfridsson dr|On 26|	
 |Skivrelease av Pär-Ola Landin: Jonas Östholm p, Pär-Ola Landin b, Jon Fält dr|To 27|
