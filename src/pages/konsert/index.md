@@ -62,6 +62,5 @@ title: Konserter
 
 		 
 
-De flesta av våra konserter streamas just nu på "facebooksidan": glenn miller cafe                                                                                  
 
  **I samarbete med SENSUS**
