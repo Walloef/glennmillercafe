@@ -32,7 +32,8 @@ title: Konserter
 |Jonas Liljeberg sax, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr|Fr 31|
 
 | Konserter i Augusti 2020                                                                                                                                                      |       |     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- 
+|Erik Söderlind g, Britta Virves p, Lars Ekman b, Jonas Backman dr|Lö 01|
 |Isak Hedtjärn cl, Katt Hernandez violin, Johan Graden p, Ville Bromander b, Dennis Egberth dr |Sö 02|
 |Håkan Broström sax, Chico Lindvall g, Jonny Åman b, Sebastian Ågren dr|On 05|
 |Krister Andersson sax, Leo Lindberg org, Jojo Djeridi dr|To 06|
@@ -48,6 +49,7 @@ title: Konserter
 |Johan Hörlén sax, Gustav Lundgren g, Kenji Rabson b, Bengt Stark dr|To 20|
 |Kasper Agnas g, Leo Lindberg org, Sebastian Voegler dr|Fre 21|
 |Martina Almgren Peace of Mind: Elin Forkelid sax, Mattias Torell g, Owe Almgren b, Martina Almgren dr|Lö 22|
+|Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr|Sö 23|
 |Alf Carlsson g, Anton Dromberg p, Samuel Löfdahl b, Hannes Sigfridsson dr|On 26|	
 |Skivrelease av Pär-Ola Landin: Jonas Östholm p, Pär-Ola Landin b, Jon Fält dr|To 27|
 |Sol Sol: Elin Forkelid sax, David Stackenäs g, Mauritz Agnas b, Anna Lund dr| Fre 28|
