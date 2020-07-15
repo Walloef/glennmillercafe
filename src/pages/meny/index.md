@@ -1,6 +1,6 @@
 ---
 templateKey: meny-page
-title: Meny Tillfällig
+title: 'Meny '
 ---
 | Före maten?!              |       |
 | ------------------------- | ----- |
