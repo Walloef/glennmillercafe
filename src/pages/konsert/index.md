@@ -7,7 +7,7 @@ title: Konserter
 
 | Konserter i Juli 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
-|Chi Westfeldt voc, Morgan Hultgren Wärn g, Mats Sandell b, Karl-Henrik Ousbäck dr|On 01|
+|Chi Westfeldt voc, Morgan Hultgren Wärn g, Mats Sandahl b, Karl-Henrik Ousbäck dr|On 01|
 |Reformisterna: Kärleken är evig Wiklund kornet, Fredrik Lindborg sax, Palle Sollinger b, Daniel Fredriksson dr|To 02|
 |Henrik Westerberg sax, Mikel Ulfberg g, Kristofer Sundström b, Tomas Norberg dr |Fr 03|
 |Adam Forkelid 1st Movement: Adam Forkelid p, Carl Mörner g, Niklas Fernqvist b, Daniel Fredriksson dr|Lö 04|
@@ -55,6 +55,17 @@ title: Konserter
 |Sol Sol: Elin Forkelid sax, David Stackenäs g, Mauritz Agnas b, Anna Lund dr| Fre 28|
 |Paul Kovacs Project: Paul Kovacs mspel, Klas Toresson sax,  Ann Blom p, Filip Augustson b, André Borgström dr|Lö 29|
 |Anna Lundqvist voc, Linus Lindblom sax/cl, Adam Forkelid p, Josef Kallerdahl b, Cecilia Sanchietti dr/perc|Sö 30|
+
+| Konserter i September 2020                                                                                                                                                      |       |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- 
+|Christian Herluf Pedersen sax, Fredrik Hermansson p, Martin Höper b, Jonas Bäckman dr|On 02|
+|Charlie Malmberg sax, Anton Svanberg tuba + överraskningsgäster|To 03|
+|Nils Jansson trp, Andreas Gidlund sax, Andreas Hourdakis g, Mats Sandahl b, Niklas Gabrielsson dr/voc|Fre 04|
+|Lars Ekman Kvartett: Håkan Broström sax, Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr|Lö 05|
+|Linnea Jonsson trp, Håkan Broström sax, Pontus Fällman g, Kalle Johansson p, Jon Henrikssom b, Tim Vingren dr|Sö 06|
+|	 	
+
+
 
 
 
