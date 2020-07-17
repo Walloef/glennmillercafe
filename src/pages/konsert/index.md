@@ -64,6 +64,7 @@ title: Konserter
 |Lars Ekman Kvartett: Håkan Broström sax, Leo Lindberg p, Lars Ekman b, Jonas Bäckman dr|Lö 05|
 |Linnea Jonsson trp, Håkan Broström sax, Pontus Fällman g, Kalle Johansson p, Jon Henrikssom b, Tim Vingren dr|Sö 06|
 |Nils Jansson trp, Andreas Gidlund sax, Andreas Hourdakis g, Mats Sandahl b, Niklas Gabrielsson dr/voc|Lö 12|
+|Lisa Björänge voc, Lisen Rylander sax, Axel Mårdsjö sax, Fabian Kallerdahl org, Lars ”Lade” Källfelt dr|Sö 13|
 |Fredrik Olsson g, Leo Lindberg org, Jojo Djeridi dr|On 16|
 |Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Bengt Stark dr|To 17|
 |Johan Arrias träblås, Rasmus Borg p, Patric Thorman b, Magnus Wikberg dr|Fre 18|
@@ -72,6 +73,7 @@ title: Konserter
 |Pelle Westlin sax/cl, Niklas Barnö trp, Isabell Gustavsson Ny p, Vilhelm Bromander b, Anton Jonsson dr|Fre 25|
 |Pow Wow: Björn Almgren sax, Jonny Wartel sax, Kjell Torbjörnsson b, Ingemar Landén dr|Lö 26|
 |Klas Lindquist sax, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr|Sö 27|
+|Lisa Björänge voc, Lisen Rylander sax, Axel Mårdsjö sax, Fabian Kallerdahl org, Lars ”Lade” Källfelt dr|Sö 13|
 	 	
 
 I samarbete med SENSUS
