@@ -76,6 +76,7 @@ title: Konserter
 |Pelle Westlin sax/cl, Niklas Barnö trp, Isabell Gustavsson Ny p, Vilhelm Bromander b, Anton Jonsson dr|Fre 25|
 |Pow Wow: Björn Almgren sax, Jonny Wartel sax, Kjell Torbjörnsson b, Ingemar Landén dr|Lö 26|
 |Klas Lindquist sax, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr|Sö 27|
+|Ulf Andersson Quartet (80th Celebration): Ulf Andersson sax, Carl Bagge p, Hans Backenroth b, Chris Montgomery dr|On 30|
 
 
 I samarbete med SENSUS
