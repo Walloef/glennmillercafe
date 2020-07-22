@@ -24,7 +24,7 @@ title: Konserter
 |Mattias Risberg p, Vilhelm Bromander b, Konrad Agnas dr|Sö 19|
 |Julia Strzalek sax, Niklas Barnö trp, Elsa Bergman b, Bror Tomas Sandström dr  |On 22|
 |Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b,Anton Jonsson dr|To 23|
-|Max Agnas p, Mauritz Agnas b, Nils Agnas dr |Fr 24|
+|Johan Graden p, Mauritz Agnas b, Nils Agnas dr |Fr 24|
 |Emil Strandberg trp, Mauritz Agnas b, Sebastian Voegler dr|Lö 25|
 |Amanda Sedgwick sax, Alexander Brott g, Kenji Rabson b, Moussa Fadera dr|Sö 26|
 |Julia Strzalek sax, Karoline Wallace voc Niklas Barnö trp, Mats Äleklint trb, Johan Graden p,  			Vilhelm Bromander b, Konrad Agnas dr |On 29|
