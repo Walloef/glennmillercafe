@@ -26,7 +26,7 @@ title: Konserter
 |Svenska folkjazzkvartetten: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b,Anton Jonsson dr|To 23|
 |Johan Graden p, Mauritz Agnas b, Nils Agnas dr |Fr 24|
 |Emil Strandberg trp, Mauritz Agnas b, Sebastian Voegler dr|Lö 25|
-|Amanda Sedgwick sax, Alexander Brott g, Kenji Rabson b, Moussa Fadera dr|Sö 26|
+|Amanda Sedgwick sax, Alexander Brott g, Björn Lundén b, Moussa Fadera dr|Sö 26|
 |Julia Strzalek sax, Karoline Wallace voc Niklas Barnö trp, Mats Äleklint trb, Johan Graden p,  			Vilhelm Bromander b, Konrad Agnas dr |On 29|
 |Daniel Marques Trio: Daniel Marques g, Sa Reston b, Ajurina Zwarg dr|To 30|
 |Jonas Liljeberg sax, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr|Fr 31|
