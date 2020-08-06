@@ -6,9 +6,9 @@ title: Konserter
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- 
 |Erik Söderlind g, Britta Virves p, Lars Ekman b, Jonas Backman dr|Lö 01|
 |Isak Hedtjärn cl, Katt Hernandez violin, Johan Graden p, Ville Bromander b, Dennis Egberth dr |Sö 02|
-|Håkan Broström sax, Chico Lindvall g, Britta Virves p,Jonny Åman b, Chris Montgomery dr|On 05|
+|Håkan Broström sax, Chico Lindvall g, Britta Virves p,Jonny  Åman b, Chris Montgomery dr|On 05|
 |Jonas Isaksson g, Leo Lindberg org, Jojo Djeridi dr|To 06|
-|Amanda Sedgwick sax, Alexander Brott g, Kenji Rabson b, Moussa Fadera dr|Fre 07|
+Alexander Brott g, Kenji Rabson b, Moussa Fadera dr|Fre 07|
 |Trinity: Karl Olandersson trp, Andreas Hellkvist hammond, Jojo Djeridi dr|Lö 08|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 09|
 |Tomas Janzon g, Jan Adefeldt b, Jojo Djeridi dr|On 12|
