@@ -142,10 +142,7 @@ class EngIndex extends React.Component {
 
             <ul className="list-info">
               <li>
-                <p>
-                  Concerts start at 8.00 pm on Wednesday, Thursday, Sunday, and
-                  at 8.30 pm on Friday and Saturday.
-                </p>
+                <p>Concerts start at 8:30 pm</p>
                 <p>The band play three sets</p>
                 <p>
                   The concert fee is a minimum of 50kr per set and per person

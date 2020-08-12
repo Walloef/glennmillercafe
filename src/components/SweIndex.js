@@ -319,10 +319,7 @@ class SweIndex extends React.Component {
 
             <ul className="list-info">
               <li>
-                <p>
-                  Konserter börjar kl. 20.00 onsdag, torsdag, söndag och klockan
-                  20.30 på fredag och lördag.
-                </p>
+                <p>Konserter börjar kl. 20:30</p>
                 <p>Bandet spelar tre set</p>
                 <p>Konsertavgiften är minst 50kr per set och per person</p>
                 <p>Konsertavgiften betalas kontant</p>
