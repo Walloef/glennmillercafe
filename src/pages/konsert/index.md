@@ -25,7 +25,7 @@ Alexander Brott g, Kenji Rabson b, Moussa Fadera dr|Fre 07|
 Alberto Pinton träblås, Vilhelm Bromander b, Konrad Agnas dr| To 27|	
 |Sol Sol: Elin Forkelid sax, David Stackenäs g, Mauritz Agnas b, Anna Lund dr| Fre 28|
 |Paul Kovacs Project: Paul Kovacs mspel, Klas Toresson sax,  Ann Blom p, Filip Augustson b, André Borgström dr|Lö 29|
-|Anna Lundqvist voc, Linus Lindblom sax/cl, Adam Forkelid p, Josef Kallerdahl b, Cecilia Sanchietti dr/perc|Sö 30|
+|Anna Lundqvist voc, Linus Lindblom sax/cl, Simon Westman p, Josef Kallerdahl b, Cecilia Sanchietti dr/perc|Sö 30|
 
 | Konserter i September 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- 
