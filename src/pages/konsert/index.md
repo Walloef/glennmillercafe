@@ -45,7 +45,6 @@ Alberto Pinton träblås, Vilhelm Bromander b, Konrad Agnas dr| To 27|
 |Chi Westfeldt voc, Britta Virves p, b TBA, Karl-Henrik Ousbäck dr|Sö 20|
 |Sebastian Jonsson sax, Erik Tengholm trp, Hannes Junestav trb, Anders Langørgen b, Jonathan Leidecker dr|To 24|
 |Pelle Westlin sax/cl, Niklas Barnö trp, Isabell Gustavsson Ny p, Vilhelm Bromander b, Anton Jonsson dr|Fre 25|
-|Pow Wow: Björn Almgren sax, Jonny Wartel sax, Kjell Torbjörnsson b, Ingemar Landén dr|Lö 26|
 |Klas Lindquist sax, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr|Sö 27|
 |Ulf Andersson Quartet (80th Celebration): Ulf Andersson sax, Carl Bagge p, Hans Backenroth b, Chris Montgomery dr|On 30|
 
