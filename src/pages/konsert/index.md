@@ -43,6 +43,7 @@ Alberto Pinton träblås, Vilhelm Bromander b, Konrad Agnas dr| To 27|
 |Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Bengt Stark dr|To 17|
 |Johan Arrias träblås, Rasmus Borg p, Patric Thorman b, Magnus Wikberg dr|Fre 18|
 |Chi Westfeldt voc, Britta Virves p, Arvid Jullander b, Karl-Henrik Ousbäck dr|Sö 20|
+|Mathias Landaeus p, Torbjörn Zetterberg b, Konrad Agnas dr|On 23|
 |Sebastian Jonsson sax, Erik Tengholm trp, Hannes Junestav trb, Anders Langørgen b, Jonathan Leidecker dr|To 24|
 |Pelle Westlin sax/cl, Niklas Barnö trp, Isabell Gustavsson Ny p, Vilhelm Bromander b, Anton Jonsson dr|Fre 25|
 |Erik Palmberg trp, Fredrik Lindborg sax, Carl Bagge p, Robert Erlandsson b, Jonas Bäckman dr|Lö 26|
