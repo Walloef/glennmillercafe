@@ -26,7 +26,7 @@ Alberto Pinton träblås, Vilhelm Bromander b, Konrad Agnas dr| To 27|
 |Sol Sol: Elin Forkelid sax, David Stackenäs g, Mauritz Agnas b, Anna Lund dr| Fre 28|
 |Paul Kovacs Project: Paul Kovacs mspel, Klas Toresson sax,  Ann Blom p, Filip Augustson b, André Borgström dr|Lö 29|
 |Anna Lundqvist voc, Linus Lindblom sax/cl, Simon Westman p, Josef Kallerdahl b, Cecilia Sanchietti dr/perc|Sö 30|
-
+|Med stöd av Italienska Kulturinstitutet|
 | Konserter i September 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- 
 |Christian Herluf Pedersen sax, Fredrik Hermansson p, Martin Höper b, Jonas Bäckman dr|On 02|
