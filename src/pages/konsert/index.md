@@ -2,31 +2,7 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Konserter i Augusti 2020                                                                                                                                                      |       |     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- 
-|Erik Söderlind g, Britta Virves p, Lars Ekman b, Jonas Backman dr|Lö 01|
-|Isak Hedtjärn cl, Katt Hernandez violin, Johan Graden p, Ville Bromander b, Dennis Egberth dr |Sö 02|
-|Håkan Broström sax, Chico Lindvall g, Britta Virves p,Jonny  Åman b, Chris Montgomery dr|On 05|
-|Jonas Isaksson g, Leo Lindberg org, Jojo Djeridi dr|To 06|
-Alexander Brott g, Kenji Rabson b, Moussa Fadera dr|Fre 07|
-|Trinity: Karl Olandersson trp, Andreas Hellkvist hammond, Jojo Djeridi dr|Lö 08|
-|Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 09|
-|Tomas Janzon g, Jan Adefeldt b, Jojo Djeridi dr|On 12|
-|Jazz på Isländska: Stina Augustsdottir voc, Fredrik Olsson g, Mats Dimming b, Jojo Djeridi dr|To 13|
-|Robert Nordmark sax, Per Ödberg g, Filip Augustson b, Filip Olofsson dr|Fre 14|
-|BEL Trio: Gustav Lundgren g, Robert Erlandsson b, Niklas Bodin dr|Lö 15|
-|”Lovelee Morgan”: Erik Tengholm trp, Klas Lindquist sax, Britta Virves p, Hans Backenroth b, Chris Montgomery dr|Sö 16|
-|Charlie Parker 100 years!: Klas Lindquist asax, Leo Lindberg p, Hans Backenroth b, Karl-Henrik Ousbäck dr |On 19|
-|Johan Hörlén sax, Billy Test p, Gustav Lundgren g, Kenji Rabson b, Bengt Stark dr|To 20|
-|Kasper Agnas g, Leo Lindberg org, Sebastian Voegler dr|Fre 21|
-|Martina Almgren Peace of Mind: Elin Forkelid sax, Mattias Torell g, Owe Almgren b, Martina Almgren dr|Lö 22|
-|Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr|Sö 23|
-|Alf Carlsson g, Anton Dromberg p, Samuel Löfdahl b, Hannes Sigfridsson dr|On 26|
-Alberto Pinton träblås, Vilhelm Bromander b, Konrad Agnas dr| To 27|	
-|Sol Sol: Elin Forkelid sax, David Stackenäs g, Mauritz Agnas b, Anna Lund dr| Fre 28|
-|Paul Kovacs Project: Paul Kovacs mspel, Klas Toresson sax,  Ann Blom p, Filip Augustson b, André Borgström dr|Lö 29|
-|Anna Lundqvist voc, Linus Lindblom sax/cl, Simon Westman p, Josef Kallerdahl b, Cecilia Sanchietti dr/perc|Sö 30|
-|Med stöd av Italienska Kulturinstitutet|
+
 | Konserter i September 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- 
 |Christian Herluf Pedersen sax, Fredrik Hermansson p, Martin Höper b, Jonas Bäckman dr|On 02|
