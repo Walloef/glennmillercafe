@@ -32,9 +32,9 @@ class SweIndex extends React.Component {
                 id="rest_circ5"
                 onclick="if(event.target.nodeName.toLowerCase() != 'a') {window.open(this.querySelector('.circ_top_title').href);return 0;}"
               >
-                <div class="circ_cont">
+                <div className="circ_cont">
                   <div
-                    class="circ_img"
+                    className="circ_img"
                     style={{
                       background:
                         "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center",
@@ -45,7 +45,7 @@ class SweIndex extends React.Component {
                   <a
                     href="https://restaurantguru.com"
                     target="_blank"
-                    class="circ_top_title"
+                    className="circ_top_title"
                     rel="noopener noreferrer"
                   >
                     Restaurant Guru 2020
@@ -53,7 +53,7 @@ class SweIndex extends React.Component {
                   <span>Recommended</span>
                   <a
                     href="https://restaurantguru.com/Glenn-Miller-Cafe-Stockholm"
-                    class="circ_bot_title"
+                    className="circ_bot_title"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -70,9 +70,9 @@ class SweIndex extends React.Component {
             id="rest_circ5"
             onclick="if(event.target.nodeName.toLowerCase() != 'a') {window.open(this.querySelector('.circ_top_title').href);return 0;}"
           >
-            <div class="circ_cont">
+            <div className="circ_cont">
               <div
-                class="circ_img"
+                className="circ_img"
                 style={{
                   background:
                     "url('https://awards.infcdn.net/img/star_red.svg') no-repeat center",
@@ -83,7 +83,7 @@ class SweIndex extends React.Component {
               <a
                 href="https://restaurantguru.com"
                 target="_blank"
-                class="circ_top_title"
+                className="circ_top_title"
                 rel="noopener noreferrer"
               >
                 Restaurant Guru 2020
@@ -91,7 +91,7 @@ class SweIndex extends React.Component {
               <span>Recommended</span>
               <a
                 href="https://restaurantguru.com/Glenn-Miller-Cafe-Stockholm"
-                class="circ_bot_title"
+                className="circ_bot_title"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -144,14 +144,14 @@ class SweIndex extends React.Component {
           <div>
             <h3>Öppettider</h3>
             <b>Onsdag - Söndag</b>
-            <p>19.00 - 01.00</p>
+            <p>18.30 - 01.00</p>
             <p className="small">Stängt måndag - tisdag</p>
           </div>
           <div>
             <h3>Adress</h3>
             <p>Brunnsgatan 21A 11138 Stockholm</p>
             <p>076-882 45 49</p>
-            <p class="small">T-bana Hötorget eller Östermalmstorg</p>
+            <p className="small">T-bana Hötorget eller Östermalmstorg</p>
           </div>
         </div>
         <div
@@ -280,7 +280,7 @@ class SweIndex extends React.Component {
           style={{
             textAlign: 'center',
           }}
-          class="gm-text"
+          className="gm-text"
         >
           Gilla oss på{' '}
           <a
@@ -319,10 +319,13 @@ class SweIndex extends React.Component {
 
             <ul className="list-info">
               <li>
-                <p>Konserter börjar kl. 20:30</p>
+                <p>Konserter börjar</p>
+                <p>Onsdag, torsdag, söndag: <b>20:00</b></p>
+                <p>Fredag, lördag: <b>20:30</b></p>
+                <hr style={{borderColor: 'rgba(255, 255, 255, .4)'}} />
                 <p>Bandet spelar tre set</p>
                 <p>Konsertavgiften är minst 50kr per set och per person</p>
-                <p>Konsertavgiften betalas kontant</p>
+                <p>Konsertavgiften betalas kontant eller Swish</p>
               </li>
               <li>
                 <p>Bokningar är för middagsgäster</p>

@@ -41,14 +41,14 @@ class EngIndex extends React.Component {
           <div>
             <h3>Opening hours</h3>
             <b>Wednesday - Sunday</b>
-            <p>19.00 - 01.00</p>
+            <p>6.30 pm - 1.00 am</p>
             <p className="small">Closed Monday - Tuesday</p>
           </div>
           <div>
             <h3>Address</h3>
             <p>Brunnsgatan 21A 11138 Stockholm</p>
             <p>076-882 45 49</p>
-            <p class="small">Subway Hötorget or Östermalmstorg</p>
+            <p className="small">Subway Hötorget or Östermalmstorg</p>
           </div>
         </div>
         <div className="gm-text">
@@ -103,7 +103,7 @@ class EngIndex extends React.Component {
           style={{
             textAlign: 'center',
           }}
-          class="gm-text"
+          className="gm-text"
         >
           Like us on{' '}
           <a
@@ -142,12 +142,15 @@ class EngIndex extends React.Component {
 
             <ul className="list-info">
               <li>
-                <p>Concerts start at 8:30 pm</p>
+                <p>Concerts starts</p>
+                <p>Wednesday, Thursday, Sunday: <b>8:00 pm</b></p>
+                <p>Friday, Saturday: <b>8:30 pm</b></p>
+                <hr style={{borderColor: 'rgba(255, 255, 255, .4)'}} />
                 <p>The band play three sets</p>
                 <p>
                   The concert fee is a minimum of 50kr per set and per person
                 </p>
-                <p>The concert fee must be paid cash</p>
+                <p>The concert fee can be paid with cash or Swish</p>
               </li>
               <li>
                 <p>Reservations are for dining guests</p>
