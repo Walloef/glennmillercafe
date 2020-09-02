@@ -6,7 +6,7 @@ title: Konserter
 | Konserter i September 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- 
 |Christian Herluf Pedersen sax, Fredrik Hermansson p, Martin Höper b, Jonas Bäckman dr|On 02|
-|Charlie Malmberg sax, Anton Svanberg tuba + överraskningsgäster|To 03|
+|Charlie Malmberg sax, Anton Svanberg tuba, Fredrik Ljungkvist sax, Emma Augustsson voc, Olle Vikström trb |To 03|
 |Nils Jansson trp, Andreas Gidlund sax, Andreas Hourdakis g, Mats Sandahl b, Niklas Gabrielsson dr/voc|Fre 04|
 |Lars Ekman Kvartett: Håkan Broström sax, Britta Virves p, Lars Ekman b, Jonas Bäckman dr|Lö 05|
 |Linnea Jonsson trp, Håkan Broström sax, Pontus Fällman g, Kalle Johansson p, Jon Henrikssom b, Tim Vingren dr|Sö 06|
