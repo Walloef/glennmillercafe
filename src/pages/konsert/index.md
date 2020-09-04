@@ -27,5 +27,15 @@ title: Konserter
 |Klas Lindquist sax, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr|Sö 27|
 |Ulf Andersson Quartet (80th Celebration): Ulf Andersson sax, Carl Bagge p, Hans Backenroth b, Chris Montgomery dr|On 30|
 
+| Konserter i Oktober 2020                                                                                                                                                      |       |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---
+|Erik Tengholm trp, Leonard Werme sax, Hannes Junestav trb, Britta Virves p,  Johan Tengholm b, Oscar Johansson Werre dr|To 01|
+|Stina Agustsdottir voc, Håkan Broström sax, Filip Ekestubbe p, Niklas Fernqvist b, Rasmus Svensson Blixt dr|Fr 02|
+|John Holmström p, Lars Ekman b, Henrik Wartel dr|Lö 03|
+|AGE: Adrian Sanchez sax, Gustav Lundgren g, Edouard Pennes b, Moussa Fadera dr|Sö 04|
+|Fabian Kallerdahl p. Alfred Lorinius b, Johan Birgenius dr|To 08|
+   
+ 
+
 
 I samarbete med SENSUS
