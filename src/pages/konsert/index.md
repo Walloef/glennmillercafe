@@ -34,8 +34,28 @@ title: Konserter
 |John Holmström p, Lars Ekman b, Henrik Wartel dr|Lö 03|
 |AGE: Adrian Sanchez sax, Gustav Lundgren g, Edouard Pennes b, Moussa Fadera dr|Sö 04|
 |Fabian Kallerdahl p. Alfred Lorinius b, Johan Birgenius dr|To 08|
+
+| Stockholm Jazzfestival 2020                                                                                                                                                      |       |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---
+|Trio Circle: Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson Werre dr|Fr 09|
+|14.00 - 17.00:  JAZZ-VERNISSAGE: Konstutställning/Jamsession 	            Judith Rabecq: konstnär,Gustav Lundgren gitarr, Edouard Pennes bas,+ Gäst|Lö 10|
+| 20.30 Johan Hörlén-Billy Test Quartet: Johan Hörlén sax, Billy Test p, Christian Spering b,  Bengt Stark dr|Lö 10|
+|Anna Gréta Sigurðardóttir kvartett: Anna Gréta Sigurðardóttir p/voc,  Bjarni Már Ingólfsson g, Johan Tengholm b, Oscar Johansson Werre dr |Sö 11 |
+|MAINSTREAM En huvudfåra: Katarina Henryson voc, Mattias Ståhl vib, Torbjörn Zetterberg b, la Bothzén dr/perc| Må 12|
+|Undergångsljuset: Linnéa Jonsson trp, Abel Haile sax, Alex Zethson  p,  Elsa Bergman b, Gustav Nahlin dr, Juan Romero congas, Gäst: Pelle Westlin bcl|Ti 13|
+|Adam Forkelid  1st movement: Adam Forkelid p, Carl Mörner Ringström g,   Niklas Fernqvist b, Daniel Fredriksson|On 14|
+| Anders Chico Lindvall Debut: Håkan Broström sax, Anders Chico Lindvall g,  Britta Virves p, Johnny Åman b, Paul Svanberg dr|To 15|
+| Per Thornberg/Hans Backenroth Quartet: Per Thornberg sax, Daniel Tilling p, Hans Backenroth b, Fredrik Rundqvist dr|Fr 16|
+|Robz: Robert Nordmark sax/bcl/komp, Robert Erlandsson b/komp, Robert Ikiz dr|Lö 17|
+| Terese Lien Evenstad Quartet: Terese Lien Evenstad violin, Anna Gréta Sigurðardóttir p,  Arvid Jullander b, Peter Danemo dr|Sö 18|
+ 	          
+
+
+	
+
    
  
+
 
 
 I samarbete med SENSUS
