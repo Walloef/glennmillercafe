@@ -8,7 +8,7 @@ title: Konserter
 |Christian Herluf Pedersen sax, Fredrik Hermansson p, Martin Höper b, Jonas Bäckman dr|On 02|
 |Charlie Malmberg sax, Anton Svanberg tuba, Fredrik Ljungkvist sax, Emma Augustsson voc, Olle Vikström trb |To 03|
 |Nils Jansson trp, Andreas Gidlund sax, Andreas Hourdakis g, Mats Sandahl b, Niklas Gabrielsson dr/voc|Fre 04|
-|Lars Ekman Kvartett: Håkan Broström sax, Britta Virves p, Lars Ekman b, Jonas Bäckman dr|Lö 05|
+|Lars Ekman Kvartett: Håkan Broström sax, Mattias Lindberg p, Lars Ekman b, Karl-Henrik Ousbäck dr|Lö 05|
 |Linnea Jonsson trp, Håkan Broström sax, Pontus Fällman g, Kalle Johansson p, Jon Henrikssom b, Tim Vingren dr|Sö 06|
 |20 år med Petter Wettre: Paul Pesonen g, Petter Wettre sax, Johnny Åman b, Karl-Henrik Ousbäck dr|On 09|
 |20 år med Petter Wettre:  Paul Pesonen g, Petter Wettre sax, Johnny Åman b, Karl-Henrik Ousbäck dr|To 10|
@@ -33,6 +33,7 @@ title: Konserter
 |Stina Agustsdottir voc, Håkan Broström sax, Filip Ekestubbe p, Niklas Fernqvist b, Rasmus Svensson Blixt dr|Fr 02|
 |John Holmström p, Lars Ekman b, Henrik Wartel dr|Lö 03|
 |AGE: Adrian Sanchez sax, Gustav Lundgren g, Edouard Pennes b, Moussa Fadera dr|Sö 04|
+|Fredrik Lindborg sax, Anna Gréta Sigurðardóttir p, August Eriksson b, Daniel Fredriksson dr|On 07|	
 |Fabian Kallerdahl p. Alfred Lorinius b, Johan Birgenius dr|To 08|
 
 | Stockholm Jazzfestival 2020                                                                                                                                                      |       |     |
