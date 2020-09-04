@@ -48,7 +48,21 @@ title: Konserter
 | Per Thornberg/Hans Backenroth Quartet: Per Thornberg sax, Daniel Tilling p, Hans Backenroth b, Fredrik Rundqvist dr|Fr 16|
 |Robz: Robert Nordmark sax/bcl/komp, Robert Erlandsson b/komp, Robert Ikiz dr|Lö 17|
 | Terese Lien Evenstad Quartet: Terese Lien Evenstad violin, Anna Gréta Sigurðardóttir p,  Arvid Jullander b, Peter Danemo dr|Sö 18|
- 	          
+
+| Konserter i Oktober 21-31                                                                                                                                                       |       |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---
+|Felisia Westberg voc/b, Terese Lien Evenstad fiol, Johan Ekeberg g, Andreas Pettersson dr|On 21|
+|Anders Chico Lindvall g, Håkan Broström sax, Britta Virves p, Johnny Åman b,  Paul Svanberg dr|To 22|
+|Hildegun Øiseth trp, Espen Berg p, Magne Thormodsæter b, Per Oddvar Johansen dr|Fr 23|
+|Henrik Westerberg sax, Mikel Ulfberg g, Kristofer Sundström b, Tomas Norberg dr|Lö 24|
+|Emma Augustsson cello, Pelle Westlin sax, Dennis Egberth dr|Sö 25|
+|Helen Salim voc, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr  |On 28|
+| Ellas Kapell: Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langørgen b,  Edvin Fridolfsson dr|To 29|
+| Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Sebastian Ågren dr|Fr 30|
+|Nils Jansson Kvartett: Nils Jansson trp, Jonas Östholm p, Pär-Ola Landin b,  Sebastian Ågren dr|Lö 31|
+        
+
+                  	            	          
 
 
 	
