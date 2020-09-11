@@ -14,7 +14,7 @@ title: Konserter
 |20 år med Petter Wettre:  Paul Pesonen g, Petter Wettre sax, Johnny Åman b, Karl-Henrik Ousbäck dr|To 10|
 |20 år med Petter Wettre: Jonas Kullhammar sax, Petter Wettre sax, Johnny Åman b, Karl-Henrik Ousbäck dr|Fr 11|	
 |Nils Jansson trp, Andreas Gidlund sax, Andreas Hourdakis g, Mats Sandahl b, Niklas Gabrielsson dr/voc|Lö 12|
-|Lisa Björänge voc, Klas Toresson sax, Axel Mårdsjö sax, bas o trummor TBA|Sö 13|
+|Lisa Björänge voc, Klas Toresson sax, Axel Mårdsjö sax, Tomas Sjödell b, Jonas Bäckman dr|Sö 13|
 |Fredrik Olsson g, Leo Lindberg org, Jojo Djeridi dr|On 16|
 |Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Bengt Stark dr|To 17|
 |Johan Arrias träblås, Rasmus Borg p, Patric Thorman b, Magnus Wikberg dr|Fre 18|
