@@ -23,7 +23,7 @@ title: Konserter
 |Mathias Landaeus p, Torbjörn Zetterberg b, Konrad Agnas dr|On 23|
 |Sebastian Jonsson sax, Erik Tengholm trp, Hannes Junestav trb, Anders Langørgen b, Jonathan Leidecker dr|To 24|
 |Pelle Westlin sax/cl, Niklas Barnö trp, Isabell Gustavsson Ny p, Vilhelm Bromander b, Anton Jonsson dr|Fre 25|
-|Erik Palmberg trp, Fredrik Lindborg sax, Carl Bagge p, Robert Erlandsson b, Jonas Bäckman dr|Lö 26|
+|Erik Palmberg trp, Hampus Adami trb, Carl Bagge p, Robert Erlandsson b, Jonas Bäckman dr|Lö 26|
 |Klas Lindquist sax, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr|Sö 27|
 |Ulf Andersson Quartet (80th Celebration): Ulf Andersson sax, Carl Bagge p, Hans Backenroth b, Chris Montgomery dr|On 30|
 
