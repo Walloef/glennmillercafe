@@ -19,16 +19,16 @@ title: 'Meny '
 
 | Varmrätter/Mains                                                                                       |       |
 | ------------------------------------------------------------------------------------------------------ | ----- |
-|Confit de Canard :Confiterat anklår med inkokt fänkål, päron, potatis med roquefort sås| 295:-|
-|GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille...| 245:-| 
-|Entrecôte med frites, dijon, Rödvin o bbq-sås, dijon, smör toppad med persillade | 339:-
-|Ugnstekta grönsaker med tomat & chèvre, aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..(veg/vegan) |225:-|
-|Salade Campagne: Mix-sallad, tomat, ägg, rödlök, paprika, brödkrutonger, bacon, chèvre, finns även i vegetarisk version|195:-|
+|**Confit de Canard** Confiterat anklår med inkokt fänkål, päron, potatis med roquefort sås| 295:-|
+|**GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille...| 245:-| 
+|**Entrecôte** Frites, dijon, Rödvin o bbq-sås, dijon, smör toppad med persillade | 339:-
+|**Ugnstekta grönsaker** Tomat & chèvre, aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..(veg/vegan) |225:-|
+|**Salade Campagne** Mix-sallad, tomat, ägg, rödlök, paprika, brödkrutonger, bacon, chèvre, finns även i vegetarisk version|195:-|
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:- |
 | **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon..                                      | 235:- |
 | **À la Belge** Ångade blåmusslor i öl, échalôte, vitlök, silverlök, lagerblad, selleri, tabasco..                         | 245:- |
-| **Aiguillon** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon, persilja,bacon, dijon..                         | 245:-/ |
-| **Chili (hot)** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, chorizo, tomat, paprika, chili, portvin, grädde.. | 255:- |
+| **À la Normande** Ångade blåmusslor, cider, échalôte, bacon, smör, fänkål, grädde,crème fraich, calvados...|265:- |
+|**Chili (hot)** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, chorizo, tomat, paprika, chili, portvin, grädde.. | 255:- |
 | **Roquefort** Ångade blåmusslor i vitt vin, échalôte, grädde, vitlök, rosmarin, lime, roquefort..                         | 245:- |
 | **Chèvre** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, grädde,honung, ruccola, chèvre...                               | 245:- |
 
