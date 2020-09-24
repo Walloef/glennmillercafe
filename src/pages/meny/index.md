@@ -13,17 +13,17 @@ title: 'Meny '
 | --------------------------------------------------------------------------- | ----- |
 | **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
 | **Escargots** 6 st sniglar med vitlökssmör                                  | 115:- |
-| **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        | 155:- |
-
-![](/img/received_774925762861507.jpeg)
+| **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        |125:- |
+|**Asiette mixed** Charkuterier, ost, rillette.... |160:- |
+|**Kantarellsoppa** (vegan) Portvin, krutonger...|115:-/145:-|  
 
 | Varmrätter/Mains                                                                                       |       |
 | ------------------------------------------------------------------------------------------------------ | ----- |
 |Confit de Canard :Confiterat anklår med inkokt fänkål, päron, potatis med roquefort sås| 295:-|
-|GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille...| 245:- 
+|GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille...| 245:-| 
 |Entrecôte med frites, dijon, Rödvin o bbq-sås, dijon, smör toppad med persillade | 339:-
-|Ugnstekta grönsaker med tomat & chèvre, veg/vegan,              Aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..|225:-|
-|Backenrothsallad: Mix-sallat, tomat, rödlök, paprika,  brödkrutonger, bacon, chèvre serveras med frites & aioli. Finns även i vegetarisk och vegansk version|195:-| 
+|Ugnstekta grönsaker med tomat & chèvre, aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..(veg/vegan) |225:-|
+|Salade Campagne: Mix-sallad, tomat, ägg, rödlök, paprika, brödkrutonger, bacon, chèvre, finns även i vegetarisk version|195:-|
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:- |
 | **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon..                                      | 235:- |
 | **À la Belge** Ångade blåmusslor i öl, échalôte, vitlök, silverlök, lagerblad, selleri, tabasco..                         | 245:- |
