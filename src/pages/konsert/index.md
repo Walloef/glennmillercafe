@@ -43,7 +43,7 @@ title: Konserter
 | 20.30 JOHAN HÖRLÉN-BILLY TEST QUARTET: Johan Hörlén sax, Billy Test p, Christian Spering b,  Bengt Stark dr|Lö 10|
 |ANNA GRÉTA SIGURDARDÓTTIR KVARTETT: Anna Gréta Sigurðardóttir p/voc,  Bjarni Már Ingólfsson g, Johan Tengholm b, Oscar Johansson Werre dr |Sö 11 |
 |MAINSTREAM EN HUVUDFÅRA: Katarina Henryson voc, Mattias Ståhl vib, Torbjörn Zetterberg b, Ola Bothzén dr/perc| Må 12|
-|UNDERGÅNGSLJUSET: Linnéa Jonsson trp, Abel Haile sax, Alex Zethson  p,  Elsa Bergman b, Gustav Nahlin dr, Juan Romero congas, Gäst: Pelle Westlin bcl|Ti 13|
+|UNDERGÅNGSLJUSET: Alexander Zethson Band|
 |ADAM FORKELID  1st MOVEMENT: Adam Forkelid p, Carl Mörner Ringström g,   Niklas Fernqvist b, Daniel Fredriksson|On 14|
 | ANDERS CHICO LINDVALL DEBUT: Håkan Broström sax, Anders Chico Lindvall g,  Britta Virves p, Johnny Åman b, Paul Svanberg dr|To 15|
 | PER THORNBERG/HANS BACKENROTH QUARTET: Per Thornberg sax, Daniel Tilling p, Hans Backenroth b, Fredrik Rundqvist dr|Fr 16|
