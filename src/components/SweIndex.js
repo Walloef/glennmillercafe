@@ -163,13 +163,16 @@ class SweIndex extends React.Component {
         >
           <h2>Kära gäster och vänner av Glenn Miller Café!</h2>
           <p>
-            Restaurang och kulturlivet blöder. För <b>Glenn Miller Café</b> är
-            det inget undantag. Vi håller öppet men intäkterna är mindre än 1/5
-            än normalt. (Marginalerna var inte stora till att börja med) Har du
-            möjlighet att stötta oss genom krisen med ett bidrag, stort som
-            litet, kan det göra hela skillnaden, och vi klarar oss igenom. Om
-            så, swisha till 1236356364 eller skicka via bg: 405-5158 (Jazzhunden
-            AB) Skriv som meddelande: ”Rädda GMC”
+            <b>Tusen Tack!</b> för alla bidrag som strömmat in! Periodvis är det
+            de pengarna ni skickat till oss som vi betalt räkningarna med. Så
+            att ni hjälpt oss har verkligen gjort skillnad! Det går bättre nu än
+            i våras, men riktlinjerna för restauranger gör ju att vi inte kan ha
+            mer än drygt 20 gäster inne, så intäkterna ligger ungefär på hälften
+            av vad de gjorde för ett år sedan, och det ser ju ut att fortsätta
+            så här ett tag till. Vi tar även fortsättningsvis tacksamt emot ert
+            stöd, stort som litet via swish: 1236356364 eller via bg: 405-5158
+            (Jazzhunden AB) Skriv som meddelande: ”Rädda GMC” Tusen Tack än en
+            gång! Kerstin & Ulf
           </p>
           <p>Tusen Tack!</p>
           <p>Kerstin & Ulf</p>
@@ -320,9 +323,13 @@ class SweIndex extends React.Component {
             <ul className="list-info">
               <li>
                 <p>Konserter börjar</p>
-                <p>Onsdag, torsdag, söndag: <b>20:00</b></p>
-                <p>Fredag, lördag: <b>20:30</b></p>
-                <hr style={{borderColor: 'rgba(255, 255, 255, .4)'}} />
+                <p>
+                  Onsdag, torsdag, söndag: <b>20:00</b>
+                </p>
+                <p>
+                  Fredag, lördag: <b>20:30</b>
+                </p>
+                <hr style={{ borderColor: 'rgba(255, 255, 255, .4)' }} />
                 <p>Bandet spelar tre set</p>
                 <p>Konsertavgiften är minst 50kr per set och per person</p>
                 <p>Konsertavgiften betalas kontant eller Swish</p>
