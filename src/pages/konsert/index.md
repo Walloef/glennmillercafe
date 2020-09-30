@@ -48,7 +48,7 @@ title: Konserter
 |**ANDERS CHICO LINDVALL DEBUT** Håkan Broström sax, Anders Chico Lindvall g,  Britta Virves p, Johnny Åman b, Paul Svanberg dr|To 15|
 | **PER THORNBERG/HANS BACKENROTH QUARTET** Per Thornberg sax, Daniel Tilling p, Hans Backenroth b, Fredrik Rundqvist dr|Fr 16|
 |**ROBZ** Robert Nordmark sax/bcl/komp, Robert Erlandsson b/komp, Robert Ikiz dr|Lö 17|
-|**TERESE LIEN EVENSTAD QUARTET**: Terese Lien Evenstad violin, Anna Gréta Sigurðardóttir p,  Arvid Jullander b, Peter Danemo dr|Sö 18|
+|**TERESE LIEN EVENSTAD QUARTET** Terese Lien Evenstad violin, Anna Gréta Sigurðardóttir p,  Arvid Jullander b, Peter Danemo dr|Sö 18|
 |Samtliga konserter streamas:Facebook/glennmillercafe|
 
 | Konserter i Oktober 21-31                                                                                                                                                       |       |     |
