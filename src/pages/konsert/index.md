@@ -3,29 +3,6 @@ templateKey: konsert-page
 title: Konserter
 ---
 
-| Konserter i September 2020                                                                                                                                                      |       |     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- 
-|Christian Herluf Pedersen sax, Fredrik Hermansson p, Martin Höper b, Jonas Bäckman dr|On 02|
-|Charlie Malmberg sax, Anton Svanberg tuba, Fredrik Ljungkvist sax, Emma Augustsson voc, Olle Vikström trb |To 03|
-|Nils Jansson trp, Andreas Gidlund sax, Andreas Hourdakis g, Mats Sandahl b, Niklas Gabrielsson dr/voc|Fre 04|
-|Lars Ekman Kvartett: Håkan Broström sax, Mattias Lindberg p, Lars Ekman b, Karl-Henrik Ousbäck dr|Lö 05|
-|Linnea Jonsson trp, Håkan Broström sax, Pontus Fällman g, Kalle Johansson p, Jon Henrikssom b, Tim Vingren dr|Sö 06|
-|20 år med Petter Wettre: Paul Pesonen g, Petter Wettre sax, Johnny Åman b, Karl-Henrik Ousbäck dr|On 09|
-|20 år med Petter Wettre:  Paul Pesonen g, Petter Wettre sax, Johnny Åman b, Karl-Henrik Ousbäck dr|To 10|
-|20 år med Petter Wettre: Jonas Kullhammar sax, Petter Wettre sax, Johnny Åman b, Karl-Henrik Ousbäck dr|Fr 11|	
-|Nils Jansson trp, Andreas Gidlund sax, Andreas Hourdakis g, Mats Sandahl b, Niklas Gabrielsson dr/voc|Lö 12|
-|Lisa Björänge voc, Klas Toresson sax, Axel Mårdsjö sax, Tomas Sjödell b, Jonas Bäckman dr|Sö 13|
-|Fredrik Olsson g, Leo Lindberg org, Jojo Djeridi dr|On 16|
-|Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Bengt Stark dr|To 17|
-|Johan Arrias träblås, Rasmus Borg p, Patric Thorman b, Magnus Wikberg dr|Fre 18|
-|Hederosgruppen: Emil Strandberg trp, Andreas Sjögren sax, Martin Hederos klav, Josef Kallerdahl b, Konrad Agnas dr|Lö 19|
-|Chi Westfeldt voc, Filip Ekestubbe p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|Sö 20|
-|Mathias Landaeus p, Torbjörn Zetterberg b, Konrad Agnas dr|On 23|
-|Sebastian Jonsson sax, Erik Tengholm trp, Hannes Junestav trb, Anders Langørgen b, Jonathan Leidecker dr|To 24|
-|Pelle Westlin sax/cl, Niklas Barnö trp, Isabell Gustavsson Ny p, Vilhelm Bromander b, Dennis Egberth dr|Fre 25|
-|Erik Palmberg trp, Hampus Adami trb, Carl Bagge p, Robert Erlandsson b, Jonas Bäckman dr|Lö 26|
-|Klas Lindquist sax, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr|Sö 27|
-|Ulf Andersson Quartet (80th Celebration): Ulf Andersson sax, Carl Bagge p, Hans Backenroth b, Chris Montgomery dr|On 30|
 
 | Konserter i Oktober 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---
@@ -43,7 +20,7 @@ title: Konserter
 |** JOHAN HÖRLÉN-BILLY TEST QUARTET** Johan Hörlén sax, Billy Test p, Christian Spering b,  Bengt Stark dr|Lö 10|
 |**ANNA GRÉTA SIGURDARDÓTTIR KVARTETT** Anna Gréta Sigurðardóttir p/voc,  Bjarni Már Ingólfsson g, Johan Tengholm b, Oscar Johansson Werre dr |Sö 11 |
 |**MAINSTREAM EN HUVUDFÅRA** Katarina Henryson voc, Mattias Ståhl vib, Torbjörn Zetterberg b, Ola Bothzén dr/perc| Må 12|
-|**UNDERGÅNGSLJUSET** Alexander Zethson Band|Ti 13|
+|**UNDERGÅNGSLJUSET** Jan "Janka" Johansson g/violin, Alex Zethson p,Vilhelm Bromander b, Raeel Raissi dr |Ti 13|
 |**ADAM FORKELID  1st MOVEMENT** Adam Forkelid p, Carl Mörner Ringström g,   Niklas Fernqvist b, Daniel Fredriksson|On 14|
 |**ANDERS CHICO LINDVALL DEBUT** Håkan Broström sax, Anders Chico Lindvall g,  Britta Virves p, Johnny Åman b, Paul Svanberg dr|To 15|
 | **PER THORNBERG/HANS BACKENROTH QUARTET** Per Thornberg sax, Daniel Tilling p, Hans Backenroth b, Fredrik Rundqvist dr|Fr 16|
