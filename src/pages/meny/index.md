@@ -11,19 +11,20 @@ title: 'Meny '
 
 | Förrätter/Starters                                                          |       |
 | --------------------------------------------------------------------------- | ----- |
-| **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 115:- |
-| **Escargots** 6 st sniglar med vitlökssmör                                  | 115:- |
+| **Chèvre Chaud** Gratinerad getost, levain(surdegsbröd) päron & pinjenötter | 135:- |
+| **Escargots** 6 st sniglar med vitlökssmör                                  | 135:- |
 | **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        |125:- |
-|**Asiette mixed** Charkuterier, ost, rillette.... |160:- |
-|**Kantarellsoppa** (vegan) Portvin, krutonger...|115:-/145:-|  
+|**Asiette mixed** Charkuterier, ost, rillette.... |165:- |
+|**Dagens soppa** (veg/vegan)  |125:-/175:-|  
 
 | Varmrätter/Mains                                                                                       |       |
 | ------------------------------------------------------------------------------------------------------ | ----- |
-|**Confit de Canard** Confiterat anklår med inkokt fänkål, päron, potatis med roquefort sås| 295:-|
-|**GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille...| 245:-| 
-|**Entrecôte** Frites, dijon, Rödvin o bbq-sås, dijon, smör toppad med persillade | 339:-
+|**Confit de Canard** Confiterat anklår med inkokt fänkål, päron, potatis med roquefort sås| 305:-|
+|**GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille...| 265:-| 
+|**Entrecôte** Frites, dijon, Rödvin o bbq-sås, dijon, smör toppad med persillade | 339:-|
 |**Ugnstekta grönsaker** Tomat & chèvre, aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..(veg/vegan) |225:-|
-|**Salade Campagne** Mix-sallad, tomat, ägg, rödlök, paprika, brödkrutonger, bacon, chèvre, finns även i vegetarisk version|195:-|
+|**Salade Campagne** Mix-sallad, tomat, ägg, rödlök, paprika, brödkrutonger, bacon, chèvre, finns även i vegetarisk version|215/225:- 
+|**Choucroute Garnie** Choucroute från Alsace kokad i Champagne, ankfett/morteau, frankfurter, rökt sidfläsk, potatis och dijon|295:-|
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:- |
 | **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon..                                      | 235:- |
 | **À la Belge** Ångade blåmusslor i öl, échalôte, vitlök, silverlök, lagerblad, selleri, tabasco..                         | 245:- |
