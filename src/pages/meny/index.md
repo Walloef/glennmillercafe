@@ -39,12 +39,11 @@ title: 'Meny '
 | **Assiette fromages** två dagens ostar, fikonmarmelad o croutons |110:-    |
 | **Chokladfondant med vaniljglass**                              | 115:-   |
 |**Rödvinsinkokta päron** med karamelliserad  |120:-|
-| **Crème Brulée**                                                | 95:-    |
 | **Glass per kula**                                     | 35:-    |
 | **Belgisk Chokladtårta** med pastismarinerade bär & grädde  | 85:-    |
 |**Crème Brulée** |105:-
-| **Kaffe** 30:-                                                             
-| **Espresso** 35:-/45:-|                                                    
+| **Kaffe** |30:-|                                                             
+| **Espresso** |35:-/45:-|                                                    
 | **Till desserten** Sauternes                                    | 24:- cl |
 
 Vid hög belastning kan maten bli fördröjd
