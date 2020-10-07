@@ -38,7 +38,7 @@ title: 'Meny '
 | --------------------------------------------------------------- | ------- |
 | **Assiette fromages** två dagens ostar, fikonmarmelad o croutons |110:-    |
 | **Chokladfondant med vaniljglass**                              | 115:-   |
-|**Rödvinsinkokta päron** med karamelliserad  |120:-|
+|**Rödvinsinkokta päron** med karamelliserad coulis  |120:-|
 | **Glass per kula**                                     | 35:-    |
 | **Belgisk Chokladtårta** med pastismarinerade bär & grädde  | 85:-    |
 |**Crème Brulée** |105:-
