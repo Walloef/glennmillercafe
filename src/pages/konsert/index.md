@@ -20,7 +20,7 @@ title: Konserter
 |** JOHAN HÖRLÉN-BILLY TEST QUARTET** Johan Hörlén sax, Billy Test p, Christian Spering b,  Bengt Stark dr|Lö 10|
 |**ANNA GRÉTA SIGURDARDÓTTIR KVARTETT** Anna Gréta Sigurðardóttir p/voc,  Bjarni Már Ingólfsson g, Johan Tengholm b, Oscar Johansson Werre dr |Sö 11 |
 |**MAINSTREAM EN HUVUDFÅRA** Katarina Henryson voc, Mattias Ståhl vib, Torbjörn Zetterberg b, Ola Bothzén dr/perc| Må 12|
-|**Broo/ZETHSON kvartett** Magnus Broo trp, Alex Zethson p,Vilhelm Bromander b, Raeel Raissi dr |Ti 13|
+|**BROO/ZETHSON kvartett** Magnus Broo trp, Alex Zethson p,Vilhelm Bromander b, Raeel Raissi dr |Ti 13|
 |**ADAM FORKELID  1st MOVEMENT** Adam Forkelid p, Carl Mörner Ringström g,   Niklas Fernqvist b, Daniel Fredriksson|On 14|
 |**ANDERS CHICO LINDVALL DEBUT** Håkan Broström sax, Anders Chico Lindvall g,  Britta Virves p, Johnny Åman b, Paul Svanberg dr|To 15|
 | **PER THORNBERG/HANS BACKENROTH QUARTET** Per Thornberg sax, Daniel Tilling p, Hans Backenroth b, Fredrik Rundqvist dr|Fr 16|
