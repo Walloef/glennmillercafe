@@ -24,7 +24,7 @@ title: Konserter
 |**ADAM FORKELID  1st MOVEMENT** Adam Forkelid p, Carl Mörner Ringström g,   Niklas Fernqvist b, Daniel Fredriksson|On 14|
 |**ANDERS CHICO LINDVALL DEBUT** Håkan Broström sax, Anders Chico Lindvall g,  Britta Virves p, Johnny Åman b, Paul Svanberg dr|To 15|
 | **PER THORNBERG/HANS BACKENROTH QUARTET** Per Thornberg sax, Daniel Tilling p, Hans Backenroth b, Fredrik Rundqvist dr|Fr 16|
-|**ROBZ** Robert Nordmark sax/bcl/komp, Robert Erlandsson b/komp, Robert Ikiz dr|Lö 17|
+|**ROBZ** Robert Nordmark sax/bcl/komp, Robert Erlandsson b/komp, Robert Ikiz dr, Gustav Lundgren g featuring 1st set|Lö 17|
 |**TERESE LIEN EVENSTAD QUARTET** Terese Lien Evenstad violin, Anna Gréta Sigurðardóttir p,  Arvid Jullander b, Peter Danemo dr|Sö 18|
 |Samtliga konserter streamas:Facebook/glennmillercafe|
 
