@@ -39,16 +39,27 @@ title: Konserter
 | Ellas Kapell: Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langørgen b,  Edvin Fridolfsson dr|To 29|
 | Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Sebastian Ågren dr|Fr 30|
 |Nils Jansson Kvartett: Nils Jansson trp, Jonas Östholm p, Pär-Ola Landin b,  Sebastian Ågren dr|Lö 31|
-        
 
-                  	            	          
-
-
-	
-
-   
- 
-
-
-
-I samarbete med SENSUS
+| Konserter i November 2020                                                                                                                                                      |       |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+|SYD: Per Texas Johansson träblås, Rasmus Borg p/komposition, Viktor Skokic b|Sö 01|
+|Thymshift: Thomas Gunillasson g, Thomas Backman sax, Johan Björklund dr|On 04|
+|Karl Wallmyr trp, Per Wallmyr träblås, Nils Berg träblås,  Johan Graden p, Mauritz Agnas b|To 05|
+|Calle Stenman trp, Martin Wiren sax, Oskar Schönning dobro, Anton Dromberg p, Johan Tengholm b, Filip Olofsson dr|Fr 06|
+|Andreas Hellkvist hammond, Erik Söderlind g, Chris Montgomery dr|Lö 07|
+|Joakim Milder sax, Mauritz Agnas b, Jon Fält dr|Sö 08|
+|Koki Niwa: Kasper Agnas g, Johan Graden p, Mauritz Agnas b, Karl-Henrik Ousbäck dr|On 11|
+|Håkan Broström sax, Felix Tani p, Björn Lundén b, Rasmus Svensson Blixt dr|To 12|
+|Derupeto/Skivrelease: Tobias Grim g, Peter Knudsen p, Rubem Farias b, Deodato Siquir voc/dr|Fr 13|
+|Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|Lö 14|
+|Johan Graden p, Vilhelm Bromander b, Andreas Pollak dr|Sö 15|
+|Apan & Grisen: Andreas Hellkvist Hammond, Daniel Olsson dr|On 18|
+|Emma Jansson Kvartett: Emma Jansson voc, Alexander Falkebring p,Johan Tengholm b, Johan Förnell dr|To 19|
+|Stina Agustsdottir voc, Simon Berggren p, Henrik Linder b, Rasmus Svensson Blixt dr|Fr 20|
+|Hannes Bennich sax, Ingrid Schyborger b, Mattia Galeotti dr|Lö 21|
+|Leo Lindberg org, Kasper Agnas g, Sebastian Voegler dr|Sö 22|
+|Christian Balvig p, Adrian Christensen b ,Frerdrik Bülow dr|On 25|
+|Tessan Milveden voc, Catharina Wiborgh sax, Ann Blom p, Hans Larsson b, Jesper Kviberg dr|To 26|
+|TALES: Mikko Iskanius trp/flh, Max Åhman g, Lauri Antila b, Marcus Omberg dr|Lö 28|
+|Vidya-Liselotte Sundberg voc/p, Putte Johander b, Jon Fält dr |Sö 29|
+|I samarbete med SENSUS|
