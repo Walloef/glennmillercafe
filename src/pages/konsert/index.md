@@ -31,7 +31,7 @@ title: Konserter
 | Konserter i Oktober 21-31                                                                                                                                                       |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---
 |Felisia Westberg voc/b, Terese Lien Evenstad fiol, Johan Ekeberg g, Andreas Pettersson dr|On 21|
-|Anders Chico Lindvall g, Håkan Broström sax, Britta Virves p, Johnny Åman b,  Paul Svanberg dr|To 22|
+|Anders Chico Lindvall g, Erik Tengholm trp, Mattias Lindberg p, Hans Andersson b,  Paul Svanberg dr|To 22|
 |Hildegun Øiseth trp/goat horn, Makiko Hirabayashi p, Klavs Hovman b, Marilyn Mazur dr|Fr 23|
 |Henrik Westerberg sax, Mikel Ulfberg g, Kristofer Sundström b, Tomas Norberg dr|Lö 24|
 |Emma Augustsson cello, Pelle Westlin sax, Dennis Egberth dr|Sö 25|
