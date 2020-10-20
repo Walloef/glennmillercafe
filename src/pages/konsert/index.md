@@ -43,7 +43,6 @@ title: Konserter
 | Konserter i November 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 |SYD: Per Texas Johansson träblås, Rasmus Borg p/komposition, Viktor Skokic b|Sö 01|
-|Thymshift: Thomas Gunillasson g, Thomas Backman sax, Johan Björklund dr|On 04|
 |Karl Wallmyr trp, Per Wallmyr träblås, Nils Berg träblås,  Johan Graden p, Mauritz Agnas b|To 05|
 |Calle Stenman trp, Martin Wiren sax, Oskar Schönning dobro, Anton Dromberg p, Johan Tengholm b, Filip Olofsson dr|Fr 06|
 |Andreas Hellkvist hammond, Erik Söderlind g, Chris Montgomery dr|Lö 07|
