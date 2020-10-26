@@ -35,7 +35,7 @@ title: Konserter
 |Hildegun Øiseth trp/goat horn, Makiko Hirabayashi p, Klavs Hovman b, Marilyn Mazur dr|Fr 23|
 |Henrik Westerberg sax, Mikel Ulfberg g, Kristofer Sundström b, Tomas Norberg dr|Lö 24|
 |Emma Augustsson cello, Pelle Westlin sax, Dennis Egberth dr|Sö 25|
-|Helen Salim voc, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr  |On 28|
+|Helen Salim voc, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr,   gäster: Mattias Olofsson g, Johan Christofersson sax |On 28|
 | Ellas Kapell: Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langørgen b,  Edvin Fridolfsson dr|To 29|
 | Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Sebastian Ågren dr|Fr 30|
 |Nils Jansson Kvartett: Nils Jansson trp, Jonas Östholm p, Pär-Ola Landin b,  Sebastian Ågren dr|Lö 31|
