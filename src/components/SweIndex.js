@@ -30,7 +30,9 @@ class SweIndex extends React.Component {
               />
               <div
                 id="rest_circ5"
-                onclick="if(event.target.nodeName.toLowerCase() != 'a') {window.open(this.querySelector('.circ_top_title').href);return 0;}"
+                onClick={() =>
+                  "if(event.target.nodeName.toLowerCase() != 'a') {window.open(this.querySelector('.circ_top_title').href);return 0;}"
+                }
               >
                 <div className="circ_cont">
                   <div
@@ -68,7 +70,9 @@ class SweIndex extends React.Component {
           <link href="https://awards.infcdn.net/circ5_n.css" rel="stylesheet" />
           <div
             id="rest_circ5"
-            onclick="if(event.target.nodeName.toLowerCase() != 'a') {window.open(this.querySelector('.circ_top_title').href);return 0;}"
+            onClick={() =>
+              "if(event.target.nodeName.toLowerCase() != 'a') {window.open(this.querySelector('.circ_top_title').href);return 0;}"
+            }
           >
             <div className="circ_cont">
               <div
@@ -193,6 +197,28 @@ class SweIndex extends React.Component {
             OBS! Först när du/ni fått en bekräftelse och en bokningsreferens
             gäller din/er bokning!
           </p>
+          <div style={{ margin: '10px 0 25px' }}>
+            <b>VIKTIGT</b>
+            <ul style={{ listStyle: 'disc', padding: '0 23px' }}>
+              <li>
+                Bokade platser = middagsbokning för SAMTLIGA bokade gäster.
+                (Minst huvudrätt)
+              </li>
+              <li>
+                Om antalet gäster i din bokning ändras: skicka sms till
+                0768824549 och meddela.
+              </li>
+              <li>
+                Om det är fullbokat kan ni testa att komma lite senare eftersom
+                middagsgäster ofta lämnar sitt bord.
+              </li>
+              <li>
+                Enl Coronarestriktionerna måste alla gäster sitta. Vi har
+                plockat bort bord och har färre platser än tidigare för att
+                kunna hålla minst en meter mellan sällskapen.
+              </li>
+            </ul>
+          </div>
           <iframe
             src="./iframe.html"
             title="book a table"

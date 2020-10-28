@@ -70,6 +70,28 @@ class EngIndex extends React.Component {
             Important! You need to recieve a confirmation of your dinner
             reservation before it is valid!
           </p>
+          <div style={{ margin: '10px 0 25px' }}>
+            <b>IMPORTANT</b>
+            <ul style={{ listStyle: 'disc', padding: '0 23px' }}>
+              <li>
+                Table reservation means dinner for ALL guests. (Main course or
+                more)
+              </li>
+              <li>
+                If the number of guests in your reservation changes, please send
+                a textmessage to +46768824549 to let us know.
+              </li>
+              <li>
+                If it is fully booked, please come back later, since dinner
+                guests often leave their table after a set or two.
+              </li>
+              <li>
+                Because of Corona, all guests must be seated. We have taken away
+                tables, and do not have as many seats as earlier, all to be able
+                to keep the 1 meter distance between groups.
+              </li>
+            </ul>
+          </div>
           <iframe
             title="book a table"
             src="./../../../iframe.html"
@@ -143,9 +165,13 @@ class EngIndex extends React.Component {
             <ul className="list-info">
               <li>
                 <p>Concerts starts</p>
-                <p>Wednesday, Thursday, Sunday: <b>8:00 pm</b></p>
-                <p>Friday, Saturday: <b>8:30 pm</b></p>
-                <hr style={{borderColor: 'rgba(255, 255, 255, .4)'}} />
+                <p>
+                  Wednesday, Thursday, Sunday: <b>8:00 pm</b>
+                </p>
+                <p>
+                  Friday, Saturday: <b>8:30 pm</b>
+                </p>
+                <hr style={{ borderColor: 'rgba(255, 255, 255, .4)' }} />
                 <p>The band play three sets</p>
                 <p>
                   The concert fee is a minimum of 50kr per set and per person
