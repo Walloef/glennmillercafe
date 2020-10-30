@@ -37,7 +37,7 @@ title: Konserter
 |Emma Augustsson cello, Pelle Westlin sax, Dennis Egberth dr|Sö 25|
 |Helen Salim voc, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr,   gäster: Mattias Olofsson g, Johan Christofersson sax |On 28|
 | Ellas Kapell: Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langørgen b,  Edvin Fridolfsson dr|To 29|
-| Håkan Broström sax, Joel Lyssarides p, Jon Henriksson b, Sebastian Ågren dr|Fr 30|
+|Erik Söderlind g, Max Agnas p, Jon Henriksson b, Karl Henrik Ousbäck dr|Fr 30|
 |Nils Jansson Kvartett: Nils Jansson trp, Jonas Östholm p, Pär-Ola Landin b,  Sebastian Ågren dr|Lö 31|
 
 | Konserter i November 2020                                                                                                                                                      |       |     |
