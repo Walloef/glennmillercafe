@@ -42,7 +42,7 @@ title: Konserter
 
 | Konserter i November 2020                                                                                                                                                      |       |     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-|SYD: Per Texas Johansson träblås, Rasmus Borg p/komposition, Viktor Skokic b|Sö 01|
+|Britta Virves p, Chi Westfeldt voc, Mats Sandahl b, Karl Henrik Ousbäck dr|Sö 01|
 |Klas Toresson sax, Fredrik Olsson g, Carl Fredrik Orrje p, Lars Ekman b, Jojo Djeridi dr|On 04|
 |Karl Wallmyr trp, Per Wallmyr träblås, Nils Berg träblås,  Johan Graden p, Mauritz Agnas b|To 05|
 |Calle Stenman trp, Martin Wiren sax, Oskar Schönning dobro, Anton Dromberg p, Johan Tengholm b, Filip Olofsson dr|Fr 06|
