@@ -12,7 +12,7 @@ title: Konserter
 |Karl Wallmyr trp, Per Wallmyr träblås, Nils Berg träblås,  Johan Graden p, Mauritz Agnas b|To 05|
 |Calle Stenman trp, Martin Wiren sax, Oskar Schönning dobro, Anton Dromberg p, Johan Tengholm b, Filip Olofsson dr|Fr 06|
 |Andreas Hellkvist hammond, Erik Söderlind g, Chris Montgomery dr|Lö 07|
-|Joakim Milder sax, Mauritz Agnas b, Jon Fält dr|Sö 08|
+|Joakim Milder sax, Max Agnas p, Mauritz Agnas b, Jon Fält dr|Sö 08|
 |Koki Niwa: Kasper Agnas g, Johan Graden p, Mauritz Agnas b, Karl-Henrik Ousbäck dr|On 11|
 |Håkan Broström sax, Felix Tani p, Björn Lundén b, Rasmus Svensson Blixt dr|To 12|
 ||Fr 13|
