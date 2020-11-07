@@ -197,6 +197,10 @@ class SweIndex extends React.Component {
             OBS! Först när du/ni fått en bekräftelse och en bokningsreferens
             gäller din/er bokning!
           </p>
+          <p>
+            Får du inte en bekräftelse, så titta i skräpposten. Den kan ha
+            hamnat där.
+          </p>
           <div style={{ margin: '10px 0 25px' }}>
             <b>VIKTIGT</b>
             <ul style={{ listStyle: 'disc', padding: '0 23px' }}>
@@ -298,11 +302,13 @@ class SweIndex extends React.Component {
           <p>
             Köket är franskt med rätter som Confit de Canard, Bouillabaisse, sju
             olika variationer of Moules Frites, Creme Brulée mm. Om du vill äta
-            middag är det bra att boka bord. Annars är du välkommen förbi för
-            att ta del av konserten och någonting gott från baren. Oavsett om du
-            kommer för ett glas eller middag, notera att vi först och främst är
-            en jazzklubb. För att respektera musiken och musikerna ber vi dig
-            att spara dina konversationer till pauserna under spelningarna.
+            middag är det bra att boka bord. Nu med Coronarestriktioner får vi
+            inte ha gäster stående. Är det fullbokat med middagsgäster
+            rekommenderar vi att ni återkommer senare. Vanligtvis lämnar alltid
+            några matgäster sina bord. Senast till sista set. Vänligen notera
+            att vi först och främst är en jazzklubb. För att respektera musiken
+            och musikerna ber vi dig att spara dina konversationer till pauserna
+            under spelningarna.
           </p>
         </div>
         <p
@@ -356,16 +362,43 @@ class SweIndex extends React.Component {
                   Fredag, lördag: <b>20:30</b>
                 </p>
                 <hr style={{ borderColor: 'rgba(255, 255, 255, .4)' }} />
+
                 <p>Bandet spelar tre set</p>
                 <p>Konsertavgiften är minst 50kr per set och per person</p>
                 <p>Konsertavgiften betalas kontant eller Swish</p>
+                <p>
+                  En del av konserterna livestreamas på vår{' '}
+                  <a
+                    style={{
+                      color: 'white',
+                      textDecoration: 'underline',
+                    }}
+                    href="https://sv-se.facebook.com/glennmillercafe/"
+                  >
+                    Facebook
+                  </a>
+                  .
+                </p>
               </li>
               <li>
                 <p>Bokningar är för middagsgäster</p>
                 <p>Middagsgäster har bordet hela kvällen</p>
                 <p>
-                  För sällskap större än 10 personer, vänligen kontakta
+                  För sällskap större än 8 personer, vänligen kontakta
                   restaurangen för att göra din bokning. 076-882 45 49
+                </p>
+                <p>
+                  En del av konserterna livestreamas på vår{' '}
+                  <a
+                    style={{
+                      color: 'white',
+                      textDecoration: 'underline',
+                    }}
+                    href="https://sv-se.facebook.com/glennmillercafe/"
+                  >
+                    Facebook
+                  </a>
+                  .
                 </p>
               </li>
               <li>

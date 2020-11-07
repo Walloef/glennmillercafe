@@ -60,9 +60,8 @@ class EngIndex extends React.Component {
             we’ll have a table available.
           </p>
           <p>
-            If it is fully booked, you are still welcome to come and stand in
-            the bar and listen to the consert. Please note that the consert fee
-            is payable in cash only. (or swish if the musicians are swedish)
+            Please note that the consert fee is payable in cash only. (or swish
+            if the musicians are swedish)
           </p>
         </div>
         <div className="iframe__wrapper" id="bookTable">
@@ -70,6 +69,7 @@ class EngIndex extends React.Component {
             Important! You need to recieve a confirmation of your dinner
             reservation before it is valid!
           </p>
+          <p>If you haven't recieved one, please check your spam.</p>
           <div style={{ margin: '10px 0 25px' }}>
             <b>IMPORTANT</b>
             <ul style={{ listStyle: 'disc', padding: '0 23px' }}>
@@ -114,11 +114,9 @@ class EngIndex extends React.Component {
             The cuisine is French with dishes such as Confit de Canard,
             Bouillabaisse, seven different variations of Moules Frites, Creme
             Brulée, and more. If you want to have dinner, it is good to reserve
-            a table. If not, you are welcome to come by and enjoy the concert
-            with something nice in the bar. But no matter if you’re drinking or
-            eating, note that we are, first and mainly a jazz club. To respect
-            the music and the musicians we ask you to save your conversations to
-            the pauses in between the sets.
+            a table. Please note that we are, first and mainly a jazz club. To
+            respect the music and the musicians we ask you to save your
+            conversations to the pauses in between the sets.
           </p>
         </div>
         <p
@@ -177,12 +175,25 @@ class EngIndex extends React.Component {
                   The concert fee is a minimum of 50kr per set and per person
                 </p>
                 <p>The concert fee can be paid with cash or Swish</p>
+                <p>
+                  Some of the conserts are livestreamed on our{' '}
+                  <a
+                    style={{
+                      color: 'white',
+                      textDecoration: 'underline',
+                    }}
+                    href="https://facebook.com/glennmillercafe/"
+                  >
+                    Facebook
+                  </a>{' '}
+                  site.
+                </p>
               </li>
               <li>
                 <p>Reservations are for dining guests</p>
                 <p>Dining guests may keep their table all night</p>
                 <p>
-                  For parties bigger than 10 persons, please contact the
+                  For parties bigger than 8 persons, please contact the
                   restaurant to make your reservation. 0768824549
                 </p>
               </li>
