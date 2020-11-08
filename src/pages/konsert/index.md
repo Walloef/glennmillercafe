@@ -15,6 +15,7 @@ title: Konserter
 |Joakim Milder sax, Max Agnas p, Mauritz Agnas b, Jon Fält dr|Sö 08|
 |Koki Niwa: Kasper Agnas g, Johan Graden p, Mauritz Agnas b, Karl-Henrik Ousbäck dr|On 11|
 |Håkan Broström sax, Felix Tani p, Björn Lundén b, Rasmus Svensson Blixt dr|To 12|
+|Leo Lindberg p, Morgan Hultgren g, Mats Sandahl b, Karl-Henrik Ousbäck dr|Fr 13|
 ||Fr 13|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|Lö 14|
 |Johan Graden p, Vilhelm Bromander b, Andreas Pollak dr|Sö 15|
