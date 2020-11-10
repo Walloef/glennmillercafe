@@ -23,7 +23,7 @@ title: Konserter
 |Emma Jansson Kvartett: Emma Jansson voc, Alexander Falkebring p,Johan Tengholm b, Johan Förnell dr|To 19|
 |Stina Agustsdottir voc, Simon Berggren p, Henrik Linder b, Rasmus Svensson Blixt dr|Fr 20|
 |Hannes Bennich sax, Ingrid Schyborger b, Mattia Galeotti dr|Lö 21|
-|Leo Lindberg org, Kasper Agnas g, Sebastian Voegler dr|Sö 22|
+|Torbjörn Gultz p, Filip Augustson b,Sebastian Voegler dr|Sö 22|
 |Christian Balvig p, Adrian Christensen b ,Frerdrik Bülow dr|On 25|
 |Tessan Milveden voc, Catharina Wiborgh sax, Ann Blom p, Hans Larsson b, Jesper Kviberg dr|To 26|
 |Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr|Fr 27|
