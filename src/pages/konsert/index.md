@@ -16,7 +16,6 @@ title: Konserter
 |Agnas Bros: Kasper Agnas g, Max Agnas p, Mauritz Agnas b, Konrad Agnas dr|On 11|
 |? sax, Felix Tani p, Björn Lundén b, Rasmus Svensson Blixt dr|To 12|
 |Leo Lindberg p, Morgan Hultgren g, Mats Sandahl b, Karl-Henrik Ousbäck dr|Fr 13|
-||Fr 13|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|Lö 14|
 |Johan Graden p, Vilhelm Bromander b, Andreas Pollak dr|Sö 15|
 |Apan & Grisen: Andreas Hellkvist Hammond, Daniel Olsson dr|On 18|
