@@ -13,7 +13,7 @@ title: Konserter
 |Calle Stenman trp, Martin Wiren sax, Oskar Schönning dobro, Anton Dromberg p, Johan Tengholm b, Filip Olofsson dr|Fr 06|
 |Andreas Hellkvist hammond, Erik Söderlind g, Chris Montgomery dr|Lö 07|
 |Joakim Milder sax, Max Agnas p, Mauritz Agnas b, Jon Fält dr|Sö 08|
-|Koki Niwa: Kasper Agnas g, Johan Graden p, Mauritz Agnas b, Karl-Henrik Ousbäck dr|On 11|
+|Agnas Bros: Kasper Agnas g, Max Agnas p, Mauritz Agnas b, Konrad Agnas dr|On 11|
 |Håkan Broström sax, Felix Tani p, Björn Lundén b, Rasmus Svensson Blixt dr|To 12|
 |Leo Lindberg p, Morgan Hultgren g, Mats Sandahl b, Karl-Henrik Ousbäck dr|Fr 13|
 ||Fr 13|
