@@ -65,6 +65,10 @@ Vid hög belastning kan maten bli fördröjd
 |**Baked vegetables with tomatoes and chèvre** Aubergine, potatoes, zucchini, fennel, broad beans, onions, garlic(veg/vegan) |225:-|
 |**Salade Campagne**  (veg/vegan) Sallad, potatoes, tomatoes, onion, pepper, boiled egg, bacon, chèvre |225/215:-| 
 |**Choucroute Garnie** Sauerkraut, from Alsace cooked in champagne and duck fat, Morteau, Frankfurter, smoked porc loin, potatoes, dijon mustard |295:-|
+|**Moules Frites** All mussels are served with French fries (or sallad) and aioli|
+|**Moules Marinières** Steamed mussels in white wine, shallots, garlic and tarragon|225:-|
+|**Moules á la Crème**|						 Same as Moules Marinières, with cream
+
 
  
 
