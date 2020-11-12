@@ -47,3 +47,13 @@ title: 'Meny '
 | **Till desserten** Sauternes                                    | 24:- cl |
 
 Vid hög belastning kan maten bli fördröjd
+                                                          
+
+|Starters      |
+| --------------------------------------------------------------------------- | ----- |
+| **Chèvre Chaud** Gratinated goatcheese, levain, pear,pine nuts,salad | 135:- |
+| **Escargots** 6 gratinated snails in garlic butter                                  | 135:- |
+| ** Charcuterie plate ** with the house rillette, cornichons        |125:- |
+|**Asiette mixed** Charkuterie, cheese, rillette, cornichons |165:- |
+ 
+
