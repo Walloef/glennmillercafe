@@ -55,5 +55,16 @@ Vid hög belastning kan maten bli fördröjd
 | **Escargots** 6 gratinated snails in garlic butter                                  | 135:- |
 | **Charcuterie plate** with the house rillette, cornichons        |125:- |
 |**Asiette mixed** Charkuterie, cheese, rillette, cornichons |165:- |
+| Förrätter/Starters                                                          
+
+|Main courses       |
+| --------------------------------------------------------------------------- | ----- |
+|**Confit de canard** Confitated duck, poached fennel, pear, potatoes,  Rockford sauce | 305:-|
+|**GMC ́s Bouillabaisse** Salmon, white fish, fennel, celery, tomatoes, carrots, parsnip, rouille| 265:-| 
+|**Entrecôt with French fries** Served with red wine sauce, Bbq sauce, dijon mustard, butter topped with parsley| 339:-|
+|**Baked vegetables with tomatoes and chèvre** Aubergine, potatoes, zucchini, fennel, broad beans, onions, garlic(veg/vegan) |225:-|
+|**Salade Campagne**  (veg/vegan) Sallad, potatoes, tomatoes, onion, pepper, boiled egg, bacon, chèvre |225/215:-| 
+|**Choucroute Garnie** Sauerkraut, from Alsace cooked in champagne and duck fat, Morteau, Frankfurter, smoked porc loin, potatoes, dijon mustard |295:-|
+
  
 
