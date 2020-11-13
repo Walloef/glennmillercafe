@@ -72,8 +72,18 @@ Vid hög belastning kan maten bli fördröjd
 |**Moules Belge**Steamed mussels in beer, garlic, tarragon, silver skin, bay leaf, celery and tabasco|245:-|
 |**Moules Normande**Steamed mussels in white wine, cider, shallots, bacon, butter, fennel, cream, calvados|265:-|
 |**Moules Chili**Steamed mussels in white wine, shallots, garlic, portwine, tarragon, chorizo, tomato, pepper and chili|255:-|
-|**Moules Chèvre** Steamed mussels in white wine, shallots, garlic, tarragon, honey, walnuts, ruccola, cream and chèvre|245:- 
+|**Moules Chèvre** Steamed mussels in white wine, shallots, garlic, tarragon, honey, walnuts, ruccola, cream and chèvre|245:-|
 
+
+
+|Desserts      |
+| --------------------------------------------------------------------------- | ----- | 
+|**Plate with 2 cheeses**with fig and bread croutons|110:-|
+|**Chocolate fondant**with vanilla ice cream|115:-|
+|**Redwine cooked pear**with caramelized sauce and ice cream|120:-|
+|**Belgian chocolate cake**Served with whipped crem and marinated fruit|85:-|
+|**Creme Brulée**|95:-|
+|**Scoop of ice cream vanilla or chocolade**|35/scoop/|35:-|
 
 
 
