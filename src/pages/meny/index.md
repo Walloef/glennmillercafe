@@ -83,7 +83,7 @@ Vid hög belastning kan maten bli fördröjd
 |**Redwine cooked pear**with caramelized sauce and ice cream|120:-|
 |**Belgian chocolate cake**Served with whipped crem and marinated fruit|85:-|
 |**Creme Brulée**|95:-|
-|**Scoop of ice cream vanilla or chocolade**|35/scoop/|35:-|
+|**Scoop of ice cream vanilla or chocolade**|35:-/scoop/|35:-|
 
 
 
