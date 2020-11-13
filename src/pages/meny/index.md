@@ -67,7 +67,14 @@ Vid hög belastning kan maten bli fördröjd
 |**Choucroute Garnie** Sauerkraut, from Alsace cooked in champagne and duck fat, Morteau, Frankfurter, smoked porc loin, potatoes, dijon mustard |295:-|
 |**Moules Frites** All mussels are served with French fries (or sallad) and aioli|
 |**Moules Marinières** Steamed mussels in white wine, shallots, garlic and tarragon|225:-|
-|**Moules á la Crème**|						 Same as Moules Marinières, with cream
+|**Moules á la Crème**						 Same as Moules Marinières, with cream|235:-|
+|**Moules Roquefort**Steamed mussels in white wine, shallots, garlic, rosemary, lime, cream and roquefort cheese|255:-|
+|**Moules Belge**Steamed mussels in beer, garlic, tarragon, silver skin, bay leaf, celery and tabasco|245:-|
+|**Moules Normande**Steamed mussels in white wine, cider, shallots, bacon, butter, fennel, cream, calvados|265:-|
+|**Moules Chili**Steamed mussels in white wine, shallots, garlic, portwine, tarragon, chorizo, tomato, pepper and chili|255:-|
+|**Moules Chèvre** Steamed mussels in white wine, shallots, garlic, tarragon, honey, walnuts, ruccola, cream and chèvre|245:- 
+
+
 
 
  
