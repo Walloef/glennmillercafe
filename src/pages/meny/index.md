@@ -55,15 +55,14 @@ Vid hög belastning kan maten bli fördröjd
 | **Escargots** 6 gratinated snails in garlic butter                                  | 135:- |
 | **Charcuterie plate** with the house rillette, cornichons        |125:- |
 |**Asiette mixed** Charkuterie, cheese, rillette, cornichons |165:- |
-| Förrätter/Starters                                                          
-
+                                                          
 |Main courses       |
 | --------------------------------------------------------------------------- | ----- |
 |**Confit de canard** Confitated duck, poached fennel, pear, potatoes,  Rockford sauce | 305:-|
 |**GMC ́s Bouillabaisse** Salmon, white fish, fennel, celery, tomatoes, carrots, parsnip, rouille| 265:-| 
-|**Entrecôt with French fries** Served with red wine sauce, Bbq sauce, dijon mustard, butter topped with parsley| 339:-|
+|**Entrecôte with French fries** Served with red wine sauce, Bbq sauce, dijon mustard, butter topped with parsley| 339:-|
 |**Baked vegetables with tomatoes and chèvre** Aubergine, potatoes, zucchini, fennel, broad beans, onions, garlic(veg/vegan) |225:-|
-|**Salade Campagne**  (veg/vegan) Sallad, potatoes, tomatoes, onion, pepper, boiled egg, bacon, chèvre |225/215:-| 
+|**Salade Campagne**Salad, potatoes, tomatoes, onion, pepper, boiled egg, bacon, chèvre. you can also have it like vegetarian |225/215:-| 
 |**Choucroute Garnie** Sauerkraut, from Alsace cooked in champagne and duck fat, Morteau, Frankfurter, smoked porc loin, potatoes, dijon mustard |295:-|
 |**Moules Frites** All mussels are served with French fries (or sallad) and aioli|
 |**Moules Marinières** Steamed mussels in white wine, shallots, garlic and tarragon|225:-|
@@ -80,10 +79,10 @@ Vid hög belastning kan maten bli fördröjd
 | --------------------------------------------------------------------------- | ----- | 
 |**Plate with 2 cheeses**with fig and bread croutons|110:-|
 |**Chocolate fondant**with vanilla ice cream|115:-|
-|**Redwine cooked pear**with caramelized sauce and ice cream|120:-|
+|**Redwine cooked pear**with caramelized sauce|120:-|
 |**Belgian chocolate cake**Served with whipped crem and marinated fruit|85:-|
 |**Creme Brulée**|95:-|
-|**Scoop of ice cream vanilla or chocolade**|35:-/scoop/|35:-|
+|**Scoop of ice cream vanilla or chocolade**|35:-/scoop/|
 
 
 
