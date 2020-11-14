@@ -62,7 +62,7 @@ Vid hög belastning kan maten bli fördröjd
 |**GMC ́s Bouillabaisse** Salmon, white fish, fennel, celery, tomatoes, carrots, parsnip, rouille| 265:-| 
 |**Entrecôte with French fries** Served with red wine sauce, Bbq sauce, dijon mustard, butter topped with parsley| 339:-|
 |**Baked vegetables with tomatoes and chèvre** Aubergine, potatoes, zucchini, fennel, broad beans, onions, garlic(veg/vegan) |225:-|
-|**Salade Campagne**Salad, potatoes, tomatoes, onion, pepper, boiled egg, bacon, chèvre. you can also have it like vegetarian |225/215:-| 
+|**Salade Campagne**Salad, potatoes, tomatoes, onion, pepper, boiled egg, bacon, chèvre. you can also get it vegetarian |225/215:-| 
 |**Choucroute Garnie** Sauerkraut, from Alsace cooked in champagne and duck fat, Morteau, Frankfurter, smoked porc loin, potatoes, dijon mustard |295:-|
 |**Moules Frites** All mussels are served with French fries (or sallad) and aioli|
 |**Moules Marinières** Steamed mussels in white wine, shallots, garlic and tarragon|225:-|
