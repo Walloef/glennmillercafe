@@ -20,7 +20,7 @@ title: Konserter
 |Johan Graden p, Vilhelm Bromander b, Andreas Pollak dr|Sö 15|
 |Apan & Grisen: Andreas Hellkvist Hammond, Daniel Olsson dr|On 18|
 |Emma Jansson Kvartett: Emma Jansson voc, Alexander Falkebring p,Johan Tengholm b, Johan Förnell dr|To 19|
-|Från och med 20 nov så öppnar vi kl 17.30 och stänger 22.00 p g a folkhälsomyndighetens direktiv, konserterna startar då 19.15, kolla denna hemsida för fortsatta ändringar|
+|OBS OBS, Från och med 20 nov så öppnar vi kl 17.30 och stänger 22.00 p g a folkhälsomyndighetens direktiv, konserterna startar då 19.15, kolla denna hemsida för fortsatta ändringar OBS OBS|
 |Stina Agustsdottir voc, Simon Berggren p, Henrik Linder b, Rasmus Svensson Blixt dr|Fr 20|
 |Britta Virves, Ingrid Schyborger b, Jonas Bäckman dr|Lö 21|
 |Torbjörn Gultz p, Filip Augustson b,Sebastian Voegler dr|Sö 22|
