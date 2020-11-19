@@ -15,7 +15,6 @@ title: 'Meny '
 | **Escargots** 6 st sniglar med vitlökssmör                                  | 135:- |
 | **Assiette charcuterie** Husets rillette, charkuterier, cornichons..        |125:- |
 |**Asiette mixed** Charkuterier, ost, rillette.... |165:- |
-|**Dagens soppa** (veg/vegan)  |125:-/175:-|  
 
 | Varmrätter/Mains                                                                                       |       |
 | ------------------------------------------------------------------------------------------------------ | ----- |
