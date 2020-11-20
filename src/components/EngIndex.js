@@ -41,7 +41,7 @@ class EngIndex extends React.Component {
           <div>
             <h3>Opening hours</h3>
             <b>Wednesday - Sunday</b>
-            <p>6.30 pm - 1.00 am</p>
+            <p>5.30 pm - 10:00 pm</p>
             <p className="small">Closed Monday - Tuesday</p>
           </div>
           <div>
@@ -162,13 +162,8 @@ class EngIndex extends React.Component {
 
             <ul className="list-info">
               <li>
-                <p>Concerts starts</p>
-                <p>
-                  Wednesday, Thursday, Sunday: <b>8:00 pm</b>
-                </p>
-                <p>
-                  Friday, Saturday: <b>8:30 pm</b>
-                </p>
+                <p />
+                <p>Concerts starts 7:15 pm the days we are open.</p>
                 <hr style={{ borderColor: 'rgba(255, 255, 255, .4)' }} />
                 <p>The band play three sets</p>
                 <p>

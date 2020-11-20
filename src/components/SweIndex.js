@@ -148,7 +148,7 @@ class SweIndex extends React.Component {
           <div>
             <h3>Öppettider</h3>
             <b>Onsdag - Söndag</b>
-            <p>18.30 - 01.00</p>
+            <p>17.30 - 22.00</p>
             <p className="small">Stängt måndag - tisdag</p>
           </div>
           <div>
@@ -354,13 +354,7 @@ class SweIndex extends React.Component {
 
             <ul className="list-info">
               <li>
-                <p>Konserter börjar</p>
-                <p>
-                  Onsdag, torsdag, söndag: <b>20:00</b>
-                </p>
-                <p>
-                  Fredag, lördag: <b>20:30</b>
-                </p>
+                <p>Konserterna börjar 19.15 alla dagar vi har öppet.</p>
                 <hr style={{ borderColor: 'rgba(255, 255, 255, .4)' }} />
 
                 <p>Bandet spelar tre set</p>
