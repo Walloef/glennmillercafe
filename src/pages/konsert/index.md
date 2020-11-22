@@ -26,7 +26,7 @@ title: Konserter
 |Torbjörn Gultz p, Filip Augustson b,Sebastian Voegler dr|Sö 22|
 |                                                     |On 25|
 |Tessan Milveden voc, Catharina Wiborgh sax, Ann Blom p, Hans Larsson b, Jesper Kviberg dr|To 26|
-|Petter Wettre sax, Niklas Fernqvist b, Karl Henrik Ousbäck dr|Fr 27|
+|Restauranten är öppen från 18.00, ingen livejazz men jazz i högtalare|Fr 27|
 |TALES: Mikko Iskanius trp/flh, Max Åhman g, Lauri Antila b, Marcus Omberg dr|Lö 28|
 |Vidya-Liselotte Sundberg voc/p, Alexander Zethson synth, Putte Johander b, Jon Fält dr |Sö 29|
 |I samarbete med SENSUS|
