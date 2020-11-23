@@ -24,8 +24,17 @@ class EngIndex extends React.Component {
         <div className="quick-info">
           <div>
             <h3>Reservations</h3>
-            <p>
-              <b>
+            <p
+              style={{
+                display: 'flex',
+                flexDirection: 'column',
+              }}
+            >
+              <b
+                style={{
+                  padding: '12px 0',
+                }}
+              >
                 <a
                   style={{
                     color: 'white',
@@ -37,18 +46,24 @@ class EngIndex extends React.Component {
                 </a>
               </b>
             </p>
-          </div>
-          <div>
-            <h3>Opening hours</h3>
-            <b>Wednesday - Sunday</b>
-            <p>5.30 pm - 10:00 pm</p>
-            <p className="small">Closed Monday - Tuesday</p>
-          </div>
-          <div>
             <h3>Address</h3>
             <p>Brunnsgatan 21A 11138 Stockholm</p>
             <p>076-882 45 49</p>
             <p className="small">Subway Hötorget or Östermalmstorg</p>
+          </div>
+          <div>
+            <h3>Temporary Opening Hours:</h3>
+            <p>
+              Wednesday, Thursday, Sunday at 19.00-22.30 with live jazz concert
+              at 19.30
+            </p>
+
+            <p>
+              Friday, Saturday 18.00-22.30 without concert, but with jazz in the
+              speakers
+            </p>
+
+            <p className="small">Closed Monday - Tuesday</p>
           </div>
         </div>
         <div className="gm-text">
@@ -106,9 +121,7 @@ class EngIndex extends React.Component {
           <p>
             Glenn Miller Café is both the biggest and the smallest jazz club. We
             take great pride and are very thankful to be able to offer you an
-            inreasurable quality and variety of jazz and jazz musicians. There
-            is always a live jazz concert when we are open, Wednesday through
-            Sunday.
+            inreasurable quality and variety of jazz and jazz musicians.
           </p>
           <p>
             The cuisine is French with dishes such as Confit de Canard,

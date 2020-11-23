@@ -128,34 +128,23 @@ class SweIndex extends React.Component {
                   Online
                 </a>
               </b>
-              <b
-                style={{
-                  padding: '12px 0 24px',
-                }}
-              >
-                {/* <a
-                  style={{
-                    color: 'white',
-                    borderBottom: '1px solid white',
-                  }}
-                  href="#nyhet"
-                >
-                  Take away
-                </a> */}
-              </b>
             </p>
-          </div>
-          <div>
-            <h3>Öppettider</h3>
-            <b>Onsdag - Söndag</b>
-            <p>17.30 - 22.00</p>
-            <p className="small">Stängt måndag - tisdag</p>
-          </div>
-          <div>
             <h3>Adress</h3>
             <p>Brunnsgatan 21A 11138 Stockholm</p>
             <p>076-882 45 49</p>
             <p className="small">T-bana Hötorget eller Östermalmstorg</p>
+          </div>
+          <div>
+            <h3>Tillfälliga Öppettider:</h3>
+            <p>
+              Onsdag, torsdag, söndag kl 19.00-22.30 med livejazzkonsert kl
+              19.30
+            </p>
+
+            <p>
+              Fredag, lördag 18.00-22.30 utan konsert, men med jazz i högtalarna
+            </p>
+            <p className="small">Stängt måndag - tisdag</p>
           </div>
         </div>
         <div
@@ -233,71 +222,12 @@ class SweIndex extends React.Component {
           />
           <img src={ingresstext} alt="restaurant empty" />
         </div>
-        {/* <div className="gm-text" id="nyhet">
-          <h2>Nyhet - TAKE AWAY</h2>
-          <p>
-            Ät din GMC-middag hemma! För avhämtning de dagar restaurangen håller
-            öppet kan du beställa mat på Glenn Miller Café. Skicka sms till
-            0768824549 och gör din beställning. Vi öppnar för take away kl 18.30
-            <table>
-              <thead>
-                <tr>
-                  <th>Meny</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Bœuf bourguignon, sallad och bröd 175kr</td>
-                  <td>175 kr</td>
-                </tr>
-                <tr>
-                  <td>GMC’s Bouillabaisse, saffransaioli, sallad och bröd</td>
-                  <td>175 kr</td>
-                </tr>
-                <tr>
-                  <td>Sallad Campagne, även vegetarisk eller vegansk</td>
-                  <td>155 kr</td>
-                </tr>
-              </tbody>
-            </table>
-            <table>
-              <thead>
-                <tr>
-                  <th>Färdig blandning till Musslor (ej musslorna)</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Moules Marinières</td>
-                  <td>55 kr</td>
-                </tr>
-                <tr>
-                  <td>Moules a la crème</td>
-                  <td>55 kr</td>
-                </tr>
-              </tbody>
-            </table>
-            <table>
-              <thead>
-                <tr>
-                  <th>Dessert</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Chokladmousse</td>
-                  <td>65 kr</td>
-                </tr>
-              </tbody>
-            </table>
-          </p>
-        </div> */}
+
         <div className="gm-text">
           <p>
             Glenn Miller Café är både den största och minsta jazzklubben. Vi är
             stolta och tacksamma att kunna erbjuda dig en hög kvalitet och stor
-            variation jazz och jazzmusiker. Det är alltid en live jazz konsert
-            när vi har öppet, Onsdag till söndag.
+            variation jazz och jazzmusiker.
           </p>
           <p>
             Köket är franskt med rätter som Confit de Canard, Bouillabaisse, sju
