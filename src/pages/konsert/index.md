@@ -24,9 +24,18 @@ title: Konserter
 |Stina Agustsdottir voc, Simon Berggren p, Henrik Linder b, Rasmus Svensson Blixt dr|Fr 20|
 |Britta Virves, Ingrid Schyborger b, Jonas Bäckman dr|Lö 21|
 |Torbjörn Gultz p, Filip Augustson b,Sebastian Voegler dr|Sö 22|
-|                                                     |On 25|
+|Inställt                      |On 25|
 |Tessan Milveden voc, Catharina Wiborgh sax, Ann Blom p, Hans Larsson b, Jesper Kviberg dr|To 26|
 |Restauranten är öppen från 18.00, ingen livejazz men jazz i högtalare|Fr 27|
 |TALES: Mikko Iskanius trp/flh, Max Åhman g, Lauri Antila b, Marcus Omberg dr|Lö 28|
-|Vidya-Liselotte Sundberg voc/p, Alexander Zethson synth, Putte Johander b, Jon Fält dr |Sö 29|
+||Sö 29|
+
+| Konserter i December 2020 december                                                                                                                                                     
+|       |     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+|
+
+
+
+
 |I samarbete med SENSUS|
