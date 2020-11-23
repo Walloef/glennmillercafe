@@ -18,24 +18,19 @@ title: Konserter
 |Leo Lindberg p, Morgan Hultgren g, Mats Sandahl b, Karl-Henrik Ousbäck dr|Fr 13|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|Lö 14|
 |Johan Graden p, Vilhelm Bromander b, Andreas Pollak dr|Sö 15|
-|Apan & Grisen: Andreas Hellkvist Hammond, Daniel Olsson dr|On 18|
+|Apan & Grisen: And reas Hellkvist Hammond, Daniel Olsson dr|On 18|
 |Emma Jansson Kvartett: Emma Jansson voc, Alexander Falkebring p,Johan Tengholm b, Johan Förnell dr|To 19|
 |OBS OBS, Från och med 20 nov så öppnar vi kl 17.30 och stänger 22.00 p g a folkhälsomyndighetens direktiv, konserterna startar då 19.15, kolla denna hemsida för fortsatta ändringar OBS OBS|
 |Stina Agustsdottir voc, Simon Berggren p, Henrik Linder b, Rasmus Svensson Blixt dr|Fr 20|
 |Britta Virves, Ingrid Schyborger b, Jonas Bäckman dr|Lö 21|
 |Torbjörn Gultz p, Filip Augustson b,Sebastian Voegler dr|Sö 22|
 |Inställt                      |On 25|
-|Tessan Milveden voc, Catharina Wiborgh sax, Ann Blom p, Hans Larsson b, Jesper Kviberg dr|To 26|
+|Tessan Milveden voc, Arne Tengstrand p. Livestreamas 19.30 på Facebook/Glenn Miller Café  |To 26|
 |Restauranten är öppen från 18.00, ingen livejazz men jazz i högtalare|Fr 27|
-|TALES: Mikko Iskanius trp/flh, Max Åhman g, Lauri Antila b, Marcus Omberg dr|Lö 28|
-||Sö 29|
-
-| Konserter i December 2020 december                                                                                                                                                     
-|       |     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-|
-
-
+|Restauranten är öppen från 18.00, ingen livejazz men jazz i högtalare|Lö 28|
+|**"Backlura"** Tobias Wiklund kornett, Palle Sollinger b, Daniel Fredriksson dr|Sö 29|
+|**Konserter i December 2020**|
+                                                                                                                                                      
 
 
 |I samarbete med SENSUS|
