@@ -32,7 +32,10 @@ title: Konserter
 
 | Konserter i December 2020                                                                                                                                                                                       |       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| Lena Swanberg voc, Karin Hammar trb, Britta Swanberg violin, Ricard Krantz g, Robert Erlandsson b, Mats Persson dr. Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster | On 02 |
+| Lena Swanberg voc, Karin Hammar trb, Britta Swanberg violin, Ricard Krantz g, Robert Erlandsson b, Mats Persson dr. Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster | On 02 
+|Kasper Agnas g, Leo Lindberg org, Sebastian Voegler dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster |To 03| 
+
+
 
 
 
