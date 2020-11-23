@@ -175,10 +175,6 @@ class EngIndex extends React.Component {
 
             <ul className="list-info">
               <li>
-                <p />
-                <p>Concerts starts 7:15 pm the days we are open.</p>
-                <hr style={{ borderColor: 'rgba(255, 255, 255, .4)' }} />
-                <p>The band play three sets</p>
                 <p>
                   The concert fee is a minimum of 50kr per set and per person
                 </p>

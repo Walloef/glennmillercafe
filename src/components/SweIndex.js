@@ -284,10 +284,6 @@ class SweIndex extends React.Component {
 
             <ul className="list-info">
               <li>
-                <p>Konserterna börjar 19.15 alla dagar vi har öppet.</p>
-                <hr style={{ borderColor: 'rgba(255, 255, 255, .4)' }} />
-
-                <p>Bandet spelar tre set</p>
                 <p>Konsertavgiften är minst 50kr per set och per person</p>
                 <p>Konsertavgiften betalas kontant eller Swish</p>
                 <p>
