@@ -39,9 +39,7 @@ title: Konserter
 |Karin Hammar trb, Linnea Jonsson trp, Britta Virves p, Martin Höper b, Konrad Agnas dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster |To 10|
 |Restauranten är öppen från 18.00, ingen livejazz men jazz i högtalare|Fr 11|
 Restauranten är öppen från 18.00, ingen livejazz men jazz i högtalare|Fr 12|
-|**Svenska folkjazzkvartetten**: Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr,
-Livestreamas 19.30 på Facebook/Glenn Miller Café, 
-vi öppnar kl 19 och kan ta 8 st matgäster |Sö 13|
+|**Svenska folkjazzkvartetten** Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster |Sö 13|
   
  
 
