@@ -24,6 +24,7 @@ title: Konserter
 |Restauranten är öppen från 18.00, ingen livejazz men jazz i högtalare|Fr 12|
 |**Svenska folkjazzkvartetten** Isak Hedtjärn cl, Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster |Sö 13|
 |Klas Lindquist sax, Hans Backenroth b, Jonas Bäckman dr,  Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster |On 16|
+|Klas Lindquist sax, Niklas Fernqvist b, Daniel Fredriksson dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|TO 17|
 |Restauranten är öppen från 18.00, ingen livejazz men jazz i högtalare|Fr 18|
 |Restauranten är öppen från 18.00, ingen livejazz men jazz i högtalare|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Sön 20|   
