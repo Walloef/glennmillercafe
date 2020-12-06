@@ -136,14 +136,7 @@ class SweIndex extends React.Component {
           </div>
           <div>
             <h3>Tillfälliga Öppettider:</h3>
-            <p>
-              Onsdag, torsdag, söndag kl 19.00-22.30 med livejazzkonsert kl
-              19.30
-            </p>
-
-            <p>
-              Fredag, lördag 18.00-22.30 utan konsert, men med jazz i högtalarna
-            </p>
+            <p>Onsdag - söndag kl 19.00-22.30 med livejazzkonsert kl 19.30</p>
             <p className="small">Stängt måndag - tisdag</p>
           </div>
         </div>
@@ -158,14 +151,11 @@ class SweIndex extends React.Component {
           <p>
             <b>Tusen Tack!</b> för alla bidrag som strömmat in! Periodvis är det
             de pengarna ni skickat till oss som vi betalt räkningarna med. Så
-            att ni hjälpt oss har verkligen gjort skillnad! Det går bättre nu än
-            i våras, men riktlinjerna för restauranger gör ju att vi inte kan ha
-            mer än drygt 20 gäster inne, så intäkterna ligger ungefär på hälften
-            av vad de gjorde för ett år sedan, och det ser ju ut att fortsätta
-            så här ett tag till. Vi tar även fortsättningsvis tacksamt emot ert
-            stöd, stort som litet via swish: 1236356364 eller via bg: 405-5158
-            (Jazzhunden AB) Skriv som meddelande: ”Rädda GMC” Tusen Tack än en
-            gång! Kerstin & Ulf
+            att ni hjälpt oss har verkligen gjort skillnad! Och det ser ju ut
+            att fortsätta så här ett tag till. Vi tar även fortsättningsvis
+            tacksamt emot ert stöd, stort som litet via swish: 1236356364 eller
+            via bg: 405-5158 (Jazzhunden AB) Skriv som meddelande: ”Rädda GMC”
+            Tusen Tack än en gång! Kerstin & Ulf
           </p>
           <p>Tusen Tack!</p>
           <p>Kerstin & Ulf</p>

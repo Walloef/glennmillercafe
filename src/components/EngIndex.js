@@ -54,15 +54,8 @@ class EngIndex extends React.Component {
           <div>
             <h3>Temporary Opening Hours:</h3>
             <p>
-              Wednesday, Thursday, Sunday at 19.00-22.30 with live jazz concert
-              at 19.30
+              Wednesday - Sunday at 19.00-22.30 with live jazz concert at 19.30
             </p>
-
-            <p>
-              Friday, Saturday 18.00-22.30 without concert, but with jazz in the
-              speakers
-            </p>
-
             <p className="small">Closed Monday - Tuesday</p>
           </div>
         </div>
