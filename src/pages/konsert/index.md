@@ -22,9 +22,13 @@ title: Konserter
 |Kasper Agnas g, Mauritz Agnas b, Nils Agnas dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Sön 20|
 |Katarina Henrysson voc, Svante Henrysson cello,Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Sön 27|
-|28/29/30 december: se kommande program på hemsidan/glennmillercafe.se/
+|**Erik Söderlind med Holken** Erik Söderlind g, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Må 28|
+|**Molly Hammar med Holken** Molly Hammar voc, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Ti 29|
+|**?????? med Holken**  Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|On 30|
 
-   
+
+
+
  
 
 
