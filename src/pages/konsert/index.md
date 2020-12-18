@@ -19,11 +19,15 @@ title: Konserter
 |Klas Lindquist sax, Hans Backenroth b, Jonas Bäckman dr,  Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster |On 16|
 |Klas Lindquist sax, Niklas Fernqvist b, Daniel Fredriksson dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|TO 17|
 |Fredrik Lindborg sax, Jon Henriksson b, Daniel Fredriksson dr,Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Fre 18|
-|Kasper Agnas band (lineup Kommer)|Lö 19|
+|Kasper Agnas g, Max Agnas b, Nils Agnas dr,Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Sön 20|
-|Katarina Henrysson voc, Svante Henrysson cello,Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Sön 27|
-   
- 
+|info kommer |sö 27
+|Erik Söderlind g, Filip Ekestubbe p, Sebastian Ågren dr|Må 28|
+|Molly Hammar voc, Filip Ekestubbe p, Sebastian Ågren dr, |Ti 29|
+?????? Filip Ekestubbe p, Sebastian Ågren dr|On 30|
+
+
+
 
 
 
