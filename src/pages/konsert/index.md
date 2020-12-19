@@ -29,6 +29,9 @@ title: Konserter
 |Molly Hammar voc, Filip Ekestubbe p, Sebastian Ågren dr, |Ti 29|
 ?????? Filip Ekestubbe p, Sebastian Ågren dr|On 30|
 
+| Trots allt: Tack för detta år med förhoppning att 2021 ska bli ett år då vi besegrade nr 19!!                                                                                                                                                                                      |       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+
 
 
 
