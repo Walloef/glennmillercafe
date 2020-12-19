@@ -31,6 +31,7 @@ title: Konserter
 
 | Trots allt: Tack för detta år med förhoppning att 2021 ska bli ett år då vi besegrade nr 19!!                                                                                                                                                                                      |       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+|Vänligen se kommande information på denna sida angående öppettider och konserter!
 
 
 
