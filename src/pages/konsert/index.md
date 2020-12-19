@@ -31,15 +31,15 @@ title: Konserter
 
 | Trots allt: Tack för detta år med förhoppning att 2021 ska bli ett år då vi besegrade nr 19! Ulf & Kerstin                                                                                                                                                                                     |       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-|Vänligen se kommande information på denna sida angående öppettider och konserter!
-
-
-
-
-
-
-
-
-                                                                                                                                                   
+Vänligen se kommande information på denna sida angående öppettider och konserter!
 
 I samarbete med SENSUS
+
+
+
+
+
+
+
+
+                                                                                                                                      
