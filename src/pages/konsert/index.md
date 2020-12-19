@@ -25,11 +25,11 @@ title: Konserter
 | Glenn Miller Café önskar alla våra gäster en säker och lugn helg                                                                                                                                                                                       |       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 |info kommer |sö 27|
-|Erik Söderlind g, Filip Ekestubbe p, Sebastian Ågren dr|Må 28|
-|Molly Hammar voc, Filip Ekestubbe p, Sebastian Ågren dr, |Ti 29|
-?????? Filip Ekestubbe p, Sebastian Ågren dr|On 30|
+|Erik Söderlind g, Filip Ekestubbe p, Niklas Fernqvist b Sebastian Ågren dr|Må 28|
+|Molly Hammar voc, Filip Ekestubbe p, Niklas Fernqvist b Sebastian Ågren dr, |Ti 29|
+?????? Filip Ekestubbe p, Niklas Fernqvist b, Sebastian Ågren dr|On 30|
 
-| Trots allt: Tack för detta år med förhoppning att 2021 ska bli ett år då vi besegrade nr 19!!                                                                                                                                                                                      |       |
+| Trots allt: Tack för detta år med förhoppning att 2021 ska bli ett år då vi besegrade nr 19! Ulf & Kerstin                                                                                                                                                                                     |       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 |Vänligen se kommande information på denna sida angående öppettider och konserter!
 
