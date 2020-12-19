@@ -27,7 +27,7 @@ title: Konserter
 |info kommer |sö 27|
 |Erik Söderlind g, Filip Ekestubbe p, Niklas Fernqvist b Sebastian Ågren dr|Må 28|
 |Molly Hammar voc, Filip Ekestubbe p, Niklas Fernqvist b Sebastian Ågren dr, |Ti 29|
-?????? Filip Ekestubbe p, Niklas Fernqvist b, Sebastian Ågren dr|On 30|
+|Tobias Wiklund kornett, Filip Ekestubbe p, Niklas Fernqvist b, Sebastian Ågren dr|On 30|
 
 | Trots allt: Tack för detta år med förhoppning att 2021 ska bli ett år då vi besegrade nr 19! Ulf & Kerstin                                                                                                                                                                                     |       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
