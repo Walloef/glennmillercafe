@@ -21,6 +21,9 @@ title: Konserter
 |Fredrik Lindborg sax, Jon Henriksson b, Daniel Fredriksson dr,Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Fre 18|
 |Kasper Agnas g, Max Agnas b, Nils Agnas dr,Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr, Livestreamas 19.30 på Facebook/Glenn Miller Café, vi öppnar kl 19 och kan ta 8 st matgäster|Sön 20|
+
+| Glenn Miller Café önskar alla våra gäster en säker och lugn helg                                                                                                                                                                                       |       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 |info kommer |sö 27|
 |Erik Söderlind g, Filip Ekestubbe p, Sebastian Ågren dr|Må 28|
 |Molly Hammar voc, Filip Ekestubbe p, Sebastian Ågren dr, |Ti 29|
