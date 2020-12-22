@@ -24,10 +24,10 @@ title: Konserter
 
 | Glenn Miller Café önskar alla våra gäster en säker och lugn helg                                                                                                                                                                                       |       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-|info kommer |sö 27|
-|Erik Söderlind g, Filip Ekestubbe p, Niklas Fernqvist b Sebastian Ågren dr|Må 28|
-|Molly Hammar voc, Filip Ekestubbe p, Niklas Fernqvist b Sebastian Ågren dr, |Ti 29|
-|Tobias Wiklund kornett, Filip Ekestubbe p, Niklas Fernqvist b, Sebastian Ågren dr|On 30|
+|Bo Sundström voc, Björn Jansson sax, Vladan Wirant p, Ulf Engström b, Daniel Fredriksson dr, Livestreamas 18.00 på Facebook/Glenn Miller Café, vi öppnar kl 16.30 och kan ta 8 st matgäster |sö 27|
+|Erik Söderlind g, Filip Ekestubbe p, Niklas Fernqvist b Sebastian Ågren dr, Livestreamas 18.00 på Facebook/Glenn Miller Café, vi öppnar kl 16.30 och kan ta 8 st matgäster|Må 28| 
+|Molly Hammar voc, Filip Ekestubbe p, Niklas Fernqvist b Sebastian Ågren dr,Livestreamas 18.00 på Facebook/Glenn Miller Café, vi öppnar kl 16.30 och kan ta 8 st matgäster|Ti 29| 
+|Tobias Wiklund kornett, Filip Ekestubbe p, Niklas Fernqvist b, Sebastian Ågren dr,Livestreamas 18.00 på Facebook/Glenn Miller Café, vi öppnar kl 16.30 och kan ta 8 st matgäster|On 30|
 
 | Trots allt: Tack för detta år med förhoppning att 2021 ska bli ett år då vi besegrade nr 19! Ulf & Kerstin                                                                                                                                                                                     |       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
