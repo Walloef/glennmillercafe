@@ -39,5 +39,31 @@ Vänligen se kommande information på denna sida angående öppettider och konse
 | Salvador Sobral voc, Max Schultz g, Max Agnas p                                         | On 06 |
 |Fredrik Ljungkvist sax, Max Schultz g, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr |To 07|
 |Ann Blom p/voc, Karl Olandersson trp, Paul Kovacs harmonica, Filip Augustson b, Jesper Kviberg dr|Fre 08|
+|Chi Westfelt voc, Britta Wirves p, bas TBA, Karl-Henrik Ousbäck dr|Lö 09|
+|Elin Forkelid plays for Trane: Elin Forkelid sax. David Stackenäs g, Mattias Ståhl vib, Vilhelm Bromander b, Jon Fält dr|Sö 10|
+|Skivrelease med BEL-trio: Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr|On 13|
+|TALES: Max Åhman g, Mikko Iskanius trp, Lauri Antila b, Marcus Omberg dr|To 14|
+|Nils Jansson trp, Hans Olding g, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|Fre 15|
+|Christian Herluf Pedersen sax. Fredrik Hermansson p. Martin Höper b. Jonas Bäckman dr|Lö 16|
+|Isak Hedtjärn sax/cl, Mats Äleklint trb, Henning Ullén p, Mauritz Agnas b, Konrad Agnas dr|On 20|
+|Johannes Gammelgard sax, Karl Wallmyr trp, Mauritz Agnas b, Arild Wahl dr|To 21|
+|Ingrid Malmén voc, Hampus Adami och Simon Skogh trb, Tobias Johansson p, Ingrid Schyborger b,  Magnus Jonasson dr |Fre 22|
+| Robert malmberg p, hans Backenroth b|Sön 24 |
+|Erik Tengholm trp, Sebastian Jonsson sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|On 27|
+|Alf Carlsson g, Anton Dromberg p, Samuel Löfdahl b, Hannes Sigfridsson dr|Fre 29|
+|Christian Cuadra sax, Milton Öhrström p, Vilhelm Bromander b, Bror Thomas Sandström dr|Lö 30|
+|Fredrik Nordström sax, Gustav Lundgren g, Llaria Capalbo b, Fredrik Rundqvist dr|SÖ 31|
+
+
+
+
+	
+
+	 
+
+
+
+
+
 
 I samarbete med SENSUS
