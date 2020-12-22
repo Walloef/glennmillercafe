@@ -32,7 +32,7 @@ title: Konserter
 
 Vänligen se kommande information på denna sida angående öppettider och konserter!
 
-| Konserter i Januari 2021 |Öppettider: Vi öppnar kl 16.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00                                                               |       |
+| Konserter i Januari 2021 |Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00                                                               |       |
 | --------------------------------------------------------------------------------------- | ----- |
 | ”Den Gyldene Trion”: Jonas Kullhammar sax, Torbjörn Zetterberg b, Daniel Fredriksson dr | Lö 02 |
 | ”Den Gyldene Trion”: Jonas Kullhammar sax, Torbjörn Zetterberg b, Daniel Fredriksson dr | Sö 02 |
