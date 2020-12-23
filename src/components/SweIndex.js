@@ -136,7 +136,7 @@ class SweIndex extends React.Component {
           </div>
           <div>
             <h3>Tillfälliga Öppettider:</h3>
-            <p>Onsdag - söndag kl 19.00-22.30 med livejazzkonsert kl 19.30</p>
+            <p>Onsdag - söndag kl 17.00- 20.00 med livejazzkonsert kl 18.00</p>
             <p className="small">Stängt måndag - tisdag</p>
           </div>
         </div>
@@ -149,15 +149,18 @@ class SweIndex extends React.Component {
         >
           <h2>Kära gäster och vänner av Glenn Miller Café!</h2>
           <p>
-            <b>Tusen Tack!</b> för alla bidrag som strömmat in! Periodvis är det
-            de pengarna ni skickat till oss som vi betalt räkningarna med. Så
-            att ni hjälpt oss har verkligen gjort skillnad! Och det ser ju ut
-            att fortsätta så här ett tag till. Vi tar även fortsättningsvis
-            tacksamt emot ert stöd, stort som litet via swish: 1236356364 eller
-            via bg: 405-5158 (Jazzhunden AB) Skriv som meddelande: ”Rädda GMC”
-            Tusen Tack än en gång! Kerstin & Ulf
+            <b>Tusen Tack</b> än en gång för allt ekonomiskt stöd ni gett oss.
+            Just nu är det de pengarna vi klarar oss på, ett litet tag till. Så
+            känn verkligen att ditt bidrag gör skillnad! Vi ställer om
+            kontinuerligt allt efter som restriktionerna och rekommendationerna
+            ändras. Från jul kommer vi att öppna kl 16.30 och konserten (2 set)
+            börjar kl 18.00. Det är en väldigt exklusiv publik om max 8
+            matgäster som bereds plats. Före kl 18 då konserten börjar kan vi ta
+            in något fler. Vi tar även fortsättningsvis tacksamt emot ert stöd,
+            stort som litet via swish: 1236356364 eller via bg: 405-5158
+            (Jazzhunden AB) Skriv som meddelande ”Rädda GMC”. TACK!!! Vi önskar
+            oss alla en fridfull helg och ett friskt och konsertfyllt år 2021!
           </p>
-          <p>Tusen Tack!</p>
           <p>Kerstin & Ulf</p>
           {/* <h2>Info ang bordsbokning</h2>
           <p>
