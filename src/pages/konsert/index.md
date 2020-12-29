@@ -34,8 +34,7 @@ Vänligen se kommande information på denna sida angående öppettider och konse
 
 | Konserter i Januari 2021 |Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00                                                               |       |
 | --------------------------------------------------------------------------------------- | ----- |
-|  **"Genklang"**
-Tobias Wiklund kornett, Björn Jansson sax, Adam Forkelid p, Clas Lassbo b, Daniel Fredriksson dr | Lö 02 |
+| **"Genklang"**Tobias Wiklund kornett, Björn Jansson sax, Adam Forkelid p, Clas Lassbo b, Daniel Fredriksson dr | Lö 02 |
 | **"Backlura" Kärleken är evig** Tobias Wiklund kornett: Palle Sollinger b, Daniel Fredriksson dr | Sö 02 |
 | Salvador Sobral voc, Max Schultz g, Max Agnas p                                         | On 06 |
 |Fredrik Ljungkvist sax, Max Schultz g, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr |To 07|
