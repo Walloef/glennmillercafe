@@ -2,7 +2,7 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Konserter i Januari 2021 |Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00                                                               |       |
+ |Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Januari 2021                                                            |       
 | --------------------------------------------------------------------------------------- | ----- |
 | **"Genklang"**Tobias Wiklund kornett, Björn Jansson sax, Adam Forkelid p, Clas Lassbo b, Daniel Fredriksson dr | Lö 02 |
 | **"Backlura" Kärleken är evig** Tobias Wiklund kornett: Palle Sollinger b, Daniel Fredriksson dr | Sö 03 |
