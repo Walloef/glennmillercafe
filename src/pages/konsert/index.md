@@ -5,7 +5,9 @@ title: Konserter
 | Konserter i Januari 2021 |Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00                                                               |       |
 | --------------------------------------------------------------------------------------- | ----- |
 | **"Genklang"**Tobias Wiklund kornett, Björn Jansson sax, Adam Forkelid p, Clas Lassbo b, Daniel Fredriksson dr | Lö 02 |
-| **"Backlura" Kärleken är evig** Tobias Wiklund kornett: Palle Sollinger b, Daniel Fredriksson dr | Sö 02 |
+| **"Backlura" Kärleken är evig** Tobias Wiklund kornett: Palle Sollinger b, Daniel Fredriksson dr | Sö 03 |
+|Info kommer|06|
+|Info kommer|07|
 |Ann Blom p/voc, Karl Olandersson trp, Paul Kovacs harmonica, Filip Augustson b, Jesper Kviberg dr|Fre 08|
 |Chi Westfelt voc, Britta Wirves p, bas TBA, Karl-Henrik Ousbäck dr|Lö 09|
 |Elin Forkelid plays for Trane: Elin Forkelid sax. David Stackenäs g, Mattias Ståhl vib, Vilhelm Bromander b, Jon Fält dr|Sö 10|
