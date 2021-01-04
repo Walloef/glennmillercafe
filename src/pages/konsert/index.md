@@ -9,7 +9,7 @@ title: Konserter
 |Björn Jansson tsax, Klas Lindqvist asax, Carl Orrje p, Kenji Rabson b, Daniel Fredriksson dr|06|
 |Björn Jansson tsax, Klas Lindqvist asax, Carl Orrje p, Kenji Rabson b, Daniel Fredriksson dr|07|
 |Ann Blom p/voc, Karl Olandersson trp, Paul Kovacs harmonica, Filip Augustson b, Jesper Kviberg dr|Fre 08|
-|Chi Westfelt voc, Britta Wirves p, bas TBA, Karl-Henrik Ousbäck dr|Lö 09|
+|info kommer|Lö 09|
 |Elin Forkelid plays for Trane: Elin Forkelid sax. David Stackenäs g, Mattias Ståhl vib, Vilhelm Bromander b, Jon Fält dr|Sö 10|
 |Skivrelease med BEL-trio: Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr|On 13|
 |TALES: Max Åhman g, Mikko Iskanius trp, Lauri Antila b, Marcus Omberg dr|To 14|
