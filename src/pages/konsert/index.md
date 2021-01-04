@@ -17,7 +17,7 @@ title: Konserter
 |Christian Herluf Pedersen sax. Fredrik Hermansson p. Martin Höper b. Jonas Bäckman dr|Lö 16|
 |Isak Hedtjärn sax/cl, Mats Äleklint trb, Henning Ullén p, Mauritz Agnas b, Konrad Agnas dr|On 20|
 |Johannes Gammelgard sax, Karl Wallmyr trp, Mauritz Agnas b, Arild Wahl dr|To 21|
-|Ingrid Malmén voc, Hampus Adami och Simon Skogh trb, Tobias Johansson p, Ingrid Schyborger b,  Magnus Jonasson dr |Fre 22|
+|Ingrid Malmén voc, Tobias Johansson p, Ingrid Schyborger b,  Magnus Jonasson dr |Fre 22|
 |Johan Graden p, Kasper Agnas g, Vilhelm Bromander b, Konrad Agnas dr,|lö 23|
 | Robert malmberg p, hans Backenroth b|Sön 24 |
 |Erik Tengholm trp, Sebastian Jonsson sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|On 27|
