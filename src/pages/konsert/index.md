@@ -6,8 +6,8 @@ title: Konserter
 | --------------------------------------------------------------------------------------- | ----- |
 | **"Genklang"**Tobias Wiklund kornett, Björn Jansson sax, Adam Forkelid p, Clas Lassbo b, Daniel Fredriksson dr | Lö 02 |
 | **"Backlura" Kärleken är evig** Tobias Wiklund kornett: Palle Sollinger b, Daniel Fredriksson dr | Sö 03 |
-|Info kommer|06|
-|Info kommer|07|
+|Björn Jansson tsax, Klas Lindqvist asax, Carl Orrje p, Kenji Rabson b, Daniel Fredriksson dr|06|
+|Björn Jansson tsax, Klas Lindqvist asax, Carl Orrje p, Kenji Rabson b, Daniel Fredriksson dr|07|
 |Ann Blom p/voc, Karl Olandersson trp, Paul Kovacs harmonica, Filip Augustson b, Jesper Kviberg dr|Fre 08|
 |Chi Westfelt voc, Britta Wirves p, bas TBA, Karl-Henrik Ousbäck dr|Lö 09|
 |Elin Forkelid plays for Trane: Elin Forkelid sax. David Stackenäs g, Mattias Ståhl vib, Vilhelm Bromander b, Jon Fält dr|Sö 10|
