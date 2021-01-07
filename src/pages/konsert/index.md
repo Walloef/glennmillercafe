@@ -11,7 +11,7 @@ title: Konserter
 |Ann Blom p/voc, Karl Olandersson trp, Paul Kovacs harmonica, Filip Augustson b, Jesper Kviberg dr|Fre 08|
 |Stefan Isaksson sax, Mats Larsson g, Hans Backenroth b|Lö 09|
 |Elin Forkelid plays for Trane: Elin Forkelid sax. David Stackenäs g, Mattias Ståhl vib, Vilhelm Bromander b, Jon Fält dr|Sö 10|
-|Skivrelease med BEL-trio: Gustav Lundgren g, Leo Lindberg org, Moussa Fadera dr|On 13|
+|Skivrelease med BEL-trio: Gustav Lundgren g, Robert Erlandsson b, Niklas Bodin dr|On 13|
 |TALES: Max Åhman g, Mikko Iskanius trp, Lauri Antila b, Marcus Omberg dr|To 14|
 |Nils Jansson trp, Hans Olding g, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|Fre 15|
 |Christian Herluf Pedersen sax. Fredrik Hermansson p. Martin Höper b. Jonas Bäckman dr|Lö 16|
