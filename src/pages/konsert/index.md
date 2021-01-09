@@ -2,7 +2,7 @@
 templateKey: konsert-page
 title: Konserter
 ---
- |Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Januari 2021                                                            |       
+ |Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Januari 2021, Allting streamas (Facebook, Glenn Miller cafe)                                                            |       
 | --------------------------------------------------------------------------------------- | ----- |
 | **"Genklang"**Tobias Wiklund kornett, Björn Jansson sax, Adam Forkelid p, Clas Lassbo b, Daniel Fredriksson dr | Lö 02 |
 | **"Backlura" Kärleken är evig** Tobias Wiklund kornett: Palle Sollinger b, Daniel Fredriksson dr | Sö 03 |
@@ -25,6 +25,9 @@ title: Konserter
 |Alf Carlsson g, Anton Dromberg p, Samuel Löfdahl b, Hannes Sigfridsson dr|Fre 29|
 |Christian Cuadra sax, Milton Öhrström p, Vilhelm Bromander b, Bror Thomas Sandström dr|Lö 30|
 |Fredrik Nordström sax, Gustav Lundgren g, Llaria Capalbo b, Fredrik Rundqvist dr|SÖ 31|
+|Allting streamas (Facebook, Glenn Miller cafe)|
+
+
 
 
 
