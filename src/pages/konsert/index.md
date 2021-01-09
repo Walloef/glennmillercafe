@@ -20,7 +20,8 @@ title: Konserter
 |Ingrid Malmén voc, Tobias Johansson p, Ingrid Schyborger b,  Magnus Jonasson dr |Fre 22|
 |Johan Graden p, Kasper Agnas g, Vilhelm Bromander b, Konrad Agnas dr|lö 23|
 | Robert malmberg p, hans Backenroth b|Sön 24 |
-|Erik Tengholm trp, Sebastian Jonsson sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|On 27|
+|Info kommer|On 27|
+|Erik Tengholm trp, Sebastian Jonsson sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|To 28|
 |Alf Carlsson g, Anton Dromberg p, Samuel Löfdahl b, Hannes Sigfridsson dr|Fre 29|
 |Christian Cuadra sax, Milton Öhrström p, Vilhelm Bromander b, Bror Thomas Sandström dr|Lö 30|
 |Fredrik Nordström sax, Gustav Lundgren g, Llaria Capalbo b, Fredrik Rundqvist dr|SÖ 31|
