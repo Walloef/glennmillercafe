@@ -13,7 +13,7 @@ title: Konserter
 |Elin Forkelid plays for Trane: Elin Forkelid sax. David Stackenäs g, Mattias Ståhl vib, Vilhelm Bromander b, Jon Fält dr|Sö 10|
 |Skivrelease med BEL-trio: Gustav Lundgren g, Robert Erlandsson b, Niklas Bodin dr|On 13|
 |TALES: Max Åhman g, Mikko Iskanius trp, Lauri Antila b, Marcus Omberg dr|To 14|
-|Nils Jansson trp, Hans Olding g, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|Fre 15|
+|Nils Jansson trp, Hans Olding g, Niklas Fernqvist b, Jonas Bäckman dr|Fre 15|
 |Christian Herluf Pedersen sax. Fredrik Hermansson p. Martin Höper b. Jonas Bäckman dr|Lö 16|
 |Info kommer|Sö 17|
 |Isak Hedtjärn sax/cl, Mats Äleklint trb, Henning Ullén p, Mauritz Agnas b, Konrad Agnas dr|On 20|
@@ -21,7 +21,7 @@ title: Konserter
 |Ingrid Malmén voc, Tobias Johansson p, Ingrid Schyborger b,  Magnus Jonasson dr |Fre 22|
 |Johan Graden p, Kasper Agnas g, Vilhelm Bromander b, Konrad Agnas dr|lö 23|
 | Robert malmberg p, hans Backenroth b|Sön 24 |
-|Info kommer|On 27|
+|Styrelsen: Leo Lindberg p, Björn Lundén b, Karl-Henrik Ousbäck dr|On 27|
 |Erik Tengholm trp, Sebastian Jonsson sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|To 28|
 |Alf Carlsson g, Anton Dromberg p, Samuel Löfdahl b, Hannes Sigfridsson dr|Fre 29|
 |Christian Cuadra sax, Milton Öhrström p, Vilhelm Bromander b, Bror Thomas Sandström dr|Lö 30|
