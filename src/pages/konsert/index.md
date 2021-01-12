@@ -16,7 +16,6 @@ title: Konserter
 |Nils Jansson trp, Hans Olding g, Niklas Fernqvist b, Jonas Bäckman dr|Fre 15|
 |Christian Herluf Pedersen sax. Fredrik Hermansson p. Martin Höper b. Jonas Bäckman dr|Lö 16|
 |Björn Jansson sax, Erik Söderlind g, Niklas Fernqvist b, Jonas Bäckman dr|Sö 17|
-|Isak Hedtjärn sax/cl, Mats Äleklint trb, Henning Ullén p, Mauritz Agnas b, Konrad Agnas dr|On 20|
 |Johannes Gammelgard sax, Simon Skogh trb, Sara Karkkonen p, Ville Bromander b, Konrad Agnas dr |To 21|
 |Ingrid Malmén voc, Tobias Johansson p, Ingrid Schyborger b,  Magnus Jonasson dr |Fre 22|
 |Johan Graden p, Kasper Agnas g, Vilhelm Bromander b, Konrad Agnas dr|lö 23|
