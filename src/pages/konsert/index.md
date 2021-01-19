@@ -28,6 +28,15 @@ title: Konserter
 |Fredrik Nordström sax, Gustav Lundgren g, Llaria Capalbo b, Fredrik Rundqvist dr|SÖ 31|
 |Allting streamas (Facebook, Glenn Miller cafe)|
 
+|Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Februari 2021, Allting streamas (Facebook, Glenn Miller cafe)                                                            |       
+| --------------------------------------------------------------------------------------- | ----- |
+|Lisa Ullén p, Elsa Bergman b, Anna Lund dr + gäster|On 03|
+|Erik Tengholm trp, Johan Christoffersson sax, Mattias Lindberg p, Johan Tengholm b, Jonas Bäckman dr|To 04|
+|Stina Augustsdottir voc, Simon Berggren p, Henrik Linder b, Rasmus Svensson-Blixt dr|Fr 05|
+|Alberto Pinton träblås/komp, Niklas Barnö trp, Vilhelm Bromander b, Konrad Agnas dr|Lö 06|
+|Erik Söderlind g, Hans Backenroth b|Sö 07|
+|
+
 
 
 
