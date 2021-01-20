@@ -19,7 +19,7 @@ title: Konserter
 |Jonas Liljeberg sax, Jonatan Gutzman p, Björn Lundén b, Daniel Fredriksson dr|On 20|
 |Johannes Gammelgard sax, Simon Skogh trb, Sara Karkkonen p, Ville Bromander b, Konrad Agnas dr |To 21|
 |Ingrid Malmén voc, Tobias Johansson p, Ingrid Schyborger b,  Magnus Jonasson dr |Fre 22|
-|Johan Graden p, Kasper Agnas g, Vilhelm Bromander b, Konrad Agnas dr|lö 23|
+|Fredrik Ljungkvist sax, Mattias Ståhl vib, Vilhelm Bromander b, Konrad Agnas dr|lö 23|
 | Robert malmberg p, hans Backenroth b|Sön 24 |
 |Styrelsen: Leo Lindberg p, Björn Lundén b, Karl-Henrik Ousbäck dr|On 27|
 |Erik Tengholm trp, Sebastian Jonsson sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|To 28|
@@ -35,21 +35,21 @@ title: Konserter
 |Stina Augustsdottir voc, Simon Berggren p, Henrik Linder b, Rasmus Svensson-Blixt dr|Fr 05|
 |Alberto Pinton träblås/komp, Niklas Barnö trp, Vilhelm Bromander b, Konrad Agnas dr|Lö 06|
 |Erik Söderlind g, Hans Backenroth b|Sö 07|
-|
-
-
-
-
-
-
-
-	
-
-	 
-
-
-
-
-
+|Stockholm Hot Seven: Axel Mårdsjö as/bars, Linus Lindblom ts/cl, Erik Palmberg trp, Hampus Adami trb,  Pål Nyberg g, Jon Henriksson b, Jonas Bäckman dr |On 10|
+|Anton Dromberg p, Björn Lundén b, Emil Norman dr|To 11|
+|Johannes Gammelgaard sax, Karl Wallmyr trp, Mauritz Agnas b, Arild Wahl dr|Fr 12| 
+|Info kommer|Lö 13|
+|Camilla Johnsson voc, Leo Lindberg p, Björn Lundén b, Jonas Bäckman dr|Sö 14|
+|Ming Family: Magnus Broo trp, Fredrik Nordström sax, Palle Sollinger b, Sebastian Voegler dr|On 17|
+|Skivrelease med: Max Agnas p, Mauritz Agnas b, Nils Agnas dr|To 18|
+|Linus Lindblom sax, Carl Bagge p, Adam Ross dr, bas TBA|Fr 19|
+|Göran Lindelöw g, Arne Tengstrand p, Nils Wäckle´n b, Nils Danell dr|Lö 20|
+|Tobias Wiklund kornett, Sebastian Jonsson sax, Torbjörn Gultz p, Filip Augustson b, Jonathan Leidecker dr |Sö 21|
+|Robert Nordmark sax, Victor Rydström g, Axel Liliedahl p, Daniel Andersson b, Christian Martinas dr|On 24|
+|Kasper Agnas g, Mauritz Agnas b, Nils Agnas dr|To 25|
+|Jonas Liljeberg sax, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr|Fr 26|
+|Maria Kvist p, Linus Kåse sax, Robert Erlandsson b, Isak Andersson dr|Lö 27|
+|Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Moussa Fadera dr (CD Release for Japan)|Sö 28| 	
+		
 
 I samarbete med SENSUS
