@@ -38,7 +38,7 @@ title: Konserter
 |Stockholm Hot Seven: Axel Mårdsjö as/bars, Linus Lindblom ts/cl, Erik Palmberg trp, Hampus Adami trb,  Pål Nyberg g, Jon Henriksson b, Jonas Bäckman dr |On 10|
 |Anton Dromberg p, Björn Lundén b, Emil Norman dr|To 11|
 |Johannes Gammelgaard sax, Karl Wallmyr trp, Mauritz Agnas b, Arild Wahl dr|Fr 12| 
-|Info kommer|Lö 13|
+|Carin Lundin band, info kommer|Lö 13|
 |Camilla Johnsson voc, Leo Lindberg p, Björn Lundén b, Jonas Bäckman dr|Sö 14|
 |Ming Family: Magnus Broo trp, Fredrik Nordström sax, Palle Sollinger b, Sebastian Voegler dr|On 17|
 |Skivrelease med: Max Agnas p, Mauritz Agnas b, Nils Agnas dr|To 18|
