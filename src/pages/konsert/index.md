@@ -27,5 +27,23 @@ title: Konserter
 |Maria Kvist p, Linus Kåse sax, Robert Erlandsson b, Isak Andersson dr|Lö 27|
 |Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Moussa Fadera dr (CD Release for Japan)|Sö 28| 	
 		
+|Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)                                                            |       
+| --------------------------------------------------------------------------------------- | ----- |
+|Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr|fre 05|
+|Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr+ gäst Susanna Risberg g|lö 06|
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
 
 I samarbete med SENSUS
