@@ -18,7 +18,7 @@ title: Konserter
 |Camilla Johnsson voc, Leo Lindberg p, Björn Lundén b, Jonas Bäckman dr|Sö 14|
 |Ming Family: Magnus Broo trp, Fredrik Nordström sax, Palle Sollinger b, Sebastian Voegler dr|On 17|
 |Skivrelease med: Max Agnas p, Mauritz Agnas b, Nils Agnas dr|To 18|
-|Linus Lindblom sax, Carl Bagge p, Niklas Fernqvist b, Adam Ross dr,|Fr 19|
+|Linus Lindblom sax, Carl Bagge p, Niklas Fernqvist b, Adam Ross dr|Fr 19|
 |Göran Lindelöw g, Arne Tengstrand p, Nils Wäckle´n b, Nils Danell dr|Lö 20|
 |Tobias Wiklund kornett, Sebastian Jonsson sax, Torbjörn Gultz p, Filip Augustson b, Jonathan Leidecker dr |Sö 21|
 |Robert Nordmark sax, Victor Rydström g, Axel Liliedahl p, Daniel Andersson b, Christian Martinas dr|On 24|
