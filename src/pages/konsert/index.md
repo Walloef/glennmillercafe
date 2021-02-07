@@ -33,7 +33,11 @@ title: Konserter
 |Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr+ gäst Susanna Risberg g|lö 06|
 |Sanna Ruohoniemi voc/komp, Fredrik Lindborg sax, Britta Virves p, Lars Ekman b, Daniel Olsson dr|Sö 07|
 |Håkan Broström sax, Max Schultz g,  Leo Lindberg org , Chris Montgomery dr|On 10|
-|Martin Küchen träblås, Vilhelm Bromander b, Anton Jonsson dr|To 11|		
+|Martin Küchen träblås, Vilhelm Bromander b, Anton Jonsson dr|To 11|
+|Sol Tors Taverna: Gustav Rådström asax, Oskar Carls tsax, Pelle Westlin tsax, Isak Hedtjärn cl Milton Öhrström p, Vilhelm Bromander b, Tor Sjödén dr|Fre 12|
+Ellas Kapell:Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langœrgen b, Edvin Fridolfsson dr|Lö 13| 
+
+				
 
 
 
