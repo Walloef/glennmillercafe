@@ -35,8 +35,9 @@ title: Konserter
 |Håkan Broström sax, Max Schultz g,  Leo Lindberg org , Chris Montgomery dr|On 10|
 |Martin Küchen träblås, Vilhelm Bromander b, Anton Jonsson dr|To 11|
 |Sol Tors Taverna: Gustav Rådström asax, Oskar Carls tsax, Pelle Westlin tsax, Isak Hedtjärn cl Milton Öhrström p, Vilhelm Bromander b, Tor Sjödén dr|Fre 12|
-Ellas Kapell:Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langœrgen b, Edvin Fridolfsson dr|Lö 13| 
-
+|Ellas Kapell:Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langœrgen b, Edvin Fridolfsson dr|Lö 13| 
+|The Never Ending Sextet: Joel Ring cello, Karl Hjalmar Nyberg sax, Heida Mobeck tub, Milton Öhrström p, Anton Jonsson och Bror Thomas Sandström dr|Sö 14|	  
+|Frerdrik Nordström sax, Leo Lindberg org, Jojo Djeridi dr
 				
 
 
