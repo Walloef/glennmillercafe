@@ -4,7 +4,7 @@ title: Konserter
 ---
  
 
-|Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Februari 2021, Allting streamas: (Facebook, Glenn Miller cafe)                                                            |       
+|Öppettider:Håll koll på tiderna genom att uppdatera sidan, m a o Vi öppnar nu  kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Februari 2021, Allting streamas: (Facebook, Glenn Miller cafe)                                                            |       
 | --------------------------------------------------------------------------------------- | ----- |
 |Lisa Ullén p, Elsa Bergman b, Anna Lund dr + gäster|On 03|
 |Erik Tengholm trp, Johan Christoffersson sax, Mattias Lindberg p, Johan Tengholm b, Jonas Bäckman dr|To 04|
@@ -29,6 +29,9 @@ title: Konserter
 		
 |Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)                                                            |       
 | --------------------------------------------------------------------------------------- | ----- |
+|Simon Berggren p, Johan Christoffersson sax,(bas och dr)TBA
+
+|On 03|
 |Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr|fre 05|
 |Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr+ gäst Susanna Risberg g|lö 06|
 |Sanna Ruohoniemi voc/komp, Fredrik Lindborg sax, Britta Virves p, Lars Ekman b, Daniel Olsson dr|Sö 07|
