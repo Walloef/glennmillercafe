@@ -43,9 +43,9 @@ title: Konserter
 |Salongsorkestern:Karl Wallmyr trp, Gaianeh Pilossian violin, KLarin Wallmyr Creutzer viola, Emma Augustsson cello, Mauritz Agnas kb|Sö 21|	
 |Magnus Dölerud sax,  Hans Backenroth b, Oscar Johansson-Werre dr|On 24|	
 |David Bennet sax, Albin Vesterberg g, Gustav Broman b, Andreas Pettersson dr|To 25|
- |Håkan Broström sax, Max Schultz g, Britta Virves p, Jon Henriksson b, Karl-Henrik Ousbäck dr|Fr 26|
+|Håkan Broström sax, Max Schultz g, Britta Virves p, Jon Henriksson b, Karl-Henrik Ousbäck dr|Fr 26|
 Fredrik Nordström sax, Mattias Ståhl vibes, Filip Augustson b, Fredrik Rundqvist dr|Lö 27|
-Terese Lien violin, Alexander Ivarsson cl, Britta Virves p, Arvid Jullander b, Peter Danemo dr  ||Sö 28|
+Terese Lien violin, Alexander Ivarsson cl, Brittga Virves p, Arvid Jullander b, Peter Danemo dr  ||Sö 28|
 |Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr||
 		 	
 			
@@ -56,9 +56,7 @@ Terese Lien violin, Alexander Ivarsson cl, Britta Virves p, Arvid Jullander b, P
 
 			
 
-
-
-
+    
 
 
 
