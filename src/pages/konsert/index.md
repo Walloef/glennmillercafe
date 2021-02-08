@@ -30,7 +30,6 @@ title: Konserter
 |Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)                                                            |       
 | --------------------------------------------------------------------------------------- | ----- |
 |Simon Berggren p, Johan Christoffersson sax,(bas och dr)TBA
-
 |On 03|
 |Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr|fre 05|
 |Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr+ gäst Susanna Risberg g|lö 06|
@@ -47,9 +46,10 @@ title: Konserter
 |Magnus Dölerud sax,  Hans Backenroth b, Oscar Johansson-Werre dr|On 24|	
 |David Bennet sax, Albin Vesterberg g, Gustav Broman b, Andreas Pettersson dr|To 25|
 |Håkan Broström sax, Max Schultz g, Britta Virves p, Jon Henriksson b, Karl-Henrik Ousbäck dr|Fr 26|
-Fredrik Nordström sax, Mattias Ståhl vibes, Filip Augustson b, Fredrik Rundqvist dr|Lö 27|
-Terese Lien violin, Alexander Ivarsson cl, Brittga Virves p, Arvid Jullander b, Peter Danemo dr  ||Sö 28|
-|Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr||
+|Fredrik Nordström sax, Mattias Ståhl vibes, Filip Augustson b, Fredrik Rundqvist dr|Lö 27|
+|Terese Lien violin, Alexander Ivarsson cl, Brittga Virves p, Arvid Jullander b, Peter Danemo dr  |Sö 28|
+|Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 31|
+
 		 	
 			
   		
