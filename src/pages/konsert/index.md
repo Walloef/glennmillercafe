@@ -48,4 +48,6 @@ title: Konserter
 |Fredrik Nordström sax, Mattias Ståhl vibes, Filip Augustson b, Fredrik Rundqvist dr|Lö 27|
 |Terese Lien violin, Alexander Ivarsson cl, Brittga Virves p, Arvid Jullander b, Peter Danemo dr|Sö 28|
 |Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 31|
+
+
 I samarbete med SENSUS
