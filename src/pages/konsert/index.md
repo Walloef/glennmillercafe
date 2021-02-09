@@ -27,42 +27,25 @@ title: Konserter
 |Maria Kvist p, Linus Kåse sax, Robert Erlandsson b, Isak Andersson dr|Lö 27|
 |Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Moussa Fadera dr (CD Release for Japan)|Sö 28| 	
 		
-|Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)                                                            |       
-| --------------------------------------------------------------------------------------- | ----- |
-|Simon Berggren p, Johan Christoffersson sax,(bas och dr)TBA
-|On 03|
+| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)               |               |
+| ------------- |-------------|
+|Simon Berggren p, Johan Christoffersson sax,(bas och dr)TBA |On 03|
 |Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr|fre 05|
 |Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr+ gäst Susanna Risberg g|lö 06|
 |Sanna Ruohoniemi voc/komp, Fredrik Lindborg sax, Britta Virves p, Lars Ekman b, Daniel Olsson dr|Sö 07|
-|Håkan Broström sax, Max Schultz g,  Leo Lindberg org , Chris Montgomery dr|On 10|
+|Håkan Broström sax, Max Schultz g, Leo Lindberg org , Chris Montgomery dr|On 10|
 |Martin Küchen träblås, Vilhelm Bromander b, Anton Jonsson dr|To 11|
 |Sol Tors Taverna: Gustav Rådström asax, Oskar Carls tsax, Pelle Westlin tsax, Isak Hedtjärn cl Milton Öhrström p, Vilhelm Bromander b, Tor Sjödén dr|Fre 12|
-|Ellas Kapell:Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langœrgen b, Edvin Fridolfsson dr|Lö 13| 
-|The Never Ending Sextet: Joel Ring cello, Karl Hjalmar Nyberg sax, Heida Mobeck tub, Milton Öhrström p, Anton Jonsson och Bror Thomas Sandström dr|Sö 14|	  
-|Frerdrik Nordström sax, Leo Lindberg org, Jojo Djeridi dr|To 18| 
+|Ellas Kapell:Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langœrgen b, Edvin Fridolfsson dr|Lö 13|
+|The Never Ending Sextet: Joel Ring cello, Karl Hjalmar Nyberg sax, Heida Mobeck tub, Milton Öhrström p, Anton Jonsson och Bror Thomas Sandström dr|Sö 14|
+|Frerdrik Nordström sax, Leo Lindberg org, Jojo Djeridi dr|To 18|
 |Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr|Fr 19|
 |”Jazz Flow”: Nina Brodd voc, Linus Kåse sax, Ann Blom p, Mårten Korkman b, Jesper Kviberg dr|Lö 20|
-|Salongsorkestern:Karl Wallmyr trp, Gaianeh Pilossian violin, KLarin Wallmyr Creutzer viola, Emma Augustsson cello, Mauritz Agnas kb|Sö 21|	
-|Magnus Dölerud sax,  Hans Backenroth b, Oscar Johansson-Werre dr|On 24|	
+|Salongsorkestern:Karl Wallmyr trp, Gaianeh Pilossian violin, KLarin Wallmyr Creutzer viola, Emma Augustsson cello, Mauritz Agnas kb|Sö 21|
+|Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson-Werre dr|On 24|
 |David Bennet sax, Albin Vesterberg g, Gustav Broman b, Andreas Pettersson dr|To 25|
 |Håkan Broström sax, Max Schultz g, Britta Virves p, Jon Henriksson b, Karl-Henrik Ousbäck dr|Fr 26|
 |Fredrik Nordström sax, Mattias Ståhl vibes, Filip Augustson b, Fredrik Rundqvist dr|Lö 27|
-|Terese Lien violin, Alexander Ivarsson cl, Brittga Virves p, Arvid Jullander b, Peter Danemo dr  |Sö 28|
+|Terese Lien violin, Alexander Ivarsson cl, Brittga Virves p, Arvid Jullander b, Peter Danemo dr|Sö 28|
 |Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 31|
-
-		 	
-			
-  		
-
-			
-
-
-			
-
-    
-
-
-
-
-
 I samarbete med SENSUS
