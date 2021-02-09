@@ -30,6 +30,7 @@ title: 'Meny '
 |**Chili (hot)** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, chorizo, tomat, paprika, chili, portvin, grädde.. | 255:- |
 | **Roquefort** Ångade blåmusslor i vitt vin, échalôte, grädde, vitlök, rosmarin, lime, roquefort..                         | 255:- |
 | **Chèvre** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, grädde,honung, ruccola, chèvre...                               | 245:- |
+
 | Desserter/Desserts                                              |         |
 | --------------------------------------------------------------- | ------- |
 | **Assiette fromages** två dagens ostar, fikonmarmelad o croutons |110:-    |
@@ -42,7 +43,7 @@ title: 'Meny '
 | **Espresso** |35:-/45:-|                                                    
 | **Till desserten** Sauternes                                    | 24:- cl |
 
-Vid hög belastning kan maten bli fördröjd      |
+Vid hög belastning kan maten bli fördröjd
 
 
 
