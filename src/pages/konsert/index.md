@@ -50,4 +50,4 @@ title: Konserter
 |Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 31|
 
 
-I samarbete med SENSUS
+
