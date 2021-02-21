@@ -20,12 +20,12 @@ title: Konserter
 |Skivrelease med: Max Agnas p, Mauritz Agnas b, Nils Agnas dr|To 18|
 |Linus Lindblom sax, Carl Bagge p, Niklas Fernqvist b, Adam Ross dr|Fr 19|
 |Göran Lindelöw g, Arne Tengstrand p, Nils Wäckle´n b, Nils Danell dr|Lö 20|
-|Tobias Wiklund kornett, Sebastian Jonsson sax, Torbjörn Gultz p, Filip Augustson b, Jonathan Leidecker dr |Sö 21|
+|Tobias Wiklund kornett, Sebastian Jonsson sax, Torbjörn Gultz p, Filip Augustson b, Jonathan Leidec dr |Sö 21|
 |Robert Nordmark sax, Victor Rydström g, Axel Liliedahl p, Daniel Andersson b, Christian Martinas dr|On 24|
 |Kasper Agnas g, Mauritz Agnas b, Nils Agnas dr|To 25|
 |Jonas Liljeberg sax, Alf Carlsson g, Joel Hulander b, Filip Olofsson dr|Fr 26|
 |Maria Kvist p, Linus Kåse sax, Robert Erlandsson b, Isak Andersson dr|Lö 27|
-|Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth b, Moussa Fadera dr (CD Release for Japan)|Sö 28| 	
+|Klas Lindqvist sax, Stefan Gustavsson p, Hans Backenroth b, Moussa Fadera dr|Sö 28| 	
 		
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)               |               |
 | ------------- |-------------|
