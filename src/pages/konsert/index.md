@@ -30,6 +30,7 @@ title: Konserter
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)               |               |
 | ------------- |-------------|
 |Simon Berggren p, Johan Christoffersson sax, Filip Augustson b, Jonas Bäckman dr|On 03|
+|Erik Söderlind g, Hans Backenroth b, dr TBA|To 04|
 |Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr|fre 05|
 |Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr+ gäst Susanna Risberg g|lö 06|
 |Sanna Ruohoniemi voc/komp, Fredrik Lindborg sax, Britta Virves p, Lars Ekman b, Daniel Olsson dr|Sö 07|
