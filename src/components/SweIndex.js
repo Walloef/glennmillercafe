@@ -137,6 +137,19 @@ class SweIndex extends React.Component {
           <div>
             <h3>Tillfälliga Öppettider:</h3>
             <p>Onsdag - söndag kl 17.00- 20.00 med livejazzkonsert kl 18.00</p>
+            <p>
+              Konserterna livestreamas på vår{' '}
+              <a
+                style={{
+                  color: 'white',
+                  textDecoration: 'underline',
+                }}
+                href="https://facebook.com/glennmillercafe/"
+              >
+                Facebooksida
+              </a>
+              .
+            </p>
             <p className="small">Stängt måndag - tisdag</p>
           </div>
         </div>
@@ -195,13 +208,12 @@ class SweIndex extends React.Component {
                 0768824549 och meddela.
               </li>
               <li>
-                Om det är fullbokat kan ni testa att komma lite senare eftersom
-                middagsgäster ofta lämnar sitt bord.
-              </li>
-              <li>
                 Enl Coronarestriktionerna måste alla gäster sitta. Vi har
                 plockat bort bord och har färre platser än tidigare för att
-                kunna hålla minst en meter mellan sällskapen.
+                kunna hålla minst en meter mellan sällskapen. Vi ändrar
+                kontinuerligt för att för att följa folkhälsomyndughetens
+                restriktioner och rekommendationer för att stoppa
+                smittspridningen.
               </li>
             </ul>
           </div>
@@ -226,12 +238,9 @@ class SweIndex extends React.Component {
             Köket är franskt med rätter som Confit de Canard, Bouillabaisse, sju
             olika variationer of Moules Frites, Creme Brulée mm. Om du vill äta
             middag är det bra att boka bord. Nu med Coronarestriktioner får vi
-            inte ha gäster stående. Är det fullbokat med middagsgäster
-            rekommenderar vi att ni återkommer senare. Vanligtvis lämnar alltid
-            några matgäster sina bord. Senast till sista set. Vänligen notera
-            att vi först och främst är en jazzklubb. För att respektera musiken
-            och musikerna ber vi dig att spara dina konversationer till pauserna
-            under spelningarna.
+            inte ha gäster stående. Vänligen notera att vi först och främst är
+            en jazzklubb. För att respektera musiken och musikerna ber vi dig
+            att spara dina konversationer till pauserna under spelningarna.
           </p>
         </div>
         <p
@@ -277,7 +286,7 @@ class SweIndex extends React.Component {
 
             <ul className="list-info">
               <li>
-                <p>Konsertavgiften är minst 50kr per set och per person</p>
+                <p>Konsertavgiften är minst 150 kr per person och kväll</p>
                 <p>Konsertavgiften betalas kontant eller Swish</p>
                 <p>
                   En del av konserterna livestreamas på vår{' '}

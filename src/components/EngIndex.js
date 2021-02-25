@@ -56,6 +56,15 @@ class EngIndex extends React.Component {
             <p>
               Wednesday - Sunday at 17.00- 20.00 with live jazz concert at 18.00
             </p>
+            <p>
+              Concerts are live streamed at our{' '}
+              <a
+                style={{ color: 'white', textDecoration: 'underline' }}
+                href="https://sv-se.facebook.com/glennmillercafe"
+              >
+                Facebook site
+              </a>
+            </p>
             <p className="small">Closed Monday - Tuesday</p>
           </div>
         </div>
@@ -90,13 +99,11 @@ class EngIndex extends React.Component {
                 a textmessage to +46768824549 to let us know.
               </li>
               <li>
-                If it is fully booked, please come back later, since dinner
-                guests often leave their table after a set or two.
-              </li>
-              <li>
                 Because of Corona, all guests must be seated. We have taken away
                 tables, and do not have as many seats as earlier, all to be able
-                to keep the 1 meter distance between groups.
+                to keep the 1 meter distance between groups. We constantly adapt
+                in order to follow the restrictions and recommendations in order
+                to stop spreading of the Corona virus
               </li>
             </ul>
           </div>
@@ -169,7 +176,8 @@ class EngIndex extends React.Component {
             <ul className="list-info">
               <li>
                 <p>
-                  The concert fee is a minimum of 50kr per set and per person
+                  The concert fee is a minimum of 150 kr per night and per
+                  person
                 </p>
                 <p>The concert fee can be paid with cash or Swish</p>
                 <p>
@@ -181,9 +189,9 @@ class EngIndex extends React.Component {
                     }}
                     href="https://facebook.com/glennmillercafe/"
                   >
-                    Facebook
-                  </a>{' '}
-                  site.
+                    Facebook site
+                  </a>
+                  .
                 </p>
               </li>
               <li>
