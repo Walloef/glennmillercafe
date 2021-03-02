@@ -31,8 +31,8 @@ title: Konserter
 | ------------- |-------------|
 |Simon Berggren p, Johan Christoffersson sax, Filip Augustson b, Jonas Bäckman dr|On 03|
 |Erik Söderlind g, Hans Backenroth b, Karl-Henrik Ousbäck dr|To 04|
-|Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr|fre 05|
-|Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Anders Kjellberg dr+ gäst Susanna Risberg g|lö 06|
+|Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Fredrik Rundqvist dr|fre 05|
+|Skivrelease med: Björn Almgren sax, Karin Hammar trb, Owe Almgren b, Fredrik Rundqvist dr+ gäst Susanna Risberg g|lö 06|
 |Sanna Ruohoniemi voc/komp, Fredrik Lindborg sax, Britta Virves p, Lars Ekman b, Daniel Olsson dr|Sö 07|
 |Håkan Broström sax, Max Schultz g, Leo Lindberg org , Chris Montgomery dr|On 10|
 |Martin Küchen träblås, Vilhelm Bromander b, Anton Jonsson dr|To 11|
