@@ -31,8 +31,8 @@ title: Konserter
 | ------------- |-------------|
 |Simon Berggren p, Johan Christoffersson sax, Filip Augustson b, Jonas Bäckman dr|On 03|
 |Erik Söderlind g, Hans Backenroth b, Karl-Henrik Ousbäck dr|To 04|
-|Kommer|Fr 05|
-|Kommer|Kl 06|
+|Agnas Bros: Kasper Agnas g, Max Agnas p, Mauritz Agnas b, Konrad Agnas dr|Fr 05|
+|Kasper Agnas g, Max Agnas p, Mauritz Agnas b, Nils Agnas dr|Lö 06|
 |Sanna Ruohoniemi voc/komp, Fredrik Lindborg sax, Britta Virves p, Lars Ekman b, Daniel Olsson dr|Sö 07|
 |Håkan Broström sax, Max Schultz g, Leo Lindberg org , Chris Montgomery dr|On 10|
 |Martin Küchen träblås, Vilhelm Bromander b, Anton Jonsson dr|To 11|
