@@ -30,7 +30,7 @@ title: Konserter
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)               |               |
 | ------------- |-------------|
 |Simon Berggren p, Johan Christoffersson sax, Filip Augustson b, Jonas Bäckman dr|On 03|
-|Erik Söderlind g, Hans Backenroth b, Karl-Henrik Ousbäck dr|To 04|
+|Daniel Tilling p,Hans Backenroth b, Karl-Henrik Ousbäck dr|To 04|
 |Agnas Bros: Kasper Agnas g, Max Agnas p, Mauritz Agnas b, Konrad Agnas dr|Fr 05|
 |Kasper Agnas g, Max Agnas p, Mauritz Agnas b, Nils Agnas dr|Lö 06|
 |Sanna Ruohoniemi voc/komp, Fredrik Lindborg sax, Britta Virves p, Lars Ekman b, Daniel Olsson dr|Sö 07|
