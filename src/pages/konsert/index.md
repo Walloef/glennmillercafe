@@ -32,6 +32,8 @@ title: Konserter
 
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe)               |               |
 | ------------- |-------------|
+|Calle Bagge p, Martin Höper b, Adam Ross dr + gäst|To 01|
+
 
 
 
