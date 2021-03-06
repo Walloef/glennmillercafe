@@ -19,7 +19,7 @@ title: Konserter
 |Ellas Kapell:Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langœrgen b, Edvin Fridolfsson dr|Lö 13|
 |The Never Ending Sextet: Joel Ring cello, Karl Hjalmar Nyberg sax, Heida Mobeck tub, Milton Öhrström p, Anton Jonsson och Bror Thomas Sandström dr|Sö 14|
 |Fredrik Ljungkvist sax, Emil Strandberg trp, Joe Williamson b, Dennis Egberth dr|On 17|
-|Fredrik Nordström sax, Leo Lindberg org, Jojo Djeridi dr|To 18|
+|Linus Lindblom sax, Leo Lindberg org, Jojo Djeridi dr|To 18|
 |Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr|Fr 19|
 |”Jazz Flow”: Nina Brodd voc, Linus Kåse sax, Ann Blom p, Mårten Korkman b, Jesper Kviberg dr|Lö 20|
 |Salongsorkestern:Karl Wallmyr trp, Gaianeh Pilossian violin, Karin Wallmyr Creutzer viola, Emma Augustsson cello, Mauritz Agnas kb|Sö 21|
