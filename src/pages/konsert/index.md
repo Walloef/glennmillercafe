@@ -30,5 +30,8 @@ title: Konserter
 |Terese Lien Evenstad violin, Alexander Ivarsson cl, Brittga Virves p, Arvid Jullander b, Peter Danemo dr|Sö 28|
 |Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 31|
 
+| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe)               |               |
+| ------------- |-------------|
+
 
 
