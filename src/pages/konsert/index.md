@@ -33,7 +33,14 @@ title: Konserter
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe)               |               |
 | ------------- |-------------|
 |Calle Bagge p, Martin Höper b, Adam Ross dr + gäst|To 01|
-|Klas Lindqvist sax, 
+|Klas Lindqvist sax |Fre 02|
+|Stockholm Hot Seven: Erik Tengholm trp, Axel Mårdsjö alt & baryton, Linus Lindblom tsax/cl, Hampus Adami trb, Pål Nyberg g, Jon Henriksson b, Jonas Bäckman dr|Lö 03|
+|Erik Palmberg trp, Anton Dromberg p, Niklas Wennström b, Sebastian Voegler dr|Sö 04| 
+|Tenor Legacy: Klas Toresson sax, Linus Lindblom sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr|On 07 | 
+|Emma Jansson voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, bas tba, Edvin Fridolfsson dr|To 08|
+
+ 	         
+ 
 
 
 
