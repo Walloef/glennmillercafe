@@ -2,17 +2,10 @@
 templateKey: konsert-page
 title: Konserter
 ---
- 
-
-
-		
-| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)               |               |
+|Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i Mars 2021, Allting streamas: (Facebook, Glenn Miller cafe)           |                  
+|
 | ------------- |-------------|
-|Simon Berggren p, Johan Christoffersson sax, Filip Augustson b, Jonas Bäckman dr|On 03|
-|Daniel Tilling p,Hans Backenroth b, Karl-Henrik Ousbäck dr|To 04|
-|Agnas Bros: Kasper Agnas g, Max Agnas p, Mauritz Agnas b, Konrad Agnas dr|Fr 05|
-|Agnas Bros: Kasper Agnas g, Max Agnas p, Mauritz Agnas b, Konrad Agnas dr|Lö 06|
-|Sanna Ruohoniemi voc/komp, Fredrik Lindborg sax, Britta Virves p, Lars Ekman b, Daniel Olsson dr|Sö 07|
+
 |Leo Lindberg Trio: Leo Lindberg org, Blue Max g, Chris Montgomery dr|On 10|
 |Martin Küchen träblås, Vilhelm Bromander b, Anton Jonsson dr|To 11|
 |Sol Tors Taverna: Gustav Rådström asax, Oskar Carls tsax, Pelle Westlin tsax, Isak Hedtjärn cl Milton Öhrström p, Vilhelm Bromander b, Tor Sjödén dr|Fre 12|
@@ -30,7 +23,8 @@ title: Konserter
 |Terese Lien Evenstad violin, Alexander Ivarsson cl, Britta Virves p, Arvid Jullander b, Peter Danemo dr|Sö 28|
 |Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 31|
 
-| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe)               |               |
+| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe)         | 
+|                                                      
 | ------------- |-------------|
 |Calle Bagge p, Martin Höper b, Adam Ross dr + gäst|To 01|
 |Klas Lindqvist sax |Fre 02|
@@ -38,6 +32,14 @@ title: Konserter
 |Erik Palmberg trp, Anton Dromberg p, Niklas Wennström b, Sebastian Voegler dr|Sö 04| 
 |Tenor Legacy: Klas Toresson sax, Linus Lindblom sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr|On 07 | 
 |Emma Jansson voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, bas tba, Edvin Fridolfsson dr|To 08|
+|Sven Berggren trb, Joakim Milder sax, Hans Andersson b,Bengt Stark dr|Lö 10|
+|Karl-Martin Almqvist sax, Hans Olding g, bas TBA, Chris Montgomery dr|Fre 16|
+|Karl-Martin Almqvist sax, Hans Olding g, bas TBA, Chris Montgomery dr|Lö 17|
+|Fab 4: Karin Hammar trb, Fabian Kallerdahl p, Niklas Fernqvist b, Fredrik Rundqvist dr|Sö 18|
+|Trinity: Carl Olandersson trp, Andreas Hellqvist org, Jojo Djeridi dr|Fre 23|
+|Sven Berggren trb, Oskar Nilsson g, Hans Andersson b, Joel Sellgren dr|Lö 24|
+|Johan Hörlén sax, Calle Bagge p, Kenji Rabson b, Chris Montgomery dr|Sön 25| 
+
 
  	         
  
