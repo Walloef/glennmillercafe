@@ -31,6 +31,7 @@ title: Konserter
 |Tenor Legacy: Klas Toresson sax, Linus Lindblom sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr|On 07 |
 |Emma Jansson voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, bas tba, Edvin Fridolfsson dr|To 08|
 |Sven Berggren trb, Joakim Milder sax, Hans Andersson b,Bengt Stark dr|Lö 10|
+|Katarina Henrysson voc, Niklas Medin p|Sö 11|
 |Inside Betty Carter: Helen Salim voc, Max Agnas p, Mats Sandahl b, Jonas Bäckman dr|On 14|
 |Karl-Martin Almqvist sax, Hans Olding g, bas TBA, Chris Montgomery dr|Fre 16|
 |Karl-Martin Almqvist sax, Hans Olding g, bas TBA, Chris Montgomery dr|Lö 17|
