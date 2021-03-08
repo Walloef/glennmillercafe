@@ -21,9 +21,8 @@ title: Konserter
 |Fredrik Nordström sax, Mattias Ståhl vibes, Filip Augustson b, Fredrik Rundqvist dr|Lö 27|
 |Terese Lien Evenstad violin, Alexander Ivarsson cl, Britta Virves p, Arvid Jullander b, Peter Danemo dr|Sö 28|
 |Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 31|
-| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe) ||
 
-| April| |
+| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
 | ------------- |-------------|
 |Calle Bagge p, Martin Höper b, Adam Ross dr + gäst|To 01|
 |Klas Lindqvist sax |Fre 02|
@@ -32,9 +31,13 @@ title: Konserter
 |Tenor Legacy: Klas Toresson sax, Linus Lindblom sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr|On 07 |
 |Emma Jansson voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, bas tba, Edvin Fridolfsson dr|To 08|
 |Sven Berggren trb, Joakim Milder sax, Hans Andersson b,Bengt Stark dr|Lö 10|
+|Inside Betty Carter: Helen Salim voc, Max Agnas p, Mats Sandahl b, Jonas Bäckman dr|On 14|
 |Karl-Martin Almqvist sax, Hans Olding g, bas TBA, Chris Montgomery dr|Fre 16|
 |Karl-Martin Almqvist sax, Hans Olding g, bas TBA, Chris Montgomery dr|Lö 17|
 |Fab 4: Karin Hammar trb, Fabian Kallerdahl p, Niklas Fernqvist b, Fredrik Rundqvist dr|Sö 18|
 |Trinity: Carl Olandersson trp, Andreas Hellqvist org, Jojo Djeridi dr|Fre 23|
 |Sven Berggren trb, Oskar Nilsson g, Hans Andersson b, Joel Sellgren dr|Lö 24|
 |Johan Hörlén sax, Calle Bagge p, Kenji Rabson b, Chris Montgomery dr|Sön 25|
+|Hans Backenroth|On 28|
+|Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|To 29|
+|Klas Lindqvist sax,
