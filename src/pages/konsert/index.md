@@ -9,7 +9,7 @@ title: Konserter
 |Martin Küchen träblås, Vilhelm Bromander b, Anton Jonsson dr|To 11|
 |Sol Tors Taverna: Gustav Rådström asax, Oskar Carls tsax, Pelle Westlin tsax, Isak Hedtjärn cl Milton Öhrström p, Vilhelm Bromander b, Tor Sjödén dr|Fre 12|
 |Ellas Kapell:Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langœrgen b, Edvin Fridolfsson dr|Lö 13|
-|The Never Ending Sextet: Joel Ring cello, Karl Hjalmar Nyberg sax, Heida Mobeck tub, Milton Öhrström p, Anton Jonsson och Bror Thomas Sandström dr|Sö 14|
+| Milton Öhrström p, August Palm g, Alex Capasso b, Bror Thomas Sandström dr|Sö 14|
 |Fredrik Ljungkvist sax, Emil Strandberg trp, Joe Williamson b, Dennis Egberth dr|On 17|
 |Linus Lindblom sax, Leo Lindberg org, Jojo Djeridi dr|To 18|
 |Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr|Fr 19|
@@ -25,7 +25,7 @@ title: Konserter
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
 | ------------- |-------------|
 |Calle Bagge p, Martin Höper b, Adam Ross dr + gäst|To 01|
-|Klas Lindqvist sax |Fre 02|
+|Klas Lindqvist sax, Niklas Fernqvist b, Daniel Fredriksson dr |Fre 02|
 |Stockholm Hot Seven: Erik Tengholm trp, Axel Mårdsjö alt & baryton, Linus Lindblom tsax/cl, Hampus Adami trb, Pål Nyberg g, Jon Henriksson b, Jonas Bäckman dr|Lö 03|
 |Erik Palmberg trp, Anton Dromberg p, Niklas Wennström b, Sebastian Voegler dr|Sö 04|
 |Tenor Legacy: Klas Toresson sax, Linus Lindblom sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr|On 07 |
@@ -41,4 +41,4 @@ title: Konserter
 |Johan Hörlén sax, Calle Bagge p, Kenji Rabson b, Chris Montgomery dr|Sön 25|
 |Hans Backenroth|On 28|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|To 29|
-|Klas Lindqvist sax,
+|Klas Lindqvist sax/cl, Svante Södeerqviast b/cello/voc, Oskar Schönning b/g|Fr 30|
