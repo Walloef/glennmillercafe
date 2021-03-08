@@ -39,6 +39,6 @@ title: Konserter
 |Trinity: Carl Olandersson trp, Andreas Hellqvist org, Jojo Djeridi dr|Fre 23|
 |Sven Berggren trb, Oskar Nilsson g, Hans Andersson b, Joel Sellgren dr|Lö 24|
 |Johan Hörlén sax, Calle Bagge p, Kenji Rabson b, Chris Montgomery dr|Sön 25|
-|Hans Backenroth|On 28|
+|Per Thornberg Quartet: Per Thornberg sax,Daniel Tilling p, Hans Backenroth b, Calle Rasmusson dr |On 28|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|To 29|
-|Klas Lindqvist sax/cl, Svante Södeerqviast b/cello/voc, Oskar Schönning b/g|Fr 30|
+|Klas Lindqvist sax/cl, Svante Söderqvist b/cello/voc, Oskar Schönning b/g|Fr 30|
