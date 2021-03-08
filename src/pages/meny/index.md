@@ -7,7 +7,7 @@ title: 'Meny '
 | **Pastis**                | 92:-  |
 | **Dry martini**           | 123:- |
 | **GT**                    | 120:- |
-| **Champagne flaska 75cl** | 585:- |
+| **Champagne flaska 75cl** | 675:- |
 
 | Förrätter/Starters                                                          |       |
 | --------------------------------------------------------------------------- | ----- |
@@ -26,7 +26,7 @@ title: 'Meny '
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:- |
 | **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon..                                      | 235:- |
 | **À la Belge** Ångade blåmusslor i öl, échalôte, vitlök, silverlök, lagerblad, selleri, tabasco..                         | 245:- |
-| **À la Normande** Ångade blåmusslor, cider, échalôte, bacon, smör, fänkål, grädde,crème fraich, calvados...|265:- |
+| **À la Normande** Ångade blåmusslor, cider, échalôte, bacon, smör, fänkål, grädde, calvados...|265:- |
 |**Chili (hot)** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, chorizo, tomat, paprika, chili, portvin, grädde.. | 255:- |
 | **Roquefort** Ångade blåmusslor i vitt vin, échalôte, grädde, vitlök, rosmarin, lime, roquefort..                         | 255:- |
 | **Chèvre** Ångade blåmusslor i vitt vin, échalôte, vitlök, dragon, grädde,honung, ruccola, chèvre...                               | 245:- |
@@ -35,7 +35,6 @@ title: 'Meny '
 | --------------------------------------------------------------- | ------- |
 | **Assiette fromages** två dagens ostar, fikonmarmelad o croutons |110:-    |
 | **Chokladfondant med vaniljglass**                              | 115:-   |
-|**Rödvinsinkokta päron** med karamelliserad coulis  |120:-|
 | **Glass per kula**                                     | 35:-    |
 | **Belgisk Chokladtårta** med pastismarinerade bär & grädde  | 85:-    |
 |**Crème Brulée** |105:-
