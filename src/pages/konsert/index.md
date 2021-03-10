@@ -8,7 +8,7 @@ title: Konserter
 |Leo Lindberg Trio: Leo Lindberg org, Blue Max g, Chris Montgomery dr|On 10|
 |Martin Küchen träblås, Vilhelm Bromander b, Anton Jonsson dr|To 11|
 |Sol Tors Taverna: Gustav Rådström asax, Oskar Carls tsax, Pelle Westlin tsax, Isak Hedtjärn cl Milton Öhrström p, Vilhelm Bromander b, Tor Sjödén dr|Fre 12|
-|Ellas Kapell:Lovisa Jennervall voc, Manne Skafvenstedt p, Anders Langœrgen b, Edvin Fridolfsson dr|Lö 13|
+|Klas Lindqvist sax, Manne Skafvenstedt p, Anders Langœrgen b, Edvin Fridolfsson dr|Lö 13|
 | Milton Öhrström p, August Palm g, Alex Capasso b, Bror Thomas Sandström dr|Sö 14|
 |Fredrik Ljungkvist sax, Emil Strandberg trp, Joe Williamson b, Dennis Egberth dr|On 17|
 |Linus Lindblom sax, Leo Lindberg org, Jojo Djeridi dr|To 18|
