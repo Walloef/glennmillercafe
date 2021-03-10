@@ -14,7 +14,7 @@ title: Konserter
 |Linus Lindblom sax, Leo Lindberg org, Jojo Djeridi dr|To 18|
 |Simon Berggren p, Arvid Jullander b, Jonas Bäckman dr|Fr 19|
 |”Jazz Flow”: Nina Brodd voc, Linus Kåse sax, Ann Blom p, Mårten Korkman b, Jesper Kviberg dr|Lö 20|
-|Salongsorkestern:Karl Wallmyr trp, Gaianeh Pilossian violin, Karin Wallmyr Creutzer viola, Emma Augustsson cello, Mauritz Agnas kb|Sö 21|
+|Karl Wallmyr trp, Max Agnas p, Mauritz Agnas kb|Sö 21|
 |Magnus Dölerud sax, Hans Backenroth b, Oscar Johansson-Werre dr|On 24|
 |David Bennet sax, Albin Vesterberg g, Gustav Broman b, Andreas Pettersson dr|To 25|
 |Håkan Broström sax, Britta Virves p, Jon Henriksson b, Karl-Henrik Ousbäck dr|Fr 26|
