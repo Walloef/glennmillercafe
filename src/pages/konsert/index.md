@@ -38,7 +38,7 @@ Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsso
 |Karl-Martin Almqvist sax, Hans Olding g, bas TBA, Chris Montgomery dr|Lö 17|
 |Fab 4: Karin Hammar trb, Fabian Kallerdahl p, Niklas Fernqvist b, Fredrik Rundqvist dr|Sö 18|
 |Johan Hörlén sax, Carl Orrje p, Hans Backenroth b, Karl-Henrik Ousbäck dr|On 21|
-|Trinity: Carl Olandersson trp, Andreas Hellqvist org, Jojo Djeridi dr|Fre 23|
+|Trinity: Karl Olandersson trp, Andreas Hellkvist org, Jojo Djeridi dr|Fre 23|
 |Sven Berggren trb, Oskar Nilsson g, Hans Andersson b, Joel Sellgren dr|Lö 24|
 |Johan Hörlén sax, Calle Bagge p, Kenji Rabson b, Chris Montgomery dr|Sön 25|
 |Per Thornberg Quartet: Per Thornberg sax,Daniel Tilling p, Hans Backenroth b, Calle Rasmusson dr |On 28|
