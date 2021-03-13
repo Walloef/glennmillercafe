@@ -34,8 +34,8 @@ title: Konserter
 |Katarina Henrysson voc, Niklas Medin p|Sö 11|
 |Inside Betty Carter: Helen Salim voc, Max Agnas p, Mats Sandahl b, Jonas Bäckman dr|On 14|
 Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsson b, Ola Botzen dr|To 15|	
-|Karl-Martin Almqvist sax, Hans Olding g, bas TBA, Chris Montgomery dr|Fre 16|
-|Karl-Martin Almqvist sax, Hans Olding g, bas TBA, Chris Montgomery dr|Lö 17|
+|Karl-Martin Almqvist sax, Hans Olding g, Jon Henriksson b, Chris Montgomery dr|Fre 16|
+|Karl-Martin Almqvist sax, Hans Olding g, Jon Henriksson b, Chris Montgomery dr|Lö 17|
 |Fab 4: Karin Hammar trb, Fabian Kallerdahl p, Niklas Fernqvist b, Fredrik Rundqvist dr|Sö 18|
 |Johan Hörlén sax, Carl Orrje p, Hans Backenroth b, Karl-Henrik Ousbäck dr|On 21|
 |Trinity: Karl Olandersson trp, Andreas Hellkvist org, Jojo Djeridi dr|Fre 23|
