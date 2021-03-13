@@ -162,17 +162,15 @@ class SweIndex extends React.Component {
         >
           <h2>Kära gäster och vänner av Glenn Miller Café!</h2>
           <p>
-            <b>Tusen Tack</b> än en gång för allt ekonomiskt stöd ni gett oss.
-            Just nu är det de pengarna vi klarar oss på, ett litet tag till. Så
-            känn verkligen att ditt bidrag gör skillnad! Vi ställer om
-            kontinuerligt allt efter som restriktionerna och rekommendationerna
-            ändras. Från jul kommer vi att öppna kl 16.30 och konserten (2 set)
-            börjar kl 18.00. Det är en väldigt exklusiv publik om max 8
-            matgäster som bereds plats. Före kl 18 då konserten börjar kan vi ta
-            in något fler. Vi tar även fortsättningsvis tacksamt emot ert stöd,
-            stort som litet via swish: 1236356364 eller via bg: 405-5158
-            (Jazzhunden AB) Skriv som meddelande ”Rädda GMC”. TACK!!! Vi önskar
-            oss alla en fridfull helg och ett friskt och konsertfyllt år 2021!
+            Kära gäster och vänner av Glenn Miller Cate! Tusen Tack än en gång
+            för allt ekonomiskt stöd ni gett oss. Just nu är det de pengarna vi
+            klarar oss på, ett litet tag till. Så känn verkligen att ditt bidrag
+            gör skillnad! Vi ställer om kontinuerligt allt efter som
+            restriktionerna och rekommendationerna ändras. Det är en väldigt
+            exklusiv publik om max 8 matgäster som bereds plats för tillfället.
+            Vi tar även fortsättningsvis tacksamt emot ert stöd, stort som litet
+            via swish: 1236356364 eller via bg: 405-5158 (Jazzhunden AB) Skriv
+            som meddelande "Rädda GMC" TACK!!! Kerstin & Ulf
           </p>
           <p>Kerstin & Ulf</p>
           {/* <h2>Info ang bordsbokning</h2>
