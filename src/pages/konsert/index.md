@@ -20,8 +20,8 @@ title: Konserter
 |Håkan Broström sax, Britta Virves p, Jon Henriksson b, Karl-Henrik Ousbäck dr|Fr 26|
 |Fredrik Nordström sax, Mattias Ståhl vibes, Filip Augustson b, Fredrik Rundqvist dr|Lö 27|
 |Terese Lien Evenstad violin, Alexander Ivarsson cl, Britta Virves p, Arvid Jullander b, Peter Danemo dr|Sö 28|
-|Martin Küchen träblås, Mathias Landaeus p, Johnny Åman b, Cornelia Nilsson dr|On 31|
-
+|”Jazz Flow”: Nina Brodd voc, Linus Kåse sax, Ann Blom p, Mårten Korkman b, Jesper Kviberg dr|Ti 30|
+|Martin Küchen träblås, Johan Graden p, Konrad Agnas dr |On 31|
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00 Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
 | ------------- |-------------|
 |Calle Bagge p, Martin Höper b, Adam Ross dr + gäst|To 01|
