@@ -30,7 +30,7 @@ title: Konserter
 |Stockholm Hot Seven: Erik Tengholm trp, Axel Mårdsjö alt & baryton, Linus Lindblom tsax/cl, Hampus Adami trb, Pål Nyberg g, Jon Henriksson b, Jonas Bäckman dr|Lö 03|
 |Erik Palmberg trp, Anton Dromberg p, Niklas Wennström b, Sebastian Voegler dr|Sö 04|
 |Tenor Legacy: Klas Toresson sax, Linus Lindblom sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr|On 07 |
-|Emma Jansson voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, Johan Tengholm b , Edvin Fridolfsson dr|To 08|
+|Sofia Lärkfors voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, Johan Tengholm b , Edvin Fridolfsson dr|To 08|
 |Sven Berggren trb, Joakim Milder sax, Hans Andersson b,Bengt Stark dr|Lö 10|
 |Katarina Henrysson voc, Niklas Medin p|Sö 11|
 |Inside Betty Carter: Helen Salim voc, Max Agnas p, Mats Sandahl b, Jonas Bäckman dr|On 14|
@@ -43,5 +43,5 @@ Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsso
 |Sven Berggren trb, Oskar Nilsson g, Hans Andersson b, Joel Sellgren dr|Lö 24|
 |Johan Hörlén sax, Calle Bagge p, Kenji Rabson b, Chris Montgomery dr|Sön 25|
 |Per Thornberg Quartet: Per Thornberg sax,Daniel Tilling p, Hans Backenroth b, Calle Rasmusson dr |On 28|
-|Håkan Broström sax, Britta Virves p, Jon Henriksson b, Karl-Henrik Ousbäck dr|To 29|
+|Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|To 29|
 |Klas Lindqvist sax/cl, Svante Söderqvist b/cello/voc, Oskar Schönning b/g|Fr 30|
