@@ -49,6 +49,9 @@ Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsso
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i Maj 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
 |------------- |-------------|
 |Gustav Lundgren g, Christian Spering b, Bengt Stark dr|Lö 01|
+|Katarina Henrysson voc, Svante Henrysson cello|On 05|
 |Erik Tengholm trp, Andreas Hellqvist org, Oscar Johansson-Werre dr|To 06|
 |Maria Kvist Trio: Release för "Jämtlandssångerna": Maria Kvist p, Robert Erlandsson b, Isak Andersson dr|Fre 07|
+|Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|Lö 08|
+Linnea Jonson trp, Håkan Broström sax,Kalle Johansson p, Pontus Fällman g, Jon Henriksson b, Tim Vinberg dr|On 12|
 
