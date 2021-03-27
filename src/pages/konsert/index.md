@@ -45,3 +45,10 @@ Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsso
 |Per Thornberg Quartet: Per Thornberg sax,Daniel Tilling p, Hans Backenroth b, Calle Rasmusson dr |On 28|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|To 29|
 |Klas Lindqvist sax/cl, Svante Söderqvist b/cello/voc, Oskar Schönning b/g|Fr 30|
+
+| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i Maj 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
+|------------- |-------------|
+|Gustav Lundgren g, Christian Spering b, Bengt Stark dr|Lö 01|
+|Erik Tengholm trp, Andreas Hellqvist org, Oscar Johansson-Werre dr|To 06|
+|Maria Kvist Trio: Release för "Jämtlandssångerna": Maria Kvist p, Robert Erlandsson b, Isak Andersson dr|Fre 07|
+
