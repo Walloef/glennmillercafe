@@ -55,6 +55,7 @@ Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsso
 |Erik Tengholm trp, Andreas Hellqvist org, Oscar Johansson-Werre dr|To 06|
 |Maria Kvist Trio: Release för "Jämtlandssångerna": Maria Kvist p, Robert Erlandsson b, Isak Andersson dr|Fre 07|
 |Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|Lö 08|
+|Sebastian Jonsson sax, Erik Tengholm trp, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|Sö 09|
 |Linnea Jonson trp, Håkan Broström sax,Kalle Johansson p, Pontus Fällman g, Jon Henriksson b, Tim Vinberg dr|On 12|
 |Stina Agustsdottir Trio: Stina Agustsdottir voc, Anna Gréta Sigurdardóttir p, Mikael Máni Ásmundsson gitarr|To 13|
 |Hannes Junestav trb, Håkan Broström sax, Britta Virves p, Uno Dvärby b, Jonas Bäckman dr|Fre 14|
