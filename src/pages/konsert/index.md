@@ -60,6 +60,9 @@ Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsso
 |Klas Lindqvist sax, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr|On 19|
 |Andreas Hellqvist hammond, Daniel Olsson dr|To 20|
 |Erik Tengholm trp, Hannes Falk Junestav trb, Leonard Werme sax, Britta Virves p, Johan Tengholm b, Oscar Johansson-Werre dr|Fre 21|
-|Anders Boson Jazz Ensemble: Anders Boson trp,voc, Jakob Sollerman trb, Axel Mårdsjö sax, Simon Westman p, Olli Rantala b, Micke Edlund dr|Lö 22| 
+|Anders Boson Jazz Ensemble: Anders Boson trp,voc, Jakob Sollerman trb, Axel Mårdsjö sax, Simon Westman p, Olli Rantala b, Micke Edlund dr|Lö 22|
+|Fredrik "Junkan" Ljungkvist träblås, Christian Spering b, Bengt Stark dr|On 26|
+|Jonas Isaksson Baritone gitarr, Jojo Djeridi dr|To 27|
+|Pelle Westlin Sax/cl, Gustav Davidsson trb, Boel Mogensen b, Anton Jonsson dr|Fre 28|
 
 
