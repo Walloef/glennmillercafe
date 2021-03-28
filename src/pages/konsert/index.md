@@ -31,6 +31,7 @@ title: Konserter
 |Erik Palmberg trp, Anton Dromberg p, Niklas Wennström b, Sebastian Voegler dr|Sö 04|
 |Tenor Legacy: Klas Toresson sax, Linus Lindblom sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr|On 07 |
 |Sofia Lärkfors voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, Johan Tengholm b , Edvin Fridolfsson dr|To 08|
+|Ming Family med Fredrik Nordström.....|Fre 09|
 |Sven Berggren trb, Joakim Milder sax, Hans Andersson b,Bengt Stark dr|Lö 10|
 |Katarina Henrysson voc, Niklas Medin p|Sö 11|
 |Inside Betty Carter: Helen Salim voc, Max Agnas p, Mats Sandahl b, Jonas Bäckman dr|On 14|
@@ -39,6 +40,7 @@ Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsso
 |Karl-Martin Almqvist sax, Hans Olding g, Jon Henriksson b, Chris Montgomery dr|Lö 17|
 |Fab 4: Karin Hammar trb, Fabian Kallerdahl p, Niklas Fernqvist b, Fredrik Rundqvist dr|Sö 18|
 |Johan Hörlén sax, Carl Orrje p, Hans Backenroth b, Karl-Henrik Ousbäck dr|On 21|
+|Susanna Risberg gitarr, Llaria Capalbo kontrabas|To 22|
 |Trinity: Karl Olandersson trp, Andreas Hellkvist org, Jojo Djeridi dr|Fre 23|
 |Sven Berggren trb, Oskar Nilsson g, Hans Andersson b, Joel Sellgren dr|Lö 24|
 |Johan Hörlén sax, Calle Bagge p, Kenji Rabson b, Chris Montgomery dr|Sön 25|
