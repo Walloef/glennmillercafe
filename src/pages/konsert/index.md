@@ -67,5 +67,6 @@ Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsso
 |Fredrik "Junkan" Ljungkvist träblås, Christian Spering b, Bengt Stark dr|On 26|
 |Jonas Isaksson Baritone gitarr, Jojo Djeridi dr|To 27|
 |Pelle Westlin Sax/cl, Gustav Davidsson trb, Boel Mogensen b, Anton Jonsson dr|Fre 28|
+|Thomas Gunillasson g, Thomas Backman sax, John Lönnmyr key, Johan Björklund dr|Lö 29|
 
 
