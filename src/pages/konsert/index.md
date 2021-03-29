@@ -25,7 +25,7 @@ title: Konserter
 
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i April 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
 |------------- |-------------|
-|Calle Bagge p, Martin Höper b, Adam Ross dr|To 01|
+|Calle Bagge p, Martin Höper b, Sebastian Voegler dr, gäst: Erik Söderlind g|To 01|
 |Klas Lindqvist sax, Niklas Fernqvist b, Daniel Fredriksson dr |Fre 02|
 |Stockholm Hot Seven: Erik Tengholm trp, Axel Mårdsjö alt & baryton, Linus Lindblom tsax/cl, Hampus Adami trb, Pål Nyberg g, Jon Henriksson b, Jonas Bäckman dr|Lö 03|
 |Erik Palmberg trp, Anton Dromberg p, Niklas Wennström b, Sebastian Voegler dr|Sö 04|
