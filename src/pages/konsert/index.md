@@ -32,7 +32,7 @@ title: Konserter
 |Tenor Legacy: Klas Toresson sax, Linus Lindblom sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr|On 07 |
 |Sofia Lärkfors voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, Johan Tengholm b , Edvin Fridolfsson dr|To 08|
 |Ming Family plays Charles Mingus: Fredrik Nordström sax, Magnus Broo trp, Palle Sollinger b, Chris Montgomery dr|Fre 09|
-|Sven Berggren trb, Joakim Milder sax, Hans Andersson b,Bengt Stark dr|Lö 10|
+|Sven Berggren trb, Joakim Milder sax, Filip Augustson b,Bengt Stark dr|Lö 10|
 |Katarina Henrysson voc, Niklas Medin p|Sö 11|
 |Inside Betty Carter: Helen Salim voc, Max Agnas p, Mats Sandahl b, Jonas Bäckman dr|On 14|
 Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsson b, Ola Botzen dr|To 15|	
