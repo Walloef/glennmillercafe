@@ -60,6 +60,7 @@ Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsso
 |Stina Agustsdottir Trio: Stina Agustsdottir voc, Anna Gréta Sigurdardóttir p, Mikael Máni Ásmundsson gitarr|To 13|
 |Hannes Junestav trb, Håkan Broström sax, Britta Virves p, Uno Dvärby b, Jonas Bäckman dr|Fre 14|
 |Robert Nordmark sax, Filip Augustson b, Bengt Stark dr|Lö 15|
+|Karl Wallmyr band|Sö 16|
 |Klas Lindqvist sax, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr|On 19|
 |Andreas Hellqvist hammond, Daniel Olsson dr|To 20|
 |Erik Tengholm trp, Hannes Falk Junestav trb, Leonard Werme sax, Britta Virves p, Johan Tengholm b, Oscar Johansson-Werre dr|Fre 21|
