@@ -30,10 +30,10 @@ title: Konserter
 |Stockholm Hot Seven: Erik Tengholm trp, Axel Mårdsjö alt & baryton, Linus Lindblom tsax/cl, Hampus Adami trb, Pål Nyberg g, Jon Henriksson b, Jonas Bäckman dr|Lö 03|
 |Erik Palmberg trp, Anton Dromberg p, Niklas Wennström b, Sebastian Voegler dr|Sö 04|
 |Tenor Legacy: Klas Toresson sax, Linus Lindblom sax, Leo Lindberg p, Martin Sjöstedt b, Moussa Fadera dr|On 07 |
-|Sofia Lärkfors voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, Johan Tengholm b,Edvin Fridolfsson dr |To 08 |                                                                                                                                                        |Ming Family plays Charles Mingus: Fredrik Nordström sax, Magnus Broo trp, Palle Sollinger b, Chris Montgomery dr|Fre 09|
+|Sofia Lärkfors voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, Johan Tengholm b,Edvin Fridolfsson dr |To 08 |                                                                                                                                                       |Ming Family plays Charles Mingus: Fredrik Nordström sax, Magnus Broo trp, Palle Sollinger b, Chris Montgomery dr|Fre 09|	                                      
 |Sven Berggren trb, Joakim Milder sax, Filip Augustson b,Bengt Stark dr|Lö 10|
 |Inside Betty Carter: Helen Salim voc, Max Agnas p, Mats Sandahl b, Jonas Bäckman dr|On 14|
-Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsson b, Ola Botzen dr|To 15|	
+|Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsson b, Ola Botzen dr|To 15|	
 |Karl-Martin Almqvist sax, Hans Olding g, Jon Henriksson b, Chris Montgomery dr|Fre 16|
 |Karl-Martin Almqvist sax, Hans Olding g, Jon Henriksson b, Chris Montgomery dr|Lö 17|
 |Fab 4: Karin Hammar trb, Fabian Kallerdahl p, Niklas Fernqvist b, Fredrik Rundqvist dr|Sö 18|
