@@ -12,7 +12,7 @@ title: Konserter
 |Sofia Lärkfors voc, Sebastian Jonsson sax, Bjarni Ingólfsson g, Jan Alexander p, Johan Tengholm b,Edvin Fridolfsson dr |To 08|                                                                                                            
 |Ming Family plays Charles Mingus: Fredrik Nordström sax, Magnus Broo trp, Palle Sollinger b, Chris Montgomery dr |Fre 09|	                                      
 |Sven Berggren trb, Joakim Milder sax, Filip Augustson b,Bengt Stark dr|Lö 10| 
-|Anna Greta Sigurdardóttir Band|Sön 11|
+|Anna Greta Sigurdardóttir p, Jon Henriksson b, Konrad Agnas dr |Sön 11|
 |Inside Betty Carter: Helen Salim voc, Max Agnas p, Mats Sandahl b, Jonas Bäckman dr|On 14|
 |Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsson b, Ola Botzen dr|To 15|	
 |Karl-Martin Almqvist sax, Hans Olding g, Jon Henriksson b, Chris Montgomery dr|Fre 16|
@@ -44,6 +44,7 @@ title: Konserter
 |Andreas Hellqvist hammond, Daniel Olsson dr|To 20|
 |Erik Tengholm trp, Hannes Falk Junestav trb, Leonard Werme sax, Britta Virves p, Johan Tengholm b, Oscar Johansson-Werre dr|Fre 21|
 |Anders Boson Jazz Ensemble: Anders Boson trp,voc, Jakob Sollerman trb, Axel Mårdsjö sax, Simon Westman p, Olli Rantala b, Micke Edlund dr|Lö 22|
+Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23| 
 |Fredrik "Junkan" Ljungkvist träblås, Christian Spering b, Bengt Stark dr|On 26|
 |Jonas Isaksson Baritone gitarr, Jojo Djeridi dr|To 27|
 |Pelle Westlin Sax/cl, Gustav Davidsson trb, Boel Mogensen b, Anton Jonsson dr|Fre 28|
