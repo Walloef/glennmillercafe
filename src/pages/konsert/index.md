@@ -17,7 +17,7 @@ title: Konserter
 |Sofia Pettersson kvartett: Sofia Pettersson voc, Maria Kvist p, Robert Erlandsson b, Ola Botzen dr|To 15|	
 |Karl-Martin Almqvist sax, Hans Olding g, Jon Henriksson b, Chris Montgomery dr|Fre 16|
 |Karl-Martin Almqvist sax, Hans Olding g, Jon Henriksson b, Chris Montgomery dr|Lö 17|
-|Fab 4: Karin Hammar trb, Fabian Kallerdahl p, Niklas Fernqvist b, Fredrik Rundqvist dr|Sö 18|
+|Karin Hammar Fab 4: Karin Hammar trb, Andreas Hourdakis g, Niklas Fernqvist b, Fredrik Runqvist dr|Sö 18| 
 |Johan Hörlén sax, Carl Orrje p, Hans Backenroth b, Karl-Henrik Ousbäck dr|On 21|
 |Susanna Risberg gitarr, Llaria Capalbo kontrabas|To 22|
 |Trinity: Karl Olandersson trp, Andreas Hellkvist org, Jojo Djeridi dr|Fre 23|
