@@ -49,5 +49,20 @@ Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23|
 |Jonas Isaksson Baritone gitarr, Jojo Djeridi dr|To 27|
 |Pelle Westlin Sax/cl, Gustav Davidsson trb, Boel Mogensen b, Anton Jonsson dr|Fre 28|
 |Thomas Gunillasson g, Thomas Backman sax, John Lönnmyr key, Johan Björklund dr|Lö 29|
+|Simon Löfstedt g, Niklas Fernqvist b, Daniel Fredriksson dr|Sö 30|
+
+| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i Juni 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
+|------------- |-------------|
+|Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Emil Norman dr
+|On 02|
+|Simon Berggren p, Filip Augustson b, Jonas Bäckman dr|To 03|
+|INTERNATIONALDAGSBANDET: Julia Strzalek sax, Johan Christoffersson sax, Niclas Skagstedt p, Oskar Schönning b, Konrad Agnas dr|Sö 06|
+|Linus Lindblom sax, Leo Lindberg org,  Jojo Djeridi dr|Fre 11|
+|Stina Agustsdottir voc, Carl Mörner Rinström g,  Henrik Linder b|Lö 19|
+|Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
+
+
+
+
 
 
