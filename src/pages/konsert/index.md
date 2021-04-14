@@ -53,8 +53,7 @@ Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23|
 
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i Juni 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
 |------------- |-------------|
-|Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Emil Norman dr
-|On 02|
+|Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Emil Norman dr|On 02|
 |Simon Berggren p, Filip Augustson b, Jonas Bäckman dr|To 03|
 |INTERNATIONALDAGSBANDET: Julia Strzalek sax, Johan Christoffersson sax, Niclas Skagstedt p, Oskar Schönning b, Konrad Agnas dr|Sö 06|
 |Linus Lindblom sax, Leo Lindberg org,  Jojo Djeridi dr|Fre 11|
