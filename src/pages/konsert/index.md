@@ -55,8 +55,12 @@ Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23|
 |------------- |-------------|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Emil Norman dr|On 02|
 |Simon Berggren p, Filip Augustson b, Jonas Bäckman dr|To 03|
+|Anders Ellman kornett, Stefan Isaksson sax, Lars Örback p, Mårten Korkman b, Mats Jadin dr|Fre 04|
+|Karin Hammar trb, Nils Jansson trp, Adam Forkelid p, Rubem Farias b, Johan Löfcrantz dr|Lö 05|
 |INTERNATIONALDAGSBANDET: Julia Strzalek sax, Johan Christoffersson sax, Niclas Skagstedt p, Oskar Schönning b, Konrad Agnas dr|Sö 06|
+|Ulla Fluur voc, Leo Lindberg p, Martin Höper b|On 09|		
 |Linus Lindblom sax, Leo Lindberg org,  Jojo Djeridi dr|Fre 11|
+|Lisa Ullén p, Elsa bergman b, Anna Lund dr, Finn Loxbo g, Susana santos Silvia trp|To 17|
 |Stina Agustsdottir voc, Carl Mörner Rinström g,  Henrik Linder b|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
 
