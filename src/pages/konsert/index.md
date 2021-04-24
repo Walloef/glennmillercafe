@@ -21,7 +21,7 @@ title: Konserter
 |Johan Hörlén sax, Carl Orrje p, Hans Backenroth b, Karl-Henrik Ousbäck dr|On 21|
 |Susanna Risberg gitarr, Llaria Capalbo kontrabas|To 22|
 |Trinity: Karl Olandersson trp, Andreas Hellkvist org, Jojo Djeridi dr|Fre 23|
-|Sven Berggren trb, Oskar Nilsson g, Hans Andersson b, Joel Sellgren dr|Lö 24|
+|Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|Lö 24|
 |Johan Hörlén sax, Calle Bagge p, Kenji Rabson b, Chris Montgomery dr|Sön 25|
 |Per Thornberg Quartet: Per Thornberg sax,Daniel Tilling p, Hans Backenroth b, Calle Rasmusson dr |On 28|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|To 29|
