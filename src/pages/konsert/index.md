@@ -31,7 +31,6 @@ title: Konserter
 |------------- |-------------|
 |Gustav Lundgren g, Christian Spering b, Bengt Stark dr|Lö 01|
 |Sossetrion: Fredrik Lindborg sax, Palle Sollinger b, Daniel Fredriksson dr|Sö 02|
-|Katarina Henrysson voc, Svante Henrysson cello|On 05|
 |Erik Tengholm trp, Andreas Hellqvist org, Oscar Johansson-Werre dr|To 06|
 |Maria Kvist Trio: Release för "Jämtlandssångerna": Maria Kvist p, Robert Erlandsson b, Isak Andersson dr|Fre 07|
 |Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|Lö 08|
