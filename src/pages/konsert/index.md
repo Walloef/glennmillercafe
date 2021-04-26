@@ -24,7 +24,7 @@ title: Konserter
 |Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|Lö 24|
 |Johan Hörlén sax, Calle Bagge p, Kenji Rabson b, Chris Montgomery dr|Sön 25|
 |Per Thornberg Quartet: Per Thornberg sax,Daniel Tilling p, Hans Backenroth b, Calle Rasmusson dr |On 28|
-|Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|To 29|
+|Håkan Broström sax, Linnea Jonson trp, Kalle Johansson p, Pontus Fällman g, Jon Henriksson b, Jonas Bäckman dr |To 29|
 |Klas Lindqvist sax/cl, Svante Söderqvist b/cello/voc, Oskar Schönning b/g|Fr 30|
 
 | Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i Maj 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
