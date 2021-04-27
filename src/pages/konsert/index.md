@@ -36,9 +36,9 @@ title: Konserter
 |Maria Kvist Trio: Release för "Jämtlandssångerna": Maria Kvist p, Robert Erlandsson b, Isak Andersson dr|Fre 07|
 |Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|Lö 08|
 |Sebastian Jonsson sax, Erik Tengholm trp, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|Sö 09|
-|Linnea Jonson trp, Håkan Broström sax,Kalle Johansson p, Pontus Fällman g, Jon Henriksson b, Tim Vinberg dr|On 12|
+|Håkan Broström sax, Linnea Jonson trp, Kalle Johansson p, Pontus Fällman g, Jon Henriksson b, Tim Vinberg dr|On 12|
 |Stina Agustsdottir Trio: Stina Agustsdottir voc, Anna Gréta Sigurdardóttir p, Mikael Máni Ásmundsson gitarr|To 13|
-|Hannes Junestav trb, Håkan Broström sax, Britta Virves p, Uno Dvärby b, Jonas Bäckman dr|Fre 14|
+|Håkan Broström sax, Hannes Junestav trb, Britta Virves p, Uno Dvärby b, Jonas Bäckman dr|Fre 14|
 |Robert Nordmark sax, Filip Augustson b, Bengt Stark dr|Lö 15|
 |Karl Wallmyr trp, Max Agnas p, Gaianeh Pilossian violin, Karin Wallmyr Creutzer viola, Ruth Spargo cello, Mauritz Agnas b|Sö 16|
 |Klas Lindqvist sax, Hans Olding g, Kenji Rabson b, Daniel Fredriksson dr|On 19|
