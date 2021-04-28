@@ -62,8 +62,10 @@ Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23|
 |Ulla Fluur voc, Leo Lindberg p, Martin Höper b|On 09|		
 |Linus Lindblom sax, Leo Lindberg org,  Jojo Djeridi dr|Fre 11|
 |Hans Backenroth Quartet: (Skivrelease) Klas Lindqvist sax, Erik Söderlind g, Hans Backenroth b, Karl-Henruk Ousbäck dr|Lö 12|
+|ÖH3: Örjan Hultén sax, Filip Augustson b, Fredrik Rundqvist dr|Sö 13|
 |Mattias Lindberg p, Hans Backenroth b, Jojo Djeridi dr|On 16|
 |Lisa Ullén p, Elsa bergman b, Anna Lund dr, Finn Loxbo g, Susana santos Silvia trp|To 17|
+|Aloft Quartet: Simon Balvig sax, Rasmus Sørensen p, Jon Henriksson b, Amund Kleppan dr|Fre 18|
 |Stina Agustsdottir voc, Carl Mörner Rinström g,  Henrik Linder b|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
 
