@@ -6,7 +6,7 @@ title: Konserter
 |------------- |-------------|
 |Gustav Lundgren g, Christian Spering b, Bengt Stark dr|Lö 01|
 |Sossetrion: Fredrik Lindborg sax, Palle Sollinger b, Daniel Fredriksson dr|Sö 02|
-|Sven Berggren trb, Oskar Nilsson g, Filip Augustson b, Joel Sellgren dr|On 05|
+| Anna Greta Sigurdardóttir p, Johan Tengholm b, Robert Ikiz dr  |On 05|
 |Erik Tengholm trp, Andreas Hellqvist org, Oscar Johansson-Werre dr|To 06|
 |Kasper Agnas g, Max Agnas p, Mauritz Agnas b, Nils Agnas dr |Fre 07|
 |Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|Lö 08|
