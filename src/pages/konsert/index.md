@@ -12,7 +12,7 @@ title: Konserter
 |Ingrid Malmén voc, Simon Skogh trb, Vilhelm Bromander b, Anton Jonsson dr|Lö 08|
 |Sebastian Jonsson sax, Erik Tengholm trp, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|Sö 09|
 |Håkan Broström sax, Linnea Jonson trp, Kalle Johansson p, Pontus Fällman g, Jon Henriksson b, Tim Vinberg dr|On 12|
-|Stina Agustsdottir Kvartett: Stina Agustsdottir voc, Simon Berggren p, Pär-Ola Landin b, Konrad Agnas dr|To 13|
+| Simon Berggren p, Pär-Ola Landin b, Konrad Agnas dr|To 13|
 |Håkan Broström sax, Hannes Junestav trb, Britta Virves p, Uno Dvärby b, Jonas Bäckman dr|Fre 14|
 |Robert Nordmark sax, Filip Augustson b, Bengt Stark dr|Lö 15|
 |Karl Wallmyr trp, Max Agnas p, Gaianeh Pilossian violin, Karin Wallmyr Creutzer viola, Ruth Spargo cello, Mauritz Agnas b|Sö 16|
