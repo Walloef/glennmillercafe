@@ -27,7 +27,7 @@ Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23|
 |Thomas Gunillasson g, Thomas Backman sax, John Lönnmyr key, Johan Björklund dr|Lö 29|
 |Simon Löfstedt g, Niklas Fernqvist b, Daniel Fredriksson dr|Sö 30|
 
-| Öppettider: Vi öppnar kl 18.00 f o m januari, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juni 2021, vissa streamas: (Facebook, Glenn Miller cafe) | |
+| Öppettider: Vi öppnar kl 18.00 f o m juni, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juni 2021, vissa streamas: (Facebook, Glenn Miller cafe) | |
 |------------- |-------------|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Emil Norman dr|On 02|
 |Simon Berggren p, Filip Augustson b, Jonas Bäckman dr|To 03|
