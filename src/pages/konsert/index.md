@@ -2,7 +2,7 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i Maj 2021, Allting streamas: (Facebook, Glenn Miller cafe) | |
+| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i Maj 2021, Allting streamas: (Facebook, Glenn Miller cafe)Glenn Miller Café kommer att vara stängt f o m 21 juni t o m 01 juli. Vi tackar er för en TROTS allt händelserik musikvår | |
 |------------- |-------------|
 |Gustav Lundgren g, Christian Spering b, Bengt Stark dr|Lö 01|
 |Sossetrion: Fredrik Lindborg sax, Palle Sollinger b, Daniel Fredriksson dr|Sö 02|
