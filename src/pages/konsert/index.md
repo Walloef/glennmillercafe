@@ -35,7 +35,7 @@ Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23|
 |Karin Hammar trb, Nils Jansson trp, Adam Forkelid p, Rubem Farias b, Johan Ramsey Löfcrantz dr|Lö 05|
 |INTERNATIONALDAGSBANDET: Julia Strzalek sax, Johan Christoffersson sax, Niclas Skagstedt p, Oskar Schönning b, Konrad Agnas dr|Sö 06|
 |Ulla Fluur voc, Leo Lindberg p, Martin Höper b|On 09|
-|Chi Westfelt voc, Britta Virves p, bas TBA, Karl-Henrik Ousbäck dr|To 10|		
+|Chi Westfelt voc, Britta Virves p, Mats Sandahl bas TBA, Karl-Henrik Ousbäck dr|To 10|		
 |Linus Lindblom sax, Leo Lindberg org,  Jojo Djeridi dr|Fre 11|
 |Hans Backenroth Quartet: (Skivrelease) Klas Lindqvist sax, Erik Söderlind g, Hans Backenroth b, Karl-Henruk Ousbäck dr|Lö 12|
 |ÖH3: Örjan Hultén sax, Filip Augustson b, Fredrik Rundqvist dr|Sö 13|
