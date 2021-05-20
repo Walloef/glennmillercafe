@@ -45,6 +45,9 @@ Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23|
 |Stina Agustsdottir voc, Carl Mörner Rinström g,  Henrik Linder b|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
 
+|Med stöd av Kulturrådet| |
+|-------------|-----------|
+
 
 
 
