@@ -168,9 +168,6 @@ class SweIndex extends React.Component {
             gör skillnad! Vi ställer om kontinuerligt allt efter som
             restriktionerna och rekommendationerna ändras. Det är en väldigt
             exklusiv publik om max 8 matgäster som bereds plats för tillfället.
-            Vi tar även fortsättningsvis tacksamt emot ert stöd, stort som litet
-            via swish: 1236356364 eller via bg: 405-5158 (Jazzhunden AB) Skriv
-            som meddelande "Rädda GMC" TACK!!! Kerstin & Ulf
           </p>
           <p>Kerstin & Ulf</p>
           {/* <h2>Info ang bordsbokning</h2>
