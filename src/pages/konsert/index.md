@@ -25,7 +25,7 @@ Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23|
 |Jonas Isaksson Baritone gitarr, Jojo Djeridi dr|To 27|
 |Pelle Westlin Sax/cl, Gustav Davidsson trb, Boel Mogensen b, Anton Jonsson dr|Fre 28|
 |Thomas Gunillasson g, Thomas Backman sax, John Lönnmyr key, Johan Björklund dr|Lö 29|
-|Simon Löfstedt g, Niklas Fernqvist b, Daniel Fredriksson dr|Sö 30|
+|Anton Dromberg p, Simon Löfstedt g, Niklas Fernqvist b, Daniel Fredriksson dr|Sö 30|
 
 | Öppettider: Vi öppnar kl 18.00 f o m juni, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juni 2021, vissa streamas: (Facebook, Glenn Miller cafe) | |
 |------------- |-------------|
