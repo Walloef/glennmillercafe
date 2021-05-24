@@ -2,7 +2,7 @@
 templateKey: konsert-page
 title: Konserter
 ---
-| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i Maj 2021, Allting streamas: (Facebook, Glenn Miller cafe)Glenn Miller Café kommer att vara stängt f o m 21 juni t o m 01 juli. Vi tackar er för en TROTS allt händelserik musikvår. Ljud och sponsring: Intelligent Sound| |
+| Öppettider: Vi öppnar kl 17.00, konserterna börjar 18.00 och vi stänger alkoholserveringen kl 20.00, Konserter i Maj 2021, Allting streamas: (Facebook, Glenn Miller cafe)Glenn Miller Café kommer att vara stängt f o m 21 juni t o m 01 juli. Vi tackar er för en TROTS allt händelserik musikvår. Ljudinstallation: Intelligent Sound| |
 |------------- |-------------|
 |Gustav Lundgren g, Christian Spering b, Bengt Stark dr|Lö 01|
 |Sossetrion: Fredrik Lindborg sax, Palle Sollinger b, Daniel Fredriksson dr|Sö 02|
@@ -27,7 +27,7 @@ Jonny Ek p, Tomas Sjödell b, Jonas Bäckman dr|Sö 23|
 |Thomas Gunillasson g, Thomas Backman sax, John Lönnmyr key, Johan Björklund dr|Lö 29|
 |Anton Dromberg p, Simon Löfstedt g, Niklas Fernqvist b, Daniel Fredriksson dr|Sö 30|
 
-| Öppettider: Vi öppnar kl 18.00 f o m juni, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juni 2021, vissa streamas: (Facebook, Glenn Miller cafe) Ljud och sponsring: Intelligent Sound | |
+| Öppettider: Vi öppnar kl 18.00 f o m juni, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juni 2021, vissa streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
 |------------- |-------------|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Emil Norman dr|On 02|
 |Simon Berggren p, Filip Augustson b, Jonas Bäckman dr|To 03|
