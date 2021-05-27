@@ -160,7 +160,7 @@ class SweIndex extends React.Component {
             width: '85vw',
           }}
         >
-          <h2>Kära gäster och vänner av Glenn Miller Café!</h2>
+         {/* <h2>Kära gäster och vänner av Glenn Miller Café!</h2>
           <p>
             Kära gäster och vänner av Glenn Miller Cate! Tusen Tack än en gång
             för allt ekonomiskt stöd ni gett oss. Just nu är det de pengarna vi
@@ -170,7 +170,7 @@ class SweIndex extends React.Component {
             exklusiv publik om max 8 matgäster som bereds plats för tillfället.
           </p>
           <p>Kerstin & Ulf</p>
-          {/* <h2>Info ang bordsbokning</h2>
+           <h2>Info ang bordsbokning</h2>
           <p>
             Om det inte går att boka via länken är det fullbokat. Om du vill stå
             på väntelista, skicka ett sms till 076-882 45 49. Du blir kontaktad
