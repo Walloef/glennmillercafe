@@ -21,8 +21,10 @@ title: Konserter
 |Stina Agustsdottir voc, Carl Mörner Rinström g,  Henrik Linder b|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
 
-|Med stöd av Kulturrådet| |
+|Med stöd av Kulturrådet, Glenn Miller kommer nu att vara stängt till och med Torsdag  01 juli|Vi kommer att öppna igen den 02 juli
 |-------------|-----------|
+
+
 
 
 
