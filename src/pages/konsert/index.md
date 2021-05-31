@@ -18,10 +18,10 @@ title: Konserter
 |Mattias Lindberg p, Hans Backenroth b, Jojo Djeridi dr|On 16|
 |Mats Äleklint trb, Lisa Ullén p, David Stackenäs g, Elsa Bergman b, Anna Lund dr,  |To 17|
 |Aloft Quartet: Simon Balvig sax, Rasmus Sørensen p, Jon Henriksson b, Amund Kleppan dr|Fre 18|
-|Stina Agustsdottir voc, Carl Mörner Rinström g,  Henrik Linder b|Lö 19|
+|Stina Agustsdottir voc, Carl Mörner Rinström g, Henrik Linder b|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
 
-|Med stöd av Kulturrådet, Glenn Miller kommer nu att vara stängt till och med Torsdag  01 juli|Vi kommer att öppna igen den 02 juli
+|Med stöd av Kulturrådet Vi kommer att stänga f o m 21 juni och öppna igen den 02 juli||  
 |-------------|-----------|
 
 
