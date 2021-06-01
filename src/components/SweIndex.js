@@ -136,7 +136,7 @@ class SweIndex extends React.Component {
           </div>
           <div>
             <h3>Tillfälliga Öppettider:</h3>
-            <p>Onsdag - söndag kl 17.00- 20.00 med livejazzkonsert kl 18.00</p>
+            <p>Onsdag - söndag kl 18.00- 22.30 med livejazzkonsert kl 19.30</p>
             <p>
               Konserterna livestreamas på vår{' '}
               <a
@@ -205,7 +205,7 @@ class SweIndex extends React.Component {
               <li>
                 Enl Coronarestriktionerna måste alla gäster sitta. Vi har
                 plockat bort bord och har färre platser än tidigare för att
-                kunna hålla minst en meter mellan sällskapen. Vi ändrar
+                kunna hålla avstånd mellan sällskapen. Vi ändrar
                 kontinuerligt för att för att följa folkhälsomyndughetens
                 restriktioner och rekommendationer för att stoppa
                 smittspridningen.
@@ -230,7 +230,7 @@ class SweIndex extends React.Component {
             variation jazz och jazzmusiker.
           </p>
           <p>
-            Köket är franskt med rätter som Confit de Canard, Bouillabaisse, sju
+            Köket är franskt med rätter som Confit de Canard, sju
             olika variationer of Moules Frites, Creme Brulée mm. Om du vill äta
             middag är det bra att boka bord. Nu med Coronarestriktioner får vi
             inte ha gäster stående. Vänligen notera att vi först och främst är
@@ -304,19 +304,7 @@ class SweIndex extends React.Component {
                   För sällskap större än 8 personer, vänligen kontakta
                   restaurangen för att göra din bokning. 076-882 45 49
                 </p>
-                <p>
-                  En del av konserterna livestreamas på vår{' '}
-                  <a
-                    style={{
-                      color: 'white',
-                      textDecoration: 'underline',
-                    }}
-                    href="https://sv-se.facebook.com/glennmillercafe/"
-                  >
-                    Facebook
-                  </a>
-                  .
-                </p>
+                
               </li>
               <li>
                 <p>Parkeringshus finns mitt emot Glenn Miller Café</p>
