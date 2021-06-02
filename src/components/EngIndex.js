@@ -54,7 +54,7 @@ class EngIndex extends React.Component {
           <div>
             <h3>Temporary Opening Hours:</h3>
             <p>
-              Wednesday - Sunday at 17.00- 20.00 with live jazz concert at 18.00
+              Wednesday - Sunday at 18.00- 22.30 with live jazz concert at 19.30
             </p>
             <p>
               Concerts are live streamed at our{' '}
@@ -124,8 +124,7 @@ class EngIndex extends React.Component {
             inreasurable quality and variety of jazz and jazz musicians.
           </p>
           <p>
-            The cuisine is French with dishes such as Confit de Canard,
-            Bouillabaisse, seven different variations of Moules Frites, Creme
+            The cuisine is French with dishes such as Confit de Canard, seven different variations of Moules Frites, Creme
             Brulée, and more. If you want to have dinner, it is good to reserve
             a table. Please note that we are, first and mainly a jazz club. To
             respect the music and the musicians we ask you to save your
