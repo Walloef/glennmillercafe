@@ -101,7 +101,7 @@ class EngIndex extends React.Component {
               <li>
                 Because of Corona, all guests must be seated. We have taken away
                 tables, and do not have as many seats as earlier, all to be able
-                to keep the 1 meter distance between groups. We constantly adapt
+                to keep distance between groups. We constantly adapt
                 in order to follow the restrictions and recommendations in order
                 to stop spreading of the Corona virus
               </li>
