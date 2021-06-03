@@ -21,7 +21,7 @@ title: Konserter
 |Stina Agustsdottir voc, Carl Mörner Rinström g, Henrik Linder b, Rasmus Blixt dr|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
 
-|Med stöd av Kulturrådet Vi kommer att stänga f o m 21 juni och öppna igen den 02 juli||  
+|Med stöd av Kulturrådet och Sensus, Vi kommer att stänga f o m 21 juni och öppna igen den 02 juli|| 
 |-------------|-----------|
 
 
