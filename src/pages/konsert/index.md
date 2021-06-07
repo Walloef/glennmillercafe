@@ -21,8 +21,13 @@ title: Konserter
 |Stina Agustsdottir voc, Carl Mörner Rinström g, Henrik Linder b, Rasmus Blixt dr|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
 
+| Öppettider: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juli 2021, vissa streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
+|------------- |-------------|
+
+
 |Med stöd av Kulturrådet och Sensus, Vi kommer att stänga f o m 21 juni och öppna igen den 02 juli|| 
 |-------------|-----------|
+
 
 
 
