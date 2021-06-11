@@ -20,12 +20,29 @@ title: Konserter
 |Sigurdur Flosason sax, Erik Tengholm trp, Anna Greta Sigurdadottir p, Johan Tengholm b, Daniel Fredriksson dr |Fre 18|
 |Stina Agustsdottir voc, Carl Mörner Rinström g, Henrik Linder b, Rasmus Blixt dr|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
-
 | Öppettider: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juli 2021, vissa streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
 |------------- |-------------|
-
-
-|Med stöd av Kulturrådet och Sensus. Vi kommer att stänga f o m 21 juni och öppna igen den 02 juli|| 
+|Wahls Trio: Jesper Söderqvist vib, Ville Bromander b,  Arild Wahl dr|Fre 02|
+|Elsas eget omdöme:  Oskar Carls sax, Mats Äleklint trb, Elsa Bergman b, Lalo Cissokho dr|Lö 03|
+|Kasper Agnas g, Leo Lindberg org, Sebastian Voegler dr|Sö 04|
+|Tomas Janzon g, Rubem Farias b, Jojo Djeridi dr|On 07|
+|Kasper Agnas g, Pär-Ola Landin b, Konrad Agnas dr|To 08|
+|Håkan Broström sax, Daniel Tilling p, Björn Lundén b, Jojo Djeridi dr|Fre 09|
+|Isak Hedtjärn cl,  Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr|Lö 10|
+|Mattias Lindberg p, Björn Lundén b, Sebastian Voegler dr|Sö 11|
+|Örjan  Hultén sax, Stina Hellberg Agback harpa, Jonas Isaksson g, Sebastian Voegler dr|On 14|
+|Emil Strandberg trp, Thomas Backman sax, Alberto Pinton träblås, Rasmus Borg p, Viktor Skokic b, Christopher Cantillo dr| To 15|
+|Ingrid Malmén voc, Jens Comé sax, Jonas Enroth g|Fre 16|
+| Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr|Lö 17|
+|Kasper Agnas g, Mauritz Agnas b, bas TBA |Sö 18|
+|Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth  b, Moussa Fadera dr|On 21|
+|Florida/Sweden Connection: Tamara Danielsson sax, Per Danielsson p, Hans Backenroth b, Jesper Kviberg dr |To 22|
+|Daniel Tilling p, Fredrik Olsson g, Lars Ekman b, Bosse Söderberg  dr|Fre 23|
+|Krister Andersson sax, Felix Tani p, Johnny Åman b, Sebastian Voegler dr|Lö 24|
+|Karl Olanderson trp, Paul Kovacs msp,  Ann Blom p, Filip Augustson b, Jesper Kviberg dr|Sö 25|
+|Håkan Broström sax, Britta Virves p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|On 28|
+|Anna Greta Sigurdadottir  p, rest TBA|To 29|
+|Med stöd av Kulturrådet och Sensus. 
 |-------------|-----------|
 
 
