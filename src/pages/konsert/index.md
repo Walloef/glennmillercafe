@@ -20,6 +20,7 @@ title: Konserter
 |Sigurdur Flosason sax, Erik Tengholm trp, Anna Greta Sigurdadottir p, Johan Tengholm b, Daniel Fredriksson dr |Fre 18|
 |Stina Agustsdottir voc, Carl Mörner Rinström g, Henrik Linder b, Rasmus Blixt dr|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
+
 | Öppettider: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juli 2021, vissa streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
 |------------- |-------------|
 |Wahls Trio: Jesper Söderqvist vib, Ville Bromander b,  Arild Wahl dr|Fre 02|
