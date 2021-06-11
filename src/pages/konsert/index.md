@@ -25,7 +25,7 @@ title: Konserter
 |------------- |-------------|
 
 
-|Med stöd av Kulturrådet och Sensus, Vi kommer att stänga f o m 21 juni och öppna igen den 02 juli|| 
+|Med stöd av Kulturrådet och Sensus. Vi kommer att stänga f o m 21 juni och öppna igen den 02 juli|| 
 |-------------|-----------|
 
 
