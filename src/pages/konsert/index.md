@@ -32,7 +32,6 @@ title: Konserter
 |Isak Hedtjärn cl,  Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr|Lö 10|
 |Mattias Lindberg p, Björn Lundén b, Sebastian Voegler dr|Sö 11|
 |Örjan  Hultén sax, Stina Hellberg Agback harpa, Jonas Isaksson g, Sebastian Voegler dr|On 14|
-|Emil Strandberg trp, Thomas Backman sax, Alberto Pinton träblås, Rasmus Borg p, Viktor Skokic b, Christopher Cantillo dr| To 15|
 |Ingrid Malmén voc, Jens Comé sax, Jonas Enroth g|Fre 16|
 | Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr|Lö 17|
 |Kasper Agnas g, Mauritz Agnas b, bas TBA |Sö 18|
