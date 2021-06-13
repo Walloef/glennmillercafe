@@ -3,7 +3,7 @@ templateKey: konsert-page
 title: Konserter
 ---
 
-| Öppettider: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juni 2021, vissa streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
+| Konserter i Juni 2021: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
 |------------- |-------------|
 |Hannes Bennich sax, Britta Virves p, Tomas Sjödell b, Emil Norman dr|On 02|
 |Simon Berggren p, Filip Augustson b, Jonas Bäckman dr|To 03|
@@ -21,7 +21,7 @@ title: Konserter
 |Stina Agustsdottir voc, Carl Mörner Rinström g, Henrik Linder b, Rasmus Blixt dr|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
 
-| Öppettider: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Konserter i Juli 2021, vissa streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
+|Konserter i Juli 2021: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
 |------------- |-------------|
 |Wahls Trio: Jesper Söderqvist vib, Ville Bromander b,  Arild Wahl dr|Fre 02|
 |Elsas eget omdöme:  Oskar Carls sax, Mats Äleklint trb, Elsa Bergman b, Lalo Cissokho dr|Lö 03|
@@ -43,7 +43,8 @@ title: Konserter
 |Karl Olanderson trp, Paul Kovacs msp,  Ann Blom p, Filip Augustson b, Jesper Kviberg dr|Sö 25|
 |Håkan Broström sax, Britta Virves p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|On 28|
 |Anna Greta Sigurdadottir  p, rest TBA|To 29|
-|Med stöd av Kulturrådet och Sensus. 
+
+|Med stöd av Kulturrådet och Sensus| | 
 |-------------|-----------|
 
 
