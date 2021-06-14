@@ -42,6 +42,8 @@ title: Konserter
 |Karl Olanderson trp, Paul Kovacs msp,  Ann Blom p, Filip Augustson b, Jesper Kviberg dr|Sö 25|
 |Håkan Broström sax, Britta Virves p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|On 28|
 |Anna Greta Sigurdadottir  p, rest TBA|To 29|
+|Alberto Pinton träblås, Per-Åke Holmlander tub, Vilhelm Bromander b, Konrad Agnas d| Fre 30| 
+|Erik Palmberg trp, Hampus Adami trb, Robert Erlandsson b, Jonas Bäckman dr|Lö 31|
 
 |Med stöd av Kulturrådet och Sensus| | 
 |-------------|-----------|
