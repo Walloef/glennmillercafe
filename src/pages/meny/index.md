@@ -19,7 +19,6 @@ title: 'Meny '
 | Varmrätter/Mains                                                                                       |       |
 | ------------------------------------------------------------------------------------------------------ | ----- |
 |**Confit de Canard** Confiterat anklår med inkokt fänkål, päron, potatis med roquefort sås| 305:-|
-|**GMC ́s Bouillabaisse** Lax, vitfisk, Fänkål, Selleri, lök, rouille...| 265:-| 
 |**Entrecôte** Frites, dijon, Rödvin o bbq-sås, dijon, smör toppad med persillade | 339:-|
 |**Ugnstekta grönsaker** Tomat & chèvre, aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..(veg/vegan) |235:-|
 |**Salade Campagne** Mix-sallad, tomat, ägg, rödlök, paprika, brödkrutonger, bacon, chèvre, finns även i vegetarisk version|215/225:-| 
