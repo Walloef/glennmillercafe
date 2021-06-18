@@ -35,7 +35,7 @@ title: Konserter
 |Camilla Johnson voc, Britta Virves p, Alexander Brott g, Tomas Sjödell b, Jonas Bäckman dr|To 15|
 |Ingrid Malmén voc, Jens Comé sax, Jonas Enroth g|Fre 16|
 | Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr|Lö 17|
-|Kasper Agnas g, Mauritz Agnas b, bas TBA |Sö 18|
+|Kasper Agnas g, Mauritz Agnas b, dr TBA |Sö 18|
 |Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth  b, Moussa Fadera dr|On 21|
 |Florida/Sweden Connection: Tamara Danielsson sax, Per Danielsson p, Hans Backenroth b, Jesper Kviberg dr |To 22|
 |Daniel Tilling p, Fredrik Olsson g, Lars Ekman b, Bosse Söderberg  dr|Fre 23|
