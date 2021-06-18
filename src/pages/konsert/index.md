@@ -32,6 +32,7 @@ title: Konserter
 |Isak Hedtjärn cl,  Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr|Lö 10|
 |Mattias Lindberg p, Björn Lundén b, Sebastian Voegler dr|Sö 11|
 |Örjan  Hultén sax, Stina Hellberg Agback harpa, Jonas Isaksson g, Sebastian Voegler dr|On 14|
+|Camilla Johnson voc, Britta Virves p, Alexander Brott g, Tomas Sjödell b, Jonas Bäckman dr|To 15|
 |Ingrid Malmén voc, Jens Comé sax, Jonas Enroth g|Fre 16|
 | Hans Olding g, Mauritz Agnas b, Karl-Henrik Ousbäck dr|Lö 17|
 |Kasper Agnas g, Mauritz Agnas b, bas TBA |Sö 18|
@@ -41,7 +42,7 @@ title: Konserter
 |Krister Andersson sax, Felix Tani p, Johnny Åman b, Sebastian Voegler dr|Lö 24|
 |Karl Olanderson trp, Paul Kovacs msp,  Ann Blom p, Filip Augustson b, Jesper Kviberg dr|Sö 25|
 |Håkan Broström sax, Britta Virves p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|On 28|
-|Anna Greta Sigurdadottir  p, rest TBA|To 29|
+|Anna Greta Sigurdadottir p, Johan Tengholm b, Jonas Bäckman dr,|To 29|
 |Alberto Pinton träblås, Per-Åke Holmlander tub, Vilhelm Bromander b, Konrad Agnas d| Fre 30| 
 |Erik Palmberg trp, Hampus Adami trb, Torbjörn Gultz p, Robert Erlandsson b, Jonas Bäckman dr|Lö 31|
 
