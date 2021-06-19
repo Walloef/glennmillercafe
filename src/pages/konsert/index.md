@@ -21,7 +21,7 @@ title: Konserter
 |Stina Agustsdottir voc, Carl Mörner Rinström g, Henrik Linder b, Rasmus Blixt dr|Lö 19|
 |Nils Berg sax, Niclas Skagstedt p, Mauritz Agnas b, Konrad Agnas dr|Sö 20|
 
-|Konserter i Juli 2021: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
+|Konserter i Juli 2021 med start den 02: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger alkoholserveringen kl 22.00, Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
 |------------- |-------------|
 |Wahls Trio: Jesper Söderqvist vib, Ville Bromander b,  Arild Wahl dr|Fre 02|
 |Elsas eget omdöme:  Oskar Carls sax, Mats Äleklint trb, Elsa Bergman b, Lalo Cissokho dr|Lö 03|
