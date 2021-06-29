@@ -56,6 +56,10 @@ title: Konserter
 |Pombo: Marie Sjåvik voc, Felicia Nielsen p, Gus Loxbo b, Nils Wall dr /+ gäst|Lö 28|
 | Luftrummet: Pelle Westlin sax/cl, Emma Augustsson cello, Dennis Egberth dr|Sö 29|
 
+|Med stöd av Kulturrådet och Sensus| | 
+|-------------|-----------|
+
+
 
 
 
