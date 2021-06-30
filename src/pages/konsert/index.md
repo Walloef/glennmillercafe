@@ -42,7 +42,7 @@ title: Konserter
 |Marius Zeeberg sax, Ingrid Schyborger  b, Daniel Fredriksson dr|Sö 08|
 |Håkan Broström sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr|On 11|
 |Max Agnas p, Ingrid Schyborger  b, Edvin Fridolfsson dr|To 12|
-|Fredrik Nordström sax, Håkan Goohde g, Torbjörn Zetterberg b, Dr TBA|To 13|
+|Fredrik Nordström sax, Håkan Goohde g, Torbjörn Zetterberg b, Sebastian Voegler dr|To 13|
 |Karl Olandersson trp,  Calle Brickman p, Niklas Fernqvist b, Daniel Fredriksson dr|Lö 14|
 |Calle Brickman p, Niklas Fernqvist b, Jonas Bäckman dr|Sö 15|
 |Django Tribute: Gustav Lundgren g, Edouard Pennes g, Martin Sjöstedt b|On 18|
