@@ -12,7 +12,7 @@ title: Konserter
 |Tomas Janzon g, Rubem Farias b, Jojo Djeridi dr|On 07|
 |Kasper Agnas g, Pär-Ola Landin b, Konrad Agnas dr|To 08|
 |Håkan Broström sax, Daniel Tilling p, Björn Lundén b, Jojo Djeridi dr|Fre 09|
-|Isak Hedtjärn cl,  Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr|Lö 10|
+|Folkjazzkvartetten: Isak Hedtjärn cl,  Jonas Liljeberg cl/sax, Vilhelm Bromander b, Anton Jonsson dr|Lö 10|
 |Mattias Lindberg p, Björn Lundén b, Sebastian Voegler dr|Sö 11|
 |Örjan  Hultén sax, Stina Hellberg Agback harpa, Jonas Isaksson g, Sebastian Voegler dr|On 14|
 |Camilla Johnson voc, Britta Virves p, Alexander Brott g, Tomas Sjödell b, Jonas Bäckman dr|To 15|
