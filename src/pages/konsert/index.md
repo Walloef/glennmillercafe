@@ -22,7 +22,7 @@ title: Konserter
 |Vladimir Shafranov Trio: Vladimir Shafranov p, Hans Backenroth  b, Moussa Fadera dr|On 21|
 |Florida/Sweden Connection: Tamara Danielsson sax, Per Danielsson p, Hans Backenroth b, Jesper Kviberg dr |To 22|
 |Daniel Tilling p, Fredrik Olsson g, Lars Ekman b, Bosse Söderberg  dr|Fre 23|
-|Krister Andersson sax, Felix Tani p, Johnny Åman b, Sebastian Voegler dr|Lö 24|
+|Robert Nordmark sax, Felix Tani p, Johnny Åman b, Sebastian Voegler dr|Lö 24|
 |Karl Olanderson trp, Paul Kovacs msp,  Ann Blom p, Filip Augustson b, Jesper Kviberg dr|Sö 25|
 |Håkan Broström sax, Britta Virves p, Niklas Fernqvist b, Karl-Henrik Ousbäck dr|On 28|
 |Anna Greta Sigurdadottir p, Johan Tengholm b, Jonas Bäckman dr,|To 29|
