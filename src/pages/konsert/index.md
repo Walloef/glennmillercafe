@@ -48,7 +48,7 @@ title: Konserter
 |Django Tribute: Gustav Lundgren g, Edouard Pennes g, Martin Sjöstedt b|On 18|
 |Karl Wallmyr trp, Per Wallmyr träblås, Nils Berg träblås, Max Agnas p, Mauritz Agns b|To 19|
 |Bel Trio: Gustav Lundgren g, Robert Erlandsson b, Niklas Bodin dr|Fre 20|
-|Tomi Nikku trp, Jarno Tikka sax, Nathan Francis b, Joonas Leppänen dr|Lö 21|
+|Tomi Nikku trp, Jarno Tikka sax, Joonas Turi b, Joonas Leppänen dr|Lö 21|
 |Birgitta Flick sax, Max Agnas p, Mauritz Agnas b, Sebastian Voegler dr|Sö 22|
 |Linus Lindblom sax, Pål Nyberg g, Leo Lindberg p, Jon Henriksson b, Jonas Bäckman dr|On 25|
 |Maria Kvist p, Robert Erlandsson b, Isak Andersson dr|To 26|
