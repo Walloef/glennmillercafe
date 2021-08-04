@@ -29,6 +29,9 @@ title: Konserter
 |Med stöd av Kulturrådet och Sensus| | 
 |-------------|-----------|
 
+|Konserter i Augusti 2021: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger sent!!!  Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
+|------------- |-------------|
+
 
 
 
