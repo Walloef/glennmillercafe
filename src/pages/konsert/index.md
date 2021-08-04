@@ -2,9 +2,6 @@
 templateKey: konsert-page
 title: Konserter
 ---
-
-
-
 |Konserter i Augusti 2021: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger sent!!!  Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
 |------------- |-------------|
 |LSD: Fredrik Lindborg sax, Martin Sjöstedt b, Daniel Fredriksson dr|Sö 01|
