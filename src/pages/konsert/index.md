@@ -40,6 +40,27 @@ title: Konserter
 | Robert Nordmark sax , Jan Eriksson g, Jonas Olsson b, Dennis Egberth dr|To 09|
 |Jonas Knutsson sax, Tassos Spiliotopoulos g, Robert Erlandsson b, Fredrik Rundqvist dr|Fre 10|
 |Trinity: Karl Olandersson trp, Andreas Hellqvist organ, Jojo Djeridi dr|Lö 11|
+|Abonnerat|Sö 12|
+|Sven Berggren trb, Oskar Nilsson g, Hans Andersson b, Joel Sellgren dr|On 15|
+|Anna-Lena Brundin voc, Jan Sigurd p, Niklas Lind voc/dr, Tom Eddey Nordén b|To 16|
+|The Splender: Lisen Rylander Löve sax, Fabian Kallerdahl p, Josef Kallerdahl b, Lars Lade Källfelt dr|Fre 17|
+|Linus Kåse sax, Maria Kvist p, Rickard Malmsten b, Isak Andersson dr|Lö 18|
+|sön 19|
+|Per Thornberg /Hans Backenroth Quartet: Per Thornberg sax, Carl Bagge p, Hans Backenroth b, Fredrik Rundqvist dr|On 22|
+|Skivrelease med Derupeto: Peter Knudsen p, Tobias Grim g, Rubem Farias b, Deodato Seguir voc/dr|To 23|
+|Christian Herluf Pedersen sax, Daniel Tilling p, Martin Höper b,  Daniel Fredriksson dr|Fre 24|
+|John Holmström p, Yasuhito Mori b, Henrik Wartel dr|Lö 25|
+| Mimmi Anterot trp, Hannes Falk Junestav trb, Sara Karkkonen p, David Beskow b, Maria Dahlin dr|Sö 26|
+|Håkan Broström sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|On 29|
+
+
+
+
+   
+
+
+
+
 
 
 
