@@ -29,8 +29,25 @@ title: Konserter
 |Med stöd av Kulturrådet och Sensus| | 
 |-------------|-----------|
 
-|Konserter i Augusti 2021: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger sent!!!  Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
+|Konserter i September 2021: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger sent!!!  Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
 |------------- |-------------|
+|Lars Almkvist trp, Jonas Knutsson sax, Jan Levander sax, Carl Bagge p, Clas Lassbo b|On 01 |
+|Camilla Johnson voc, Britta Virves p, Ilaria Capalbo b|To 02|
+|Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|Fre 03|
+|Simon Berggren p, Filip Augustson b, Jonas Bäckman dr|Lö 04|
+|Marcks Brothers: John Högman sax, Mats Larsson g, Magnus Marcks b, Bosse Söderberg dr|Sö 05|
+|Mats Gustavsson Ensemble: Lisa Grotherus cl,  Linus Lindblom sax, Pål Nyberg g, Mats Sverker Gustafsson  b, Nils Agnas dr|On 08|
+| Robert Nordmark sax , Jan Eriksson g, Jonas Olsson b, Dennis Egberth dr|To 09|
+|Jonas Knutsson sax, Tassos Spiliotopoulos g, Robert Erlandsson b, Fredrik Rundqvist dr|Fre 10|
+|Trinity: Karl Olandersson trp, Andreas Hellqvist organ, Jojo Djeridi dr|Lö 11|
+
+
+
+     
+
+
+
+
 
 
 
