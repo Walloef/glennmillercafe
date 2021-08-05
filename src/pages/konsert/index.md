@@ -52,6 +52,9 @@ title: Konserter
 |John Holmström p, Yasuhito Mori b, Henrik Wartel dr|Lö 25|
 | Mimmi Anterot trp, Hannes Falk Junestav trb, Sara Karkkonen p, David Beskow b, Maria Dahlin dr|Sö 26|
 |Håkan Broström sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|On 29|
+|Konserter i Augusti 2021: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger sent!!!  Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound | |
+
+ 
 
 
 
