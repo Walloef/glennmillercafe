@@ -9,7 +9,7 @@ title: Konserter
 |Max Schultz g, Daniel Tilling p, Jess Gertzenkorn b| To 05|
 |Mattias Lindberg p, Hans Backenroth b, Jojo Djeridi dr|Fre 06|
 |Simon Berggren p, Filip Augustson b, Jonas Bäckman dr|Lö 07|
-|Marius Zeeberg sax, Ingrid Schyborger  b, Daniel Fredriksson dr|Sö 08|
+|Linnea Johnsson trp, Marius Zeeberg sax, Ingrid Schyborger  b, Daniel Fredriksson dr|Sö 08|
 |Håkan Broström sax, Filip Ekestubbe p, Petter Olofsson b, Sebastian Ågren dr|On 11|
 |Max Agnas p, Ingrid Schyborger  b, Edvin Fridolfsson dr|To 12|
 |Rollins´tones: Fredrik Nordström sax, Håkan Goohde g, Torbjörn Zetterberg b, Fredrik Rundqvist dr|Fre 13|
