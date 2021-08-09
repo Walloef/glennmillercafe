@@ -48,7 +48,7 @@ title: Konserter
 | |sön 19|
 |Per Thornberg /Hans Backenroth Quartet: Per Thornberg sax, Carl Bagge p, Hans Backenroth b, Fredrik Rundqvist dr|On 22|
 |Skivrelease med Derupeto: Peter Knudsen p, Tobias Grim g, Rubem Farias b, Deodato Seguir voc/dr|To 23|
-|Christian Herluf Pedersen sax, Daniel Tilling p, Martin Höper b,  Daniel Fredriksson dr|Fre 24|
+|Christian Herluf Pedersen sax, Daniel Tilling p, Martin Sjöstedt b,  Daniel Fredriksson dr|Fre 24|
 |John Holmström p, Yasuhito Mori b, Henrik Wartel dr|Lö 25|
 | Mimmi Anterot trp, Hannes Falk Junestav trb, Sara Karkkonen p, David Beskow b, Maria Dahlin dr|Sö 26|
 |Håkan Broström sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr|On 29|
