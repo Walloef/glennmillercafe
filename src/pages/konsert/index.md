@@ -82,6 +82,11 @@ title: Konserter
 |TLE Quartet: Terese Lien Evenstad violin, Britta Virves p, Arvid Jullander b, Peter Danemo dr, Gäst: Alexander Ivarsson klarinett|Lö 23|
 |Berggren-Bergcrantz Quartet: Sven Berggren trb, Anders Bergcrantz trp, Filip Augustson b, Bengt Stark dr|Sö 24|
 
+| Med stöd av Kulturrådet och Sensus |     |
+| ---------------------------------- | --- |
+
+
+
 
 
 
