@@ -45,7 +45,7 @@ title: Konserter
 |Anna-Lena Brundin voc, Jan Sigurd p, Niklas Lind voc/dr, Tom Eddey Nordén b|To 16|
 |The Splender: Lisen Rylander Löve sax, Fabian Kallerdahl p, Josef Kallerdahl b, Lars Lade Källfelt dr|Fre 17|
 |Linus Kåse sax, Maria Kvist p, Rickard Malmsten b, Isak Andersson dr|Lö 18|
-| |sön 19|
+|Dror Feiler träblås, elektronik!! |sön 19|
 |Per Thornberg /Hans Backenroth Quartet: Per Thornberg sax, Carl Bagge p, Hans Backenroth b, Fredrik Rundqvist dr|On 22|
 |Skivrelease med Derupeto: Peter Knudsen p, Tobias Grim g, Rubem Farias b, Deodato Seguir voc/dr|To 23|
 |Christian Herluf Pedersen sax, Daniel Tilling p, Martin Sjöstedt b,  Daniel Fredriksson dr|Fre 24|
