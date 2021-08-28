@@ -85,11 +85,6 @@ title: Konserter
 | Med stöd av Kulturrådet och Sensus |     |
 | ---------------------------------- | --- |
 
-|	
-Vernissage & boksläpp: Musiken tystnade aldrig på Glenn
-Konstnären Jenny Svenberg Bunnel ställer ut ett 80-tal live-jazz-teckningar gjorda på Glenn Miller Café under pandemin.
-
-
 
 
 
