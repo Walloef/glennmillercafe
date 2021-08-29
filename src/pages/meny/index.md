@@ -20,6 +20,7 @@ title: 'Meny '
 | ------------------------------------------------------------------------------------------------------ | ----- |
 |**Confit de Canard** Confiterat anklår med inkokt fänkål, päron, potatis med roquefort sås/Confitated duck, poached fennel, pear, potatoes, Rockford sauce| 305:-|
 |**Entrecôte** Frites, dijon, Rödvin o bbq-sås, dijon, smör toppad med persillade/ Served with red wine sauce, Bbq sauce, dijon mustard, butter topped with persillade | 339:-|
+|**Laxpapillotte**Baked salmon, asparagus, parmesan, butter, red onion, filled paprika with estragon/lemon potatoes|305:-|
 |**Ugnstekta grönsaker** Tomat & chèvre, aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..(veg/vegan)/Aubergine, potatoes, zucchini, fennel, broad beans, onions, garlicwith white wine, can be made vegan... |235:-|
 |**Salade Campagne** Mix-sallad, tomat, ägg, rödlök, paprika, brödkrutonger, bacon, chèvre, finns även i vegetarisk version/Sallad, potatoes, tomatoes, onion, pepper, boiled egg, bacon, chèvre can be made vegetarian...|215/225:-| 
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon..                                               | 225:- |
