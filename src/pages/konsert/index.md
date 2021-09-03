@@ -18,7 +18,7 @@ title: Konserter
 | Abonnerat                                                                                                                                                                                    | Sö 12  |
 | Sven Berggren trb, Oskar Nilsson g, Hans Andersson b, Joel Sellgren dr                                                                                                                       | On 15  |
 | Anna-Lena Brundin voc, Jan Sigurd p, Niklas Lind voc/dr, Tom Eddey Nordén b                                                                                                                  | To 16  |
-| The Splender: Lisen Rylander Löve sax, Fabian Kallerdahl p, Josef Kallerdahl b, Lars Lade Källfelt dr                                                                                        | Fre 17 |
+| The Splendor: Lisen Rylander Löve sax, Fabian Kallerdahl p, Josef Kallerdahl b, Lars Lade Källfelt dr                                                                                        | Fre 17 |
 | Linus Kåse sax, Maria Kvist p, Rickard Malmsten b, Isak Andersson dr                                                                                                                         | Lö 18  |
 | Dror Feiler träblås, elektronik!!                                                                                                                                                            | sön 19 |
 | Per Thornberg /Hans Backenroth Quartet: Per Thornberg sax, Carl Bagge p, Hans Backenroth b, Fredrik Rundqvist dr                                                                             | On 22  |
