@@ -42,7 +42,7 @@ title: Konserter
 | Hein Westgaard g, Nils Agnas dr                                                                                                                                                            | Lö 09  |
 | Per”Texas”Johansson träblås, Rasmus Borg p/komp, Viktor Skokic b                                                                                                                           | Sö 10  |
 | Micke Goodé sax, Eve Beuvens p, Magnus Bergström b, Johan Birgenius dr                                                                                                                     | On 13  |
-| Tessan Milveden voc, Krister Andersson sax/cl, Göran Strandberg p                                                                                                                          | To 14  |
+| Tessan Milveden voc, Krister Andersson sax/cl, Göran Strandberg p,Patrik Boman b, Jesper Kviberg dr                                                                                                                          | To 14  |
 
 | Stockholm Jazzfestival på Glenn Miller Café |     |
 | ---------------------------------- | --- |
