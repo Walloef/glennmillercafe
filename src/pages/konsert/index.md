@@ -47,6 +47,7 @@ title: Konserter
 | Stockholm Jazzfestival på Glenn Miller Café |     |
 | ---------------------------------- | --- |
 |Viktor Skokic Sextet: Emil Strandberg trp, Thomas Backman träblås, Alberto Pinton träblås,  Rasmus Borg  p, Viktor Skokic b/kompositioner, Konrad Agnas dr |Fre 15|
+|Vernissage & boksläpp: Musiken tystnade aldrig på Glenn av Jenny Svenberg Bunnel |Kl 14 - 17 /Lö 16|
 |Anders Chico Lindvall Trio: Anders Chico Lindvall g, Johnny Åman b, Paul Svanberg dr|Lö 16 |
 |Helen Salim Quartet: Helen Salim voc, Britta Virves p, Tomas Sjödell b, Jonas Bäckman dr|Sö 17|
 |Adam Forkelid  1st Movement: Adam Forkelid p, Carl Mörner Ringström g, Niklas Fernqvist b,  Daniel Fredriksson dr|Må 18|
