@@ -25,6 +25,7 @@ title: Konserter
 | John Holmström p, Yasuhito Mori b, Henrik Wartel dr                                                                                                                                          | Lö 25  |
 | Mimmi Anterot trp, Hannes Falk Junestav trb, Sara Karkkonen p, David Beskow b, Maria Dahlin dr                                                                                               | Sö 26  |
 | Håkan Broström sax, Britta Virves p, Jon Henriksson b, Jonas Bäckman dr                                                                                                                      | On 29  |
+|Sven Berggren trb, Joakim Milder sax, Hans Andersson b, Bengt Stark dr|To 30|
 
 | Med stöd av Kulturrådet och Sensus |     |
 | ---------------------------------- | --- |
