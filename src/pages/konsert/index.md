@@ -40,7 +40,7 @@ title: Konserter
 | Camilla Isaksson voc, Stefan Isaksson sax, Göran Strandberg p, Patrik Boman b, Jonas Bäckman dr                                                                                            | Fre 08 |
 | Nils Berg sax, Hein Westgaard g, Jon Henriksson b,  Nils Agnas dr                                                                                                                                                            | Lö 09  |
 | Per”Texas”Johansson träblås, Rasmus Borg p/komp, Viktor Skokic b                                                                                                                           | Sö 10  |
-| Micke Goodé sax, Eve Beuvens p, Magnus Bergström b, Johan Birgenius dr                                                                                                                     | On 13  |
+| Micke Godée goody oode  sax, Eve Beuvens p, Magnus Bergström b, Johan Birgenius dr                                                                                                                     | On 13  |
 | Tessan Milveden voc, Stefan Isaksson sax, Göran Strandberg p,Patrik Boman b, Jesper Kviberg dr                                                                                             | To 14  |
 
 | Stockholm Jazzfestival på Glenn Miller Café                                                                                                                |                   |
