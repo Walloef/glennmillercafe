@@ -30,7 +30,7 @@ title: Konserter
 | Med stöd av Kulturrådet och Sensus |     |
 | ---------------------------------- | --- |
 
-| Konserter i Oktober 2021: Vi öppnar kl 18.00, konserterna börjar 19.30 och vi stänger sent!!!  Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound |        |
+| Konserter i Oktober 2021: Vi öppnar kl 18.00, konserterna börjar 20.00 och vi stänger sent!!!  Vissa konserter streamas: (Facebook, Glenn Miller cafe) Ljudinstallation: Intelligent Sound |        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
 | Lars Almqvist trp, Jan Levander träblås, Peter Jansson b, Jon Fält dr                                                                                                                      | Fre 01 |
 | Håkan Broström sax, Johan Leijonhufvud g, Jon Henriksson b, Niclas Campagnol dr                                                                                                            | Lö 02  |
