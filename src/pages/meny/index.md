@@ -23,7 +23,8 @@ title: 'Meny '
 | **Laxpapillotte**Baked salmon, asparagus, parmesan, butter, red onion, filled paprika with estragon/lemon potatoes                                                                                                                | 305:- |
 | **Ugnstekta grönsaker** Tomat & chèvre, aubergine, potatis, zucchini, fänkål, vita bönor, lök-vitlök, chèvre..(veg/vegan)/Aubergine, potatoes, zucchini, fennel, broad beans, onions, garlicwith white wine, can be made vegan... | 235:- |
 | **Salade Campagne** Mix-sallad, tomat, ägg, rödlök, paprika, brödkrutonger, bacon, chèvre, finns även i vegetarisk version/Sallad, potatoes, tomatoes, onion, pepper, boiled egg, bacon, chèvre can be made vegetarian...         | 225:- |
-| **Gratinerad blomkål** serveras med humus och sallad (vegan)                                                                                                                                                                               | 175:- |
+| **Gratinerad blomkål** serveras med humus och sallad (vegan)                                                                                                                                                                      | 175:- |
+| **Les Moules**                                                                                                                                                                                                                    |       |
 | **Marinières** Ångade blåmusslor i vitt vin, échalôte, vitlök, och dragon/Steamed mussels in white wine, shallots, garlic and tarragon                                                                                            | 225:- |
 | **À la crème**  Ångade blåmusslor i vitt vin, échalôte, vitlök, grädde, och dragon/Same as Moules Marinières, with cream                                                                                                          | 235:- |
 | **À la Belge** Ångade blåmusslor i öl, échalôte, vitlök, silverlök, lagerblad, selleri, tabasco/Steamed mussels in beer, garlic, tarragon, silver skin, bay leaf, celery and tabasco                                              | 245:- |
@@ -36,7 +37,7 @@ title: 'Meny '
 | ------------------------------------------------------------------ | --------- |
 | **Assiette fromages** två dagens ostar, fikonmarmelad o croutons 2 | 110:-     |
 | **Chokladfondant med vaniljglass**                                 | 115:-     |
-| **Glass per kula** finns även vegansk| 35:-      |
+| **Glass per kula** finns även vegansk                              | 35:-      |
 | **Belgisk Chokladtårta** med pastismarinerade bär & grädde         | 85:-      |
 | **Crème Brulée**                                                   | 105:-     |
 | **Kaffe**                                                          | 30:-      |
