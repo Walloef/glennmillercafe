@@ -38,7 +38,7 @@ title: 'Meny '
 | **Assiette fromages** två dagens ostar, fikonmarmelad o croutons 2 | 110:-     |
 | **Chokladfondant med vaniljglass**                                 | 115:-     |
 | **Glass per kula** finns även vegansk                              | 35:-      |
-| **Belgisk Chokladtårta** med pastismarinerade bär & grädde         | 85:-      |
+| **Belgisk Chokladtårta** med  bärcoulis & grädde         | 85:-      |
 | **Crème Brulée**                                                   | 105:-     |
 | **Kaffe**                                                          | 30:-      |
 | **Espresso**                                                       | 35:-/45:- |
