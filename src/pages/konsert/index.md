@@ -37,7 +37,7 @@ title: Konserter
 | Johan Lejionhufvud g, Johnny Åman b, Niclas Campagnol dr                                                                                                                                   | Sö 03  |
 | Ulla Fluur voc, Mikael Augustsson bandoneon, Erik Söderlind g, Martin Höper b                                                                                                              | On 06  |
 | Play den svenska sångboken: David Bennet sax, Rui Hallvares Andrade Paes p, Oskar Schönning b/g, Andreas Pettersson dr                                                                     | To 07  |
-| Camilla Isaksson voc, Stefan Isaksson sax, Göran Strandberg p, Patrik Boman b, Jonas Bäckman dr                                                                                            | Fre 08 |
+| Camilla Isaksson voc, Stefan Isaksson sax, Göran Strandberg p, Patrik Boman b, JoJo Djeridi dr                                                                                            | Fre 08 |
 | Nils Berg sax, Hein Westgaard g, Jon Henriksson b,  Nils Agnas dr                                                                                                                                                            | Lö 09  |
 | Per”Texas”Johansson träblås, Rasmus Borg p/komp, Viktor Skokic b                                                                                                                           | Sö 10  |
 | Micke Godée goody oode  sax, Eve Beuvens p, Magnus Bergström b, Johan Birgenius dr                                                                                                                     | On 13  |
