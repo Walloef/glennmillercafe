@@ -55,7 +55,14 @@ title: Konserter
 | Simon Berggren Trio: Simon Berggren p, Filip Augustson b, Jonas Bäckman dr                                                                                 | To 21             |
 | Hyllning till Ella: Sanna Ruohoniemi voc, Anna Gréta Sigurðardóttir p, Lars Ekman b, Mattias Puttonen dr                                                   | Fre 22            |
 | TLE Quartet: Terese Lien Evenstad violin, Britta Virves p, Arvid Jullander b, Peter Danemo dr, Gäst: Alexander Ivarsson klarinett                          | Lö 23             |
-| Berggren-Bergcrantz Quartet: Sven Berggren trb, Anders Bergcrantz trp, Filip Augustson b, Bengt Stark dr                                                   | Sö 24             |
+| Berggren-Bergcrantz Quartet: Sven Berggren trb, Anders Bergcrantz trp, Filip Augustson b, Bengt Stark dr                                             | Sö 24             |
+ |----------------
+|Mats Äleklint trb, Lisa Ullén p, Nils Ölmedal b, Andreas Axelsson dr |On 27 |
+|David Bennet sax, Camila Nebbia sax, Emma Augustsson cello, Vilhelm Bromander b, Andreas Pettersson dr |To 28 |
+ |Monik Nordine(Can) sax/voc, Andreas Hellqvist org, Daniel Olsson dr |Fre 29 |
+ |Fredrik Nordström sax, Torgjörn Gulz p, Hans Andersson b, Sebastian Ågren dr |Lö 30 |
+ |The Electrics: Axel Dörner trp, Sture Ericson sax/cl, Joe Williamson b, Raymond Strid dr/perc|Sön 31|
+
 
 | Med stöd av Kulturrådet och Sensus |     |
 | ---------------------------------- | --- |
